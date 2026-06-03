@@ -47,6 +47,7 @@ class BiyingClient:
         """
         获取股票实时价格
         同时兼容 EastMoneyClient 和 EastMoneyAPI 的返回格式
+        返回数据中包含 'is_mock' 字段标识是否为模拟数据
         """
         try:
             url = self._get_url("hsstock/real/time", stock_code)
@@ -72,6 +73,7 @@ class BiyingClient:
                     "low": float(item.get("l", 0)),
                     "open": float(item.get("o", 0)),
                     "pre_close": float(item.get("yc", 0)),
+                    "is_mock": False,  # 标记：真实数据
                 }
             logger.warning(f"必盈API get_stock_price 返回空数据: {stock_code}")
             return self._mock_price(stock_code)
@@ -84,6 +86,7 @@ class BiyingClient:
         获取指数实时数据
         支持：指数名称（"上证指数"）或代码（"000001"）
         兼容 EastMoneyAPI.get_index_data()
+        返回数据中包含 'is_mock' 字段标识是否为模拟数据
         """
         index_code = Config.INDEX_CODE_MAP.get(index_query, index_query)
         try:
@@ -108,6 +111,7 @@ class BiyingClient:
                     "low": float(item.get("l", 0)),
                     "open": float(item.get("o", 0)),
                     "pre_close": float(item.get("yc", 0)),
+                    "is_mock": False,  # 标记：真实数据
                 }
             return self._mock_index_data(index_code)
         except Exception as e:
@@ -215,7 +219,15 @@ class BiyingClient:
         }
         price = mock_prices.get(stock_code, 1.0)
         name = Config.ETF_NAME_MAP.get(stock_code, f"股票{stock_code}")
-        logger.warning(f"使用模拟价格: {stock_code} = {price}")
+        
+        # 同时输出到控制台和控制日志，防止因日志未及时查看而忽略警告
+        mock_warning = f"[警告] 使用模拟价格: {name}({stock_code}) = {price}，请检查必盈API连接！"
+        print(f"\n{'!'*60}")
+        print(f"! {mock_warning}")
+        print(f"! 此数据为模拟数据，不能用于实际交易决策！")
+        print(f"{'!'*60}\n")
+        logger.warning(mock_warning)
+        
         return {
             "code": stock_code,
             "name": name,
@@ -228,6 +240,7 @@ class BiyingClient:
             "low": price,
             "open": price,
             "pre_close": price,
+            "is_mock": True,  # 标记：模拟数据
         }
 
     def _mock_index_data(self, index_code):
@@ -237,7 +250,15 @@ class BiyingClient:
             "000688": 1050, "000300": 4200, "000905": 6000,
         }
         price = mock.get(index_code, 3600)
-        logger.warning(f"使用模拟指数数据: {index_code} = {price}")
+        
+        # 同时输出到控制台和控制日志，防止因日志未及时查看而忽略警告
+        mock_warning = f"[警告] 使用模拟指数数据: {index_code} = {price}，请检查必盈API连接！"
+        print(f"\n{'!'*60}")
+        print(f"! {mock_warning}")
+        print(f"! 此数据为模拟数据，不能用于实际交易决策！")
+        print(f"{'!'*60}\n")
+        logger.warning(mock_warning)
+        
         return {
             "code": index_code,
             "name": "",
@@ -250,4 +271,5 @@ class BiyingClient:
             "low": price,
             "open": price,
             "pre_close": price,
+            "is_mock": True,  # 标记：模拟数据
         }
