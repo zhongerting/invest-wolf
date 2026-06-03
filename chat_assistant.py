@@ -9,7 +9,7 @@ import logging
 import re
 from datetime import datetime
 from llm_client import LLMClient
-from eastmoney_client import EastMoneyClient
+from biying_client import BiyingClient
 
 logger = logging.getLogger(__name__)
 

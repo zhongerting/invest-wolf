@@ -29,7 +29,7 @@ from PyQt6.QtGui import QColor, QFont, QIntValidator, QDoubleValidator
 
 # 导入自定义模块
 from llm_client import LLMClient
-from eastmoney_client import EastMoneyClient
+from biying_client import BiyingClient
 from nga_crawler import NGACrawler
 from smart_analysis import SmartAnalysisService
 from task_scheduler import TaskScheduler
@@ -1113,7 +1113,7 @@ class MainWindow(QMainWindow):
     def init_clients(self):
         """初始化客户端"""
         self.llm_client = LLMClient()
-        self.eastmoney_client = EastMoneyClient(use_real_api=True)
+        self.eastmoney_client = BiyingClient()
         self.position_data = PositionData()
         self.nga_crawler = NGACrawler()  # NGA帖子爬取客户端
         self.smart_analysis = SmartAnalysisService()  # 智能分析服务
@@ -1198,11 +1198,11 @@ class MainWindow(QMainWindow):
         else:
             status_messages.append("🔴 LLM未配置")
         
-        # 测试妙想API
+        # 测试必盈API
         if self.eastmoney_client.is_configured():
-            status_messages.append("🟢 妙想API已连接")
+            status_messages.append("🟢 必盈API已连接")
         else:
-            status_messages.append("🔴 妙想API未配置")
+            status_messages.append("🔴 必盈API未配置")
         
         # 显示状态
         self.status_bar.showMessage(" | ".join(status_messages))

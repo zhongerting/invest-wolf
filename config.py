@@ -17,9 +17,47 @@ class Config:
     DAILY_REPORT_DIR = os.path.join(BASE_DIR, "daily_reports")
     INTRADAY_ALERTS_DIR = os.path.join(BASE_DIR, "intraday_alerts")
     
-    # 东方财富妙想API配置
+    # 东方财富妙想API配置（已弃用，保留兼容）
     MX_API_URL = "https://mkapi2.dfcfs.com/finskillshub/api/claw/query"
-    MX_API_KEY = os.environ.get("MX_APIKEY", "")  # 从环境变量获取
+    MX_API_KEY = os.environ.get("MX_APIKEY", "")
+    
+    # 必盈API配置（主行情数据源）
+    BIYING_BASE_URL = "https://api.biyingapi.com"
+    BIYING_LICENCE = "D98DACC0-428F-43A4-82AE-3C04C0EE4DA3"
+    
+    # 指数代码映射（名称→必盈API代码）
+    INDEX_CODE_MAP = {
+        "上证指数": "000001",
+        "深证成指": "399001",
+        "创业板指": "399006",
+        "科创50": "000688",
+        "沪深300": "000300",
+        "中证500": "000905",
+    }
+    
+    # ETF名称映射（代码→中文名）
+    ETF_NAME_MAP = {
+        "510210": "上证指数ETF",
+        "515880": "半导体ETF",
+        "513260": "新能源车ETF",
+        "588870": "科创板ETF",
+        "510300": "沪深300ETF",
+        "510500": "中证500ETF",
+        "159995": "芯片ETF",
+        "512760": "半导体50ETF",
+        "512480": "半导体ETF易方达",
+        "512000": "券商ETF",
+        "512880": "证券ETF",
+        "159915": "创业板ETF",
+        "510050": "上证50ETF",
+        "513500": "中概互联ETF",
+        "513100": "纳指ETF",
+        "512980": "证券ETF",
+        "510880": "红利ETF",
+        "159928": "消费ETF",
+        "159902": "中小板ETF",
+        "510180": "上证180ETF",
+    }
     
     # LLM API配置
     LLM_API_URL = "https://gcli.ggchan.dev/v1/chat/completions"

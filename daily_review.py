@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 from config import Config
 from knowledge_base import KnowledgeBase
 from positions import PositionManager
-from eastmoney_api import EastMoneyAPI
+from biying_client import BiyingClient
 from intraday_analysis import IntradayAnalyzer
 from llm_client import LLMClient
 
@@ -15,7 +15,7 @@ class DailyReview:
     def __init__(self):
         self.kb = KnowledgeBase()
         self.pm = PositionManager()
-        self.api = EastMoneyAPI()
+        self.api = BiyingClient()
         self.analyzer = IntradayAnalyzer()
         self.llm_client = LLMClient()
         Config.ensure_directories()

@@ -4,14 +4,14 @@ import logging
 from datetime import datetime
 from collections import defaultdict
 from config import Config
-from eastmoney_api import EastMoneyAPI
+from biying_client import BiyingClient
 
 logger = logging.getLogger(__name__)
 
 class PositionManager:
     def __init__(self):
         self.positions_file = Config.POSITIONS_FILE
-        self.api = EastMoneyAPI()
+        self.api = BiyingClient()
         self._load_positions()
     
     def _load_positions(self):

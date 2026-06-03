@@ -5,7 +5,7 @@ from datetime import datetime
 from config import Config
 from knowledge_base import KnowledgeBase
 from positions import PositionManager
-from eastmoney_api import EastMoneyAPI
+from biying_client import BiyingClient
 
 logger = logging.getLogger(__name__)
 
@@ -13,7 +13,7 @@ class IntradayAnalyzer:
     def __init__(self):
         self.kb = KnowledgeBase()
         self.pm = PositionManager()
-        self.api = EastMoneyAPI()
+        self.api = BiyingClient()
         Config.ensure_directories()
     
     def is_market_related(self, post_content):
