@@ -1,0 +1,22 @@
+{
+  "post_num": 1981,
+  "date": "2026-04-13 13:54:17",
+  "content": "他的大局观都是先套2个月起步\n我的大局观买进去就要涨",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "该帖对比了两种截然不同的投资“大局观”：一种是接受买入后长期被套（潜伏期），另一种则追求买入即上涨的极致择时。反映了投资者对持仓成本和交易时机的不同哲学思考。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "对比了两种交易风格：长线潜伏（忍受回撤）与短线爆发（追求即时正反馈）",
+      "作者表达了对“买入即涨”的高效率交易方式的追求",
+      "侧面反映了市场中对于‘大局观’定义的分歧"
+    ],
+    "analysis_method": "llm"
+  }
+}

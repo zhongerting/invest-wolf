@@ -1,0 +1,23 @@
+{
+  "post_num": 305,
+  "date": "2026-01-21 14:37:11",
+  "content": "没关系的 砸到5日收盘就不砸了 最多对冲",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者认为股价回调至5日均线附近将获得支撑并停止抛压，目前的下跌可能仅是出于对冲目的，情绪较为淡定。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "预计抛压在触及5日均线收盘价位置时会停止",
+      "认为当前的卖盘行为主要是为了进行对冲操作",
+      "对短期回调持乐观态度，认为5日线具有支撑作用"
+    ],
+    "analysis_method": "llm"
+  }
+}

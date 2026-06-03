@@ -1,0 +1,24 @@
+{
+  "post_num": 1978,
+  "date": "2026-04-13 11:13:02",
+  "content": "只有巨人是这样而已 其他大部分还是跟AI软 属于跌得比AI软少一点  涨也少一点",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出除巨人网络外，多数相关个股仍跟随AI板块走势，表现为波动率较低（跌幅与涨幅均小于AI核心标的），整体走势偏弱。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "巨人网络（个股）表现与板块内其他股票存在差异",
+      "多数相关个股仍受AI板块整体弱势影响",
+      "相关个股呈现低波动特征，即跌幅和涨幅均小于AI核心标的"
+    ],
+    "analysis_method": "llm"
+  }
+}

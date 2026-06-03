@@ -1,0 +1,23 @@
+{
+  "post_num": 1643,
+  "date": "2026-03-31 15:03:47",
+  "content": "个股有暴雷和减持的风险 你不怕这个那就可以",
+  "analysis": {
+    "tags": [
+      "stock",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖提示了个股投资的两大核心风险：业绩暴雷与大股东减持。作者认为若投资者能承受此类风险，则可进行个股投资，整体态度偏向风险提示与审慎观察。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "个股面临业绩或信用暴雷的潜在风险",
+      "大股东减持对股价可能产生负面压力",
+      "个股投资对投资者的风险承受能力有较高要求"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 2325,
+  "date": "2026-04-29 14:13:54",
+  "content": "对 就是基础判断 你们自己领悟吧 我怕说出来了 你们会自己抽自己几巴掌",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "作者声称对市场有一个“基础判断”，并暗示该逻辑非常简单以至于投资者在知晓后会感到后悔或自责，但文中并未透露具体的判断内容。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者强调其观点属于基础层面的逻辑判断",
+      "暗示当前市场存在一个显而易见但被大众忽视的真相",
+      "言论带有较强的故弄玄虚和情绪引导色彩，缺乏实质性分析数据"
+    ],
+    "analysis_method": "llm"
+  }
+}

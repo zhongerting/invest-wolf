@@ -1,0 +1,22 @@
+{
+  "post_num": 2613,
+  "date": "2026-05-15 10:46:56",
+  "content": "缩量涨有什么危险的",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "该帖询问缩量上涨的潜在风险，反映了投资者对市场上涨动力不足及趋势可持续性的担忧与警惕。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "关注缩量上涨可能暗示的买盘枯竭风险",
+      "质疑缺乏成交量配合的上涨趋势是否为虚假突破或诱多行为",
+      "担忧市场参与度下降可能导致的价格快速回落"
+    ],
+    "analysis_method": "llm"
+  }
+}

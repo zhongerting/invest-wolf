@@ -1,0 +1,21 @@
+{
+  "post_num": 1786,
+  "date": "2026-04-03 09:25:36",
+  "content": "微微高开。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖仅简短描述了市场或个股开盘呈现微幅高开的状态，缺乏深度分析。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "开盘表现为微微高开",
+      "信息量极少，仅为盘面状态的即时描述"
+    ],
+    "analysis_method": "llm"
+  }
+}

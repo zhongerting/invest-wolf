@@ -1,0 +1,22 @@
+{
+  "post_num": 2062,
+  "date": "2026-04-15 11:16:49",
+  "content": "我已经和你们说过了 不要看战争板块 你们不信 那就只能等死\n注意我的言辞\n是等死 哪怕反弹也回不到我之前说的时候",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者强烈警告投资者远离战争相关板块，认为该板块已失去投资价值，即便出现反弹也无法回到此前的高点，表达了极度悲观的情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "强烈建议不要关注或介入战争相关板块",
+      "认为该板块目前处于极度危险的境地（“等死”）",
+      "预判即便未来有反弹，也无法修复之前的跌幅或回到前期高位"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "post_num": 1849,
+  "date": "2026-04-07 13:41:40",
+  "content": "今天是之前的文件实施 和那个短线规定没太大关系",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者澄清今日市场变动是由于前期政策文件的正式实施，而非近期热议的短线交易相关规定所致。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "今日行情受前期已发布文件的实施影响",
+      "澄清市场波动与短线交易新规无直接关联"
+    ],
+    "analysis_method": "llm"
+  }
+}

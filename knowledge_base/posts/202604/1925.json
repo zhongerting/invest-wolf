@@ -1,0 +1,23 @@
+{
+  "post_num": 1925,
+  "date": "2026-04-09 11:50:37",
+  "content": "白线在上怎么派发 你会买吗 我肯定不买啊",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者观察到分时图中白线位于黄线之上的形态，并据此质疑主力派发的可能性。基于此判断，作者明确表达了不会买入的观望态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "关注分时图中白线在上的技术指标形态",
+      "质疑在当前形态下主力资金进行派发的操作逻辑",
+      "明确表达拒绝买入的个人交易决策"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 110,
+  "date": "2026-01-15 13:35:02",
+  "content": "看见了吗170追上516了 你们不理解就算了",
+  "analysis": {
+    "tags": [
+      "technical",
+      "stock",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者观察到股票代码简称为“170”的个股价格或表现已追平“516”，并借此表达了对自身判断的自信及对市场其他投资者不理解其逻辑的感叹。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "个股170（通常指代002170芭凌科技等）与516（通常指代002516光启技术）存在价格或走势上的对标关系",
+      "170表现出强劲的追赶势头，目前已在价位或涨幅上追平516",
+      "作者对170的后续走势持乐观态度，并认为其逻辑具有前瞻性"
+    ],
+    "analysis_method": "llm"
+  }
+}

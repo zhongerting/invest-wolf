@@ -1,0 +1,20 @@
+{
+  "post_num": 2206,
+  "date": "2026-04-22 21:57:38",
+  "content": "你引用的这条就是我的看法",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者通过该回复表达了对所引用观点的认同，但本条内容本身未包含具体的市场分析、个股信息或交易信号。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者明确表示其看法与引用的内容一致",
+      "由于缺乏引用的上下文，无法判断具体的投资倾向"
+    ],
+    "analysis_method": "llm"
+  }
+}

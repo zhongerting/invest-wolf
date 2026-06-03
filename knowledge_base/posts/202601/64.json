@@ -1,0 +1,25 @@
+{
+  "post_num": 64,
+  "date": "2026-01-14 10:07:48",
+  "content": "AI金融我因为没有找到合适的标 做的是指南针的T 我今天也会T出去。",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者在AI金融板块中选择了指南针进行日内交易（做T），并计划在今日完成卖出操作。",
+    "mentioned_sectors": [
+      "金融"
+    ],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "关注AI金融板块但未发现更优标的",
+      "目前持有并操作指南针（300803）",
+      "执行做T策略，计划今日卖出平仓"
+    ],
+    "analysis_method": "llm"
+  }
+}

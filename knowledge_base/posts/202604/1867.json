@@ -1,0 +1,23 @@
+{
+  "post_num": 1867,
+  "date": "2026-04-08 09:09:53",
+  "content": "怎么 你觉得现在能直接冲4200吗 怕踏空了？",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "technical"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖对市场能否直接突破 4200 点表示质疑，并反映了投资者在当前行情下担心踏空的焦虑心理。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "对指数直接冲击 4200 点的可能性持怀疑或反问态度",
+      "揭示了市场中存在的“踏空心理”（FOMO 情绪）",
+      "暗示 4200 点是一个关键的心理或技术阻力位"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "post_num": 2061,
+  "date": "2026-04-15 11:15:49",
+  "content": "我没空去这种单一票的",
+  "analysis": {
+    "tags": [
+      "stock",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "作者表达了对单一股票投资的回避态度，暗示其投资精力有限或更倾向于非单一标的的投资策略。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "明确表示不参与单一股票的投资",
+      "由于时间或精力限制，对特定个股标的缺乏兴趣"
+    ],
+    "analysis_method": "llm"
+  }
+}

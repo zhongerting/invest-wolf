@@ -1,0 +1,22 @@
+{
+  "post_num": 2670,
+  "date": "2026-05-20 14:54:45",
+  "content": "怎么 又想抢我先手吗？\n我有些东西输出还是太超前了 \n确实不适合你们  你可以问问楼里的",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "作者认为其投资观点和输出内容过于超前，不适合普通投资者，并对他人试图“抢先手”博弈的行为表达了警惕与自负情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者自认为其市场观点具有极强的超前性",
+      "暗示存在市场博弈中的“抢先手”行为",
+      "表达了对受众理解能力的质疑，认为其策略不具普适性"
+    ],
+    "analysis_method": "llm"
+  }
+}

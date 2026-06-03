@@ -1,0 +1,21 @@
+{
+  "post_num": 2013,
+  "date": "2026-04-14 10:43:15",
+  "content": "我最近喜欢材料 是很喜欢的那种",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者表达了近期对材料板块的强烈关注和个人偏好，展现出明显的看好情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "作者近期非常看好材料板块",
+      "表达了强烈的投资意向或关注度"
+    ],
+    "analysis_method": "llm"
+  }
+}

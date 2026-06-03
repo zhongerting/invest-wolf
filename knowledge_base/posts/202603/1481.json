@@ -1,0 +1,21 @@
+{
+  "post_num": 1481,
+  "date": "2026-03-24 13:36:11",
+  "content": "我无所谓你们啊 我这里只观察",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "作者表达了不受外界干扰的超然态度，明确表示目前仅处于观察阶段，不参与市场争论或具体操作。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "不受他人观点或情绪影响",
+      "当前策略为持币观望或纯粹观察市场走势"
+    ],
+    "analysis_method": "llm"
+  }
+}

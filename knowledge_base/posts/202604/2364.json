@@ -1,0 +1,23 @@
+{
+  "post_num": 2364,
+  "date": "2026-04-30 10:00:24",
+  "content": "没有速度  放量智障  而且是快速放量 这里不卖  但是谨慎 随时防止放量减缓转缩量",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "分析指出当前市场虽快速放量但缺乏上涨速度，表现滞涩。建议目前持股观望，但需保持高度谨慎，严防成交量由盛转衰导致的市场走弱。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "成交量快速放大，但价格上涨缺乏速度和动能（放量滞涨）",
+      "当前操作建议暂不卖出，但需保持高度警惕",
+      "核心风险点在于成交量能否持续，需防范放量减缓转为缩量的风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

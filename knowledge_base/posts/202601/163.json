@@ -1,0 +1,21 @@
+{
+  "post_num": 163,
+  "date": "2026-01-16 11:00:49",
+  "content": "短期",
+  "analysis": {
+    "tags": [
+      "market",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "内容仅包含“短期”二字，表明作者关注的时间维度为短线，但未给出具体的市场方向或操作建议。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "明确了分析或交易的时间周期为短期",
+      "缺乏具体的价格趋势、个股或板块指向"
+    ],
+    "analysis_method": "llm"
+  }
+}

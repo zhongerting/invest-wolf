@@ -1,0 +1,22 @@
+{
+  "post_num": 1716,
+  "date": "2026-04-02 11:06:57",
+  "content": "这波下去可能出现个能做T的日低位",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者认为当前行情在经历一波下跌后，可能会出现一个适合进行日内 T+0 操作的低点机会。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "预计短期内行情会有进一步下探",
+      "关注日内低位的支撑情况",
+      "寻找日内回转交易（做T）的入场点"
+    ],
+    "analysis_method": "llm"
+  }
+}

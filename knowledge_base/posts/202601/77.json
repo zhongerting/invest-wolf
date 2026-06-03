@@ -1,0 +1,21 @@
+{
+  "post_num": 77,
+  "date": "2026-01-14 14:44:59",
+  "content": "这不是人手一辆以上的？不知道才奇怪吧",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者通过强调某产品（推测为汽车）极高的普及率和知名度，表达了对该品牌或产品市场地位的极度认可。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "产品市场渗透率极高（人手一辆以上）",
+      "品牌大众认知度极高，认为其属于常识范畴"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "post_num": 58,
+  "date": "2026-01-14 08:53:52",
+  "content": "AI应用方向什么广告传媒 游戏 医疗 机器人都涨过了 是不是只剩AI金融没涨了？",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到AI应用领域的多个细分板块（传媒、游戏、医疗、机器人）已轮番上涨，并推测AI金融板块可能成为下一个补涨的目标。",
+    "mentioned_sectors": [
+      "金融"
+    ],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "AI应用细分领域已出现明显的板块轮动现象。",
+      "广告传媒、游戏、医疗、机器人等板块已有过显著涨幅。",
+      "提出AI金融板块作为尚未启动的潜在补涨方向。"
+    ],
+    "analysis_method": "llm"
+  }
+}

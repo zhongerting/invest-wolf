@@ -1,0 +1,22 @@
+{
+  "post_num": 1861,
+  "date": "2026-04-08 07:10:09",
+  "content": "伊朗同意10号谈判，也就是今天明天一定是安全的。 他们安全 市场就是安全的\n当然那条疯狗不能乱动作",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为由于伊朗同意在10号进行谈判，短期内地缘政治风险降低，地缘局势的稳定将带来市场的安全期，但仍需警惕意外的挑衅行为。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "伊朗同意10号谈判，短期地缘政治压力释放",
+      "地缘局势的稳定被视为市场安全的前提条件",
+      "存在不确定性风险，需防范特定外部势力的突发干扰"
+    ],
+    "analysis_method": "llm"
+  }
+}

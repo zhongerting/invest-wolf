@@ -1,0 +1,23 @@
+{
+  "post_num": 1129,
+  "date": "2026-03-06 11:32:40",
+  "content": "是4317-4370\n你别问数字怎么来的  我话放这里 除非伊朗被灭国 否则目标不变",
+  "analysis": {
+    "tags": [
+      "technical",
+      "market",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者预测市场或某标的的目标区间为4317-4370，并表达了极强的信心，认为除非发生极端的国际地缘政治事件（如伊朗灭国），否则该目标位不会改变。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "明确给出4317-4370的具体数值区间作为目标",
+      "强调预测的确定性，拒绝解释数据来源，展现强烈的个人主观观点",
+      "将地缘政治因素（伊朗局势）视为唯一的潜在风险变量"
+    ],
+    "analysis_method": "llm"
+  }
+}

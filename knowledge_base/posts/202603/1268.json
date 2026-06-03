@@ -1,0 +1,21 @@
+{
+  "post_num": 1268,
+  "date": "2026-03-17 13:49:01",
+  "content": "这个是真割肉盘出来了。恐慌盘",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到市场出现了真实的割肉盘和恐慌性抛售，反映出当前市场情绪极度低迷，投资者正在不计成本地离场。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "市场出现了真实的割肉盘（止损盘）",
+      "盘面表现出明显的恐慌性抛售特征"
+    ],
+    "analysis_method": "llm"
+  }
+}

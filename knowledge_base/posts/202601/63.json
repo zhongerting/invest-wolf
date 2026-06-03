@@ -1,0 +1,24 @@
+{
+  "post_num": 63,
+  "date": "2026-01-14 10:01:59",
+  "content": "到区间了 我清多单了\n现在哪个冲得多的就减一点。今天会减到55%-60%仓位  直到过本周股指交割日。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "technical",
+      "market"
+    ],
+    "category": "trading_signal",
+    "summary": "作者认为价格已达目标区间，决定清空多单并减持涨幅较大的品种，计划将仓位降至55%-60%，以规避本周股指交割日的波动风险。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "价格触及目标区间，已执行清空多单操作",
+      "针对近期涨幅较大的品种进行减仓处理",
+      "计划将整体仓位控制在55%-60%之间",
+      "减仓行为主要是为了应对本周股指交割日的市场不确定性"
+    ],
+    "analysis_method": "llm"
+  }
+}

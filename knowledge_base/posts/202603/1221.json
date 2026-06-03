@@ -1,0 +1,21 @@
+{
+  "post_num": 1221,
+  "date": "2026-03-16 11:29:32",
+  "content": "我都是猜的![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者自述其观点或预测纯属猜测，并配以调侃表情，未提供任何实质性的市场分析、逻辑支撑或投资建议。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者明确表示其观点来源为“猜”，缺乏专业依据",
+      "内容属于社交互动中的调侃或非正式免责声明",
+      "无具体板块、个股或技术面分析内容"
+    ],
+    "analysis_method": "llm"
+  }
+}

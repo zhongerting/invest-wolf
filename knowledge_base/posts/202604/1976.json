@@ -1,0 +1,24 @@
+{
+  "post_num": 1976,
+  "date": "2026-04-13 09:56:39",
+  "content": "但是我宏和已经板了啊  复材也超过10%了。。。3代目前还没体现  确实暂时不如二代",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者分享了持仓表现：宏和科技已涨停，复合材料个股涨幅超10%。同时指出三代技术/材料的市场表现目前尚未体现，暂时不如二代产品。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "宏和科技（宏和）已封涨停板",
+      "复合材料相关标的涨幅已超过10%",
+      "三代相关技术或产品表现暂时弱于二代",
+      "作者对当前持仓的上涨势头持积极态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

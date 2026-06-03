@@ -1,0 +1,21 @@
+{
+  "post_num": 1691,
+  "date": "2026-04-01 14:00:18",
+  "content": "之前是不是没有见过这种预判",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者通过反问句式强调其过往预判的独特性和准确性，旨在引起读者关注，属于典型的自我证明或情绪引导类言论。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者对其之前的市场预判能力表现出极强的自信",
+      "内容缺乏具体的市场逻辑、数据支持或明确的投资建议",
+      "该帖子主要用于互动或建立个人观点权威性，而非实质性分析"
+    ],
+    "analysis_method": "llm"
+  }
+}

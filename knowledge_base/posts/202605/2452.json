@@ -1,0 +1,22 @@
+{
+  "post_num": 2452,
+  "date": "2026-05-10 15:42:29",
+  "content": "运河都快通了你去看挖掘机了？",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者通过“运河”与“挖掘机”的比喻，讽刺投资者在宏观趋势或主线行情接近尾声时，仍纠结于滞后指标或次要逻辑，暗示当前投资重点错位。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "质疑投资者的关注点存在严重的滞后性",
+      "暗示主线行情（运河）已进入中后期或即将兑现，不再是布局时机",
+      "批评在趋势末端仍关注辅助性工具或上游逻辑（挖掘机）的行为"
+    ],
+    "analysis_method": "llm"
+  }
+}

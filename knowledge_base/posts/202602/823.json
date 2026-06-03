@@ -1,0 +1,22 @@
+{
+  "post_num": 823,
+  "date": "2026-02-12 21:27:21",
+  "content": "因为做期指期权需要学习的知识面更高  而且要有大局观\n不然就不是像个股三板放人了  而是随时穿仓 玩两次连本金都没了",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者强调期指期权交易具有极高的专业门槛，需要深厚的知识储备和大局观。相比个股，衍生品交易风险巨大，若缺乏风险控制极易导致穿仓及本金全无。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "期指期权交易对投资者的知识面和大局观有更高要求",
+      "衍生品交易存在极高的杠杆风险，可能导致随时穿仓",
+      "对比个股交易，期指期权的容错率极低，本金损失风险巨大"
+    ],
+    "analysis_method": "llm"
+  }
+}

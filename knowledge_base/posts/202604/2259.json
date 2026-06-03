@@ -1,0 +1,23 @@
+{
+  "post_num": 2259,
+  "date": "2026-04-24 13:49:49",
+  "content": "暂时不看 看我也只看最强的二代布和之后用的三代布",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者目前对市场整体持观望态度，但在半导体材料细分领域表现出明确的选择性，仅关注技术领先的二代及三代CMP抛光布相关标的。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "短期操作意愿较低，采取观望策略（暂时不看）",
+      "投资目标高度聚焦，仅看好细分领域最强的核心资产",
+      "重点关注半导体CMP抛光布的技术迭代，特别是二代和三代产品的应用"
+    ],
+    "analysis_method": "llm"
+  }
+}

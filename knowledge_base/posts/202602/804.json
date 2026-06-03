@@ -1,0 +1,21 @@
+{
+  "post_num": 804,
+  "date": "2026-02-12 12:10:56",
+  "content": "我也不是看书做起来的",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者分享个人投资心得，表示其投资成功并非源于书本理论，强调了实战经验或非传统学习路径在交易中的重要性。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "成功的投资并非仅靠阅读书本知识",
+      "暗示实战经验或个人摸索是其成长的关键"
+    ],
+    "analysis_method": "llm"
+  }
+}

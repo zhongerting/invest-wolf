@@ -1,0 +1,23 @@
+{
+  "post_num": 377,
+  "date": "2026-01-26 11:55:57",
+  "content": "我现在期货股票一起做\n3个逻辑 \n伊朗\n拉高价钱卖委内瑞拉的油\n金油比",
+  "analysis": {
+    "tags": [
+      "market",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者采用期货与股票联动策略，核心逻辑基于伊朗地缘政治、委内瑞拉原油定价及金油比指标，显示其正通过宏观逻辑布局能源相关市场。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "采取期货与股票同步操作的复合交易模式",
+      "关注伊朗局势对能源市场的潜在影响",
+      "逻辑涉及通过拉高油价以实现委内瑞拉原油的销售利益",
+      "将金油比（Gold-to-Oil ratio）作为核心交易参考指标"
+    ],
+    "analysis_method": "llm"
+  }
+}

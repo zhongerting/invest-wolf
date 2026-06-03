@@ -1,0 +1,21 @@
+{
+  "post_num": 1673,
+  "date": "2026-04-01 10:33:52",
+  "content": "你们出去问的那些老师有没有我这么屌的马前炮水平",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者在帖子中炫耀自己具备极高的预判能力（马前炮），并以此挑战其他市场分析师或“老师”的水平，属于典型的个人情绪表达和自我推销。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者自认为其预判水平（马前炮）极高",
+      "对其他市场分析者或“老师”的水平表示不屑",
+      "内容仅为情绪化自夸，缺乏实质性的市场分析数据"
+    ],
+    "analysis_method": "llm"
+  }
+}

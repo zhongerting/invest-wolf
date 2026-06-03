@@ -1,0 +1,21 @@
+{
+  "post_num": 2775,
+  "date": "2026-05-27 11:26:16",
+  "content": "不要怪量化 现在还不是量化卖盘。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场的卖压并非来自量化交易，指出目前还未到量化卖盘触发的时点。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "当前市场波动不应归咎于量化交易",
+      "量化卖盘目前尚未真正开启"
+    ],
+    "analysis_method": "llm"
+  }
+}

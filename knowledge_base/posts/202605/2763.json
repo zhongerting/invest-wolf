@@ -1,0 +1,22 @@
+{
+  "post_num": 2763,
+  "date": "2026-05-26 17:05:51",
+  "content": "没有你们说的那么神奇\n只是年复一日的把技术打磨\n我现在再看能不能教会SORA 如果他学会了 我再考虑下一步",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者否定了投资的神秘感，强调成功源于长期的技术打磨。目前正探索将AI模型（SORA）应用于交易系统，并视其学习效果决定后续策略。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "强调投资核心在于日复一日的技术精进与打磨",
+      "正在尝试将AI前沿模型（SORA）引入交易逻辑或技术分析中",
+      "表现出谨慎的探索态度，根据AI集成效果再行规划"
+    ],
+    "analysis_method": "llm"
+  }
+}

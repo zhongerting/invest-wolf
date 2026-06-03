@@ -1,0 +1,22 @@
+{
+  "post_num": 2308,
+  "date": "2026-04-29 11:03:29",
+  "content": "打开你的APP  点开量能 告诉我  现在是不是缩转放的过程",
+  "analysis": {
+    "tags": [
+      "technical",
+      "market"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者提示关注成交量（量能）的变化，询问当前是否正处于成交量由萎缩转为放大的过程，暗示市场动能可能正在增强。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "强调量能指标在当前市场分析中的重要性",
+      "关注“缩量转放量”的技术形态转换",
+      "暗示市场活跃度回升，可能存在趋势反转或突破的机会"
+    ],
+    "analysis_method": "llm"
+  }
+}

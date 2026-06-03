@@ -1,0 +1,24 @@
+{
+  "post_num": 145,
+  "date": "2026-01-16 09:25:35",
+  "content": "烽火通信属于双跌停战法，如果开板就符合条件\n但是 我不去  你们自己看 我再说一次 <span class=\"red\">我不去</span>",
+  "analysis": {
+    "tags": [
+      "stock",
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "帖子指出烽火通信符合“双跌停战法”的技术形态，若开板则满足策略条件。但作者多次强调自己不会参与，对该股持回避态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "烽火通信当前符合“双跌停战法”的技术特征",
+      "策略触发的必要条件是跌停板打开（开板）",
+      "作者明确且强烈地表示自己不会参与该股交易"
+    ],
+    "analysis_method": "llm"
+  }
+}

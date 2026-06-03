@@ -1,0 +1,21 @@
+{
+  "post_num": 1483,
+  "date": "2026-03-24 14:31:30",
+  "content": "还是机构自己操盘好使",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为机构主导的市场操作效果更佳，表达了对机构控盘能力的认可，暗示当前行情由机构驱动且表现理想。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "认为机构操盘比散户或其他力量更有效",
+      "对当前由机构主导的市场走势持肯定态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

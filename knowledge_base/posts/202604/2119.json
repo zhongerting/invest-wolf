@@ -1,0 +1,23 @@
+{
+  "post_num": 2119,
+  "date": "2026-04-16 11:32:36",
+  "content": "长线稀土 我会趁这两天把之前加进去的T出去  这样基本就脱离成本了",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者对稀土板块持长线看好态度，计划在近两日通过卖出此前加仓的部分（做T）来降低持仓成本，以实现脱离成本的目标。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "对稀土板块采取长线投资策略",
+      "计划在近两日执行减仓或做T操作",
+      "核心目的是通过波段操作降低持仓成本"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 1080,
+  "date": "2026-03-04 13:09:00",
+  "content": "缩大量破新低的时候割肉？ 正常人做不来这个事吧",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者质疑在股价缩量创新低时割肉的合理性，认为这并非理性投资者的做法，暗示市场可能处于卖压枯竭的底部区域。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "缩量破新低通常被视为市场动能衰竭、卖盘枯竭的信号",
+      "作者反对在极端低位进行恐慌性割肉",
+      "暗示当前价位可能存在反转机会或不宜进一步看空"
+    ],
+    "analysis_method": "llm"
+  }
+}

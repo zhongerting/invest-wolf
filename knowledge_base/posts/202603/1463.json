@@ -1,0 +1,23 @@
+{
+  "post_num": 1463,
+  "date": "2026-03-23 22:13:48",
+  "content": "大家祈祷明天不要高开然后白线在上，黄线分离向下，最后日K收个红色上影线，那就真完蛋了\n证明我们市场目前完全没有抵抗外围风险的能力",
+  "analysis": {
+    "tags": [
+      "technical",
+      "market",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者担忧市场明日出现高开低走、白黄线背离及带上影线的K线走势，认为这将证明市场缺乏抵抗外围风险的能力，表达了强烈的悲观预期。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "警惕高开后白线（权重）与黄线（小盘）背离向下，暗示盘面撕裂",
+      "担忧日K线收出红色上影线，预示上方抛压沉重且反弹乏力",
+      "认为若上述走势发生，则证明国内市场完全无法抵御外围风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

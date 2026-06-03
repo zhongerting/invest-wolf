@@ -1,0 +1,21 @@
+{
+  "post_num": 211,
+  "date": "2026-01-17 19:20:50",
+  "content": "。。。。先看风向。。。MD 我分享过了",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者建议在操作前先观察市场趋势（风向），并表示此前已分享过相关观点，语气中带有一定的急躁或不耐烦情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "强调观察市场风向的重要性",
+      "表示相关分析或标的此前已经分享过"
+    ],
+    "analysis_method": "llm"
+  }
+}

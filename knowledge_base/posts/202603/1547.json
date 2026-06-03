@@ -1,0 +1,22 @@
+{
+  "post_num": 1547,
+  "date": "2026-03-27 11:14:31",
+  "content": "我记得我第二天摁之前还在帖子说了  可能你不太了解我的实力",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "作者通过回顾此前的交易操作（“摁”通常指卖出或核按钮操作）来强调自己的预判能力和交易实力，属于典型的个人情绪表达和复盘言论。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者声称在实际操作前已在帖子中进行过预告",
+      "提及了“第二天摁”这一具体交易执行动作",
+      "表达了对个人交易水平和实力的强烈自信"
+    ],
+    "analysis_method": "llm"
+  }
+}

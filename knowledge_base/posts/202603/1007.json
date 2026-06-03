@@ -1,0 +1,24 @@
+{
+  "post_num": 1007,
+  "date": "2026-03-02 13:25:06",
+  "content": "早上没减的  这次冲高我还是说  减到75%过开会",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "technical",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者建议投资者利用当前股价冲高的机会进行减仓操作，将整体仓位降至75%，以应对即将召开的会议所带来的不确定性。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "利用盘中冲高机会进行减仓",
+      "明确建议将仓位控制在75%的水平",
+      "减仓目的是为了规避会议期间的市场波动风险",
+      "重复强调早上的减仓逻辑，表现出谨慎的防守姿态"
+    ],
+    "analysis_method": "llm"
+  }
+}

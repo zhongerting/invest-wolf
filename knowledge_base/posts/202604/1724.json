@@ -1,0 +1,19 @@
+{
+  "post_num": 1724,
+  "date": "2026-04-02 13:27:51",
+  "content": "有的",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "内容仅包含“有的”二字，属于极简的肯定性回复，缺乏具体的市场分析、板块信息或投资逻辑。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者表达了肯定的态度，但因缺乏上下文，无法判断具体的投资指向或逻辑。"
+    ],
+    "analysis_method": "llm"
+  }
+}

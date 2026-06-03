@@ -1,0 +1,23 @@
+{
+  "post_num": 1684,
+  "date": "2026-04-01 11:30:45",
+  "content": "下午如果开盘之后15分钟 量能从红转绿 然后突那一下的新高。。。。追进去的人都是菜 肯定有这种人的![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者警示投资者在午后开盘前15分钟，若出现量能转弱（红转绿）但价格创新高的情况，切勿盲目追高，认为这是一种诱多行为。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "警惕午后开盘15分钟内的缩量创新高（假突破）",
+      "量能指标由红转绿暗示买盘动能减弱或抛压增大",
+      "认为此时追涨是缺乏经验的“菜鸟”行为，存在被套风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

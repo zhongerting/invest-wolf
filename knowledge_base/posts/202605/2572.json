@@ -1,0 +1,24 @@
+{
+  "post_num": 2572,
+  "date": "2026-05-14 13:52:09",
+  "content": "最近广西都在做接下来的航运 其他的投入不高  政策支持力度低。\n新能源电池厂还行",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector"
+    ],
+    "category": "market_analysis",
+    "summary": "帖子分析了广西地区的投资现状，指出航运是近期重点但整体政策支持和投入较低，而新能源电池产业表现相对较好。",
+    "mentioned_sectors": [
+      "新能源"
+    ],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "广西近期侧重航运发展，但其他领域投入不高",
+      "除航运外，整体政策支持力度较低",
+      "新能源电池厂在当地的发展状况尚可"
+    ],
+    "analysis_method": "llm"
+  }
+}

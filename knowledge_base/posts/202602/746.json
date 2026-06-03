@@ -1,0 +1,22 @@
+{
+  "post_num": 746,
+  "date": "2026-02-09 14:21:42",
+  "content": "![img](assets/746_e975801e.jpg)\n我今天没跑  但是你们让我走完说一声这个事是不合理的。",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者表示今日并未卖出持仓（没跑），并针对部分用户要求其在离场时必须告知的行为表达了不满，认为这种要求是不合理的。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "作者今日选择继续持仓，未进行减仓或清仓操作",
+      "作者拒绝承担实时同步交易动作（尤其是离场信号）的义务",
+      "反映出当前市场环境下，投资者与追随者之间存在情绪博弈或压力"
+    ],
+    "analysis_method": "llm"
+  }
+}

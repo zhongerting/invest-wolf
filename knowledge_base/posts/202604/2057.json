@@ -1,0 +1,23 @@
+{
+  "post_num": 2057,
+  "date": "2026-04-15 11:05:09",
+  "content": "跌破4034就已经不太好了  一旦市场更多的人发现了机构高切低 你说会不会形成短期踩踏",
+  "analysis": {
+    "tags": [
+      "technical",
+      "market",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者指出市场跌破4034点关键位，技术面走弱；同时担忧机构“高切低”的调仓行为若引发市场共识，可能导致短期踩踏风险。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "市场已跌破4034点关键支撑位，信号偏负面",
+      "机构正在进行从高位板块向低位板块的切换（高切低）",
+      "担忧调仓行为引发市场恐慌，从而形成短期踩踏效应"
+    ],
+    "analysis_method": "llm"
+  }
+}

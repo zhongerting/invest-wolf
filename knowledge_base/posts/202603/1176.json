@@ -1,0 +1,22 @@
+{
+  "post_num": 1176,
+  "date": "2026-03-11 11:17:48",
+  "content": "一般？你旁边找找比亚迪车主 问他们如果有条全损的路子 他们走不走",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖通过讽刺的方式，暗示比亚迪车主对车辆满意度极低，甚至宁愿选择全损理赔也不愿继续持有，反映了对比亚迪品牌的负面情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "利用“全损路子”的调侃，表达对比亚迪产品口碑的质疑",
+      "反映了部分消费者或投资者对比亚迪品牌的负面情绪",
+      "暗示品牌在用户忠诚度或产品保值方面可能存在压力"
+    ],
+    "analysis_method": "llm"
+  }
+}

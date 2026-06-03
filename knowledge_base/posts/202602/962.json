@@ -1,0 +1,21 @@
+{
+  "post_num": 962,
+  "date": "2026-02-27 13:52:30",
+  "content": "我不做这个方向  不关注了",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者明确表示不再关注或参与当前的投资方向，属于个人交易策略的筛选与调整。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "作者声明不涉及该投资方向",
+      "作者表示后续将不再关注相关动态"
+    ],
+    "analysis_method": "llm"
+  }
+}

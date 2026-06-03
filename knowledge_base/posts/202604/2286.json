@@ -1,0 +1,20 @@
+{
+  "post_num": 2286,
+  "date": "2026-04-28 11:15:41",
+  "content": "红警我觉得不要验牌 他中间被抢了一波服务器",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该内容主要涉及游戏策略或社交博弈（如狼人杀或特定游戏术语），讨论关于“红警”这一对象的验牌建议及服务器变动情况，与股市投资无关。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "建议不要对“红警”进行验牌操作",
+      "提到中间环节出现了服务器被抢占的情况"
+    ],
+    "analysis_method": "llm"
+  }
+}

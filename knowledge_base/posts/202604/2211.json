@@ -1,0 +1,20 @@
+{
+  "post_num": 2211,
+  "date": "2026-04-23 12:55:47",
+  "content": "不用等我 我昨天已经说了我的策略",
+  "analysis": {
+    "tags": [
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "作者重申其投资策略已在昨日发布，提示关注者无需等待其进一步的实时更新或说明。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者强调其操作策略具有延续性，已在昨日公开",
+      "表达了不打算重复说明或进行实时指导的态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

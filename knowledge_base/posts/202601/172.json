@@ -1,0 +1,25 @@
+{
+  "post_num": 172,
+  "date": "2026-01-16 13:44:33",
+  "content": "注意了  每一次半导体行情短期最后都是光刻机和EDA IGBT那些收尾\n目前开始有点点迹象。但是还没爆发 这个给你们自己拿来当参考 不用一天担惊受怕4个小时要不要跑",
+  "analysis": {
+    "tags": [
+      "sector",
+      "market",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者分析了半导体板块的轮动规律，指出行情末期通常由光刻机、EDA和IGBT补涨收尾。目前虽有迹象但尚未爆发，建议投资者参考此规律，不必过早恐慌离场。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "半导体短期行情的结束通常以光刻机、EDA、IGBT等细分板块的活跃为标志",
+      "当前市场已出现上述板块走强的初步迹象，但尚未进入最终的爆发期",
+      "提示投资者无需过度担忧短期波动，目前尚未到必须立即清仓的时刻"
+    ],
+    "analysis_method": "llm"
+  }
+}

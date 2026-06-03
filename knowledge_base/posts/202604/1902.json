@@ -1,0 +1,22 @@
+{
+  "post_num": 1902,
+  "date": "2026-04-08 15:33:59",
+  "content": "补充军费",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "该帖子使用了股市常用隐语“补充军费”，意指投资者向交易账户追加资金（入金），准备继续参与市场或进行补仓操作。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "投资者表达了追加投资资本的意向",
+      "反映出投资者即便在当前市场环境下，仍有继续参与或摊薄成本的意愿",
+      "暗示后续可能有买入动作，对市场持积极参与态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 1426,
+  "date": "2026-03-23 11:15:22",
+  "content": "今天最重要的是看到信心资金硬性出逃，银保证不是GJD卖的  是第一批的信心资金。。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到市场信心资金正在强力撤离，特别是在金融板块（银保证）。他强调这并非国家队抛售，而是首批入场的信心资金在离场，反映出市场情绪的悲观转向。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "市场出现信心资金硬性出逃现象",
+      "抛压集中在金融板块（银保证）",
+      "明确指出卖盘并非国家队（GJD），而是第一批进场的信心资金"
+    ],
+    "analysis_method": "llm"
+  }
+}

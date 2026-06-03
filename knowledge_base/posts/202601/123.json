@@ -1,0 +1,22 @@
+{
+  "post_num": 123,
+  "date": "2026-01-15 14:39:39",
+  "content": "固态电池什么体量。。。。他能成主线？",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对固态电池能否成为市场主线持怀疑态度，主要质疑其市场体量是否足以支撑其作为核心题材的地位。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "质疑固态电池的市场体量是否足够大",
+      "怀疑固态电池板块成为市场主线的潜力"
+    ],
+    "analysis_method": "llm"
+  }
+}

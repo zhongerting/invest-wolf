@@ -1,0 +1,23 @@
+{
+  "post_num": 22,
+  "date": "2026-01-12 14:06:20",
+  "content": "他如果能坚持等调整入场那就没事  ，我估计明后两天就进来了。这些就是肥料了",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy",
+      "technical"
+    ],
+    "category": "trading_signal",
+    "summary": "作者认为理想的策略是等待市场调整后入场，并预判明后两天将有不理智资金（“肥料”）急于进场，暗示短期存在追高风险。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "建议坚持等待市场回调后再行入场",
+      "预判部分投资者将在明后两天盲目进场",
+      "将急于进场的资金视为市场“肥料”，暗示看空短期追高行为"
+    ],
+    "analysis_method": "llm"
+  }
+}

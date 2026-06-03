@@ -1,0 +1,24 @@
+{
+  "post_num": 1561,
+  "date": "2026-03-27 15:04:20",
+  "content": "减持的不做就行了 我图都画好了 第二天减持。。。我真是想艹了中联重科 我这个亏了不少绝对值出去。所以我情绪十分低落",
+  "analysis": {
+    "tags": [
+      "stock",
+      "technical",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者对中联重科进行技术面分析后遭遇突发减持公告，导致大幅亏损并被迫止损。作者情绪极度低落，并总结经验认为应避开有减持计划的个股。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "中联重科突发减持利空，导致作者技术面（画图）布局失效",
+      "作者产生较大绝对值亏损，情绪受到严重负面影响",
+      "反思交易策略，认为应当规避存在减持风险的标的"
+    ],
+    "analysis_method": "llm"
+  }
+}

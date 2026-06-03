@@ -1,0 +1,21 @@
+{
+  "post_num": 1277,
+  "date": "2026-03-17 21:38:24",
+  "content": "跟川普也没关系啊 他那个时候没说话 跟大总统没关系 不要什么脏水都泼给他",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "发帖者认为特定市场波动或事件与特朗普无关，强调其当时并未发表言论，反对将其作为负面归因的对象。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "否认特朗普与当前讨论事件的关联性",
+      "指出特朗普在相关时间点并未表态",
+      "反对将市场波动或负面情况归咎于特定政治人物"
+    ],
+    "analysis_method": "llm"
+  }
+}

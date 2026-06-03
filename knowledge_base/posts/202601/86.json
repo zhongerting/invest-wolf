@@ -1,0 +1,23 @@
+{
+  "post_num": 86,
+  "date": "2026-01-14 23:46:28",
+  "content": "。。。这个消息第一利空就是券商",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前消息对券商板块构成直接利空影响，表达了对该板块的悲观预期。",
+    "mentioned_sectors": [
+      "券商"
+    ],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "该消息对券商板块属于首要利空",
+      "预示券商板块短期内可能面临下行压力"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "post_num": 373,
+  "date": "2026-01-26 10:01:34",
+  "content": "回补了之前卖的半导体ETF的一半",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者执行了回补操作，买回了此前卖出的半导体ETF仓位的一半，显示出对该板块的重新看好或逢低布局意图。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "操作行为：回补（买入）",
+      "交易标的：半导体ETF",
+      "回补规模：此前卖出份额的50%"
+    ],
+    "analysis_method": "llm"
+  }
+}

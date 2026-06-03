@@ -1,0 +1,24 @@
+{
+  "post_num": 2256,
+  "date": "2026-04-24 13:41:21",
+  "content": "谁懂锂矿的？为啥有个盐湖矿在下轨？他没雷吧？",
+  "analysis": {
+    "tags": [
+      "technical",
+      "stock",
+      "sector",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "用户关注锂矿板块，询问某盐湖锂矿个股为何处于技术面下轨，并表达了对该股是否存在潜在基本面风险（“雷”）的担忧。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "关注锂矿及盐湖提锂细分板块",
+      "个股股价触及技术分析中的下轨位置（可能指布林线下轨或通道下轨）",
+      "投资者对个股是否存在未披露的利空风险（“雷”）表示疑虑"
+    ],
+    "analysis_method": "llm"
+  }
+}

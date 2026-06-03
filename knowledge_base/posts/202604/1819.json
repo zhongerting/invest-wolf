@@ -1,0 +1,22 @@
+{
+  "post_num": 1819,
+  "date": "2026-04-03 13:44:35",
+  "content": "卖盘根本就没了  都被早上的吓破胆了用完额度了   接下来要追只能新进资金",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场卖盘已基本枯竭，早盘的恐慌情绪导致存量资金额度耗尽，后续市场的上涨将主要依赖增量资金的推动。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "卖盘力量消耗殆尽，市场抛压大幅减轻",
+      "早盘的恐慌性抛售导致存量投资者额度用尽",
+      "后续行情走势取决于是否有新进资金入场追涨"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 41,
+  "date": "2026-01-13 09:46:52",
+  "content": "看吧  这么大量能的市场 总能轮动的",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场成交量充足，这种高量能环境能够支撑市场各板块之间的良性轮动。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "市场当前成交量能巨大",
+      "充足的量能是板块轮动的前提条件",
+      "对市场后续的流动性和获利机会持乐观态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

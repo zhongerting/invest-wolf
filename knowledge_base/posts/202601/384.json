@@ -1,0 +1,23 @@
+{
+  "post_num": 384,
+  "date": "2026-01-26 14:05:16",
+  "content": "所以我就很奇怪你们一点\nGJD说不让涨，好 你们不服  硬要满仓 满仓了就要涨。\n这不合理啊\n这都不是不合理了  简直无理取闹",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为在监管层（GJD）释放降温信号的情况下，投资者盲目满仓并期待市场大涨是不合理的，表达了对当前非理性看涨情绪的批评。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "指出监管层（GJD）存在抑制市场过快上涨的意图",
+      "批评投资者无视政策信号、盲目满仓的非理性行为",
+      "认为在当前政策环境下，期待市场持续上涨缺乏逻辑支撑"
+    ],
+    "analysis_method": "llm"
+  }
+}

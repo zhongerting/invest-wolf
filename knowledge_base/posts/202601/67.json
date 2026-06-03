@@ -1,0 +1,20 @@
+{
+  "post_num": 67,
+  "date": "2026-01-14 10:46:48",
+  "content": "55%-60%内",
+  "analysis": {
+    "tags": [
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "内容仅提供了一个55%-60%的数值区间，在投资语境下通常指代建议仓位比例、特定技术指标范围或预期的胜率区间。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "提及55%-60%的百分比区间",
+      "缺乏明确标的或背景，推测为仓位管理建议或技术指标观察点"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "post_num": 1947,
+  "date": "2026-04-10 10:33:45",
+  "content": "你有病啊  可用余额0",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖内容表现出强烈的负面情绪，用户提到“可用余额0”，暗示其可能处于满仓套牢、资金耗尽或交易不顺的极端焦虑状态。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "投资者情绪极度愤怒或沮丧",
+      "账户可用资金为零，反映出资金流动性枯竭或满仓亏损的现状"
+    ],
+    "analysis_method": "llm"
+  }
+}

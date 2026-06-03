@@ -1,0 +1,23 @@
+{
+  "post_num": 251,
+  "date": "2026-01-20 10:20:10",
+  "content": "今天这个感觉像是融资盘爆仓的状态 谨慎接盘 等国家队看用什么兜底 在哪里兜底",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场大跌疑似融资盘爆仓引发，建议投资者保持谨慎，不要盲目抄底，需等待国家队明确的救市信号和支撑位。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "市场下跌动力可能来自融资盘爆仓的连锁反应",
+      "操作策略上建议谨慎，不宜立即接盘",
+      "关注国家队入场救市的方式和具体点位"
+    ],
+    "analysis_method": "llm"
+  }
+}

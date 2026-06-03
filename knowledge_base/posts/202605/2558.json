@@ -1,0 +1,23 @@
+{
+  "post_num": 2558,
+  "date": "2026-05-14 11:03:46",
+  "content": "对于我来说  这里最后就是衰竭浪了 只是看到哪里而已",
+  "analysis": {
+    "tags": [
+      "technical",
+      "market",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者通过技术分析判断当前行情已进入最后的‘衰竭浪’阶段，认为趋势即将终结，目前仅在观察具体的反转点位。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "行情被定性为技术面上的衰竭浪（Exhaustion Wave）",
+      "认为当前上涨或下跌趋势已接近尾声",
+      "对趋势终结的判断明确，但对具体点位持观察态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

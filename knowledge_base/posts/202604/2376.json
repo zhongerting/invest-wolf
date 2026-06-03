@@ -1,0 +1,23 @@
+{
+  "post_num": 2376,
+  "date": "2026-04-30 13:17:02",
+  "content": "不要做券商  容易引起生理性反胃",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者对券商板块持强烈负面态度，建议投资者不要参与，并表达了对该板块走势的极度反感。",
+    "mentioned_sectors": [
+      "券商"
+    ],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "强烈建议不要操作券商板块",
+      "表达了对券商板块极其负面的生理性厌恶情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

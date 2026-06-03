@@ -1,0 +1,22 @@
+{
+  "post_num": 2754,
+  "date": "2026-05-26 14:40:43",
+  "content": "你避开不了  我说的",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者发布了一条极简且带有预警性质的言论，暗示某种市场趋势或风险是不可避免的，具有较强的个人主观色彩。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "作者认为某种市场走势或风险具有必然性，无法回避",
+      "言论缺乏具体的技术指标或基本面逻辑支撑",
+      "表达了强烈的宿命论式市场观点"
+    ],
+    "analysis_method": "llm"
+  }
+}

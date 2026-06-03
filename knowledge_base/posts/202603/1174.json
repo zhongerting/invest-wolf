@@ -1,0 +1,25 @@
+{
+  "post_num": 1174,
+  "date": "2026-03-11 11:09:53",
+  "content": "准备开完会 反正这里我不会上头 65%仓位左右收盘 只要GJD不出手 第三条腿概率很大",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "technical",
+      "market",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者对当前行情持谨慎态度，维持65%的中等仓位。认为在没有国家队干预的情况下，市场大概率会走“第三条腿”的探底或调整行情。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "操作心态保持冷静，明确表示“不会上头”，拒绝盲目追高。",
+      "采取控仓策略，收盘仓位维持在65%左右。",
+      "技术面预判市场存在“第三条腿”（二次探底或回踩）的高概率需求。",
+      "将“国家队（GJD）是否出手”视为影响市场走势的关键外部变量。"
+    ],
+    "analysis_method": "llm"
+  }
+}

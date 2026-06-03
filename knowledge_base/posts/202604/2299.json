@@ -1,0 +1,22 @@
+{
+  "post_num": 2299,
+  "date": "2026-04-29 10:33:26",
+  "content": "今天不用管白线  我说的",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者建议今日无需关注分时图中的白线（通常指大盘权重股走势），暗示市场当前的交易重点或机会可能在小盘股或非权重题材股中。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "明确提出今日交易中可以忽略白线走势",
+      "暗示市场风格可能偏向代表中小盘股的黄线"
+    ],
+    "analysis_method": "llm"
+  }
+}

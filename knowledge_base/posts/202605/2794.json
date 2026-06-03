@@ -1,0 +1,22 @@
+{
+  "post_num": 2794,
+  "date": "2026-05-27 16:04:32",
+  "content": "大家都跌的时候你们是能抗的\n但是一旦只有你不涨的时候就很难熬了",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "投资者表达了对“抗跌但不跟涨”现象的心理煎熬。个股在市场普跌时表现稳健，但在市场反弹或普涨时未能同步上涨，导致持有者产生严重的心理落差。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "个股在市场下行周期具有较强的抗跌性",
+      "个股在市场回暖或普涨行情中表现滞后",
+      "强调了投资者在面对相对收益落后时的焦虑情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

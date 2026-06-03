@@ -1,0 +1,22 @@
+{
+  "post_num": 2236,
+  "date": "2026-04-24 09:52:28",
+  "content": "像我这种留材料的 今天甚至不会痛",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "作者表示由于提前保留了资金或防御性仓位（“留材料”），在今日市场下跌中并未感到痛苦，表现出较强的情绪韧性。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "作者采取了保留现金或底牌的风险控制策略",
+      "暗示当日市场行情出现明显调整或下跌",
+      "作者因仓位管理得当，目前心态平稳，未受市场波动影响"
+    ],
+    "analysis_method": "llm"
+  }
+}

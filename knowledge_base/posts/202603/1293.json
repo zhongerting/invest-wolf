@@ -1,0 +1,24 @@
+{
+  "post_num": 1293,
+  "date": "2026-03-18 13:34:31",
+  "content": "今天砸盘的不是量化\n是外资 是之前过来买红利或者所谓的核心资产的外资 现在又走了 回新兴市场去了",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "sector"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为今日市场下跌的主因是外资撤离而非量化交易。外资正在抛售此前持有的红利股和核心资产，并将资金重新配置到其他新兴市场。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "否定量化交易是今日砸盘的主要力量",
+      "指出外资是当前市场的抛售主力",
+      "外资抛售对象集中在红利股和核心资产",
+      "外资资金流向正在从 A 股转向其他新兴市场"
+    ],
+    "analysis_method": "llm"
+  }
+}

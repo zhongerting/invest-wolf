@@ -1,0 +1,25 @@
+{
+  "post_num": 2469,
+  "date": "2026-05-11 15:27:28",
+  "content": "我对这种兴趣不大，不太关心\n之前我完全摒除了一切和美伊战争有关的题材 目前看来没什么问题\n你可以问问做航运周期的\n而且太明牌的利好已经不会是利好了",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment",
+      "sector"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对地缘政治题材持回避态度，认为已公开的利好信息（明牌）已失去投资价值，并建议关注航运周期板块。",
+    "mentioned_sectors": [
+      "周期"
+    ],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "主动摒除与美伊冲突等题材相关的投资，认为避开此类不确定性是正确的策略。",
+      "提出“明牌利好不再是利好”的观点，暗示市场已充分定价。",
+      "建议关注或咨询航运周期板块的相关表现。"
+    ],
+    "analysis_method": "llm"
+  }
+}

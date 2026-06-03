@@ -1,0 +1,25 @@
+{
+  "post_num": 2646,
+  "date": "2026-05-20 10:07:12",
+  "content": "因为打到很多板块的临界点了  比如各种金属类 距离我上次说等沃什后连跌一周  谁也扛不住",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为多个板块（尤其是金属类）已触及关键临界点，在经历连续一周的下跌洗盘后，市场情绪极度低迷，投资者信心受挫。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "多个板块已跌至技术或心理临界点",
+      "金属类板块表现尤为疲软，处于关键位置",
+      "市场经历了为期一周的连续下跌（洗盘）",
+      "当前市场情绪极度脆弱，投资者普遍难以承受持续下跌的压力"
+    ],
+    "analysis_method": "llm"
+  }
+}

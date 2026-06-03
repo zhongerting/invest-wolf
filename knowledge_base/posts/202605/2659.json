@@ -1,0 +1,22 @@
+{
+  "post_num": 2659,
+  "date": "2026-05-20 13:16:41",
+  "content": "ETF我不知道  我觉得二线光和光纤都会有诱多的机会 之前说的时候\nETF里面好像还有别的东西",
+  "analysis": {
+    "tags": [
+      "sector",
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对 ETF 构成表示不确定，并警示二线光及光纤板块可能存在“诱多”陷阱，提醒投资者防范虚假上涨风险。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "二线光和光纤板块可能存在诱多（虚假上涨）的机会",
+      "对 ETF 的具体成分和表现持不确定及怀疑态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "post_num": 2291,
+  "date": "2026-04-28 12:51:44",
+  "content": "这两个和科创板没什么关系  他说的是专门做科创的ETF",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖旨在澄清投资标的，指出讨论的核心是专门跟踪科创板的ETF，而非其他与之无关的品种。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "明确讨论对象为专门投资科创板的ETF基金",
+      "纠正了关于特定标的与科创板关联性的误解"
+    ],
+    "analysis_method": "llm"
+  }
+}

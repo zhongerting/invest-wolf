@@ -1,0 +1,26 @@
+{
+  "post_num": 1183,
+  "date": "2026-03-11 15:09:55",
+  "content": "你看寒武纪掉的时候和沪深300那些红利起来的时候 用了几十个红利平铺对冲一两个科技大票 这种就是我所说的护 其实另外两个字更准确 但是被屏蔽了",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "market",
+      "sector",
+      "stock"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到市场存在一种对冲策略：在寒武纪等科技大票下跌时，通过拉升沪深300红利股来对冲指数，认为这是一种明显的“护盘”行为。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "科技大票（如寒武纪）与红利股之间存在明显的走势对冲",
+      "市场采用“红利平铺”的方式来抵消科技股下跌对指数的影响",
+      "作者认为这种行为本质上是“护盘”或“维稳”"
+    ],
+    "analysis_method": "llm"
+  }
+}

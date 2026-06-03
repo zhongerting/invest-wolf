@@ -1,0 +1,21 @@
+{
+  "post_num": 1240,
+  "date": "2026-03-16 15:06:52",
+  "content": "我这里又不带你们操作 不用纠结我说了什么  当我吹牛X就行了",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者发布免责声明，明确表示不提供实盘操作指导，要求读者不要过度解读其言论，并将其分享内容定性为非正式的个人闲聊或吹牛。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "明确声明不带盘、不指导他人操作",
+      "要求读者不要纠结或过度解读其过往言论",
+      "态度随意，将内容定性为个人吹牛，缺乏专业投资建议属性"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "post_num": 2614,
+  "date": "2026-05-15 10:55:21",
+  "content": "你们自己反复研读我昨天说的和今天说的吧",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者要求读者自行回顾并研读其昨日及今日发布的言论，文中未提供具体的市场分析、个股信息或操作建议。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者引导读者关注其过往发布的观点",
+      "当前文本缺乏实质性的市场逻辑或交易信号"
+    ],
+    "analysis_method": "llm"
+  }
+}

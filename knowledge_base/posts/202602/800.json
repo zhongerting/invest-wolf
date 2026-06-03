@@ -1,0 +1,22 @@
+{
+  "post_num": 800,
+  "date": "2026-02-12 11:26:14",
+  "content": "你认清自己的能力 我能看到是我的水平 你能不能挣到钱是你的水平\n别把我的水平当你的\n也别把日内收益最高点当你已经挣到的钱",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "作者强调交易者应认清自身能力，区分分析水平与执行能力的差异，并提醒不要将日内浮盈视为最终收益，强调风险意识与心态管理。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "强调个人执行力与他人分析水平的本质区别",
+      "提醒投资者不要将日内最高点的浮盈误认为已落袋的利润",
+      "呼吁投资者保持理性的自我认知，避免盲目跟随"
+    ],
+    "analysis_method": "llm"
+  }
+}

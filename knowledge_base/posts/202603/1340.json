@@ -1,0 +1,22 @@
+{
+  "post_num": 1340,
+  "date": "2026-03-19 15:35:28",
+  "content": "爆一次融资盘就出来了  这个不难 柚子散户机构都有融资盘。这些钱有成本的 很多4100的呢",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为市场需要经历一次融资盘爆仓（强制平仓）才能完成出清，指出游资、散户和机构普遍持有杠杆资金，且在4100点附近存在大量高成本仓位。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "市场见底或反转需要通过融资盘爆仓来实现出清",
+      "游资、散户及机构均普遍存在带成本的杠杆资金",
+      "4100点附近聚集了大量高成本的融资盘，面临平仓压力"
+    ],
+    "analysis_method": "llm"
+  }
+}

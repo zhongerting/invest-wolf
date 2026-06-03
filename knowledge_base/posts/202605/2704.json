@@ -1,0 +1,20 @@
+{
+  "post_num": 2704,
+  "date": "2026-05-21 18:23:45",
+  "content": "对",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "帖子内容仅包含一个字“对”，表达了某种认同或肯定的态度，但缺乏具体的市场分析、板块或个股信息。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者表达了认同或肯定的态度",
+      "内容过于简略，缺乏实质性的投资分析或交易信号"
+    ],
+    "analysis_method": "llm"
+  }
+}

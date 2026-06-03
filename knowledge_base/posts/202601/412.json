@@ -1,0 +1,22 @@
+{
+  "post_num": 412,
+  "date": "2026-01-27 11:07:48",
+  "content": "黄线连跌 亏是正常的\n我不是正常的。 你要接受你是正常的",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者通过观察代表中小盘或全市场平均股价的“黄线”持续下跌，指出当前市场环境下普遍亏损是正常现象，反映了市场赚钱效应极差的现状。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "黄线（通常指代中小盘股或分时均线）连跌，显示市场普跌特征明显。",
+      "认为在当前行情下亏损是普遍且“正常”的状态。",
+      "通过心理暗示，表达了对市场弱势表现的无奈或对投资者情绪的安抚。"
+    ],
+    "analysis_method": "llm"
+  }
+}

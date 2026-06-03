@@ -1,0 +1,28 @@
+{
+  "post_num": 1152,
+  "date": "2026-03-09 14:05:56",
+  "content": "目前金融没动 能站上4105收盘就不错了 要确认是明天的事\n今天没有安全一说 我仓位不会增加",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为金融板块表现低迷，关注4105点位的收盘情况，并强调当前市场缺乏安全性，需等待明日确认，操作上选择不加仓以规避风险。",
+    "mentioned_sectors": [
+      "金融"
+    ],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "金融板块目前没有发力迹象，拖累市场表现",
+      "4105点是关键观察位，但今日收盘即便站上仍需明日确认",
+      "认为当前市场环境不具备安全性",
+      "采取防御策略，明确表示不会增加仓位"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 792,
+  "date": "2026-02-12 11:09:16",
+  "content": "看海外链的地面光伏就行了 这个是真有业绩预期  其他的没有",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者看好海外链地面光伏，认为该细分领域具有真实的业绩预期，并对其他板块或细分领域的表现持否定态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "建议关注海外链地面光伏板块",
+      "强调该领域具有真实的业绩预期支撑",
+      "认为除海外地面光伏外，其他领域缺乏业绩预期"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 555,
+  "date": "2026-01-30 10:23:00",
+  "content": "跌破4100了  反抽之后如果上不了4126 我减仓到40%内",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者观察到指数跌破4100点，设定4126点为反抽观察位，若无法收复则计划大幅减仓至40%以内。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "指数已跌破4100点关键位置",
+      "将4126点视为反抽的重要压力位/止损参考点",
+      "若反抽无力，将执行减仓操作，仓位控制在40%以内"
+    ],
+    "analysis_method": "llm"
+  }
+}

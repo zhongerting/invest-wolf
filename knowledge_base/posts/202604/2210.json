@@ -1,0 +1,23 @@
+{
+  "post_num": 2210,
+  "date": "2026-04-23 12:55:04",
+  "content": "双跌停我已经出掉了  只挣了3个点不到",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "用户在遭遇连续两个跌停的极端行情后选择清仓离场，最终盈利大幅回撤至不足3%，表现出强烈的避险情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "个股遭遇连续两个跌停板",
+      "投资者已执行卖出清仓操作",
+      "盈利大幅缩水，最终收益率不足3%"
+    ],
+    "analysis_method": "llm"
+  }
+}

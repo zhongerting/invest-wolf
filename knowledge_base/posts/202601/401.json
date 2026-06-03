@@ -1,0 +1,23 @@
+{
+  "post_num": 401,
+  "date": "2026-01-27 10:21:08",
+  "content": "宏大叙事 ，短期按题材炒作 我现在主要看业绩",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场存在宏大叙事下的短期题材炒作现象，但其个人投资重心已转向关注公司业绩等基本面指标。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "市场短期受宏大叙事和题材炒作驱动",
+      "投资策略从题材博弈转向业绩导向",
+      "强调基本面（业绩）在当前决策中的核心地位"
+    ],
+    "analysis_method": "llm"
+  }
+}

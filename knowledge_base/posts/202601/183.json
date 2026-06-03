@@ -1,0 +1,22 @@
+{
+  "post_num": 183,
+  "date": "2026-01-16 14:47:04",
+  "content": "只有海格多了么![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png) 我在外面看他们数封单呢 笑死我了",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "用户关注海格通信（海格）的涨停封单情况，并对市场中投资者数封单的行为表达了调侃和嘲讽的态度。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "提及个股海格（疑似海格通信）",
+      "观察到市场对该股涨停封单的关注",
+      "对投资者数封单的行为持调侃态度，暗示市场情绪浮躁"
+    ],
+    "analysis_method": "llm"
+  }
+}

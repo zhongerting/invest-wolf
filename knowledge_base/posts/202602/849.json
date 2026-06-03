@@ -1,0 +1,24 @@
+{
+  "post_num": 849,
+  "date": "2026-02-13 14:48:32",
+  "content": "有啥解读 白线被硬砸 GJD没接盘。 砸的也出不去 就是因为昨天老美怕过节还出问题所以尾盘没拉上中轨就自动落袋",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "分析指出市场指数（白线）遭抛售且缺乏国家队护盘。受外部市场波动及节前避险情绪影响，技术面未能收复中轨，导致资金选择获利了结或减仓避险。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "指数（白线）遭遇强力抛压，且市场承接力不足",
+      "国家队（GJD）在下跌过程中未表现出明显的护盘动作",
+      "受美股波动及节假日不确定性影响，市场避险情绪浓厚",
+      "技术面上未能站回中轨，触发了投资者的止盈或自动减仓行为"
+    ],
+    "analysis_method": "llm"
+  }
+}

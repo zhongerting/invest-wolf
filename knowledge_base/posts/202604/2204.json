@@ -1,0 +1,22 @@
+{
+  "post_num": 2204,
+  "date": "2026-04-22 21:38:12",
+  "content": "完全不沾边的东西 宁可你说他跟新和成那边我都觉得对",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者对当前某标的所传闻的关联逻辑表示强烈质疑，认为其完全不着边际，并吐槽称与其这样说，倒不如说它与新和成有关联还显得更合理一些。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "强烈否定当前市场传闻或某种逻辑关联性",
+      "提及“新和成”作为对比，暗示当前论点极其荒谬",
+      "表达了对市场乱炒概念或强行关联的不满情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "post_num": 339,
+  "date": "2026-01-22 13:30:41",
+  "content": "这TM怎么做到的？P的吧？",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者对某项展示的投资结果或数据表示极度震惊与怀疑，认为其真实性存疑，甚至怀疑是经过修图处理的。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "表达了对特定盈亏截图或行情走势的强烈不可置信",
+      "质疑信息的真实性，怀疑存在造假行为（P图）"
+    ],
+    "analysis_method": "llm"
+  }
+}

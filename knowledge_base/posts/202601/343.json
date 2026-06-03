@@ -1,0 +1,23 @@
+{
+  "post_num": 343,
+  "date": "2026-01-22 14:19:25",
+  "content": "买回了部分游戏ETF 等同于做个这部分50%仓位的10个点的T。\n中稀还没跌 暂时回不去，长线操作 不代表短期逻辑",
+  "analysis": {
+    "tags": [
+      "sector",
+      "stock",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者买回部分游戏ETF以完成波段差价操作；对中国稀土持观望态度，等待回调后再介入；强调长线持仓逻辑。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "买回部分游戏ETF，实现50%仓位下10个点的波段收益（做T）",
+      "中国稀土（中稀）因价格未跌到位，暂时不考虑买回",
+      "明确区分长线操作逻辑与短期市场波动"
+    ],
+    "analysis_method": "llm"
+  }
+}

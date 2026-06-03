@@ -1,0 +1,24 @@
+{
+  "post_num": 404,
+  "date": "2026-01-27 10:34:34",
+  "content": "就是跌太多了 市场不好的时候钱会往阻力最小的地方",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为市场在经历大幅下跌后，资金会倾向于流向阻力最小的方向。这通常暗示在弱势市场中，超跌板块可能因抛压减弱而吸引资金回流。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "市场前期跌幅过大，存在超跌反弹的技术逻辑",
+      "在整体环境不佳时，资金流向遵循“阻力最小路径”原则",
+      "暗示当前位置向上修复的阻力可能小于继续下跌的阻力"
+    ],
+    "analysis_method": "llm"
+  }
+}

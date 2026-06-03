@@ -1,0 +1,22 @@
+{
+  "post_num": 1243,
+  "date": "2026-03-16 17:25:19",
+  "content": "看他有P用 我说是底才是底",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对他人观点表示强烈不屑，并主观断定当前市场或个股已经处于底部位置。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "否定其他分析者的参考价值",
+      "主观断言当前价格为底部",
+      "表现出极强的情绪化特征"
+    ],
+    "analysis_method": "llm"
+  }
+}

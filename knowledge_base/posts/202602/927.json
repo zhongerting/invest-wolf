@@ -1,0 +1,21 @@
+{
+  "post_num": 927,
+  "date": "2026-02-26 14:06:06",
+  "content": "放屁 昨天前天没涨？",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "用户通过反问语气强烈反驳他人观点，指出前两个交易日市场或个股实际上是上涨的。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "反驳关于近期没有上涨的言论",
+      "强调前天和昨天存在上涨行情"
+    ],
+    "analysis_method": "llm"
+  }
+}

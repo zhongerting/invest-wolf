@@ -1,0 +1,22 @@
+{
+  "post_num": 1041,
+  "date": "2026-03-03 10:48:30",
+  "content": "先看5分钟  5分钟还没有顶背离 还是金叉  然后才看15分钟是否站稳中轨3个15分钟",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者通过5分钟和15分钟短线周期进行技术分析，关注金叉、顶背离及中轨支撑情况，作为交易确认信号。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "5分钟周期目前处于金叉状态，且尚未出现顶背离信号",
+      "需观察15分钟周期是否能站稳中轨",
+      "站稳中轨的确认标准是至少维持3个15分钟K线"
+    ],
+    "analysis_method": "llm"
+  }
+}

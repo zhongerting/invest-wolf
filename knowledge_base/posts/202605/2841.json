@@ -1,0 +1,22 @@
+{
+  "post_num": 2841,
+  "date": "2026-05-29 10:33:34",
+  "content": "我让你们不要光站在那里  要站在光里\n有错吗？",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "作者通过“站在光里”的比喻，回顾并肯定了自己之前的投资建议，暗示其看好的方向或个股近期表现出色，带有较强的自我肯定和情绪引导色彩。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "作者强调投资者应追随强势行情或核心主线（即“光”）。",
+      "表达了对过往预测/建议正确性的自信。",
+      "内容属于盘后情绪抒发，缺乏具体的行业逻辑或技术指标支撑。"
+    ],
+    "analysis_method": "llm"
+  }
+}

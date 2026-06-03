@@ -1,0 +1,23 @@
+{
+  "post_num": 1428,
+  "date": "2026-03-23 11:19:55",
+  "content": "要收储了。。。怎么可能会好。。你怎么想的。。。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "sector"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对“收储”政策的利好作用表示强烈质疑，认为该政策并不会带来正面影响，情绪较为悲观。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "提及政府收储相关政策",
+      "对收储政策的实际效果持否定态度",
+      "对相关板块或市场的前景表示不看好"
+    ],
+    "analysis_method": "llm"
+  }
+}

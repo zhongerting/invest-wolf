@@ -1,0 +1,20 @@
+{
+  "post_num": 1355,
+  "date": "2026-03-20 11:45:17",
+  "content": "有消息总比没有好…",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者认为在当前市场环境下，有消息指引（无论好坏）总比没有消息要好，反映出一种期待市场打破僵局或寻找方向的心态。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "市场目前可能处于消息真空期，缺乏明确的驱动因素",
+      "作者认为消息的出现有助于打破当前的沉寂或不确定性"
+    ],
+    "analysis_method": "llm"
+  }
+}

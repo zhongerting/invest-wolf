@@ -1,0 +1,23 @@
+{
+  "post_num": 1651,
+  "date": "2026-03-31 22:48:03",
+  "content": "你们听不懂的 把我前面那些提前预判多看看 先把大级别看懂再说日内吧",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者强调在进行日内交易前，必须先理解大级别的市场趋势，并建议读者参考其之前的预判内容，表现出对其技术分析框架的自信。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "强调大级别趋势（宏观/长周期）的分析优先于日内波动分析",
+      "引导读者回顾其前期的“提前预判”以验证准确性",
+      "指出当前部分投资者存在理解门槛，建议建立系统性的技术认知"
+    ],
+    "analysis_method": "llm"
+  }
+}

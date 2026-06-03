@@ -1,0 +1,22 @@
+{
+  "post_num": 2799,
+  "date": "2026-05-27 18:11:47",
+  "content": "这里没人空油的么  这么爽都没人出来吱一声 \n太令人可惜了。",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者表达了做空原油获利的喜悦，并感叹社区中讨论或参与做空原油的人太少，认为这是一个被忽视的获利机会。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "作者目前持有原油空单并处于盈利状态",
+      "原油市场近期出现了明显的下跌行情",
+      "作者认为当前做空原油的收益非常可观"
+    ],
+    "analysis_method": "llm"
+  }
+}

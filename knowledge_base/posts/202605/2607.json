@@ -1,0 +1,20 @@
+{
+  "post_num": 2607,
+  "date": "2026-05-15 09:37:04",
+  "content": "尼玛 XXX XXX XX XXXXX",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖子内容主要为情绪化的宣泄，包含负面语气词，但缺乏具体的市场分析、个股信息或实质性的投资逻辑。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "作者表达了强烈的负面情绪（挫败感或愤怒）",
+      "内容经过脱敏或仅为占位符，无有效投资参考信息"
+    ],
+    "analysis_method": "llm"
+  }
+}

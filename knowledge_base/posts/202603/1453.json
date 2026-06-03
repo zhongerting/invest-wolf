@@ -1,0 +1,23 @@
+{
+  "post_num": 1453,
+  "date": "2026-03-23 15:07:19",
+  "content": "量化只是被动策略 他能用就是证明有法可依  他有什么锅\n对了 下个月7号量化新规实施 到时候再看有什么变化吧",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为量化交易是合规的被动策略，不应承担市场波动的责任。同时指出下月7日将实施量化新规，建议届时观察市场变化。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "量化交易属于合规的被动投资策略",
+      "不应将市场问题归咎于量化交易",
+      "下月7日量化交易新规将正式实施",
+      "新规后的市场表现尚待观察"
+    ],
+    "analysis_method": "llm"
+  }
+}

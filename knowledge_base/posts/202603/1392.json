@@ -1,0 +1,22 @@
+{
+  "post_num": 1392,
+  "date": "2026-03-20 16:37:00",
+  "content": "是的 RMB长期升值到6.5这个位置是个趋势，其实如果不是上面控，早就这个数字了 但是现在逻辑变了 世界工厂要向全世界输出高价商品而不是便宜货了",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为人民币长期升值至6.5是必然趋势，其背后的宏观逻辑已发生变化：中国正从出口廉价商品的“世界工厂”转型为向全球输出高价值、高价格商品的经济体。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "人民币长期升值目标位在6.5左右",
+      "汇率波动受到政策端的一定管控",
+      "中国出口逻辑由“量”向“质”转变，通过高价商品输出支撑汇率升值"
+    ],
+    "analysis_method": "llm"
+  }
+}

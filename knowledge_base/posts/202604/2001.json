@@ -1,0 +1,21 @@
+{
+  "post_num": 2001,
+  "date": "2026-04-14 09:32:24",
+  "content": "我宏和清仓 板出",
+  "analysis": {
+    "tags": [
+      "stock",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者在涨停板位置清仓卖出了宏和科技（603256）。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "清仓宏和科技",
+      "卖出时机为涨停板（板出）"
+    ],
+    "analysis_method": "llm"
+  }
+}

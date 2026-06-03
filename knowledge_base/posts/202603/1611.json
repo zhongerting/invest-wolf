@@ -1,0 +1,23 @@
+{
+  "post_num": 1611,
+  "date": "2026-03-31 10:57:50",
+  "content": "不急 先看盘 出现迹象的时候就有低点 没出迹象就没有。只是你们看不出迹象而已。",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者建议投资者保持耐心，通过观察盘面特定迹象来判断市场低点，强调在信号明确前不要盲目操作。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "主张耐心观望，强调择时而非盲目入场",
+      "认为市场低点伴随特定迹象，需具备识别能力",
+      "暗示当前尚未出现明确的见底信号"
+    ],
+    "analysis_method": "llm"
+  }
+}

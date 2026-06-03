@@ -1,0 +1,23 @@
+{
+  "post_num": 1900,
+  "date": "2026-04-08 15:14:25",
+  "content": "看好量能就行了  我今晚算一下缩量到多少都是合理的  缩量到多少是不合理的。因为今天放量8000E 明天半小时后肯定是缩量的。",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者重点关注市场量能变化，指出今日放量至8000亿，并预判明日将出现缩量，计划通过计算来确定合理的缩量区间以研判市场走势。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "核心关注点在于市场成交量（量能）的支撑作用",
+      "今日市场显著放量，成交额达到8000亿",
+      "预判明日开盘半小时后成交量将出现惯性缩减",
+      "意图通过量化计算来界定缩量的合理与不合理区间"
+    ],
+    "analysis_method": "llm"
+  }
+}

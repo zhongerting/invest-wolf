@@ -1,0 +1,22 @@
+{
+  "post_num": 999,
+  "date": "2026-03-02 10:11:23",
+  "content": "刚才追进去没兑现的 现在最难受了 \n和我预演的例子一摸一样",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者指出追高买入且未及时止盈的投资者目前面临亏损或被套的困境，并强调当前的市场走势与其此前的预判完全一致。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "追高且未及时止盈的投资者目前处境被动，面临心理和资金的双重压力",
+      "市场出现了冲高回落或反转走势，验证了作者此前的预演方案",
+      "暗示当前市场风险较大，警示盲目追涨的行为"
+    ],
+    "analysis_method": "llm"
+  }
+}

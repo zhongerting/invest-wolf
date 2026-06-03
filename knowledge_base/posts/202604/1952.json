@@ -1,0 +1,21 @@
+{
+  "post_num": 1952,
+  "date": "2026-04-10 11:08:09",
+  "content": "反正对于YWK我的看法没变过 3季度验货",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者重申对 YWK 的观点保持不变，并强调第三季度是验证其投资逻辑的关键时间节点。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "对 YWK 的投资看法具有持续性，未发生改变",
+      "将第三季度视为关键的“验货”期（即业绩或逻辑验证期）"
+    ],
+    "analysis_method": "llm"
+  }
+}

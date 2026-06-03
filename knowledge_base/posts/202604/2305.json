@@ -1,0 +1,21 @@
+{
+  "post_num": 2305,
+  "date": "2026-04-29 10:58:14",
+  "content": "他的主营业务可能会拖累",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对特定标的持担忧态度，认为其核心主营业务表现不佳，可能会对整体业绩或股价产生负面拖累。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "主营业务存在潜在的负面影响",
+      "核心业务可能成为拖累整体表现的因素"
+    ],
+    "analysis_method": "llm"
+  }
+}

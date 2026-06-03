@@ -1,0 +1,22 @@
+{
+  "post_num": 1316,
+  "date": "2026-03-19 11:18:51",
+  "content": "我暂时不做金属了啊 我目前只有期货底仓  有机会的时候开杠杆 没机会就平躺。",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者决定暂时停止金属板块的主动交易，目前仅保留期货底仓。采取观望策略，计划在有明确机会时再动用杠杆，无机会则保持静止（平躺）。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "暂时停止金属板块的新增操作",
+      "目前仅持有期货底仓",
+      "交易策略转为择机加杠杆或保持观望（平躺）"
+    ],
+    "analysis_method": "llm"
+  }
+}

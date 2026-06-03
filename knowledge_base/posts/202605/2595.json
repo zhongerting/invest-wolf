@@ -1,0 +1,26 @@
+{
+  "post_num": 2595,
+  "date": "2026-05-14 18:15:43",
+  "content": "昨天这么说的人 今天追进来了 甭管他追科技还是追消费 他肯定进来了",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "sector"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到此前持观望或看空态度的投资者在今日开始追涨入场，资金流向涉及科技和消费板块，反映出市场情绪的快速回暖和追涨行为。",
+    "mentioned_sectors": [
+      "消费",
+      "科技"
+    ],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "此前持怀疑态度的投资者已开始转场入市",
+      "市场出现明显的追涨（FOMO）情绪",
+      "资金流入方向主要集中在科技和消费两大权重板块"
+    ],
+    "analysis_method": "llm"
+  }
+}

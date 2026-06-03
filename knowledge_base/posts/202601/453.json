@@ -1,0 +1,23 @@
+{
+  "post_num": 453,
+  "date": "2026-01-28 10:57:44",
+  "content": "十几个点的利润需要救？开什么玩笑呢 今天都快新高了上面还有套牢盘？\n![img](assets/453_12466f5f.jpg)\n你别告诉我你是这一小撮？",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者指出当前标的即将创下新高，多数持仓者应处于盈利状态，以此反驳并嘲讽那些认为上方有套牢盘或喊“救命”的悲观观点。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "标的价格接近新高，处于强势上涨趋势",
+      "多数投资者已有十几个点的利润，筹码分布以获利盘为主",
+      "否定上方存在大量套牢盘的观点",
+      "对市场情绪持乐观态度，认为目前不需要“救市”"
+    ],
+    "analysis_method": "llm"
+  }
+}

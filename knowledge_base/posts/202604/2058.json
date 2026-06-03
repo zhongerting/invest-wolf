@@ -1,0 +1,24 @@
+{
+  "post_num": 2058,
+  "date": "2026-04-15 11:09:51",
+  "content": "战争板块别看了\n上面有几个大哥套着散户  13块6的中石油里面的散户会压制整个板块。",
+  "analysis": {
+    "tags": [
+      "sector",
+      "stock",
+      "sentiment",
+      "technical"
+    ],
+    "category": "market_analysis",
+    "summary": "作者看空战争及石油板块，认为中石油在13.6元附近存在大量套牢盘，这种上方压力将抑制整个板块的上涨空间，建议投资者回避。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "建议投资者放弃关注战争相关板块",
+      "中石油在13.6元位置有大量散户被套",
+      "权重股的套牢盘压力会形成上方阻力，压制整个板块表现"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 2222,
+  "date": "2026-04-23 14:17:08",
+  "content": "![img](assets/2222_addf7441.jpg)\n怎么卖 怎么卖 什么卖都和你们说了。\n你们一点操作体系都没有啊 怎么活那么久的？",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者对投资者缺乏交易体系表示强烈不满，强调此前已明确给出卖出指导，批评投资者在实际操作中缺乏执行力和系统性的交易逻辑。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "强调建立个人“操作体系”是生存的关键",
+      "对投资者无法把握卖点、盲目持仓的行为进行批评",
+      "暗示当前市场环境下，执行卖出策略比买入更为重要或紧迫"
+    ],
+    "analysis_method": "llm"
+  }
+}

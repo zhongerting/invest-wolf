@@ -1,0 +1,23 @@
+{
+  "post_num": 786,
+  "date": "2026-02-12 10:47:12",
+  "content": "AIDC那边 大卫 润泽  宏景 光环这些吧 我不做那边 很久不看了",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者提到了 AIDC（人工智能数据中心）相关的个股如润泽、宏景、光环等，但明确表示自己已很长时间不关注且不参与该板块的交易。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "提及 AIDC 领域的相关标的：润泽科技、宏景科技、光环新网等",
+      "作者明确表示目前不参与 AIDC 板块的投资操作",
+      "作者透露已较长时间未跟踪该板块的动态，态度较为冷淡"
+    ],
+    "analysis_method": "llm"
+  }
+}

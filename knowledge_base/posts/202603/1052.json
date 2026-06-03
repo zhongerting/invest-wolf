@@ -1,0 +1,22 @@
+{
+  "post_num": 1052,
+  "date": "2026-03-03 14:27:35",
+  "content": "散户在猛猛割肉了 量能放出来了",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "technical",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "帖子指出市场出现散户恐慌性割肉行为，同时伴随着成交量的显著放大，显示出市场抛压沉重及情绪极度低迷。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "散户出现大规模恐慌性抛售（割肉）",
+      "市场成交量明显放大，呈现放量下跌态势"
+    ],
+    "analysis_method": "llm"
+  }
+}

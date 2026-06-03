@@ -1,0 +1,23 @@
+{
+  "post_num": 1687,
+  "date": "2026-04-01 13:10:53",
+  "content": "早上的港药我觉得可以撤了![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者建议撤出早盘关注的港股医药板块，暗示该板块表现不及预期，发出止盈或止损的离场信号。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "建议撤出早盘介入或关注的港股医药相关标的",
+      "暗示港股医药板块短期走势转弱或不符合预期",
+      "情绪带有无奈感，反映出对该板块短期表现的失望"
+    ],
+    "analysis_method": "llm"
+  }
+}

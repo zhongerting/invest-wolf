@@ -1,0 +1,22 @@
+{
+  "post_num": 1145,
+  "date": "2026-03-09 12:56:40",
+  "content": "到目前位置 没有加仓的条件\n这个条件之前是写过的",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "technical"
+    ],
+    "category": "trading_signal",
+    "summary": "作者认为当前市场或个股尚未达到预设的加仓标准，建议投资者继续等待，严格执行既定的交易规则，目前不宜增仓。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "目前不具备加仓的触发条件",
+      "强调交易的一致性，需符合此前设定的逻辑",
+      "操作建议为持仓观望，不进行增持"
+    ],
+    "analysis_method": "llm"
+  }
+}

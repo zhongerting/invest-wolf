@@ -1,0 +1,23 @@
+{
+  "post_num": 508,
+  "date": "2026-01-29 09:53:14",
+  "content": "石油股票我减半了 剩下的可以好好躺着拿了",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者对其持有的石油板块股票进行了减仓操作（卖出一半），并计划对剩余仓位采取长期持有的策略，表现出锁定利润后的轻松心态。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "已对石油板块股票进行减半操作，实现部分止盈",
+      "剩余仓位计划长期持有（“躺着拿”）",
+      "通过减仓降低了整体持仓风险，心态趋于稳健"
+    ],
+    "analysis_method": "llm"
+  }
+}

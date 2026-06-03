@@ -1,0 +1,24 @@
+{
+  "post_num": 812,
+  "date": "2026-02-12 14:04:07",
+  "content": "随便放一点量根本就跌不下去 我都不懂今天哪里还能买回来 下午如果踏空的再追进来 以为明天还有红包行情，万一明早摁一下  这些人连过年都过不好了",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "市场缩量表现坚挺，作者认为低位买回机会难寻，同时警示午后追高资金可能面临明日早盘回调的风险，提醒投资者注意节前波动风险。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "市场缩量但价格抗跌，显示下方存在支撑，难以寻找低吸买点",
+      "警示踏空资金在午后追涨可能面临短线博弈风险",
+      "提醒明日早盘可能出现下压动作，对节前持股心态造成冲击"
+    ],
+    "analysis_method": "llm"
+  }
+}

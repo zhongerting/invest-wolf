@@ -1,0 +1,22 @@
+{
+  "post_num": 358,
+  "date": "2026-01-23 09:05:26",
+  "content": "看前面 我刚说了这个应该怎么用，不是当日空单和多单相比  是和多空前一日的增减对比",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者阐述了多空持仓数据的分析逻辑，强调应关注多空头头寸较前一日的增减变化（动态增量），而非单纯对比当日多空单的绝对比例。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "多空数据分析的核心在于与前一日的增减对比",
+      "否定了仅观察当日多空单绝对值对比的分析方法",
+      "强调通过仓位变动的趋势来研判市场力量对比"
+    ],
+    "analysis_method": "llm"
+  }
+}

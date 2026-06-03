@@ -1,0 +1,21 @@
+{
+  "post_num": 1756,
+  "date": "2026-04-02 16:56:25",
+  "content": "你会看波浪么  5分钟K线的波浪你自己数数",
+  "analysis": {
+    "tags": [
+      "technical"
+    ],
+    "category": "technical_analysis",
+    "summary": "发帖者提及波浪理论，建议关注5分钟短线周期的K线走势，引导他人通过数浪来研判当前行情。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "提及波浪理论（Elliott Wave Theory）的应用",
+      "关注5分钟K线短线周期",
+      "建议通过自主数浪来分析市场走势"
+    ],
+    "analysis_method": "llm"
+  }
+}

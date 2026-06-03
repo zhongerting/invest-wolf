@@ -1,0 +1,22 @@
+{
+  "post_num": 2310,
+  "date": "2026-04-29 11:14:53",
+  "content": "大哥。。你读过书吗   书上对我们怎么对抗糖衣炮弹是怎么描述的？",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "发帖者通过“糖衣炮弹”这一比喻，警示投资者要抵御市场诱惑，保持冷静，不要被表面的利好或上涨所迷惑，带有明显的警示和怀疑色彩。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "警惕市场陷阱，将当前的行情或利好视为“糖衣炮弹”",
+      "强调防御性思维，暗示当前不宜盲目追高或被诱多",
+      "对他人乐观的态度表示质疑和嘲讽"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 2606,
+  "date": "2026-05-15 08:44:33",
+  "content": "准备开盘 金 银 棒子 小日子 集体跳水",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到开盘前黄金、白银以及日韩股市集体出现大幅下跌（跳水），反映出当前国际市场情绪低迷，存在明显的避险或普跌压力。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "黄金、白银等贵金属价格出现跳水",
+      "韩国（棒子）和日本（小日子）股市集体走低",
+      "开盘前全球市场整体情绪偏向悲观"
+    ],
+    "analysis_method": "llm"
+  }
+}

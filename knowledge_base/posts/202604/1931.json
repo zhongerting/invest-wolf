@@ -1,0 +1,21 @@
+{
+  "post_num": 1931,
+  "date": "2026-04-09 13:14:18",
+  "content": "![img](assets/1931_d22c4c1f.jpg)\n我目前很不开心 谁伸给脸出来给我扇一下",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者表达了极度负面和愤怒的情绪，通过攻击性言语宣泄不满，暗示可能在投资中遭遇了严重挫折或亏损。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "作者情绪极度不悦，存在强烈的挫败感",
+      "内容属于纯情绪宣泄，不包含任何实质性的市场分析",
+      "反映出当前市场环境下个体投资者的极端负面心理状态"
+    ],
+    "analysis_method": "llm"
+  }
+}

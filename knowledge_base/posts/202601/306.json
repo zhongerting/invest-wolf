@@ -1,0 +1,22 @@
+{
+  "post_num": 306,
+  "date": "2026-01-21 14:58:20",
+  "content": "看吧 这不是刚好5日线收盘么![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png) 慌什么呢  又没有高标",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者指出当前收盘价刚好处于5日均线位置，认为市场并无恐慌必要，且当前缺乏高位标杆股，暗示风险可控，情绪较为淡定。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "收盘价精准回踩5日均线，具有技术支撑意义",
+      "市场目前缺乏高位标杆股（高标），意味着没有明显的杀跌风险源",
+      "安抚投资者情绪，认为当前走势无需恐慌"
+    ],
+    "analysis_method": "llm"
+  }
+}

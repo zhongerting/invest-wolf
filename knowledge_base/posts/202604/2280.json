@@ -1,0 +1,21 @@
+{
+  "post_num": 2280,
+  "date": "2026-04-28 10:41:29",
+  "content": "不是  是给华为做的  不是强瑞",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector"
+    ],
+    "category": "market_analysis",
+    "summary": "作者澄清某项业务或产品的合作对象是华为，而非此前传闻或提及的强瑞技术。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "明确指出合作方为华为",
+      "否定了与强瑞（强瑞技术）的关联"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "post_num": 876,
+  "date": "2026-02-25 11:25:39",
+  "content": "我不信",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "发帖者仅通过“我不信”三个字表达了对当前市场走势、传闻或特定信息的强烈质疑，属于纯粹的情绪化表达，缺乏实质性分析内容。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "表达了对当前市场状况或特定信息的怀疑态度",
+      "内容极度简练，缺乏具体的逻辑支撑或分析对象",
+      "体现了市场参与者的某种心理博弈或抵触情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

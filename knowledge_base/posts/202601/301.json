@@ -1,0 +1,22 @@
+{
+  "post_num": 301,
+  "date": "2026-01-21 13:58:14",
+  "content": "急啥啊 这不是刚开始？",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前行情或上涨趋势才刚刚开始，呼吁投资者保持耐心，不要急于离场或过度焦虑。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "行情处于起步阶段",
+      "建议投资者保持冷静和耐心",
+      "看好后市持续上涨的空间"
+    ],
+    "analysis_method": "llm"
+  }
+}

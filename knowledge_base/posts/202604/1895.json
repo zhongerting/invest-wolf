@@ -1,0 +1,22 @@
+{
+  "post_num": 1895,
+  "date": "2026-04-08 14:47:40",
+  "content": "散户开始进来了  终于看见了",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到散户投资者开始大规模入场，暗示市场热度上升或趋势确认。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "散户投资者开始进场参与交易",
+      "市场情绪出现回暖迹象",
+      "作者对散户入场这一现象期待已久"
+    ],
+    "analysis_method": "llm"
+  }
+}

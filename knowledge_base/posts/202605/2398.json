@@ -1,0 +1,24 @@
+{
+  "post_num": 2398,
+  "date": "2026-05-06 16:44:43",
+  "content": "奇瑞其实不太行  目前按我这边的资料  新能车里 欧洲是BYD 东南亚是吉利 北欧和俄罗斯是长安\n奇瑞在新能车出口这块属于不够上台面的水平",
+  "analysis": {
+    "tags": [
+      "market",
+      "stock",
+      "sector"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对奇瑞新能源汽车出口竞争力持否定态度，认为其表现远逊于比亚迪（欧洲）、吉利（东南亚）及长安（北欧、俄罗斯）等竞争对手。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "奇瑞在新能源汽车出口领域竞争力不足，处于较低水平",
+      "比亚迪在欧洲新能源汽车市场占据优势",
+      "吉利在东南亚市场表现突出",
+      "长安在北欧和俄罗斯市场具有较强的市场地位"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 2730,
+  "date": "2026-05-22 14:56:04",
+  "content": "你敢不敢看一下BOLL中轨 日分时如果回不到BOLL中轨以上我问你市场是强还是弱",
+  "analysis": {
+    "tags": [
+      "technical",
+      "market"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者以布林线（BOLL）中轨作为市场强弱的分水岭，指出若日分时走势无法回升至中轨上方，则暗示市场表现疲软。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "强调 BOLL 中轨在日分时走势中的关键压力/支撑作用",
+      "将能否站稳 BOLL 中轨视为判断市场强弱的核心指标",
+      "对当前市场的强度持怀疑态度，暗示若无法收复中轨则看空"
+    ],
+    "analysis_method": "llm"
+  }
+}

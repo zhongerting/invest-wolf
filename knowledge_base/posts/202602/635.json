@@ -1,0 +1,22 @@
+{
+  "post_num": 635,
+  "date": "2026-02-03 13:49:45",
+  "content": "你昨天跌得少。昨天4000下跌 今天4000上涨  完全反过来  所以你昨天跌得少",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到市场出现了极端的涨跌反转（从4000家下跌转为4000家上涨），并以此解释目标标的昨日跌幅较小的原因，属于对市场情绪和普涨普跌现象的观察。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "昨日市场呈现普跌态势（约4000只个股下跌）",
+      "今日市场呈现普涨态势（约4000只个股上涨），行情完全反转",
+      "目标标的在昨日大盘普跌时表现出一定的抗跌性"
+    ],
+    "analysis_method": "llm"
+  }
+}

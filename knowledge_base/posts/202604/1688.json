@@ -1,0 +1,22 @@
+{
+  "post_num": 1688,
+  "date": "2026-04-01 13:17:28",
+  "content": "我等明后天找机会 我不会在大盘这个位置买的",
+  "analysis": {
+    "tags": [
+      "market",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者认为当前大盘位置不理想，拒绝在此时点买入，计划在未来一两天内寻找更合适的入场时机。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "认为当前大盘位置风险较高，不宜追高买入",
+      "采取观望策略，等待市场回调或更好的入场点",
+      "预判明后天可能出现交易机会"
+    ],
+    "analysis_method": "llm"
+  }
+}

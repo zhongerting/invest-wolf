@@ -1,0 +1,20 @@
+{
+  "post_num": 514,
+  "date": "2026-01-29 13:06:46",
+  "content": "没什么 又不是只有今天 是吧",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者对当前的市场波动表现出一种习以为常、淡然甚至麻木的态度，认为这种行情表现并非首次出现，已成为常态。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者对当下的行情波动持淡然态度，认为无需大惊小怪。",
+      "暗示目前的市场状况（通常指下跌或震荡）已经持续了一段时间，并非偶然现象。"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 1507,
+  "date": "2026-03-25 10:48:50",
+  "content": "都是  就是慢一步的资金 没有参与做局的资金。看看能进来多少吧",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "market",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前入场的资金多为后知后觉的跟风盘，而非主导行情的“做局”核心资金，目前正处于观察后续增量资金进场力度的阶段。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "当前资金被定性为滞后的跟风资金",
+      "市场缺乏核心主力或控盘资金的主动参与",
+      "对后续行情持观望态度，重点关注增量资金的规模"
+    ],
+    "analysis_method": "llm"
+  }
+}

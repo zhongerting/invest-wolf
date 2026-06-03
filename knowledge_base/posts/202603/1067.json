@@ -1,0 +1,23 @@
+{
+  "post_num": 1067,
+  "date": "2026-03-04 10:58:21",
+  "content": "嗯 炸得越多消耗越大 供给越多 一旦发现这个及其好用后就有扩大订单的可能性",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为产品的高消耗率验证了其有效性，这将进一步刺激供给需求，并预示着未来订单规模有扩大的潜力。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "高频率消耗带动了供给侧的需求增长",
+      "产品的实战/实际效果验证是后续追加订单的核心驱动力",
+      "存在订单规模进一步扩大的预期"
+    ],
+    "analysis_method": "llm"
+  }
+}

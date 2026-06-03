@@ -1,0 +1,22 @@
+{
+  "post_num": 260,
+  "date": "2026-01-20 11:22:16",
+  "content": "有色我宁可做期货，不是宁可，我就在做期货\n不过化工倒是可以考虑股票 可惜我对这边一窍不通",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者分享了其投资偏好：有色金属领域倾向并正在进行期货交易；化工领域虽认为可以考虑股票投资，但因自认缺乏相关专业知识而未参与。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "作者目前正在参与有色金属期货交易",
+      "作者认为化工板块具备股票投资的考虑价值",
+      "作者因对化工行业不了解而未进行实际的股票布局"
+    ],
+    "analysis_method": "llm"
+  }
+}

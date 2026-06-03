@@ -1,0 +1,22 @@
+{
+  "post_num": 2446,
+  "date": "2026-05-08 14:16:02",
+  "content": "长线在我没有说话的时候我都是锁的  甚至因为减持都下不来让我继续加仓而懊恼",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者表达了对长线持仓的坚定信心，目前处于锁仓状态。因股价未受减持影响下跌而无法加仓感到遗憾，显示出强烈的看涨意愿和增持需求。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "坚持长线投资策略，当前处于坚定持股（锁仓）状态",
+      "具有强烈的加仓意愿，正在等待回调机会",
+      "认为减持利空并未导致股价下跌，反映出个股走势强劲或筹码稳固"
+    ],
+    "analysis_method": "llm"
+  }
+}

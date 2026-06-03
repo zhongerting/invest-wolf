@@ -1,0 +1,23 @@
+{
+  "post_num": 1523,
+  "date": "2026-03-26 11:26:01",
+  "content": "来个人和他说一下什么叫分时确认收破",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "该帖子提及技术分析术语“分时确认收破”，意在讨论或强调在分时走势中确认价格有效跌破支撑位的技术信号，通常带有看空或预警意味。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "涉及分时图级别的技术确认机制",
+      "讨论核心为“收破”，即价格收在关键支撑位之下，暗示破位风险",
+      "表达了对他人不理解技术破位信号的质疑或提醒"
+    ],
+    "analysis_method": "llm"
+  }
+}

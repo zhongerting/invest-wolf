@@ -1,0 +1,20 @@
+{
+  "post_num": 2303,
+  "date": "2026-04-29 10:49:14",
+  "content": "没有研究过",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者明确表示对相关内容没有进行过研究，未提供任何实质性的投资观点、市场分析或交易建议。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者直言没有研究过，缺乏相关信息储备。",
+      "内容不涉及具体的市场分析、个股评价或行业观点。"
+    ],
+    "analysis_method": "llm"
+  }
+}

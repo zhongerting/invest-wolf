@@ -1,0 +1,23 @@
+{
+  "post_num": 558,
+  "date": "2026-01-30 11:04:35",
+  "content": "反弹回均线了 我减一点设备ETF",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sector",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者观察到设备ETF价格反弹至均线位置，基于技术面压力判断，决定执行减仓操作以规避风险或锁定收益。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "价格反弹至均线技术位",
+      "采取减仓策略",
+      "利用反弹机会降低仓位"
+    ],
+    "analysis_method": "llm"
+  }
+}

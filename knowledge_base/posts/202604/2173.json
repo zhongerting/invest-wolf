@@ -1,0 +1,21 @@
+{
+  "post_num": 2173,
+  "date": "2026-04-20 14:42:44",
+  "content": "。。。我不是教过怎么卖么。。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者通过反问语气提醒投资者回顾并执行此前教授的卖出策略，暗示当前市场环境下应注意及时止盈或止损，侧重于风险管理。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "强调执行卖出纪律的重要性",
+      "暗示当前行情可能已触及预设的卖点或存在回调风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "post_num": 711,
+  "date": "2026-02-05 13:51:21",
+  "content": "看起来不是GJD买的  是机构调仓过去的 银行是城商 券商也是中小 而且是形态好的",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sector",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为近期盘面异动并非国家队（GJD）所为，而是机构资金调仓至技术形态良好的城商行及中小券商板块。",
+    "mentioned_sectors": [
+      "券商",
+      "银行"
+    ],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "否定了国家队入场的猜测",
+      "判断资金来源为机构调仓",
+      "指出资金流向集中在城商行和中小券商",
+      "强调相关标的技术形态良好"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "post_num": 2193,
+  "date": "2026-04-22 14:13:35",
+  "content": "YWK也有  而且可以T出去",
+  "analysis": {
+    "tags": [
+      "stock",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "用户提到 YWK（通常指代药明康德）也具备某种特征，并指出可以进行 T+0（日内交易）操作。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "提及个股 YWK（疑似药明康德）",
+      "指出该标的存在日内交易或波段操作（T+0）的机会"
+    ],
+    "analysis_method": "llm"
+  }
+}

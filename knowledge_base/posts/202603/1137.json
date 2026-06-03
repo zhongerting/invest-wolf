@@ -1,0 +1,22 @@
+{
+  "post_num": 1137,
+  "date": "2026-03-06 15:03:09",
+  "content": "![img](assets/1137_ee7c655p.jpg)\n你们之前没利润的 现在这种博弈我估计你们搞不定噢\n我是因为周末 防一手的而已，不行就止损的",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者认为当前市场博弈难度较大，不适合没有利润储备的投资者。其个人因周末因素采取防御性策略，并做好了止损准备。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "当前市场处于高难度博弈阶段，缺乏利润垫的投资者风险承受能力弱。",
+      "作者因周末不确定性采取防御性调仓（防一手）。",
+      "明确止损策略，若后续走势不及预期将果断离场。"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 2511,
+  "date": "2026-05-12 14:12:26",
+  "content": "他看个P \n我有完整的交易策略 还有个交易员在我家做这些我平时不看的票 他负责按我的策略网格做T\n当然那些我主要做的还是我亲自操作",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者表达了对其交易体系的高度自信，透露其拥有完整策略，并雇佣交易员利用网格策略对非核心标的进行做T操作，而核心标的则由本人亲自管理。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "拥有完整的交易策略体系",
+      "采用网格交易策略进行做T操作",
+      "采取分级管理模式：核心标的亲自操作，非核心标的由交易员执行策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

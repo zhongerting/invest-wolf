@@ -1,0 +1,22 @@
+{
+  "post_num": 35,
+  "date": "2026-01-12 15:27:48",
+  "content": "我都不懂你看的是什么\n你复述一遍高开的情况下满足什么条件是高开加仓操作",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "用户对特定交易逻辑提出质疑，并要求对方明确在“高开”情况下触发“加仓”操作的具体技术条件。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "质疑他人的市场观察角度或分析逻辑",
+      "关注高开走势后的后续操作策略",
+      "探讨“高开加仓”的具体触发条件和执行标准"
+    ],
+    "analysis_method": "llm"
+  }
+}

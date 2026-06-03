@@ -1,0 +1,25 @@
+{
+  "post_num": 687,
+  "date": "2026-02-05 08:33:59",
+  "content": "反正前面高点卖过了  我指的是科技类，那今天开盘那个低点我个人肯定不卖的，哪有人高买低卖的 是吧",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者表示此前已在高位减仓科技类板块，面对今日开盘低点选择持仓不卖，坚持避免“高买低卖”的交易原则。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "此前已在科技类板块高点进行过减仓操作",
+      "明确表示不会在今日开盘低点进行恐慌性抛售",
+      "坚持不进行“高买低卖”的投资逻辑"
+    ],
+    "analysis_method": "llm"
+  }
+}

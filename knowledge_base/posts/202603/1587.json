@@ -1,0 +1,22 @@
+{
+  "post_num": 1587,
+  "date": "2026-03-30 12:02:12",
+  "content": "提价翻倍",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "该帖指出相关产品或服务价格出现翻倍式上涨，通常暗示相关公司业绩将大幅提升。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "核心逻辑为产品提价带来的业绩弹性",
+      "价格翻倍预示着极强的看涨信号"
+    ],
+    "analysis_method": "llm"
+  }
+}

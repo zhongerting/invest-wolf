@@ -1,0 +1,22 @@
+{
+  "post_num": 952,
+  "date": "2026-02-27 13:11:52",
+  "content": "看吧 等我去这个方向救你们吧 买得比我早没什么用的",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "发帖者表达了对某一特定投资方向的强烈信心，认为自己入场时机优于早期投资者，并暗示该方向即将迎来反转或上涨。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "发帖者计划进入某一特定投资方向进行“抄底”或救场",
+      "认为早期入场者目前处于被套或劣势状态，强调择时重要性",
+      "表现出极强的个人自信和对该方向短期反转的预期"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "post_num": 782,
+  "date": "2026-02-12 10:33:17",
+  "content": "这两天套在AI应用延申里面的 年都过不好了我估计",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出近期投资AI应用延伸板块的投资者普遍被套，由于临近春节，亏损导致市场情绪十分低落。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "AI应用延伸板块近期出现明显回调，导致追高投资者被套",
+      "市场亏钱效应显著，投资者对节前行情感到悲观"
+    ],
+    "analysis_method": "llm"
+  }
+}

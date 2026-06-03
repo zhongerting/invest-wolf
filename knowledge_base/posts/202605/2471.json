@@ -1,0 +1,24 @@
+{
+  "post_num": 2471,
+  "date": "2026-05-11 15:40:01",
+  "content": "这个板块高切低成功了啊  所以还能继续看 底线就是不能出2根孕线或者是放量跌破前一天低点。他板块涨就没事\n不过前面那些什么神剑啊 螳螂什么的 我觉得危险很高 或者说 不适合我操作。",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者认为当前板块已成功完成高低位切换，趋势仍可看好，但需关注技术面防守位。同时警示前期高位强势股风险，建议规避。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "板块高低位切换成功，维持看好观点",
+      "设定技术底线：不出现两根孕线或放量跌破前一日低点",
+      "规避前期涨幅过大的个股（如神剑等），认为其风险较高且不适合当前操作"
+    ],
+    "analysis_method": "llm"
+  }
+}

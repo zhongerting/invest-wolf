@@ -1,0 +1,24 @@
+{
+  "post_num": 1917,
+  "date": "2026-04-09 10:15:32",
+  "content": "我选的票不会有错 但是他减持不符合我的操作体系  \n我真是想砍人 不开玩笑\n之前我都把图画好了",
+  "analysis": {
+    "tags": [
+      "stock",
+      "technical",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "投资者对其选中的个股原本信心十足并已完成技术分析绘图，但因公司发布减持公告，严重违反了其操作体系，导致其情绪极度愤怒和沮丧。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "投资者对个股的前期技术面分析（画图）持肯定态度",
+      "公司股东减持行为触发了投资者的操作体系冲突",
+      "表达了强烈的负面情绪，反映出减持利空对原定投资计划的破坏"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 2189,
+  "date": "2026-04-22 09:44:31",
+  "content": "你们玩双跌停的 不要买太多了  这种吃一口就行\n![img](assets/2189_60c0b31f.jpg)",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者针对经历“双跌停”形态的个股提出交易建议，提醒投资者控制仓位，采取短线获利即走的策略，不可重仓博弈。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "针对“双跌停”个股的超跌反弹博弈建议",
+      "强调风险管理，提醒投资者不要买入过多（控制仓位）",
+      "明确短线交易策略，主张快进快出、见好就收"
+    ],
+    "analysis_method": "llm"
+  }
+}

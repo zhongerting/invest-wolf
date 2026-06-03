@@ -1,0 +1,22 @@
+{
+  "post_num": 1158,
+  "date": "2026-03-09 15:39:01",
+  "content": "![img](assets/1158_0460ad5u.jpg)\n这种消息能上新闻你们敢信",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对某条登上新闻的消息表示强烈质疑或不屑，认为此类内容不具备新闻价值或存在误导性，反映出对当前市场舆论环境的怀疑态度。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "质疑特定新闻报道的真实性、质量或必要性",
+      "暗示市场中存在大量无效噪音或“割韭菜”式的舆论引导",
+      "表达了对当前媒体关注点与实际投资逻辑严重脱节的惊讶"
+    ],
+    "analysis_method": "llm"
+  }
+}

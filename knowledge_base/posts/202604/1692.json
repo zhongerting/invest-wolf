@@ -1,0 +1,22 @@
+{
+  "post_num": 1692,
+  "date": "2026-04-01 14:03:19",
+  "content": "你们注意看  金银油都跳了  全市场都在谨慎对待明天早上9点的川普讲话",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "金、银、原油等大宗商品价格出现剧烈波动（跳水），市场正高度谨慎地关注特朗普明早9点的讲话，整体呈现避险观望态势。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "金、银、原油等大宗商品价格同步出现大幅波动或下跌",
+      "市场参与者对特朗普即将发表的讲话持极度谨慎态度",
+      "宏观政治不确定性导致市场避险情绪升温，资金趋于保守"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 1970,
+  "date": "2026-04-10 15:01:51",
+  "content": "![img](assets/1970_83073642.jpg)\n反正我不知道你们 我是这样的仓位收盘",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者分享了收盘时的个人持仓情况，以此展示其对当前市场的应对策略和操作立场。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者公开展示了收盘时的具体仓位配置",
+      "表达了独立于他人的操作态度（“反正我不知道你们”）",
+      "通过持仓行为暗示了其对后市的个人预期"
+    ],
+    "analysis_method": "llm"
+  }
+}

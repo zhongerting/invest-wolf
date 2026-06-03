@@ -1,0 +1,22 @@
+{
+  "post_num": 909,
+  "date": "2026-02-26 11:02:21",
+  "content": "最近机构猛吹升腾链 是这样的了",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "帖子指出近期机构投资者正在大力推崇华为昇腾产业链，反映了该板块目前受到的高度市场关注和资金热度。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "机构近期密集发布关于华为昇腾产业链的看好言论",
+      "昇腾链成为当前市场资金关注和博弈的重点方向"
+    ],
+    "analysis_method": "llm"
+  }
+}

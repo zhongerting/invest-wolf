@@ -1,0 +1,22 @@
+{
+  "post_num": 2506,
+  "date": "2026-05-12 11:46:24",
+  "content": "盘中我极限能给你们15分钟反应时间，这种喊单你们在哪能见过？",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者强调其盘中喊单的极高时效性，声称仅需15分钟反应时间，以此凸显其交易信号的独特性和专业性。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "强调盘中实时喊单的及时性",
+      "声称给投资者的反应时间极限为15分钟",
+      "表现出对自身喊单质量和速度的高度自信"
+    ],
+    "analysis_method": "llm"
+  }
+}

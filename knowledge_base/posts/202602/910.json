@@ -1,0 +1,21 @@
+{
+  "post_num": 910,
+  "date": "2026-02-26 11:06:06",
+  "content": "开会啊大哥",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "帖子内容极简，提及“开会”，通常指代市场正处于重要政策会议期间，反映了投资者对宏观政策动向的关注或对会议期间行情波动的反应。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "暗示市场当前受到重要会议（如政策性会议）的影响",
+      "表达了对政策面动向的关注或对会议期间市场表现的调侃"
+    ],
+    "analysis_method": "llm"
+  }
+}

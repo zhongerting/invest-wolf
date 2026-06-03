@@ -1,0 +1,25 @@
+{
+  "post_num": 712,
+  "date": "2026-02-05 13:55:37",
+  "content": "我把早上买的半导体一半又T出去 相当于低位加了一半 还吃到了利润\n这不挺好么![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "投资者分享了对半导体板块的日内T+0操作经验，通过低位加仓后高位卖出，成功降低了持仓成本并锁定了部分利润，表现出对该操作及板块走势的乐观情绪。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "执行了半导体板块的日内T+0交易策略",
+      "通过低买高卖实现了降低持仓成本的目标",
+      "成功获取了日内波动的利润，对当前交易结果表示满意"
+    ],
+    "analysis_method": "llm"
+  }
+}

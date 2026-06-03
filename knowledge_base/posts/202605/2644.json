@@ -1,0 +1,25 @@
+{
+  "post_num": 2644,
+  "date": "2026-05-20 10:01:54",
+  "content": "现在就是把所有人往半导体赶\n只是我们刚好就是专心持仓半导体而已 享受就行了",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场资金正大规模涌入半导体板块，并表示自己正坚定持仓，对该板块后续表现持非常乐观的态度，建议享受上涨红利。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "市场情绪和资金正被引导至半导体板块",
+      "作者采取专心持仓半导体的策略",
+      "对当前半导体板块的上涨行情持乐观及享受的态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

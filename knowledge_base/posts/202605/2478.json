@@ -1,0 +1,27 @@
+{
+  "post_num": 2478,
+  "date": "2026-05-11 16:21:41",
+  "content": "按指数目标和时间周期来说 今天过完新高后的三天内非常重要，谨慎对待，只要度过了就没事了",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者认为指数创新高后的三个交易日是关键的时间周期窗口，建议投资者在此期间保持谨慎，若能平稳度过则后市风险降低。",
+    "mentioned_sectors": [
+      "周期"
+    ],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "指数已达到阶段性目标并创下新高",
+      "未来三个交易日是判断趋势能否延续的关键时间节点",
+      "短期内应采取谨慎的交易策略以应对潜在波动",
+      "若能成功度过该时间窗口，市场后续走势将趋于乐观"
+    ],
+    "analysis_method": "llm"
+  }
+}

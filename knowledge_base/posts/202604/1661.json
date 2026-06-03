@@ -1,0 +1,22 @@
+{
+  "post_num": 1661,
+  "date": "2026-04-01 09:15:13",
+  "content": "这俩反弹我个人感觉要继续卖 反正我觉得这种都会补跌。",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者认为当前的反弹是卖出时机，预判相关标的后续会出现补跌行情。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "建议逢高（反弹时）继续卖出",
+      "预判标的存在补跌风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

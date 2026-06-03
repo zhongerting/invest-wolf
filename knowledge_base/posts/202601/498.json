@@ -1,0 +1,22 @@
+{
+  "post_num": 498,
+  "date": "2026-01-28 14:58:07",
+  "content": "美元不反弹 不卖",
+  "analysis": {
+    "tags": [
+      "market",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者将美元走势作为交易的核心参考指标，明确表示在美元指数未出现反弹迹象前，将维持现有仓位，不进行卖出操作。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "以美元指数的强弱作为卖出触发条件",
+      "在美元反弹前坚持持仓策略",
+      "暗示当前资产走势与美元负相关，看好后续空间"
+    ],
+    "analysis_method": "llm"
+  }
+}

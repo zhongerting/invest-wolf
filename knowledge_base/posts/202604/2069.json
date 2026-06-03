@@ -1,0 +1,23 @@
+{
+  "post_num": 2069,
+  "date": "2026-04-15 11:35:13",
+  "content": "国算\n所以我压根不知道 他们说国算亏的是什么问题",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者针对“国算”相关标的的亏损质疑表示不解，表达了对该板块或个股基本面的信心，对负面观点持怀疑态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "提及“国算”这一特定标的或概念",
+      "对市场上关于“国算”亏损的言论提出质疑",
+      "表现出对该投资标的较为积极的情绪倾向"
+    ],
+    "analysis_method": "llm"
+  }
+}

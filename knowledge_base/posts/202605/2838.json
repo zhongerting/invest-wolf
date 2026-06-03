@@ -1,0 +1,22 @@
+{
+  "post_num": 2838,
+  "date": "2026-05-28 22:25:29",
+  "content": "老美刚才出的数据你要看一下 直接把加息预期打没了",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "美国最新公布的经济数据表现超预期，导致市场对美联储进一步加息的预期大幅降温，宏观流动性压力有望得到缓解。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "美国最新经济数据发布，对货币政策预期产生重大影响",
+      "市场对美联储加息的预期被直接抹除",
+      "宏观环境向利好股市的方向转变"
+    ],
+    "analysis_method": "llm"
+  }
+}

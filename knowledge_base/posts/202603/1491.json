@@ -1,0 +1,23 @@
+{
+  "post_num": 1491,
+  "date": "2026-03-24 15:11:57",
+  "content": "昨天用议长吃了一波 今天换个更大牌的看看能不能再吃一波",
+  "analysis": {
+    "tags": [
+      "stock",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "用户昨日通过“议长”相关概念股（通常指佩洛西等政治人物关联标的）获利，今日计划切换至影响力更大的相关概念标的，试图延续盈利，体现了典型的热点博弈和短线交易策略。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "昨日利用“议长”相关政治概念股成功获利",
+      "今日计划寻找“更大牌”的政治人物或更强力的催化剂进行交易",
+      "表现出明显的短线追热点和博弈情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

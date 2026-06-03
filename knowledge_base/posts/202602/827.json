@@ -1,0 +1,20 @@
+{
+  "post_num": 827,
+  "date": "2026-02-13 09:32:42",
+  "content": "就这？ 我红了",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者表达其投资账户已转为盈利状态（红了），并对之前的市场调整或压力表现出不屑或轻松的态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "作者账户实现盈利（由绿转红）",
+      "对当前市场波动或下跌压力持轻视态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

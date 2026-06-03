@@ -1,0 +1,23 @@
+{
+  "post_num": 252,
+  "date": "2026-01-20 10:42:22",
+  "content": "这都ETF才2个点的波动 我都不懂操作空间在哪",
+  "analysis": {
+    "tags": [
+      "market",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "用户抱怨当前 ETF 波动率过低（仅 2%），认为市场缺乏足够的交易空间和获利机会。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "ETF 波动幅度仅为 2%，处于低波动状态",
+      "投资者认为当前波动程度不足以支撑有效的买卖操作",
+      "表达了对市场活跃度不足或获利难度大的不满情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

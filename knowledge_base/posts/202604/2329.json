@@ -1,0 +1,22 @@
+{
+  "post_num": 2329,
+  "date": "2026-04-29 14:26:58",
+  "content": "我不想说那边 我感觉危险系数开始加大",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为特定市场或方向的危险系数正在加大，表达了明显的谨慎和担忧情绪，倾向于回避相关话题。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "感知到市场危险系数开始加大",
+      "对特定领域（“那边”）持回避态度",
+      "整体投资情绪偏向谨慎防守"
+    ],
+    "analysis_method": "llm"
+  }
+}

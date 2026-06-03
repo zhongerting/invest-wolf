@@ -1,0 +1,22 @@
+{
+  "post_num": 2901,
+  "date": "2026-06-03 08:12:51",
+  "content": "![img](assets/2901_17629fgy.jpg)\n老登天塌了啊 ![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖通过网络热梗“老登天塌了”表达了对美国政治局势（通常指拜登相关动态）可能引发市场剧烈波动的震惊或调侃，反映了投资者对宏观政治风险的高度敏感。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "关注美国政治变动（如拜登选情或政策变化）对市场的潜在冲击",
+      "反映了市场对“拜登交易”预期可能逆转的担忧",
+      "情绪表现为对突发宏观利空或重大变局的调侃式恐慌"
+    ],
+    "analysis_method": "llm"
+  }
+}

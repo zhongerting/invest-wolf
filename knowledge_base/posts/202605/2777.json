@@ -1,0 +1,20 @@
+{
+  "post_num": 2777,
+  "date": "2026-05-27 13:44:34",
+  "content": "怎么可能  南宁的快被烤熟了",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖子内容主要是在抱怨广西南宁的天气异常炎热，属于生活类感叹，与股票投资或市场分析无直接关联。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "发帖者反映南宁气温极高",
+      "内容不涉及任何具体的股票、板块或市场趋势分析"
+    ],
+    "analysis_method": "llm"
+  }
+}

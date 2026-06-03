@@ -1,0 +1,23 @@
+{
+  "post_num": 1117,
+  "date": "2026-03-06 09:46:31",
+  "content": "飞天小摩托我今天就会止盈了",
+  "analysis": {
+    "tags": [
+      "stock",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "用户计划在今日对其持有的特定标的（昵称为“飞天小摩托”）进行止盈卖出操作。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "明确表达了今日止盈的交易意图",
+      "涉及特定个股或标的（昵称：飞天小摩托）",
+      "反映了用户已获得阶段性收益并选择落袋为安"
+    ],
+    "analysis_method": "llm"
+  }
+}

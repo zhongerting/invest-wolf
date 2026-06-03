@@ -1,0 +1,22 @@
+{
+  "post_num": 410,
+  "date": "2026-01-27 11:00:55",
+  "content": "下跌家数 4000+  \n你们嚎啊   为什么不嚎啊  你们不嚎我不习惯啊",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "市场呈现普跌态势，下跌个股超过4000家。作者以嘲讽语气评论投资者的集体沉默，反映出市场情绪极度低迷。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "全市场下跌家数超过4000只，属于典型的普跌行情。",
+      "市场情绪处于低谷，投资者普遍出现亏钱效应后的沉默。",
+      "作者言论带有明显的嘲讽和情绪化色彩，侧面印证了市场环境的恶劣。"
+    ],
+    "analysis_method": "llm"
+  }
+}

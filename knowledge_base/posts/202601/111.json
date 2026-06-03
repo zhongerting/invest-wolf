@@ -1,0 +1,25 @@
+{
+  "post_num": 111,
+  "date": "2026-01-15 13:38:03",
+  "content": "那些柚子 散户 不懂半导体的 他们不会来的  他们手握资金要去干龙回头的。",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为游资和散户因不了解半导体板块而不会介入，目前市场资金主要流向“龙回头”形态的个股，反映了资金对特定技术形态的偏好。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "游资和散户对半导体板块参与度低，认为其存在认知门槛",
+      "市场存量资金倾向于寻找前期强势股的回调机会，即“龙回头”策略",
+      "半导体板块当前缺乏游资和散户的资金支持"
+    ],
+    "analysis_method": "llm"
+  }
+}

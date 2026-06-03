@@ -1,0 +1,24 @@
+{
+  "post_num": 758,
+  "date": "2026-02-09 15:01:00",
+  "content": "收盘价格为当日最高  微微放量1000E  收了个4123的顺子 非常好  \n目前至少这里GJD没动手 那就是好事",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "市场收于当日最高点并伴随成交量微增，指数呈现特定数字形态。作者认为在无国家队干预的情况下市场表现良好，释放出积极信号。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "收盘价位于全天最高位，显示多头力量强劲",
+      "成交量较前一交易日小幅放大约1000亿",
+      "指数收盘呈现4123的数字形态，作者评价正面",
+      "国家队（GJD）未入场干预被视为市场内生性走强的利好信号"
+    ],
+    "analysis_method": "llm"
+  }
+}

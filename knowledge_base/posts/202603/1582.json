@@ -1,0 +1,22 @@
+{
+  "post_num": 1582,
+  "date": "2026-03-30 11:07:48",
+  "content": "我明确说了  今年没有3500这个选项。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者明确断言今年市场（通常指上证指数）没有触及 3500 点的可能性，表达了对市场上涨空间的强烈否定。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "明确排除今年指数达到 3500 点的预期",
+      "对市场年度上行空间持悲观态度",
+      "语气坚定，展现出较强的个人观点倾向"
+    ],
+    "analysis_method": "llm"
+  }
+}

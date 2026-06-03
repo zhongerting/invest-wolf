@@ -1,0 +1,22 @@
+{
+  "post_num": 1167,
+  "date": "2026-03-11 10:46:59",
+  "content": "电池不是  电网是跟算电  光伏是战争延续的欧洲需求重提  你们连逻辑都不懂？",
+  "analysis": {
+    "tags": [
+      "sector",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对新能源内部板块的上涨逻辑进行了辨析，否定了电池板块，认为电网板块受算力需求驱动，而光伏板块则是基于欧洲能源需求的重新抬头。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "否定电池板块当前的投资逻辑",
+      "认为电网板块的逻辑核心在于支撑算力相关的电力需求",
+      "指出光伏板块的逻辑在于地缘冲突背景下欧洲需求的重新提振"
+    ],
+    "analysis_method": "llm"
+  }
+}

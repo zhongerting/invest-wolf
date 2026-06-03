@@ -1,0 +1,23 @@
+{
+  "post_num": 161,
+  "date": "2026-01-16 10:48:11",
+  "content": "![img](assets/161_22792969.jpg)\n赶紧卖铜",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者发出紧急卖出指令，强烈建议投资者抛售铜相关资产，表现出极度看空的态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "发出明确的卖出指令",
+      "对铜价后续走势持极度悲观态度",
+      "操作建议具有较强的紧迫性"
+    ],
+    "analysis_method": "llm"
+  }
+}

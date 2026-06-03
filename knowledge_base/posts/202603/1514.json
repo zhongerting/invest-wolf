@@ -1,0 +1,22 @@
+{
+  "post_num": 1514,
+  "date": "2026-03-25 17:13:54",
+  "content": "反正明天肯定有很多3950之后在冲的那一下进来的人\n这些人大概率是被割的那种 我明天算一下告诉你们有多少这种人",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为在 3950 点上方追高入场的投资者大概率会被收割，并计划在次日通过数据计算这部分追涨人群的具体规模。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "指出 3950 点位后的冲高吸引了大量追涨资金",
+      "预测追高入场的投资者面临被套或亏损（被割）的风险",
+      "作者意图通过量化手段分析追涨盘的规模"
+    ],
+    "analysis_method": "llm"
+  }
+}

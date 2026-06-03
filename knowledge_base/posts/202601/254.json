@@ -1,0 +1,20 @@
+{
+  "post_num": 254,
+  "date": "2026-01-20 10:52:14",
+  "content": "不知道啊 不是我弄的",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该内容不涉及任何股票投资、市场分析或行业板块信息，仅为作者表达不了解情况或否认某项行为的陈述。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "内容与股市投资分析无关",
+      "作者表达了不了解或否认的态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

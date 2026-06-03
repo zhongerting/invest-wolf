@@ -1,0 +1,23 @@
+{
+  "post_num": 1286,
+  "date": "2026-03-18 11:08:04",
+  "content": "千万不要倒在这里  宁可去打工也不要倒在这里",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "帖子表达了在市场极端低迷时期的绝望情绪与生存压力，呼吁投资者无论如何要坚持住，避免在市场底部区域彻底出局。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "反映了投资者极度的挫败感和心理压力",
+      "强调了在市场艰难时刻“生存”的重要性",
+      "暗示当前市场环境极其恶劣，甚至让投资者产生放弃投资去打工的念头",
+      "典型的市场底部恐慌情绪流露"
+    ],
+    "analysis_method": "llm"
+  }
+}

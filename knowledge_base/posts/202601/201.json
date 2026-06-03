@@ -1,0 +1,21 @@
+{
+  "post_num": 201,
+  "date": "2026-01-17 11:57:20",
+  "content": "踏马的甘![瞎](https://img4.nga.178.com/ngabbs/post/smile/ac35.png)",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "发帖者通过情绪化语言表达了对市场或个股表现的强烈不满和愤怒，属于典型的负面情绪宣泄。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "情绪极度负面",
+      "表达了强烈的挫败感或愤怒",
+      "内容缺乏具体的逻辑分析或操作建议"
+    ],
+    "analysis_method": "llm"
+  }
+}

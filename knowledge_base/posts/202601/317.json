@@ -1,0 +1,22 @@
+{
+  "post_num": 317,
+  "date": "2026-01-22 09:20:34",
+  "content": "所以以后说数据要严谨，看错数据那条件就错了，复盘都不认真的话怎么炒股",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者强调了炒股中数据严谨性和认真复盘的重要性，认为数据错误会导致交易前提失效，批评了不认真的交易态度。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "强调交易数据的严谨性与准确性是分析的基础",
+      "指出数据错误会导致分析逻辑和交易条件的失效",
+      "强调认真复盘是职业交易者必备的基本功"
+    ],
+    "analysis_method": "llm"
+  }
+}

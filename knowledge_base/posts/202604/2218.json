@@ -1,0 +1,22 @@
+{
+  "post_num": 2218,
+  "date": "2026-04-23 13:42:52",
+  "content": "说了等2点等2点\n行不行也要看结果",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者强调关注下午两点这一关键时间节点的市场表现，主张在特定时间点观察结果后再做进一步判断，表现出谨慎观望的态度。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "将下午2点视为判断市场走势的关键时间窗口",
+      "主张尊重市场实际走势，等待结果确认后再行动",
+      "表达了对盘面不确定性的观望情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

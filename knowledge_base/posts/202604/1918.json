@@ -1,0 +1,22 @@
+{
+  "post_num": 1918,
+  "date": "2026-04-09 10:18:42",
+  "content": "86% 没到减仓条件",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者认为当前特定指标（86%）尚未触发减仓信号，建议继续持有头寸。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "当前数值为86%，处于持仓观察区",
+      "明确指出目前不满足减仓的技术或策略条件",
+      "倾向于看好后市或维持现有仓位不变"
+    ],
+    "analysis_method": "llm"
+  }
+}

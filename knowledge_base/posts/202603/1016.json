@@ -1,0 +1,24 @@
+{
+  "post_num": 1016,
+  "date": "2026-03-02 14:38:05",
+  "content": "我随便买的  都一样吧 北铜柚子多点  江铜机构多点",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对比了北方铜业和江西铜业的筹码结构，指出北铜游资较多而江铜机构较多，并表达了随性购买的投资态度。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "北方铜业（北铜）的参与者以游资（柚子）为主",
+      "江西铜业（江铜）的参与者以机构投资者为主",
+      "作者认为两者在投资选择上差异不大，采取随性买入的策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

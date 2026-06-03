@@ -1,0 +1,21 @@
+{
+  "post_num": 1827,
+  "date": "2026-04-03 14:10:04",
+  "content": "不用怀疑 4.6就是新规出台 就是削弱量化",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "该贴观点明确，认为 4.6 出台的新规核心目的在于削弱量化交易，反映了对监管政策走向的解读。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "认为 4.6 发布的新规是针对量化交易的专项监管",
+      "明确指出政策意图在于削弱量化交易在市场中的影响力"
+    ],
+    "analysis_method": "llm"
+  }
+}

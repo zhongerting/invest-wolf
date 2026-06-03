@@ -1,0 +1,21 @@
+{
+  "post_num": 2751,
+  "date": "2026-05-26 14:12:34",
+  "content": "我不信 也不服",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者对当前市场行情或特定变动表达了强烈的不信任和不服输的情绪，属于典型的个人主观情绪宣泄。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "对当前市场走势或结果持强烈的怀疑态度",
+      "表现出明显的心理抗拒和不服输的对赌心态",
+      "内容缺乏具体的逻辑分析或事实支撑"
+    ],
+    "analysis_method": "llm"
+  }
+}

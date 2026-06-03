@@ -1,0 +1,22 @@
+{
+  "post_num": 836,
+  "date": "2026-02-13 10:09:33",
+  "content": "对了 收破4113就减仓  今天中轨在4113",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者以 4113 点（技术面中轨）作为关键支撑位，建议若收盘价跌破该点位则采取减仓策略。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "技术参考：今日布林线或其他指标的中轨位于 4113 点",
+      "操作建议：收盘价若低于 4113 点，应执行减仓操作",
+      "风险提示：该观点强调了跌破关键支撑位后的防御性操作"
+    ],
+    "analysis_method": "llm"
+  }
+}

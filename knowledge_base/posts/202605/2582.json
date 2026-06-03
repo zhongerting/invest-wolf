@@ -1,0 +1,20 @@
+{
+  "post_num": 2582,
+  "date": "2026-05-14 14:38:24",
+  "content": "都没达到目的 这可不么  不然为什么我在这里和你们吹水",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者自嘲投资目标未能达成，目前在社交平台闲聊，反映出一种投资不顺后的无奈或消极情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "投资目标未达成",
+      "目前处于闲聊/吹水状态，缺乏实质性操作或分析"
+    ],
+    "analysis_method": "llm"
+  }
+}

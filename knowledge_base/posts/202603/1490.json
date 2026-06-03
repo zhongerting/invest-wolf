@@ -1,0 +1,22 @@
+{
+  "post_num": 1490,
+  "date": "2026-03-24 15:02:31",
+  "content": "昨天买了280E 今天到现在麦了200E",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "用户分享了其大额资金的短线操作动态：昨日买入280亿，今日已卖出200亿，显示出极短线的调仓或获利了结行为。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "昨日买入规模达280亿（E代表亿）",
+      "今日已卖出200亿，存在明显的减仓或短线套利行为",
+      "操作风格属于典型的T+1或超短线策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

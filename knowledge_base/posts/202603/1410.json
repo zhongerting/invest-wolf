@@ -1,0 +1,24 @@
+{
+  "post_num": 1410,
+  "date": "2026-03-23 09:56:52",
+  "content": "我只能说我觉得国算是目前跌得比较少的 所以我会等反抽。",
+  "analysis": {
+    "tags": [
+      "stock",
+      "technical",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者认为“国算”相关标的近期表现相对抗跌，跌幅较小，因此决定采取等待反抽的交易策略。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "“国算”标的目前跌幅相对较小，表现出一定的抗跌性",
+      "作者预期该标的后续会出现反抽行情",
+      "目前的交易策略是持仓或等待反抽机会"
+    ],
+    "analysis_method": "llm"
+  }
+}

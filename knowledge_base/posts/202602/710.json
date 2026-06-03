@@ -1,0 +1,24 @@
+{
+  "post_num": 710,
+  "date": "2026-02-05 13:43:54",
+  "content": "金融护盘了  不错不错",
+  "analysis": {
+    "tags": [
+      "sector",
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到金融板块正在进行护盘操作，并对此表现出积极认可的态度。",
+    "mentioned_sectors": [
+      "金融"
+    ],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "金融板块发挥了护盘作用，阻止市场进一步下跌",
+      "作者对当前金融板块的表现持肯定和乐观态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

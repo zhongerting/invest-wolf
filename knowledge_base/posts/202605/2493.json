@@ -1,0 +1,22 @@
+{
+  "post_num": 2493,
+  "date": "2026-05-11 22:34:13",
+  "content": "没分辨能力的 被收割是正常的\n牛市才是亏损的来源 因为太狂热 太好骗了",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者警示投资者，缺乏辨别能力在牛市中极易因盲目狂热和受骗而导致亏损，认为牛市往往是多数人亏损的根源。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "缺乏分辨能力的投资者在市场中必然会被“收割”",
+      "牛市的狂热氛围是导致投资者大幅亏损的主要诱因",
+      "投资者在牛市中容易因情绪化而丧失理智，变得容易被欺骗"
+    ],
+    "analysis_method": "llm"
+  }
+}

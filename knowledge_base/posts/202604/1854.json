@@ -1,0 +1,22 @@
+{
+  "post_num": 1854,
+  "date": "2026-04-07 14:34:11",
+  "content": "双头\n目前空X的已经有4个双头甚至超过双头了",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者指出当前市场中已出现多个“双头”技术形态，暗示股价可能见顶并面临回调风险，空头力量正在聚集。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "识别出市场中存在4个或更多“双头”技术形态",
+      "暗示市场上涨动力衰竭，存在明显的反转看空信号",
+      "空头情绪浓厚，认为当前走势已达到或超过双头形态的压力位"
+    ],
+    "analysis_method": "llm"
+  }
+}

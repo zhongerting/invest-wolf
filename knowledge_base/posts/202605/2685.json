@@ -1,0 +1,26 @@
+{
+  "post_num": 2685,
+  "date": "2026-05-21 13:46:18",
+  "content": "今天玻璃基佬板刚好卡在退潮期出来  也没办法带动板块级别效应吃掉半导体外溢的资金\n可惜了",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "分析指出玻璃基板板块在市场退潮期出现，未能形成板块联动效应，且无法有效承接半导体板块流出的外溢资金，表现不及预期。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "玻璃基板板块上线时机不佳，处于市场退潮期",
+      "该板块未能产生足够的板块级别效应",
+      "半导体板块的外溢资金未被玻璃基板板块有效吸收",
+      "作者对当前板块的资金承接能力持遗憾和消极态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

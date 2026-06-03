@@ -1,0 +1,22 @@
+{
+  "post_num": 971,
+  "date": "2026-02-27 21:26:56",
+  "content": "你这种别做期货啊  一个来回可以死三次",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "该帖子是一则针对期货交易的风险警示，作者强调期货市场波动剧烈且风险极高，认为特定投资者不具备参与期货交易的风险承受能力，警告其远离该市场以防严重亏损。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "警示期货交易具有极高的波动性和风险性",
+      "指出期货交易中的“来回”波动可能导致投资者快速且多次破产（爆仓）",
+      "建议风险意识或技术不足的投资者不要参与期货交易"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 1108,
+  "date": "2026-03-05 21:29:25",
+  "content": "黄金分割只用0.382和0.618",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者分享了黄金分割技术分析的简化应用方法，主张在交易中仅参考 0.382 和 0.618 两个核心比例，剔除其他冗余数值。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "主张简化黄金分割工具的使用方法",
+      "核心关注 0.382 比例位",
+      "核心关注 0.618 比例位"
+    ],
+    "analysis_method": "llm"
+  }
+}

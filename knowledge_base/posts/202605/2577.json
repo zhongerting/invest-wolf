@@ -1,0 +1,21 @@
+{
+  "post_num": 2577,
+  "date": "2026-05-14 14:14:19",
+  "content": "反而会把后面的涨幅降低",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者表达了对当前市场走势或某种操作的担忧，认为这会透支未来的上涨空间，导致后续涨幅收窄。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "当前行为可能对未来的上涨动力产生负面影响",
+      "预期后续涨幅将因当前情况而降低"
+    ],
+    "analysis_method": "llm"
+  }
+}

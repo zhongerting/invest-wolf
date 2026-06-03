@@ -1,0 +1,22 @@
+{
+  "post_num": 1284,
+  "date": "2026-03-18 10:57:32",
+  "content": "现在是战争题材带下去的。除了战争题材 其他都没什么量了",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "市场目前受战争题材拖累整体走弱，除战争相关板块外，其他板块普遍缺乏成交量，显示市场流动性枯竭且情绪低迷。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "战争题材是导致当前市场下跌的主要诱因",
+      "市场除战争题材外，其他板块均面临成交量萎缩的问题"
+    ],
+    "analysis_method": "llm"
+  }
+}

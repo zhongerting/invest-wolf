@@ -1,0 +1,21 @@
+{
+  "post_num": 1387,
+  "date": "2026-03-20 16:15:56",
+  "content": "不做\n斩钉截铁",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者以极其坚决的态度表达了不参与交易、不进行操作的立场，展现了强烈的空仓或观望情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "明确表示拒绝进行任何交易操作",
+      "态度斩钉截铁，显示出极强的离场或观望决心"
+    ],
+    "analysis_method": "llm"
+  }
+}

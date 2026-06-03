@@ -1,0 +1,27 @@
+{
+  "post_num": 1153,
+  "date": "2026-03-09 14:24:30",
+  "content": "到压力位没有金融\n我估计尾盘还要拉石油那些东西避险。。。。MD 麻烦",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sector",
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "市场触及压力位但缺乏金融板块支撑，作者预计尾盘可能通过拉升石油等板块进行避险，对当前行情走势表达了不满和担忧。",
+    "mentioned_sectors": [
+      "金融"
+    ],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "指数已到达技术压力位",
+      "金融板块表现不及预期，未能助力突破",
+      "预测尾盘石油等避险板块会出现拉升",
+      "投资者情绪烦躁，对当前市场结构不看好"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 2544,
+  "date": "2026-05-13 15:16:38",
+  "content": "明天我的AI软再不能吃肉我就杀了里面那些主力",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者表达了对AI软件板块当前表现的强烈不满，并设定明天为最后期限，若无法获利则计划清仓离场，反映出极度的急躁和负面情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "持仓标的属于AI软件板块",
+      "对板块内主力资金不作为的表现极度愤慨",
+      "设定了极短的时间窗口（明天）作为持股底线，存在强烈的止损或清仓意向"
+    ],
+    "analysis_method": "llm"
+  }
+}

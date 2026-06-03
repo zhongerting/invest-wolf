@@ -1,0 +1,23 @@
+{
+  "post_num": 417,
+  "date": "2026-01-27 11:56:38",
+  "content": "先要期货分胜负，股票才能被迫补涨\n参考贵金属期货和股票",
+  "analysis": {
+    "tags": [
+      "market",
+      "strategy",
+      "sector"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为期货市场具有价格发现的领先作用，股票市场的上涨往往滞后于期货趋势的确立，并以贵金属板块作为此类联动逻辑的参考依据。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "期货市场走势领先于股票市场，是行情启动的前导信号",
+      "股票市场在期货趋势明确后会产生“被迫补涨”的联动效应",
+      "贵金属板块是观察期现联动、期货引领股票走势的典型案例"
+    ],
+    "analysis_method": "llm"
+  }
+}

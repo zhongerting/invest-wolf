@@ -1,0 +1,24 @@
+{
+  "post_num": 1098,
+  "date": "2026-03-05 14:51:39",
+  "content": "伊朗说没封锁  石油期货还没什么事  石油股票先跳了 \nT+1市场最真实",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到在伊朗否认封锁且石油期货表现平稳的情况下，石油板块股票却率先下跌，认为 T+1 市场反应了最真实的市场情绪与风险预期。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "伊朗官方表示未进行封锁，地缘政治压力暂缓",
+      "石油期货价格尚未出现大幅波动",
+      "石油相关股票出现先行下跌走势",
+      "作者认为 T+1 市场的波动体现了市场最真实的反馈"
+    ],
+    "analysis_method": "llm"
+  }
+}

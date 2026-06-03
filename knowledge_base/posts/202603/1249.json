@@ -1,0 +1,24 @@
+{
+  "post_num": 1249,
+  "date": "2026-03-17 10:33:49",
+  "content": "目前暂定是GJD顶指数  全场包括机构 柚子 量化全都在等确认信号。没有任何操作。确认为什么 确认要做什么 确认为什么在这个时候",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "当前市场主要靠国家队支撑指数，机构、游资及量化等各类资金均处于观望状态，集体等待明确的确认信号，市场操作陷入停滞。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "国家队（GJD）目前在发力顶住指数",
+      "机构、游资、量化等主流参与者目前均无操作，保持空仓或观望",
+      "全场资金都在等待进一步的确认信号",
+      "作者对确认信号的触发原因、后续动作及时间点存在疑虑和观察"
+    ],
+    "analysis_method": "llm"
+  }
+}

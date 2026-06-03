@@ -1,0 +1,21 @@
+{
+  "post_num": 541,
+  "date": "2026-01-29 23:13:37",
+  "content": "石油期货止盈一半",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者对其持有的石油期货头寸进行了减仓操作，卖出了一半仓位以锁定利润。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "对石油期货头寸进行止盈",
+      "减仓比例为持仓的一半"
+    ],
+    "analysis_method": "llm"
+  }
+}

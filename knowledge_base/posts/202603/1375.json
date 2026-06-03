@@ -1,0 +1,24 @@
+{
+  "post_num": 1375,
+  "date": "2026-03-20 15:39:58",
+  "content": "科创50从高点算到今天刚好34天好像。。。希望周一能活一下吧 不过寒武纪今天走了个放量上下插针 也是麻烦",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "stock",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者关注科创50指数调整34天的时间周期，期待周一反弹；同时指出个股寒武纪出现放量上下插针走势，表达了对技术面压力的担忧。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "科创50指数调整进入第34天的时间窗口，作者期待短期反弹。",
+      "个股寒武纪出现放量上下插针K线，显示多空分歧剧烈且上方存在抛压。",
+      "整体情绪偏向谨慎，认为当前技术走势较为棘手。"
+    ],
+    "analysis_method": "llm"
+  }
+}

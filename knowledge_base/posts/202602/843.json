@@ -1,0 +1,21 @@
+{
+  "post_num": 843,
+  "date": "2026-02-13 10:50:02",
+  "content": "他说的你们也信的？有钱谁不挣",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖表达了对他人言论的强烈质疑，认为在利益驱动的市场中，不应盲目相信他人的观点，体现了对市场消息的警惕和不信任感。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "对特定信息来源的真实性表示怀疑",
+      "强调逐利是市场参与者的核心本能",
+      "提醒其他投资者保持独立思考，不要轻信他人言论"
+    ],
+    "analysis_method": "llm"
+  }
+}

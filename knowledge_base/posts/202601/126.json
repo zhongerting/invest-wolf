@@ -1,0 +1,19 @@
+{
+  "post_num": 126,
+  "date": "2026-01-15 14:51:13",
+  "content": "![img](assets/126_72dd2e5i.jpg)\n你就不能看完？",
+  "analysis": {
+    "tags": [],
+    "category": "other",
+    "summary": "该内容仅包含一句反问“你就不能看完？”，且图片信息无法获取，不涉及任何股票投资相关的实质性分析或市场观点。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "内容不涉及股市投资相关信息",
+      "文本表达的是对阅读或观看完整性的抱怨/要求",
+      "缺乏可供分析的金融数据或市场逻辑"
+    ],
+    "analysis_method": "llm"
+  }
+}

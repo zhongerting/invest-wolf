@@ -1,0 +1,23 @@
+{
+  "post_num": 954,
+  "date": "2026-02-27 13:18:44",
+  "content": "那是后续的事 我先把钱挣了 剩下的等接盘或者破位",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment",
+      "technical"
+    ],
+    "category": "trading_signal",
+    "summary": "作者表达了典型的短线投机策略，主张优先锁定当前利润，将后续的接盘风险或技术破位风险留待以后处理，体现了“落袋为安”和“趋势跟随”的思维。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "短期获利优先，不考虑长期潜在风险",
+      "关注后续是否有接盘资金或市场承接力",
+      "以技术面“破位”作为后续离场或止损的判断标准"
+    ],
+    "analysis_method": "llm"
+  }
+}

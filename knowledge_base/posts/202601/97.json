@@ -1,0 +1,24 @@
+{
+  "post_num": 97,
+  "date": "2026-01-15 11:00:12",
+  "content": "对  半导体设备\n至少上半年是  下半年找材料",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "该观点建议在半导体产业链内进行阶段性布局：上半年重点关注半导体设备，下半年则应转向寻找材料领域的投资机会。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "上半年看好半导体设备板块的投资机会",
+      "下半年建议将关注点切换至半导体材料",
+      "提出了基于时间维度的半导体细分板块轮动策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

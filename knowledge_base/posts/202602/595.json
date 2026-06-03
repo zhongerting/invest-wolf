@@ -1,0 +1,23 @@
+{
+  "post_num": 595,
+  "date": "2026-02-02 13:08:55",
+  "content": "机器人目前就是靠消息啊  所以暂时只做T链，那个天奇就是个股抱团而已了  。",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "stock"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为机器人板块目前主要受消息面驱动，建议投资策略上仅关注特斯拉产业链（T链），并指出天奇股份当前的走势属于个股资金抱团行为。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "机器人板块当前上涨逻辑主要依赖消息面驱动",
+      "投资范围目前局限于特斯拉产业链（T链）",
+      "天奇股份的行情被定义为个股层面的资金抱团"
+    ],
+    "analysis_method": "llm"
+  }
+}

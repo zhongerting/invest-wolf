@@ -1,0 +1,23 @@
+{
+  "post_num": 527,
+  "date": "2026-01-29 15:13:29",
+  "content": "看自己仓位 60%左右都可以，加仓就不行  \n我防他一手万一不压盘了  但是也不护盘了非要摁那200个点调整怎么办。\n剩下的仓位要么突破上去 要么回调到位再说",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "technical",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "建议维持60%左右的仓位并停止加仓，以防范市场可能出现的200点深度调整。后续操作需等待行情向上突破或回调到位后再做决定。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "建议仓位控制在60%左右，当前不宜继续加仓",
+      "担忧市场可能出现200点规模的深度调整风险",
+      "采取观望策略，等待向上突破或回调企稳的明确信号"
+    ],
+    "analysis_method": "llm"
+  }
+}

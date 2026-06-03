@@ -1,0 +1,21 @@
+{
+  "post_num": 2897,
+  "date": "2026-06-02 14:59:37",
+  "content": "？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？\n算了 我算是见识到你们的能力了",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者表达了极度的挫败感和对他人（可能是分析师或投资者群体）能力的质疑，内容纯属情绪宣泄，缺乏实质性市场分析。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "作者表现出强烈的负面情绪和失望感",
+      "对相关方的专业能力或预测准确性表示否定",
+      "未提及任何具体的投资逻辑、板块或个股信息"
+    ],
+    "analysis_method": "llm"
+  }
+}

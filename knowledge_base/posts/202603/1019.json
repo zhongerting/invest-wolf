@@ -1,0 +1,22 @@
+{
+  "post_num": 1019,
+  "date": "2026-03-02 14:44:15",
+  "content": "任何个股+5买这个事至少在我的楼里面已经是证明是 <span class=\"red\">最差买点 没有之一</span>了",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者强烈反对在个股涨幅达到5%时进行追高买入，认为这是经过实证后的“最差买点”，警示交易风险。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "明确指出个股上涨5%时是极其危险的入场点",
+      "该观点在作者的讨论环境中已被多次验证为失败策略",
+      "警示投资者不要在个股冲高阶段盲目追涨"
+    ],
+    "analysis_method": "llm"
+  }
+}

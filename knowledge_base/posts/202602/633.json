@@ -1,0 +1,24 @@
+{
+  "post_num": 633,
+  "date": "2026-02-03 13:00:01",
+  "content": "我收盘前撤  不参与小作文\n我等M头化解了去别的做长线。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "technical",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者因规避市场传闻风险及技术面“M头”压力，决定收盘前撤资离场，并计划在风险化解后寻找其他标的进行长线投资。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "收盘前清仓撤资，规避市场传闻（小作文）带来的不确定性",
+      "识别到技术面存在“M头”形态，认为当前存在回调风险",
+      "采取避险策略，等待技术形态化解后再做打算",
+      "未来计划调整投资风格，转向其他标的进行长线布局"
+    ],
+    "analysis_method": "llm"
+  }
+}

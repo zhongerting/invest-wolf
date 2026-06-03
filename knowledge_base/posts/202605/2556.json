@@ -1,0 +1,20 @@
+{
+  "post_num": 2556,
+  "date": "2026-05-14 10:51:46",
+  "content": "对",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "内容仅包含一个“对”字，表达了肯定或赞同的态度，但缺乏具体的市场分析、个股信息或投资建议。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "表达肯定或赞同",
+      "无实质性投资分析内容"
+    ],
+    "analysis_method": "llm"
+  }
+}

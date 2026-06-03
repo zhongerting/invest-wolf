@@ -1,0 +1,24 @@
+{
+  "post_num": 2750,
+  "date": "2026-05-26 12:32:54",
+  "content": "下午注意会不会触发量化止损(类似上周4)  如果没有触发  今天日低有效 能判断的就是管到明天早上10点半。",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "提示关注下午是否触发量化止损。若未触发，则今日低点视为有效支撑，该判断有效期预计持续至明日上午10:30。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "警惕下午可能重复上周四的量化止损触发情况",
+      "若未触发止损，则确认今日日内低点为有效支撑位",
+      "当前技术面判断的时效性较短，仅覆盖至明日上午10:30"
+    ],
+    "analysis_method": "llm"
+  }
+}

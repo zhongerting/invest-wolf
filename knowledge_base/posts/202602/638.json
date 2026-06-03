@@ -1,0 +1,21 @@
+{
+  "post_num": 638,
+  "date": "2026-02-03 14:09:37",
+  "content": "我尾盘出",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "用户计划在当日交易的尾盘阶段卖出持仓，表达了明确的离场意愿。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "计划在尾盘进行卖出操作",
+      "体现了对短期后市的谨慎态度或获利了结的意图"
+    ],
+    "analysis_method": "llm"
+  }
+}

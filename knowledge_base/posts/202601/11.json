@@ -1,0 +1,23 @@
+{
+  "post_num": 11,
+  "date": "2026-01-12 11:15:13",
+  "content": "嗯 稀土 游戏 不要看他就对了 看了什么时候都想卖",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者建议投资者在持有稀土和游戏板块时避免频繁查看行情，认为这两个板块目前的波动或表现容易让人产生卖出冲动，建议通过“不看盘”来克服心理压力。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "针对稀土和游戏板块，建议采取“不看盘”的心理策略以避免情绪化交易。",
+      "暗示这两个板块目前走势较弱或波动剧烈，持仓者心理压力较大。",
+      "认为频繁关注行情会动摇持股信心，导致投资者在不理想的时机卖出。"
+    ],
+    "analysis_method": "llm"
+  }
+}

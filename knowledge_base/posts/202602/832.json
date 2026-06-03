@@ -1,0 +1,22 @@
+{
+  "post_num": 832,
+  "date": "2026-02-13 09:54:16",
+  "content": "因为散户吓傻了  除了观望做不了别的事",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖指出当前市场散户投资者情绪极度恐慌，导致其丧失操作动力，普遍陷入被动观望的状态。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "散户投资者情绪处于极度恐慌（吓傻）状态",
+      "市场参与者操作意愿极低，以观望为主",
+      "暗示市场缺乏流动性或反弹动力"
+    ],
+    "analysis_method": "llm"
+  }
+}

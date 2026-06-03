@@ -1,0 +1,22 @@
+{
+  "post_num": 1035,
+  "date": "2026-03-03 09:53:06",
+  "content": "新高兑现有点猛 控一下仓位。",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "市场在创出新高后遭遇较强的获利回吐压力，作者建议采取减仓或控仓策略以应对短期风险。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "市场创出新高后出现明显的获利盘兑现（抛压）",
+      "操作上建议控制仓位，防范短期回调风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

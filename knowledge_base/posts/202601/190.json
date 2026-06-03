@@ -1,0 +1,22 @@
+{
+  "post_num": 190,
+  "date": "2026-01-16 15:12:30",
+  "content": "没办法  我说的预判这里可能理解的人不会很多\n而且我都是提前说 拒绝马后炮 没出现的情况自然理解不了",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "作者强调其投资风格侧重于提前预判而非事后分析（马后炮），并表示其超前的观点在当前阶段可能难以被大众理解。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "坚持提前预判，拒绝马后炮式的分析",
+      "认为自己的市场观点具有领先性，导致他人难以理解",
+      "表达了对自身预测逻辑和交易策略的自信"
+    ],
+    "analysis_method": "llm"
+  }
+}

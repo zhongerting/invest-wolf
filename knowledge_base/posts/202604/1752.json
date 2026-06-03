@@ -1,0 +1,22 @@
+{
+  "post_num": 1752,
+  "date": "2026-04-02 16:04:10",
+  "content": "昨天不是做了么  今天不买 明天看情况",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者表示昨日已进行操作，今日决定持币观望不买入，并计划在明天根据市场实际走势再做进一步判断。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "昨日已完成既定交易操作",
+      "今日采取观望策略，明确表示不买入",
+      "后续操作取决于明天的市场表现"
+    ],
+    "analysis_method": "llm"
+  }
+}

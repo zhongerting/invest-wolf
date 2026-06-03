@@ -1,0 +1,22 @@
+{
+  "post_num": 1367,
+  "date": "2026-03-20 14:07:27",
+  "content": "我不信 我堵机构会拉起来  只是猥琐一点靠后一点",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者对当前市场走势持怀疑态度，博弈机构资金后续会介入拉升，认为拉升时机可能较晚且过程较为隐蔽。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "不认同当前的下跌逻辑或市场悲观情绪",
+      "博弈机构资金会在后续进行拉升操作",
+      "预期拉升的时机可能靠后，且操作方式较为隐蔽"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "post_num": 1603,
+  "date": "2026-03-31 10:27:34",
+  "content": "最近海外链不行是共识吧  而且还是大票 除了长飞那几个受康宁涨价外，其他也没好的啊\n我觉得都差不多行情  受纳指新低的影响。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "stock",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前海外供应链相关大盘股表现普遍低迷，除长飞等少数受康宁涨价利好的光纤股外，整体市场情绪受纳斯达克指数创新低压制。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "海外供应链相关的大盘股普遍表现不佳已成为市场共识",
+      "长飞光纤等少数个股受益于康宁涨价带来的行业利好",
+      "整体行情受到纳斯达克指数（纳指）创下新低的负面情绪影响"
+    ],
+    "analysis_method": "llm"
+  }
+}

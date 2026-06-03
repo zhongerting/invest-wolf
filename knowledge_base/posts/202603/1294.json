@@ -1,0 +1,24 @@
+{
+  "post_num": 1294,
+  "date": "2026-03-18 13:35:33",
+  "content": "这里要填回这些红利 金融的卖盘量能其实不难的。不算多的。",
+  "analysis": {
+    "tags": [
+      "sector",
+      "technical",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为红利及金融板块目前的卖盘量能有限，市场回补这些卖盘的难度较低，整体抛压并不大。",
+    "mentioned_sectors": [
+      "金融"
+    ],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "红利和金融板块的卖盘量能并不多",
+      "市场消化或回补这些卖盘的难度较低"
+    ],
+    "analysis_method": "llm"
+  }
+}

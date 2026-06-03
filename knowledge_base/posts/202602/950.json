@@ -1,0 +1,24 @@
+{
+  "post_num": 950,
+  "date": "2026-02-27 13:07:23",
+  "content": "我在四方达 不过减完就翻倍了  不用看了![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "作者分享了投资个股“四方达”的经历，表示在减持仓位后该股股价翻倍，表达了错失后续大涨行情的遗憾与无奈。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "明确提到个股：四方达（300179）",
+      "交易行为：在股价大幅上涨前进行了减仓操作",
+      "市场表现：减仓后股价实现翻倍",
+      "投资者情绪：典型的“卖早了”导致的踏空遗憾"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "post_num": 2735,
+  "date": "2026-05-22 15:20:47",
+  "content": "就当定期  只要比银行5年定存高就行。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者表达了一种极其保守的投资心态，将股票投资视为银行定期存款的替代品，其核心策略是长期持有并追求略高于五年期定存的稳健收益。",
+    "mentioned_sectors": [
+      "银行"
+    ],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "投资预期较低，以跑赢银行五年定存利率为目标",
+      "投资心态长期化，类比定期存款的持有周期",
+      "采取防御性投资策略，不追求高风险高回报"
+    ],
+    "analysis_method": "llm"
+  }
+}

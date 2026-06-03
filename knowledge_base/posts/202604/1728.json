@@ -1,0 +1,23 @@
+{
+  "post_num": 1728,
+  "date": "2026-04-02 14:03:32",
+  "content": "问题不大 补完跳空高开的 下沿了 盘口卖单没那么多了",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment",
+      "market"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者认为市场在回补跳空高开缺口后风险得到释放，且观察到盘口卖压减弱，整体态度偏向乐观。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "技术面已完成对跳空高开缺口下沿的回补",
+      "盘口卖单数量减少，显示卖压正在减轻",
+      "作者对当前走势持乐观态度，认为调整压力不大"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "post_num": 1829,
+  "date": "2026-04-03 14:21:54",
+  "content": "废话 我今天肯定要T出的  错了我就认 指数确实没到我想要的位置 但是我的票确实有T出利润 \n我的票你们大概知道哪些方向的。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment",
+      "market"
+    ],
+    "category": "trading_signal",
+    "summary": "作者计划今日对持仓进行卖出（T出）操作。尽管大盘指数未达到其理想位置，但因个股已有利润，决定果断止盈或减仓，体现了灵活的日内交易策略和风险控制意识。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "明确表示今日将执行卖出（T出）操作",
+      "认为当前大盘指数走势不及预期",
+      "个股已具备获利空间，选择落袋为安",
+      "交易态度果断，愿意为自己的判断承担风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 2643,
+  "date": "2026-05-20 09:58:16",
+  "content": "又是人均股神",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者通过“人均股神”一词讽刺当前市场情绪极度亢奋，投资者普遍盈利且表现出过度自信，暗示市场可能存在过热或投机氛围浓厚。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "市场情绪进入极度亢奋阶段",
+      "投资者普遍出现过度自信的心理倾向",
+      "侧面反映市场可能存在短期过热或泡沫迹象"
+    ],
+    "analysis_method": "llm"
+  }
+}

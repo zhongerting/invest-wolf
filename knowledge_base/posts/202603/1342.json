@@ -1,0 +1,23 @@
+{
+  "post_num": 1342,
+  "date": "2026-03-19 15:41:28",
+  "content": "我记得明天应该是股指交割和国内是否调LPR吧\n今天下午那个可能是来博弈明天意外降息的资金，甚至都不是来勾引GJD的资金。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出明日面临股指交割与LPR利率调整，认为今日下午的资金异动并非为了吸引国家队，而是博弈明日可能出现的意外降息。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "关注明日股指交割及LPR（贷款市场报价利率）调整两大关键时间节点。",
+      "分析认为下午入场资金具有博弈性质，主要针对“意外降息”预期进行布局。",
+      "判断该部分资金并非为了诱导国家队（GJD）入场，而是纯粹的政策博弈行为。"
+    ],
+    "analysis_method": "llm"
+  }
+}

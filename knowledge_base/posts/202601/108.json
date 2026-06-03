@@ -1,0 +1,24 @@
+{
+  "post_num": 108,
+  "date": "2026-01-15 13:31:18",
+  "content": "不要追突破的新高啊 不然挂树上明天割肉别死这里 \n缩量7000E  你当这个市场能起飞么",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者警告投资者不要追高买入突破新高的股票，指出当前市场成交量萎缩至7000亿，缺乏上涨动力，预警短期回调风险。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "警示追高风险，认为追逐新高容易被套（挂树上）",
+      "指出市场成交量仅为7000亿，属于缩量状态",
+      "认为在量能不足的情况下，市场不具备持续上涨（起飞）的条件"
+    ],
+    "analysis_method": "llm"
+  }
+}

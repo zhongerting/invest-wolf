@@ -1,0 +1,22 @@
+{
+  "post_num": 846,
+  "date": "2026-02-13 13:57:08",
+  "content": "牌没有问题 确实有抄底的来了",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "technical"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为市场基本面（牌）稳健，且观察到已有抄底资金入场，对当前价位具有一定的认可度。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "市场基本面或筹码逻辑没有问题",
+      "观察到有资金进行抄底操作"
+    ],
+    "analysis_method": "llm"
+  }
+}

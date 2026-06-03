@@ -1,0 +1,23 @@
+{
+  "post_num": 1250,
+  "date": "2026-03-17 10:49:52",
+  "content": "算 但是要那些大资金认才行  你我认没有用",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为市场逻辑或信号的有效性取决于大资金（机构/主力）的认可，散户的认同对股价驱动作用有限。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "强调大资金是驱动市场走势的核心力量",
+      "认为散户投资者的共识无法独立形成有效行情",
+      "暗示投资策略应关注主力资金的动向而非仅凭个人主观判断"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "post_num": 2628,
+  "date": "2026-05-15 14:32:05",
+  "content": "被埋了叫什么诱多  拉起让别人追才叫诱多  今天的半导体没看见吗",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "technical"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者通过半导体板块的今日表现，辨析了“诱多”的概念，认为拉升诱导追涨才是诱多，而直接被套（被埋）并非诱多，暗示半导体板块走势不佳。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "界定“诱多”定义：认为只有拉升吸引追涨的行为才算诱多。",
+      "指出半导体板块当前处于“被埋”（套牢）状态，而非诱多阶段。",
+      "表达了对半导体板块今日走势的负面看法。"
+    ],
+    "analysis_method": "llm"
+  }
+}

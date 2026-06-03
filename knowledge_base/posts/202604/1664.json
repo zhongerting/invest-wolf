@@ -1,0 +1,23 @@
+{
+  "post_num": 1664,
+  "date": "2026-04-01 09:45:06",
+  "content": "我不去 我的国算上下挂单 做得很嗨皮",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment",
+      "sector"
+    ],
+    "category": "trading_signal",
+    "summary": "发帖者分享其在“国算”（国产算力）相关标的上的操作体验，通过上下挂单的策略（类似网格交易）获得了理想收益，情绪表现乐观。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "采用上下挂单的交易策略，可能是在进行高抛低吸或网格交易",
+      "操作标的聚焦于“国算”（国产算力）相关板块或个股",
+      "交易状态良好，对当前的盈利模式感到满意"
+    ],
+    "analysis_method": "llm"
+  }
+}

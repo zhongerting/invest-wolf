@@ -1,0 +1,20 @@
+{
+  "post_num": 904,
+  "date": "2026-02-26 10:38:57",
+  "content": "![img](assets/904_b94322-y.jpg)\n呐 收益翻红了",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "用户发帖分享其投资账户收益已由亏转盈（翻红），表达了资产组合表现好转后的正面情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "个人投资收益实现扭亏为盈",
+      "投资者情绪表现为乐观"
+    ],
+    "analysis_method": "llm"
+  }
+}

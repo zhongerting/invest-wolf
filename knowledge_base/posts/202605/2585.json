@@ -1,0 +1,23 @@
+{
+  "post_num": 2585,
+  "date": "2026-05-14 14:58:38",
+  "content": "你们现在知道什么叫  <span class=\"red\">二卖位</span>  了嘛？",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者通过反问强调了技术分析中的“二卖位”（第二类卖点），暗示当前市场或特定标的已出现明显的卖出信号，提醒投资者注意风险。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "提到了技术分析中的‘二卖位’（第二类卖点）概念",
+      "暗示市场或个股已完成冲高回落，确认了卖出信号",
+      "语气带有警示性，反映出对当前行情走势的悲观预期"
+    ],
+    "analysis_method": "llm"
+  }
+}

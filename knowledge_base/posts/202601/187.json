@@ -1,0 +1,22 @@
+{
+  "post_num": 187,
+  "date": "2026-01-16 14:58:01",
+  "content": "收盘站上4100  哈哈",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出市场收盘成功站上 4100 点关键点位，并表达了乐观喜悦的情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "市场收盘价突破并站稳 4100 点",
+      "投资者情绪积极，对当前走势感到满意"
+    ],
+    "analysis_method": "llm"
+  }
+}

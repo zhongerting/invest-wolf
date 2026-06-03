@@ -1,0 +1,22 @@
+{
+  "post_num": 1887,
+  "date": "2026-04-08 13:53:07",
+  "content": "我知道你们的  平时涨0.5%都要T两次  如果今天你们还是这样  至少80%的人卖飞\n所以我今天就告诉你们 具体什么情况才可能是顶  今天出现了吗？那有什么好卖的 \n我今天心情很好  不想骂人 不要硬凑上来",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者警告投资者不要因为微小涨幅就频繁做T，认为当前并未出现见顶信号，过早卖出会导致“卖飞”，建议继续持股。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "警告频繁做T的短线操作容易在当前行情中卖飞",
+      "明确指出目前尚未出现见顶的技术或市场信号",
+      "建议投资者保持耐心，不要在上涨过程中盲目离场"
+    ],
+    "analysis_method": "llm"
+  }
+}

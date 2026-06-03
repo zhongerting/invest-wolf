@@ -1,0 +1,21 @@
+{
+  "post_num": 2719,
+  "date": "2026-05-22 14:16:08",
+  "content": "你XX昨天这个不是红的吗？昨天你怎么不说了",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖子属于典型的股民争执或对他人言论的质疑，作者指出对方在昨日行情上涨（红盘）时保持沉默，暗示对方言论具有选择性或滞后性。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "质疑他人言论的连贯性和客观性",
+      "提到昨日市场或个股表现为上涨（红盘）",
+      "表现出较强的负面情绪，属于社区互动中的情绪化表达"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "post_num": 1668,
+  "date": "2026-04-01 10:06:25",
+  "content": "嘿嘿 国算爽啊",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对“国算”（国产算力/国家算力）板块的表现感到非常满意，表达了获利或看好的喜悦心情。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "作者对“国算”板块持极度正面态度",
+      "暗示该板块近期走势强劲或带来了较好的投资收益"
+    ],
+    "analysis_method": "llm"
+  }
+}

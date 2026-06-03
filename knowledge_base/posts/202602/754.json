@@ -1,0 +1,22 @@
+{
+  "post_num": 754,
+  "date": "2026-02-09 14:47:36",
+  "content": "正常的  我猜资金情绪方向错的概率不大。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场表现正常，并表达了对资金情绪所代表的市场方向的认可，认为该方向出错的概率较低。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "认为当前市场波动或走势处于正常范围",
+      "倾向于相信资金流向所体现的情绪方向是正确的",
+      "对市场后续趋势的判断具有一定的信心"
+    ],
+    "analysis_method": "llm"
+  }
+}

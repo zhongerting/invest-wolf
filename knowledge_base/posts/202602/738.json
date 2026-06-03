@@ -1,0 +1,23 @@
+{
+  "post_num": 738,
+  "date": "2026-02-07 11:12:20",
+  "content": "再次重复  买500",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "market",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者再次重申买入中证500指数（或相关ETF）的建议，表达了明确的看多立场和交易指令。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "发出明确的买入信号",
+      "投资目标指向中证500指数相关标的",
+      "通过“再次重复”强调了观点的连续性和坚定性"
+    ],
+    "analysis_method": "llm"
+  }
+}

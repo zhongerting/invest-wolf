@@ -1,0 +1,22 @@
+{
+  "post_num": 2079,
+  "date": "2026-04-15 14:01:49",
+  "content": "所以平常人人都会说高向低切 不要去追高\n但是  什么时候做这个动作才是关键  早一步 你错过加速行情 晚一步 跑不出来不敢切低的。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "讨论“高向低切”策略中择时的重要性与难度。作者指出过早切换会错过加速行情，过晚则面临无法及时撤出及调仓的风险。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "强调“高向低切”策略的核心不在于理念，而在于执行的时机",
+      "过早调仓会导致错过高位股最后的加速上涨行情",
+      "过晚调仓可能导致在高位被套，无法及时切换至低位筹码"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "post_num": 2285,
+  "date": "2026-04-28 11:12:40",
+  "content": "不减",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "发帖者表达了不减仓的意愿，表明其选择继续持有现有头寸，对后市持乐观或观望态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "明确表示不减仓",
+      "维持现有持仓规模"
+    ],
+    "analysis_method": "llm"
+  }
+}

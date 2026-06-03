@@ -1,0 +1,22 @@
+{
+  "post_num": 1798,
+  "date": "2026-04-03 10:40:03",
+  "content": "现在这个位置我倒不怕  下午再说高点",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场点位风险可控，心态乐观，并预测下午盘面会有更高点出现。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "对当前市场位置持乐观态度，无恐慌情绪",
+      "看好日内后续走势，预期下午将触及更高点"
+    ],
+    "analysis_method": "llm"
+  }
+}

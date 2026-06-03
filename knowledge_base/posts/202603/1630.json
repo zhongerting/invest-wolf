@@ -1,0 +1,23 @@
+{
+  "post_num": 1630,
+  "date": "2026-03-31 14:32:24",
+  "content": "前面不是说了  先花钱做业绩预期 等进来的人多了 就出去了 其实都是套",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出市场中存在利用资金制造业绩向好假象的套路，旨在吸引散户入场后大资金高位套现，提醒投资者警惕市场陷阱。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "大资金通过前期投入制造业绩增长的预期",
+      "利用业绩预期作为诱饵吸引散户资金进场",
+      "在流动性充裕时大资金撤离，认为当前的上涨或预期是陷阱"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 1069,
+  "date": "2026-03-04 11:08:02",
+  "content": "整个亚洲普遍3-5个点的跌幅  大A在三桶油跌的情况下目前表现还行 希望不要毒奶",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "亚洲市场普遍大跌3-5%，A股在石油板块（三桶油）走弱的情况下表现相对坚挺，作者对此表示谨慎乐观，并希望市场能维持这种韧性。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "亚洲主要市场普遍出现3-5%的显著跌幅",
+      "A股在石油权重股（三桶油）下跌的压力下，表现出相对的抗跌性",
+      "作者对A股目前的相对强势持观望及谨慎期待态度，担心“毒奶”效应"
+    ],
+    "analysis_method": "llm"
+  }
+}

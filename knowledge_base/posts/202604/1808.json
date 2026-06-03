@@ -1,0 +1,23 @@
+{
+  "post_num": 1808,
+  "date": "2026-04-03 11:37:58",
+  "content": "我觉得还有机会 等低位把换手都没了 这样拉起来不存在卖盘 一点量就行了",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者认为市场仍有上涨机会，建议等待股价在低位缩量、换手率降至极低水平。其逻辑是卖盘枯竭后，仅需少量资金即可轻松拉升股价。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "等待低位换手率极度萎缩",
+      "通过缩量确认卖盘压力已经出清",
+      "预期未来拉升过程将呈现缩量上涨的特征"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 2016,
+  "date": "2026-04-14 10:58:04",
+  "content": "只有国家队才有普涨\n机构只会结构性抱团。",
+  "analysis": {
+    "tags": [
+      "market",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对比了国家队与机构投资者的操作风格，认为普涨行情依赖国家队推动，而机构更倾向于局部板块的结构性抱团。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "国家队资金是推动市场全面上涨的关键力量",
+      "机构投资者的操作特征是结构性抱团而非普涨",
+      "市场行情的性质取决于主导资金的类型"
+    ],
+    "analysis_method": "llm"
+  }
+}

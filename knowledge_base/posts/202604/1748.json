@@ -1,0 +1,21 @@
+{
+  "post_num": 1748,
+  "date": "2026-04-02 15:49:19",
+  "content": "然后看看日经225和富士A50  你们不要那么恐慌",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者通过提示观察日经225和富士A50指数的表现，意在安抚市场情绪，劝导投资者不要过度恐慌。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "建议关注外部市场（日经225）和富时中国A50指数的走势",
+      "认为当前市场存在过度恐慌，暗示后市可能趋于稳定或反弹"
+    ],
+    "analysis_method": "llm"
+  }
+}

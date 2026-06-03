@@ -1,0 +1,21 @@
+{
+  "post_num": 136,
+  "date": "2026-01-15 21:25:26",
+  "content": "电池不是避险 电池有自己的逻辑",
+  "analysis": {
+    "tags": [
+      "sector",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为电池板块不具备避险属性，其市场表现遵循其特定的行业逻辑，而非作为市场波动时的避风港。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "电池板块并非避险资产",
+      "电池板块有其独立的运行逻辑"
+    ],
+    "analysis_method": "llm"
+  }
+}

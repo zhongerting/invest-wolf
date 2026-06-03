@@ -1,0 +1,23 @@
+{
+  "post_num": 49,
+  "date": "2026-01-13 11:25:42",
+  "content": "我反正觉得这种板块 能被龙头带起来 是跑的机会 而不是进去的机会",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者认为特定板块在龙头股带动下的上涨并非买入信号，而是逢高离场的机会，对板块上涨的持续性持悲观态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "龙头股带动的板块反弹应视为撤退（跑路）的机会",
+      "明确反对在此时点进场追高",
+      "暗示该板块目前的上涨缺乏基本面支撑或属于诱多行为"
+    ],
+    "analysis_method": "llm"
+  }
+}

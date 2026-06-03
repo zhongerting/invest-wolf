@@ -1,0 +1,20 @@
+{
+  "post_num": 969,
+  "date": "2026-02-27 21:16:22",
+  "content": "你卡了吧",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖子内容为用户询问对方或系统是否存在网络延迟、卡顿现象，不包含任何实质性的股市分析或投资建议。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "用户对网络环境或系统响应速度提出质疑",
+      "内容不涉及具体的股票、板块或市场走势判断"
+    ],
+    "analysis_method": "llm"
+  }
+}

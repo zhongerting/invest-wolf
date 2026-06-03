@@ -1,0 +1,23 @@
+{
+  "post_num": 1545,
+  "date": "2026-03-27 10:35:23",
+  "content": "长线没动 趋势没坏 我说的是短线仓位。",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者认为当前趋势未破，长线仓位保持不动，目前的观点或操作仅针对短线仓位。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "长线持仓未动，维持原有策略",
+      "技术趋势尚未走坏，整体看好",
+      "当前的操作或讨论仅限于短线仓位"
+    ],
+    "analysis_method": "llm"
+  }
+}

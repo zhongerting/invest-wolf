@@ -1,0 +1,23 @@
+{
+  "post_num": 1325,
+  "date": "2026-03-19 14:07:39",
+  "content": "问题是确实这波没有GJD 因为ETF没动  纯市场情绪  机构量化4000抄底盘做套利的",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场行情并非国家队（GJD）介入驱动，理由是ETF成交未见放量。本轮波动主要由纯市场情绪及机构量化资金在4000点附近的抄底套利行为所致。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "国家队（GJD）并未参与本轮行情，ETF数据未见异常波动",
+      "市场上涨动力主要源于纯粹的市场情绪驱动",
+      "机构量化资金在4000点位附近进行抄底并执行套利策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

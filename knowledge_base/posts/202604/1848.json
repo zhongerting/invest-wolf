@@ -1,0 +1,22 @@
+{
+  "post_num": 1848,
+  "date": "2026-04-07 13:38:40",
+  "content": "量化被弱化了 。。。我之前说过了",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到量化交易在当前市场环境中的影响力或活跃度正在减弱，并强调这一观点与其之前的预判一致。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "量化交易在市场中的主导地位或作用有所下降",
+      "作者重申了对量化被弱化的既有观点"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 2565,
+  "date": "2026-05-14 13:07:52",
+  "content": "纯技术上  4210是短线2卖  这是技术讨论 不是操作指导",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者从技术分析角度指出 4210 点位是短线的“二卖”信号，并强调这仅为技术讨论而非操作建议。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "4210 点位被识别为短线技术卖点",
+      "该信号在技术面上属于“二卖”范畴",
+      "明确声明该观点不构成实际操作指导"
+    ],
+    "analysis_method": "llm"
+  }
+}

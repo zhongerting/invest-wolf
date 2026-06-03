@@ -1,0 +1,22 @@
+{
+  "post_num": 2228,
+  "date": "2026-04-23 14:33:55",
+  "content": "我还确认了年报没问题  结果没躲过一季报",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者表达了对财报季风险的无奈：虽然确认了年报业绩没有问题，但却在一季报披露时遭遇了业绩变脸或股价下跌。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "年报业绩符合预期或已提前确认安全",
+      "一季报业绩出现意外利空或市场反应负面",
+      "反映了投资者在财报交替期面临的预测难度和市场波动风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

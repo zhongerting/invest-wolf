@@ -1,0 +1,22 @@
+{
+  "post_num": 2725,
+  "date": "2026-05-22 14:33:31",
+  "content": "放心 明天不会杀 后天也不会",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对短期市场走势持乐观态度，认为明后两天市场不会出现大幅杀跌，意在安抚投资者情绪，传递信心。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "预测明天市场不会出现大幅下跌（杀跌）",
+      "预测后天市场也将维持稳定，不会出现大跌",
+      "表达了对短期行情走势的看好或维稳预期"
+    ],
+    "analysis_method": "llm"
+  }
+}

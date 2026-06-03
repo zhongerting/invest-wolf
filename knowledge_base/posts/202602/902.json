@@ -1,0 +1,27 @@
+{
+  "post_num": 902,
+  "date": "2026-02-26 10:31:58",
+  "content": "![img](assets/902_60feab-x.jpg)\n砸白线跟你们有毛关系啊。。。你们买银行 保险券商 消费了？",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者针对代表权重股的“白线”下跌发表评论，指出其影响主要集中在银行、保险、券商及消费板块，并质疑普通投资者是否真正持有这些受影响的股票，暗示市场存在分化。",
+    "mentioned_sectors": [
+      "消费",
+      "券商",
+      "银行"
+    ],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "市场权重股（白线）出现下跌或砸盘现象",
+      "下跌压力主要集中在金融（银行、保险、券商）和消费等大市值板块",
+      "作者认为普通散户可能并未持有这些权重板块，无需对白线下跌过度反应"
+    ],
+    "analysis_method": "llm"
+  }
+}

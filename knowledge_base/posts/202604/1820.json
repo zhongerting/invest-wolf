@@ -1,0 +1,23 @@
+{
+  "post_num": 1820,
+  "date": "2026-04-03 13:51:04",
+  "content": "无量下杀的 就是硬打指数位 但是我想不通。",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者观察到市场出现无量下跌现象，认为这是在刻意打压指数关键点位，并对这种走势背后的逻辑表示困惑。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "市场呈现无量下杀的特征",
+      "认为当前走势是针对指数位进行的刻意打压",
+      "作者对当前下跌的动机和逻辑表示不理解"
+    ],
+    "analysis_method": "llm"
+  }
+}

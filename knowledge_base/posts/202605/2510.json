@@ -1,0 +1,19 @@
+{
+  "post_num": 2510,
+  "date": "2026-05-12 14:08:01",
+  "content": "![img](assets/2510_81a9051e.jpg)\n没有研究",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者明确表示对相关内容没有进行深入研究，未提供具体的投资建议或市场分析。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者直言“没有研究”，表明其对当前讨论的对象缺乏实质性的观点或数据支持。"
+    ],
+    "analysis_method": "llm"
+  }
+}

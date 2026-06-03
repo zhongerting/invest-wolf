@@ -1,0 +1,22 @@
+{
+  "post_num": 546,
+  "date": "2026-01-29 23:32:16",
+  "content": "早上追贵金属有色的不懂今晚能不能睡着了",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对早盘追高贵金属及有色金属板块的行为表示担忧，暗示该板块可能出现冲高回落，投资者面临较大的持仓风险和心理压力。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "警示早盘追高贵金属和有色板块的投资风险",
+      "暗示该板块走势可能出现反转或剧烈波动，导致追高者被套",
+      "反映了市场情绪在板块高位时的极度不安"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 605,
+  "date": "2026-02-02 14:07:41",
+  "content": "抄底等正T的就来磕头就行了\n涨我的  跌你们的  \n涨我的  跌你们的 \n涨我的  跌你们的 \n涨我的  跌你们的",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者自诩抄底和正T操作成功，通过重复“涨我的，跌你们的”表达极强的炫耀情绪和对其他投资者的嘲讽。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "作者声称已成功抄底并进行正T交易",
+      "表现出极度自信和对市场其他参与者的排斥情绪",
+      "内容缺乏实质性逻辑分析，属于典型的情绪化宣泄"
+    ],
+    "analysis_method": "llm"
+  }
+}

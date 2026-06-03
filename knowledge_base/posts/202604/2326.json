@@ -1,0 +1,23 @@
+{
+  "post_num": 2326,
+  "date": "2026-04-29 14:21:26",
+  "content": "我做的是个股  我不玩一环 我觉得完美挣钱能力不行  一环这个挣不了钱。",
+  "analysis": {
+    "tags": [
+      "stock",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者表达了对个股交易的偏好，并明确看空“一环”及“完美”（疑似完美世界）的盈利前景，认为其缺乏赚钱效应。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "交易策略偏向个股而非特定组合或板块（一环）",
+      "认为“一环”相关标的无法获利",
+      "对“完美”（疑似完美世界）的盈利能力持否定态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "post_num": 1352,
+  "date": "2026-03-20 11:20:31",
+  "content": "我昨天说了我的判断了",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者在帖子中仅提及昨日已发表过个人判断，未提供具体的市场分析、个股信息或实质性投资观点。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者回顾了之前的判断",
+      "当前内容缺乏实质性的市场分析或交易信号"
+    ],
+    "analysis_method": "llm"
+  }
+}

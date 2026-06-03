@@ -1,0 +1,23 @@
+{
+  "post_num": 874,
+  "date": "2026-02-25 11:21:14",
+  "content": "前面图也画了 逻辑也说了 总不能让我摁你们手去操作啊，我这边细节操作不能给你们的 说难听点  真的你们目前没这个资格啊。。。",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者强调此前已分享过技术图表与逻辑，拒绝提供具体的买卖操作细节，并对读者的专业素养或实操资格表示质疑。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "前期已完成技术面（画图）与逻辑面的分析分享",
+      "明确拒绝提供具体的细节操作指导",
+      "认为受众目前不具备接收或执行核心操作建议的能力/资格"
+    ],
+    "analysis_method": "llm"
+  }
+}

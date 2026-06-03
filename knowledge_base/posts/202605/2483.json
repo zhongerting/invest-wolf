@@ -1,0 +1,22 @@
+{
+  "post_num": 2483,
+  "date": "2026-05-11 16:43:34",
+  "content": "补一点 这里虽然不要加仓是对的\n但是这里空仓一定是错的\n因为这些空仓的人会在刚开始调整的时候不断买回去\n这是我对大家的忠告",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者建议当前阶段不宜继续加仓，但坚决反对完全空仓。其核心逻辑是防止空仓投资者在市场调整初期因心态不稳而盲目追高买回。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "当前位置不建议进一步加大仓位",
+      "明确反对完全空仓的操作行为",
+      "警告空仓者容易在调整初期产生心理波动并错误买回"
+    ],
+    "analysis_method": "llm"
+  }
+}

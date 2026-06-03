@@ -1,0 +1,22 @@
+{
+  "post_num": 1314,
+  "date": "2026-03-19 11:14:56",
+  "content": "不是啊。。因为token出海 老美卖给全世界软件和服务器 但是别的国家要用，也要消耗token ，全世界不就我们可以提供。。。这是接下来的优势产业。",
+  "analysis": {
+    "tags": [
+      "sector",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为‘Token出海’将成为中国的优势产业。在全球范围内软件和服务器需求增长的背景下，Token消耗量巨大，而中国具备向全球提供此类服务的能力。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "Token出海被视为接下来的核心优势产业",
+      "全球软件和服务器的普及将带动巨大的Token消耗需求",
+      "中国被认为在全球Token供应市场中具有独特的竞争地位"
+    ],
+    "analysis_method": "llm"
+  }
+}

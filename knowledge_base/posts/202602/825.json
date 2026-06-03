@@ -1,0 +1,23 @@
+{
+  "post_num": 825,
+  "date": "2026-02-13 08:34:23",
+  "content": "放心 如果今天下跌 没有赢家 也不要说谁收割谁，这里不存在的。都是避险然后等GJD表态。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场下跌是各方资金集体避险的结果，并非单纯的机构收割。目前市场处于观望状态，核心焦点在于等待国家队（GJD）的政策表态或干预信号。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "市场下跌属于多输局面，不存在所谓的“收割”逻辑",
+      "当前市场主流情绪为避险，资金参与度较低",
+      "市场各方均在等待国家队（GJD）的明确表态或入场信号"
+    ],
+    "analysis_method": "llm"
+  }
+}

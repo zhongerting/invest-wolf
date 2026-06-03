@@ -1,0 +1,22 @@
+{
+  "post_num": 2420,
+  "date": "2026-05-07 14:56:20",
+  "content": "螳螂才是这波柚子情绪核心。。。虽然是乱戳来的",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为“螳螂”（通常指万丰奥威等热门短线标的）是当前游资炒作和市场情绪的核心，尽管其上涨逻辑可能带有一定的随机性。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "“螳螂”被视为当前游资（柚子）关注的焦点和情绪核心标的。",
+      "该标的的走势对短线市场情绪具有极强的引领作用。",
+      "作者暗示该股的崛起可能并非完全基于基本面，而是带有随机性或情绪博弈的特征（“乱戳来的”）。"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 1391,
+  "date": "2026-03-20 16:35:01",
+  "content": "老美市场 放水了 公司回购 然后注销，所以股价升高 这是基础逻辑啊大哥\n我们呢  你看他们做了啥 家长怎么带 我们就怎么学了 那市场能好吗",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者通过对比中美市场机制，指出美股上涨源于流动性释放与回购注销的逻辑，并对国内市场的政策导向及制度环境表达了强烈不满和悲观预期。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "美股上涨的基础逻辑是货币宽松及公司回购注销",
+      "质疑国内市场监管层（“家长”）的引导方式",
+      "认为国内市场缺乏上涨的制度基础，对后市持悲观态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

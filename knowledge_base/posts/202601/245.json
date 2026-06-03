@@ -1,0 +1,21 @@
+{
+  "post_num": 245,
+  "date": "2026-01-19 18:36:06",
+  "content": "我不是发了我持仓了么  英维克锁了",
+  "analysis": {
+    "tags": [
+      "stock",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者确认持有英维克（Envicool）股票，并明确表示目前处于锁仓状态，显示出坚定的持有信心。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "确认持有英维克（002837）",
+      "采取锁仓策略，短期内不打算卖出"
+    ],
+    "analysis_method": "llm"
+  }
+}

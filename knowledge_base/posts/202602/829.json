@@ -1,0 +1,22 @@
+{
+  "post_num": 829,
+  "date": "2026-02-13 09:42:29",
+  "content": "才2000家下跌 哀嚎在哪",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场下跌家数仅约2000家，远未达到恐慌程度，以此质疑并反驳市场上的过度悲观情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "指出下跌家数（2000家）在全市场占比中并不算多",
+      "质疑市场中存在的过度恐慌或“哀嚎”情绪",
+      "暗示当前市场表现尚可，并非普跌行情"
+    ],
+    "analysis_method": "llm"
+  }
+}

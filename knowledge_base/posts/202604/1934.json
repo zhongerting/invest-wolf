@@ -1,0 +1,23 @@
+{
+  "post_num": 1934,
+  "date": "2026-04-09 14:20:28",
+  "content": "这里不存在大减的 只是避一下而已 我等不确定性过去了 我就买回来的  而且我的是有冲高才减。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者表示当前减仓并非看空离场，而是针对短期不确定性的避险操作。采取冲高减仓策略，并计划在市场不确定性消除后重新买入。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "并非大幅减仓，仅是短期避险行为",
+      "操作策略为逢高减仓（冲高才减）",
+      "明确表达了未来会重新买回的看好预期",
+      "核心逻辑是规避短期市场的不确定性"
+    ],
+    "analysis_method": "llm"
+  }
+}

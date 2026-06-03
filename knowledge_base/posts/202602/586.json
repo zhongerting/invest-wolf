@@ -1,0 +1,22 @@
+{
+  "post_num": 586,
+  "date": "2026-02-02 10:37:01",
+  "content": "因为短期资金和长期资金预期不一样，短期逻辑到了没验证就出场 就这么简单。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "该帖强调了短线与长线资金在预期上的本质区别，并提出了一种纪律化的交易策略：即短线交易逻辑若未得到市场验证，应果断止损或离场。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "短期资金与长期资金的投资预期和逻辑存在差异",
+      "短线交易的核心在于逻辑的及时验证",
+      "若短期逻辑未被验证，应采取果断出场的操作策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

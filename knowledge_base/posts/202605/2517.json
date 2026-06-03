@@ -1,0 +1,27 @@
+{
+  "post_num": 2517,
+  "date": "2026-05-12 20:01:44",
+  "content": "我策略不变啊  半导体和光这些我按之前的持仓随涨随卖  \n主要做T的是相对还有幅度的航天机器人甚至是AI软",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sector",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者维持既定策略，对半导体和光伏板块采取逢高减仓（随涨随卖）的操作，同时重点对航天、机器人及AI软件等仍具上涨空间的板块进行日内做T交易。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "投资策略保持不变",
+      "对半导体和光伏板块执行随涨随卖的止盈/减仓策略",
+      "重点操作对象为航天、机器人及AI软件板块",
+      "认为航天、机器人及AI软件板块仍有上涨空间（幅度）",
+      "对核心关注板块采取做T（日内交易）的策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

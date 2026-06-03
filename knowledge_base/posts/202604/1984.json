@@ -1,0 +1,22 @@
+{
+  "post_num": 1984,
+  "date": "2026-04-13 14:13:42",
+  "content": "这两个是铜箔啊 不是电池 不过也是电池的方向\n![img](assets/1984_4981e11j.jpg)",
+  "analysis": {
+    "tags": [
+      "sector",
+      "stock"
+    ],
+    "category": "market_analysis",
+    "summary": "发帖者澄清所指标的为铜箔而非电池，但强调铜箔属于电池产业链的相关细分方向。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "明确指出相关标的属于铜箔细分领域，而非成品电池",
+      "指出铜箔是电池产业链中的一个重要组成部分和投资方向",
+      "对标的属性进行了概念上的纠偏与分类"
+    ],
+    "analysis_method": "llm"
+  }
+}

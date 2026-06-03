@@ -1,0 +1,25 @@
+{
+  "post_num": 1853,
+  "date": "2026-04-07 14:29:03",
+  "content": "打穿60线  减了1/3 航天2个票都做出成本了  之后不在和你们说了",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sector",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者因股价跌破60日均线关键支撑，对持有的两只航天板块个股进行了1/3的减仓操作，并表示后续将停止分享。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "技术面：股价跌破60日均线，触发卖出信号",
+      "操作面：执行减仓1/3的策略，进行风险控制",
+      "个股状态：两只航天板块个股已做出成本（实现盈利或降低持仓成本）",
+      "情绪面：表现出离场或停止交流的消极/防御情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

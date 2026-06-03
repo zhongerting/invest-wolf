@@ -1,0 +1,22 @@
+{
+  "post_num": 180,
+  "date": "2026-01-16 14:32:38",
+  "content": "这个时候卖了那我觉得很难买回来了  我经历过\n这个时候卖了不管怎么买回来都拿不住 一个波动直接出场",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者根据个人经验建议当前不应卖出，认为此时离场会导致后续难以重新入场，且即便买回也容易因心态不稳而在波动中被迫出场。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "当前时点卖出后，心理上很难再以合适价格买回",
+      "卖出后再买入会导致持仓信心减弱，难以抵御市场波动",
+      "强调了交易心理和持股定力的重要性"
+    ],
+    "analysis_method": "llm"
+  }
+}

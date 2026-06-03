@@ -1,0 +1,23 @@
+{
+  "post_num": 2367,
+  "date": "2026-04-30 10:23:17",
+  "content": "如果刚才放量但不智障 白线直接上去4130  散户立马进场 我说的",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment",
+      "market"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者认为市场若能配合成交量放大并驱动价格（白线）突破 4130 点位，将有效激发散户的入场意愿。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "强调放量是价格突破的关键条件",
+      "将 4130 视为重要的心理或技术压力位",
+      "预测价格突破后会引发散户的跟风效应"
+    ],
+    "analysis_method": "llm"
+  }
+}

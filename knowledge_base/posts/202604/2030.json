@@ -1,0 +1,23 @@
+{
+  "post_num": 2030,
+  "date": "2026-04-14 13:53:21",
+  "content": "这个我带SORA他们做  我怕你们搞坏他 没敢说",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者声称正在参与SORA（人工智能视频模型）相关题材的投资，并因担心普通投资者干扰走势而此前未公开，表现出对该题材的看好及神秘感。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "作者自称正在操作SORA相关概念标的",
+      "表达了对散户或大众投资者介入可能干扰市场走势的担忧",
+      "暗示该题材具有较高的操作门槛或特定的运作圈子"
+    ],
+    "analysis_method": "llm"
+  }
+}

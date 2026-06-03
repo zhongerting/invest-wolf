@@ -1,0 +1,24 @@
+{
+  "post_num": 1790,
+  "date": "2026-04-03 09:59:53",
+  "content": "这个时候大减仓？低9+一跳的时候？持续缩量的时候？",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者对当前大举减仓的行为表示质疑，通过提及“低9”序列、跳空缺口及持续缩量等技术指标，暗示市场可能处于底部区域，不宜盲目看空。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "质疑在当前时点进行大减仓的合理性",
+      "提到“低9”技术指标，暗示价格可能已跌至阶段性低点",
+      "指出市场出现持续缩量特征，通常视为底部信号或变盘前奏",
+      "利用反问语气表达了对当前位置不应恐慌杀跌的观点"
+    ],
+    "analysis_method": "llm"
+  }
+}

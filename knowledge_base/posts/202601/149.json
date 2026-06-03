@@ -1,0 +1,22 @@
+{
+  "post_num": 149,
+  "date": "2026-01-16 10:13:25",
+  "content": "指数45度黄白一起向下 你们为什么不怕？为什么？\n平时你们不是这样的啊。今天抱怨恐慌的人呢",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到指数黄白两线呈45度角同步快速下跌，并对市场当前异常冷静、缺乏往常大跌时的恐慌与抱怨情绪表示不解和质疑。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "指数出现明显的同步下跌趋势（黄白线共振向下）",
+      "市场情绪表现异常，缺乏大跌时常见的恐慌性讨论",
+      "作者通过反问表达了对当前市场走势的担忧以及对投资者反应的困惑"
+    ],
+    "analysis_method": "llm"
+  }
+}

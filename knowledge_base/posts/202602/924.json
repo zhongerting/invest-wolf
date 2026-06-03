@@ -1,0 +1,23 @@
+{
+  "post_num": 924,
+  "date": "2026-02-26 13:54:47",
+  "content": "我今天卖了  提示你一下 他是华丰小弟",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "发帖者表示今日已卖出某只股票，并提醒该股与“华丰”（可能指华丰科技或华峰测控等）具有联动关系，属于其跟风品种（小弟）。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "发帖者执行了卖出操作，释放减仓信号",
+      "指出该股票在市场地位上属于“华丰”的跟风股（小弟）",
+      "提示投资者注意该股与龙头股之间的联动风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

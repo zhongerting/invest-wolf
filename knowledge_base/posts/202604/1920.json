@@ -1,0 +1,22 @@
+{
+  "post_num": 1920,
+  "date": "2026-04-09 10:46:51",
+  "content": "嗯  量能缩到临界值我才会卖",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者表达了其特定的卖出策略：即只有当成交量（量能）萎缩至某个临界值时才会选择卖出，目前处于持股观望状态。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "以成交量（量能）作为核心的卖出决策依据",
+      "设定了量能缩至临界值作为离场触发条件",
+      "当前态度为持股不动，等待特定技术信号出现"
+    ],
+    "analysis_method": "llm"
+  }
+}

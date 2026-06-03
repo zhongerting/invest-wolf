@@ -1,0 +1,22 @@
+{
+  "post_num": 1997,
+  "date": "2026-04-13 18:02:05",
+  "content": "不要单吊个股 可以单调一个方向\n散户承受不起单吊暴雷的损失",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "建议散户投资者避免单押个股以防范个股风险，提倡在看好的行业方向上进行分散配置，以降低因单只股票“暴雷”带来的不可控损失。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "反对单持个股（单吊），强调风险分散",
+      "认可在特定投资方向或板块内进行集中配置",
+      "指出散户对个股极端风险（暴雷）的承受能力较弱"
+    ],
+    "analysis_method": "llm"
+  }
+}

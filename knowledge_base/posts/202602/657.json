@@ -1,0 +1,22 @@
+{
+  "post_num": 657,
+  "date": "2026-02-04 10:55:21",
+  "content": "这种还有人洗的？",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "stock"
+    ],
+    "category": "other",
+    "summary": "作者对特定标的或市场现象表达了强烈的质疑和不满，认为其表现或性质极差，不理解为何还有人为其辩护（洗地）。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "表达了极度负面的情绪",
+      "对当前讨论的对象持完全否定态度",
+      "质疑市场中存在的看多或辩护言论"
+    ],
+    "analysis_method": "llm"
+  }
+}

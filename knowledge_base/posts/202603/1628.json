@@ -1,0 +1,22 @@
+{
+  "post_num": 1628,
+  "date": "2026-03-31 14:27:47",
+  "content": "哈哈哈哈哈  都提前和你们说了 不做这段不就好了",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者以嘲讽和炫耀的语气暗示自己此前已发出预警，认为避开当前的行情是明智之举，表达了对近期市场走势的负面看法。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "作者主张在当前这段时间内不进行操作（空仓或观望）",
+      "作者认为当前的行情不具备可操作性或存在风险",
+      "通过事后验证的方式强调其之前预判的准确性"
+    ],
+    "analysis_method": "llm"
+  }
+}

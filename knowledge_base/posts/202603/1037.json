@@ -1,0 +1,22 @@
+{
+  "post_num": 1037,
+  "date": "2026-03-03 10:08:09",
+  "content": "上周说的 周2减仓的含金量![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png) 不过我昨天冲高就减好了",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者回顾并验证了上周提出的周二减仓策略，并表示已在昨日行情冲高时提前完成减仓操作，体现了落袋为安的交易思路。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "验证了周二减仓策略的有效性（含金量）",
+      "已于昨日市场冲高阶段完成实际减仓动作",
+      "通过择时操作规避短期市场波动风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

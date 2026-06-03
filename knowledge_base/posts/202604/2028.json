@@ -1,0 +1,23 @@
+{
+  "post_num": 2028,
+  "date": "2026-04-14 13:47:26",
+  "content": "那是真可惜了 我前面不敢说怕你们进来乱搞 万一我不能T出就麻烦  等下还被小图抓到我尾巴![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者表达了未提前分享交易机会的遗憾，解释称是担心他人跟风买入会干扰其日内T+0操作（T出），并担心操作痕迹被发现。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "涉及日内T+0交易策略（T出）",
+      "出于对流动性和操作独立性的考虑，选择事后才提及交易",
+      "表现出对散户跟风（乱搞）影响股价波动的担忧",
+      "提及担心被“抓到尾巴”，反映了对交易隐私或被追踪的顾虑"
+    ],
+    "analysis_method": "llm"
+  }
+}

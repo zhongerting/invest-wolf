@@ -1,0 +1,24 @@
+{
+  "post_num": 2227,
+  "date": "2026-04-23 14:33:25",
+  "content": "现在在持续缩量  不好说  这里机构不敢卖那么多 不然大家都没得卖\n只有拉起来才能换给场外资金  昨天就是这样。",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "市场当前持续缩量，作者认为机构因担心缺乏承接盘而不敢大规模抛售，逻辑上倾向于通过拉升股价来吸引场外资金入场接盘。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "市场成交量持续萎缩，处于缩量震荡状态。",
+      "机构由于流动性顾虑，在当前位置不敢贸然大量卖出。",
+      "预测机构会采取先拉升后派发的策略，以吸引场外资金进场换手。",
+      "作者认为这种“拉高换手”的模式在昨日已有体现。"
+    ],
+    "analysis_method": "llm"
+  }
+}

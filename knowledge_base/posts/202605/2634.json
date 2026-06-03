@@ -1,0 +1,24 @@
+{
+  "post_num": 2634,
+  "date": "2026-05-15 15:00:13",
+  "content": "你们不会有在沃什上台第一个政策前买黄金的吧？不管是股还是期货  我觉得都是不对的。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者警告投资者不要在沃什（Kevin Warsh）上台并发布首个政策前买入黄金（包括股票和期货），认为目前的买入时机是错误的。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "建议在关键人物（沃什）政策落地前保持观望",
+      "明确反对当前阶段买入黄金相关的股票或期货",
+      "认为在政策不确定性消除前入场是不明智的"
+    ],
+    "analysis_method": "llm"
+  }
+}

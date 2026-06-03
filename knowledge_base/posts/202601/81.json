@@ -1,0 +1,22 @@
+{
+  "post_num": 81,
+  "date": "2026-01-14 22:40:45",
+  "content": "哪来的年化2.2？没有听过这个利率 哪个行的不怕死吗？",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "用户对传闻中2.2%的年化利率表示强烈质疑，认为该利率水平在当前环境下极不寻常，并担忧相关银行可能存在违规或过度冒险的行为。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "质疑2.2%年化利率的真实性或来源",
+      "认为该利率水平超出了常规认知范围",
+      "对提供此类高利率的银行合规性与风险控制表示担忧"
+    ],
+    "analysis_method": "llm"
+  }
+}

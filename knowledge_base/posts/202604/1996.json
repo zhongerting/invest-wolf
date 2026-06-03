@@ -1,0 +1,23 @@
+{
+  "post_num": 1996,
+  "date": "2026-04-13 16:45:16",
+  "content": "自己的没涨然后切到涨起来的那个，然后隔一天发现跌了又换到另一个\n我猜是这样\n不然他的红警润泽能亏还能有什么理由",
+  "analysis": {
+    "tags": [
+      "stock",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖分析了某投资者在润泽科技上的亏损原因，认为其失败在于频繁追涨杀跌，在不同股票间盲目切换，缺乏持股耐心。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "投资者存在典型的追涨杀跌行为",
+      "频繁调仓导致其在不同股票间“踏空”或“接盘”",
+      "点名个股润泽科技（300442）在操作中出现亏损"
+    ],
+    "analysis_method": "llm"
+  }
+}

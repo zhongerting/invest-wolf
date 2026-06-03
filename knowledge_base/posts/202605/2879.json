@@ -1,0 +1,23 @@
+{
+  "post_num": 2879,
+  "date": "2026-05-31 18:17:48",
+  "content": "因为情绪是会传染的\n所以周末通过辩证来抒发一下情绪\n之后该做多中国还是要继续做多 \n适当的抒发情绪没什么问题的\n否则把情绪带入市场操作 那才是问题",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者强调了情绪管理在投资中的重要性，主张通过周末的辩证思考来排解情绪，以防干扰实际交易，并明确表达了坚定“做多中国”的立场。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "情绪具有传染性，投资者需在非交易时段进行心理建设和情绪疏导。",
+      "强调必须将个人情绪与市场实际操作剥离，避免情绪化交易。",
+      "明确表达了对中国市场的看好，提出应继续坚持“做多中国”的策略。"
+    ],
+    "analysis_method": "llm"
+  }
+}

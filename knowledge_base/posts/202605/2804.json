@@ -1,0 +1,21 @@
+{
+  "post_num": 2804,
+  "date": "2026-05-28 10:39:46",
+  "content": "我打电话问了 他们不收我  但是允许我在他们厨房做打荷的![冷](https://img4.nga.178.com/ngabbs/post/smile/ac5.png)\n5年  你知道这5年我怎么过的吗",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "用户通过引用影视金句和自嘲的方式，表达了过去五年投资经历的极度艰辛与无奈，暗示投资表现不佳或遭遇长期亏损。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "用户表达了过去五年在市场中生存的痛苦与不易。",
+      "通过‘去厨房打荷’的隐喻，暗示投资失利导致生活压力或职业转行的自嘲。",
+      "反映了散户投资者在长期熊市或亏损状态下的消极情绪和心理疲劳。"
+    ],
+    "analysis_method": "llm"
+  }
+}

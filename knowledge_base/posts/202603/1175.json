@@ -1,0 +1,23 @@
+{
+  "post_num": 1175,
+  "date": "2026-03-11 11:11:03",
+  "content": "无力吐槽 宁德业绩大涨是利好供货还是利空供货你再想想 这些业绩怎么来的？",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者质疑宁德时代业绩大涨对供应链的影响，认为其高利润可能源于对供应商利润的挤压，对相关供货商持悲观态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "质疑宁德时代业绩增长的来源及其对供应链的真实影响",
+      "担忧核心企业利润扩张会通过压价等手段对供应商构成利空",
+      "提示投资者关注产业链内部利益分配失衡的问题"
+    ],
+    "analysis_method": "llm"
+  }
+}

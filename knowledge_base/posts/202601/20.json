@@ -1,0 +1,22 @@
+{
+  "post_num": 20,
+  "date": "2026-01-12 13:57:20",
+  "content": "浙江也出航天卫星的消息了\n我都不懂他怎么死。。。。。",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者关注到浙江地区关于航天卫星产业的新闻利好，表达了对相关板块或个股极度看好的情绪，认为其上涨逻辑强硬，难以走弱。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "浙江地区发布了航天卫星相关的利好消息",
+      "作者对该板块的后续表现极具信心，认为其具备极强的上涨逻辑",
+      "情绪表达强烈，暗示相关个股或板块目前处于强势地位"
+    ],
+    "analysis_method": "llm"
+  }
+}

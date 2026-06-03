@@ -1,0 +1,23 @@
+{
+  "post_num": 2458,
+  "date": "2026-05-11 11:00:29",
+  "content": "小图不懂长川的  长川按我说的就行了 利润T出 底仓继续飞",
+  "analysis": {
+    "tags": [
+      "stock",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者对长川科技持强烈看涨态度，建议投资者采取“利润部分逢高卖出（做T），底仓继续持有”的策略，以应对后续可能的上涨。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "明确看好长川科技（长川）的后续走势",
+      "建议进行利润落袋的操作（T出利润）",
+      "主张保留底仓以捕捉后续的“飞升”行情"
+    ],
+    "analysis_method": "llm"
+  }
+}

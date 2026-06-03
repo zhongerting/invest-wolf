@@ -1,0 +1,21 @@
+{
+  "post_num": 544,
+  "date": "2026-01-29 23:27:34",
+  "content": "怕个P  我不分散一下注意力心脏估计200停不下来",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "用户表达了在市场波动下极度的焦虑与心理压力，通过言语上的强硬（“怕个P”）来掩饰内心的不安，并试图通过转移注意力来缓解生理上的紧张反应。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "投资者处于极度紧张状态，生理反应明显（心跳加速）",
+      "表现出强行心理建设的迹象，试图对抗恐惧情绪",
+      "通过转移注意力的方式进行压力管理，暗示当前持仓或市场走势对其造成了巨大压力"
+    ],
+    "analysis_method": "llm"
+  }
+}

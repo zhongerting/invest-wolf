@@ -1,0 +1,23 @@
+{
+  "post_num": 1139,
+  "date": "2026-03-06 22:31:55",
+  "content": "原油第一阶段预判达成，接下来周末会重新评估第二阶段\n目前期货仓位50%黄金多单，27%原油多单 开满杠杆",
+  "analysis": {
+    "tags": [
+      "market",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者宣布原油第一阶段预判达成，计划周末评估第二阶段。目前账户处于高杠杆状态，持有50%黄金多单及27%原油多单，展现出极强的看多意愿。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "原油第一阶段预判目标已达成，即将进行第二阶段评估",
+      "目前期货账户采取高杠杆交易策略",
+      "重仓持有黄金多单（50%仓位）",
+      "持有原油多单（27%仓位）"
+    ],
+    "analysis_method": "llm"
+  }
+}

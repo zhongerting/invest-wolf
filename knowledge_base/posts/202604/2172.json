@@ -1,0 +1,22 @@
+{
+  "post_num": 2172,
+  "date": "2026-04-20 14:36:19",
+  "content": "你们还是神奇  埋伏了半个月  然后涨一天的时候卖掉\n确实厉害\n我还以为你们也有一个E要卖",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者讽刺部分投资者在持股半个月后，仅在上涨首日便急于卖出的短视行为，认为其缺乏持股定力，并借用“卖出一个亿”的梗进行调侃。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "投资者存在“埋伏”半个月的长线心态与“涨一天就卖”的短线行为之间的矛盾。",
+      "作者对散户见好就收、拿不住利润的操作持讽刺态度。",
+      "提及“一个E（一亿元）”，暗指近期市场热议的大额减持或散户获利离场的梗。"
+    ],
+    "analysis_method": "llm"
+  }
+}

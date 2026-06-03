@@ -1,0 +1,23 @@
+{
+  "post_num": 865,
+  "date": "2026-02-25 10:01:05",
+  "content": "减仓了一半石油 我觉得打不起来。",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者认为地缘政治冲突风险降低（打不起来），因此决定减持一半的石油板块仓位，反映出对石油短期避险溢价消失的预期。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "减仓石油板块 50%",
+      "判断地缘政治冲突（战争）不会爆发",
+      "基于宏观局势判断进行仓位调整"
+    ],
+    "analysis_method": "llm"
+  }
+}

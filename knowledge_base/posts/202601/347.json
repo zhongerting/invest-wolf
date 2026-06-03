@@ -1,0 +1,22 @@
+{
+  "post_num": 347,
+  "date": "2026-01-22 14:57:02",
+  "content": "就有时候我真不懂你们到底怎么看盘的，脱离事实在那臆测，我觉得我觉得，盘面明明是这么体现的，然后不看 就是我觉得",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者批评部分投资者在分析市场时脱离客观盘面事实，过度依赖主观臆测（“我觉得”），强调应尊重市场实际走势而非个人主观幻觉。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "批评投资者存在严重的主观臆测倾向，忽视客观盘面信号",
+      "强调看盘应以事实为准，而非个人情感或预设立场",
+      "指出当前市场中存在认知与事实脱节的现象"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 547,
+  "date": "2026-01-29 23:35:15",
+  "content": "明天至少油能活着出去 我感觉贵金属短期活不了  \n我说的是股票不是期货",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对石油板块股票短期走势持相对乐观或保本预期，但对贵金属板块股票短期表现持悲观态度，并强调其观点针对股票而非期货市场。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "石油相关股票短期内预计有离场或生存机会",
+      "贵金属相关股票短期内走势被看淡",
+      "明确区分了股票市场与期货市场的分析逻辑"
+    ],
+    "analysis_method": "llm"
+  }
+}

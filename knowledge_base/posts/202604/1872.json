@@ -1,0 +1,24 @@
+{
+  "post_num": 1872,
+  "date": "2026-04-08 10:45:02",
+  "content": "除了石油之外 没多少个绿的\n兆易创新是绿的 \n我昨晚说了我的看法。目前验证",
+  "analysis": {
+    "tags": [
+      "market",
+      "stock",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到除石油板块外市场多数上涨，而兆易创新如其预期出现下跌（绿盘），验证了其昨晚发表的看空观点。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "石油板块表现疲软（绿盘）",
+      "兆易创新股价下跌，验证了作者此前的看空预判",
+      "市场整体除个别板块外呈现普涨态势"
+    ],
+    "analysis_method": "llm"
+  }
+}

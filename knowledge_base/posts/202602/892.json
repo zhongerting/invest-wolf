@@ -1,0 +1,23 @@
+{
+  "post_num": 892,
+  "date": "2026-02-26 09:00:56",
+  "content": "啧啧 碳酸锂期货板砸开了。。。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "碳酸锂期货盘中封板被打破，显示出市场波动加剧，资金博弈激烈，可能对新能源及锂电板块产生情绪传导。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "碳酸锂期货合约的涨/跌停板被大单打破，市场分歧显著",
+      "“砸开”一词暗示卖盘压力较大或多空博弈进入白热化",
+      "需警惕期货价格波动对二级市场锂电产业链个股的联动影响"
+    ],
+    "analysis_method": "llm"
+  }
+}

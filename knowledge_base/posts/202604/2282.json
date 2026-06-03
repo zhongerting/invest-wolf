@@ -1,0 +1,22 @@
+{
+  "post_num": 2282,
+  "date": "2026-04-28 10:46:19",
+  "content": "特别是今天 我不做加法 哪个冲了减哪个 减到我的合理仓位",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者计划在今日采取防御性策略，明确表示不加仓，并利用股价冲高的机会进行逢高减仓，目标是将整体仓位降至合理水平。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "今日操作原则是不做加法（不买入/不加仓）",
+      "执行逢高减仓策略，针对冲高的个股进行减持",
+      "核心目标是主动降低风险，回归合理仓位"
+    ],
+    "analysis_method": "llm"
+  }
+}

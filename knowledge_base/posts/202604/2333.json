@@ -1,0 +1,21 @@
+{
+  "post_num": 2333,
+  "date": "2026-04-29 14:39:49",
+  "content": "你25分不能买回来么",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "发帖者询问或建议在“25分”（可能指价格或特定时间点）重新买入，表达了回补仓位的意图。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "建议在25这一水平位重新买入",
+      "体现了看好后市并寻求重新入场的交易策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

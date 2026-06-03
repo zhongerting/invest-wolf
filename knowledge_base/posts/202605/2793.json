@@ -1,0 +1,22 @@
+{
+  "post_num": 2793,
+  "date": "2026-05-27 16:02:28",
+  "content": "我现在不怎么玩超短的\n没那个精力 而且收益不如期指",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者表达了交易策略的转变，因精力有限且认为期指收益更佳，正逐渐放弃超短线交易。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "减少或放弃超短线交易频率",
+      "认为超短线交易对个人精力的消耗与收益不成正比",
+      "倾向于选择收益表现更好的股指期货（期指）作为替代工具"
+    ],
+    "analysis_method": "llm"
+  }
+}

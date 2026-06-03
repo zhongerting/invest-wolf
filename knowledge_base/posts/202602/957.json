@@ -1,0 +1,22 @@
+{
+  "post_num": 957,
+  "date": "2026-02-27 13:39:12",
+  "content": "不会调去做别的超额？挣的钱等发霉？",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者对当前的资金配置效率表示不满，质疑为何不进行调仓以追求超额收益，认为闲置资金或低效持仓浪费了获利机会。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "质疑资金利用率过低，认为资金不应闲置",
+      "建议通过调仓换股来积极追求超额收益（Alpha）",
+      "对当前保守或停滞的投资策略表达了急躁和不满的情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

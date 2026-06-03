@@ -1,0 +1,21 @@
+{
+  "post_num": 2269,
+  "date": "2026-04-27 10:09:46",
+  "content": "![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)舒服",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "用户仅发布了“舒服”二字并配以表情，表达了极度正向的情绪，通常暗示其持仓上涨或对当前市场走势感到满意。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "用户情绪表现为愉悦和满意",
+      "内容极简，缺乏具体的市场分析或操作建议",
+      "属于典型的盘中或盘后情绪宣泄，暗示市场表现良好"
+    ],
+    "analysis_method": "llm"
+  }
+}

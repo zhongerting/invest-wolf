@@ -1,0 +1,21 @@
+{
+  "post_num": 2248,
+  "date": "2026-04-24 12:29:52",
+  "content": "看IU的爽剧 然后月底等宝英和光洙的",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该内容主要讨论个人对韩剧的观看计划和期待，提及了 IU、朴宝英和李光洙等艺人，完全不涉及股票投资或市场分析。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "作者正在观看 IU 主演的电视剧",
+      "作者表达了对月底朴宝英和李光洙作品的期待",
+      "内容纯属娱乐生活分享，与股市无关"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "post_num": 2492,
+  "date": "2026-05-11 22:30:47",
+  "content": "标题党 跟目前市场是否是顶没有任何关系",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为相关言论或标题属于“标题党”，并明确指出该内容与判断当前市场是否见顶没有任何逻辑关联。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "斥责相关内容为标题党，缺乏实质参考价值",
+      "认为所讨论的因素与市场是否处于顶部无关"
+    ],
+    "analysis_method": "llm"
+  }
+}

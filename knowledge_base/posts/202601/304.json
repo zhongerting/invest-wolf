@@ -1,0 +1,21 @@
+{
+  "post_num": 304,
+  "date": "2026-01-21 14:35:49",
+  "content": "管他谁慢 我负责牛就行了![茶](https://img4.nga.178.com/ngabbs/post/smile/ac39.png)",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "作者表达了强烈的个人看多情绪，强调专注于自身的盈利或看涨逻辑，而不受市场整体节奏或他人表现的影响。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "表达了极度乐观的看涨态度（“负责牛就行了”）",
+      "表现出独立投资的策略倾向，不关注市场其他个股或参与者的快慢"
+    ],
+    "analysis_method": "llm"
+  }
+}

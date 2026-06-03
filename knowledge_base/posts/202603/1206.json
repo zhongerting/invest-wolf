@@ -1,0 +1,23 @@
+{
+  "post_num": 1206,
+  "date": "2026-03-13 12:47:40",
+  "content": "那你长线逻辑变了吗？就因为老美干了伊朗？",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖讨论了地缘政治冲突（美伊局势）对投资决策的影响，质疑短期外部冲击是否足以动摇原有的长线投资逻辑，暗示应保持策略定力。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "探讨地缘政治事件（美伊冲突）对市场长期逻辑的干扰程度",
+      "强调长线投资逻辑不应轻易受短期突发事件影响",
+      "反映了市场在宏观不确定性下的心理博弈"
+    ],
+    "analysis_method": "llm"
+  }
+}

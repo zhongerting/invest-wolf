@@ -1,0 +1,22 @@
+{
+  "post_num": 1942,
+  "date": "2026-04-10 10:05:30",
+  "content": "![img](assets/1942_30fe121f.jpg)\n听说你们昨天讨论宏和？![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "发帖者提及“宏和”（宏和科技），询问昨日社区的讨论情况，并配以“哭笑”表情，暗示该股近期可能出现了超出预期的波动或讨论热度。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "提及个股宏和科技（603256）",
+      "关注该股在社区内的讨论热度",
+      "情绪表达较为模糊，可能指向股价的意外走势或对昨日讨论的回应"
+    ],
+    "analysis_method": "llm"
+  }
+}

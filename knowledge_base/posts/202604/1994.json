@@ -1,0 +1,23 @@
+{
+  "post_num": 1994,
+  "date": "2026-04-13 15:00:06",
+  "content": "我不知道你这两个方向做的是啥。。。我真是挣钱的。。。特别是国算  每次都是5-10个点的大波动 非常好做T",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者分享其在“国算”板块的盈利经验，强调该板块具有5-10%的高波动特性，非常适合进行“做T”（日内回转交易）操作。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "作者在“国算”相关标的上实现了盈利",
+      "“国算”板块波动较大，单次波动常在5-10个点",
+      "该板块的波动特性非常适合进行T+0（做T）策略操作"
+    ],
+    "analysis_method": "llm"
+  }
+}

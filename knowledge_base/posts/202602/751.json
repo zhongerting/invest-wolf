@@ -1,0 +1,23 @@
+{
+  "post_num": 751,
+  "date": "2026-02-09 14:33:29",
+  "content": "市场就是这样  总是怕跌自己 涨别人\n所以机构能兜好就不错了  让别人追回来更好。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "发帖者分析了投资者普遍存在的恐跌心理与踏空焦虑，指出机构若能起到稳盘作用已属不易，并认为市场回暖需依靠资金追涨回流。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "投资者存在“怕自己持仓跌，怕别人持仓涨”的心理博弈",
+      "机构投资者的主要作用在于市场兜底和稳定预期",
+      "市场上涨的动力之一来自于踏空资金的追涨行为"
+    ],
+    "analysis_method": "llm"
+  }
+}

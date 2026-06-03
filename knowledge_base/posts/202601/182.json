@@ -1,0 +1,24 @@
+{
+  "post_num": 182,
+  "date": "2026-01-16 14:40:15",
+  "content": "你这种不就是纯看图说话了\n为什么跌 利空什么板块 监管什么板块 GJD的意图是什么 当晚数据机构吃进的是哪些方向 吃了多少资金 第二天盘中机构吃了多少等等一大堆\n只看图能看懂什么鬼",
+  "analysis": {
+    "tags": [
+      "market",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者强烈质疑单纯依赖技术分析（看图）的可靠性，主张投资者应深度研判下跌原因、监管政策、国家队意图以及机构资金的流向与规模。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "批判单纯的技术分析（看图说话）缺乏深度",
+      "强调需关注宏观及监管政策对特定板块的影响",
+      "指出理解“国家队”（GJD）的意图是分析的关键",
+      "重视机构资金的流入方向、规模及盘中动态数据"
+    ],
+    "analysis_method": "llm"
+  }
+}

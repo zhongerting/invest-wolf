@@ -1,0 +1,22 @@
+{
+  "post_num": 3,
+  "date": "2026-01-12 09:53:59",
+  "content": "刚才指数盘中翻绿了  有没有加一点设备",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者关注到指数盘中翻绿（下跌），并询问是否有投资者趁此回调机会加仓设备板块股票。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "指数盘中出现回调（翻绿）。",
+      "作者暗示或询问在指数下跌时采取“逢低买入”策略，加仓设备类个股。"
+    ],
+    "analysis_method": "llm"
+  }
+}

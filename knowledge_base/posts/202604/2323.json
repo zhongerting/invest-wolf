@@ -1,0 +1,23 @@
+{
+  "post_num": 2323,
+  "date": "2026-04-29 14:09:28",
+  "content": "你就不要看他  按我之前说的做就行了  早点打工挣够本金把ETF换成688个股",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sector",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者建议投资者忽略他人观点，通过打工积累本金，并将投资标的从 ETF 切换为科创板（688）个股。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "建议坚持既定的投资策略，不受外界干扰",
+      "提倡通过场外增收（打工）来扩大投资本金",
+      "看好科创板（688）个股，建议将宽基或行业ETF转换为具体个股以追求更高收益"
+    ],
+    "analysis_method": "llm"
+  }
+}

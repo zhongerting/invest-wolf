@@ -1,0 +1,23 @@
+{
+  "post_num": 2808,
+  "date": "2026-05-28 10:53:43",
+  "content": "我昨天说了 物理AI这个新名词被套定理顶掉了。",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为“物理AI”这一新题材的热度已被“见顶定理”或套利逻辑所取代，暗示该概念板块可能已经见顶或面临调整压力。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "物理AI概念的市场关注度或上涨趋势受阻",
+      "提及“套定理”或“顶掉”，暗示题材炒作逻辑遭遇技术性见顶信号",
+      "作者对新题材的持续性持怀疑态度，认为风险正在加大"
+    ],
+    "analysis_method": "llm"
+  }
+}

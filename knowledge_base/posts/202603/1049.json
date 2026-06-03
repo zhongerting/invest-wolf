@@ -1,0 +1,21 @@
+{
+  "post_num": 1049,
+  "date": "2026-03-03 13:28:30",
+  "content": "你们最大的亏损来自于非理性加仓",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖指出投资者重大的亏损并非直接源于市场波动，而是源于在缺乏逻辑和纪律的情况下进行非理性加仓的行为。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "非理性加仓是导致巨额亏损的核心原因",
+      "强调了交易纪律和仓位管理在风险控制中的重要性"
+    ],
+    "analysis_method": "llm"
+  }
+}

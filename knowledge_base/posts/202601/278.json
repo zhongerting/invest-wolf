@@ -1,0 +1,21 @@
+{
+  "post_num": 278,
+  "date": "2026-01-20 18:19:18",
+  "content": "刚有点起色 天塌了啊 又浪费库里一个赛季了",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该内容属于体育竞技领域的评论，表达了对NBA金州勇士队及球员库里本赛季前景的极度失望，不涉及任何股票投资或市场分析内容。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "内容核心为对体育赛事（NBA）的挫败感",
+      "表达了对‘浪费库里赛季’的悲观情绪",
+      "确认该文本与股市投资、个股或板块分析无关"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 2335,
+  "date": "2026-04-29 14:41:51",
+  "content": "那你不废话\n整个市场有多少个敢公域明牌告诉你了以后市场马上验证的？我这个胜率你以为市场很多?\n我TM已经快10了啊",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者在社交平台公开炫耀其极高的预测胜率及市场即时验证的能力，并提及个人业绩或收益表现极佳（接近10倍或10连胜），展现出极度自信的情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "强调其在公域环境下的预测具有极高的准确性和即时验证性",
+      "自述胜率远超市场平均水平",
+      "透露其投资回报或连胜纪录已接近“10”这一重要关口"
+    ],
+    "analysis_method": "llm"
+  }
+}

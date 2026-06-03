@@ -1,0 +1,22 @@
+{
+  "post_num": 1199,
+  "date": "2026-03-13 09:55:20",
+  "content": "黄穿白",
+  "analysis": {
+    "tags": [
+      "technical",
+      "market"
+    ],
+    "category": "trading_signal",
+    "summary": "“黄穿白”指分时图中代表小盘股或平均股价的黄线向上穿过代表大盘股或权重股的白线，通常预示小盘股走势强于大盘股，市场赚钱效应提升。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "分时图中黄线（代表中小盘或个股平均价）向上穿越白线（代表权重股或指数）",
+      "反映出市场中小盘股表现活跃，个股涨幅普遍优于权重股",
+      "通常被视为市场情绪回暖、赚钱效应增强的技术信号"
+    ],
+    "analysis_method": "llm"
+  }
+}

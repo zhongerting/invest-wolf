@@ -1,0 +1,20 @@
+{
+  "post_num": 1626,
+  "date": "2026-03-31 14:09:31",
+  "content": "那个就是幌子。。。。。。。。。。。。。另有目标。。。",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "帖子暗示某个事物是幌子，另有隐藏目标，但缺乏具体指向。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "认为存在虚假表象",
+      "暗示真正的目标尚未公开"
+    ],
+    "analysis_method": "llm"
+  }
+}

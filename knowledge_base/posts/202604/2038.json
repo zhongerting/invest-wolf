@@ -1,0 +1,21 @@
+{
+  "post_num": 2038,
+  "date": "2026-04-14 14:46:18",
+  "content": "不是  \n全世界都在涨 目前",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出当前全球市场普遍处于上涨态势，表达了对整体市场环境的乐观观察。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "全球股市目前呈现普涨行情",
+      "对当前市场走势持积极态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

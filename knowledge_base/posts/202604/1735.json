@@ -1,0 +1,22 @@
+{
+  "post_num": 1735,
+  "date": "2026-04-02 14:25:27",
+  "content": "所以刚才抄的我觉得明天可以好位置T出去的",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "用户分享了其短线交易动态：刚刚完成了抄底操作，并计划在明天寻找理想的高位进行卖出（做T）以获取收益。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "完成了抄底买入操作",
+      "计划在明天进行卖出（T+0或短线获利回吐）",
+      "对明天股价回升至“好位置”持有乐观预期"
+    ],
+    "analysis_method": "llm"
+  }
+}

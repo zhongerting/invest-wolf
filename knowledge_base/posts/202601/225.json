@@ -1,0 +1,22 @@
+{
+  "post_num": 225,
+  "date": "2026-01-19 13:56:24",
+  "content": "不是说了么  能接起来的只有险资和公墓",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场环境下，仅有保险资金（险资）和公募基金具备足够的资金实力来承接筹码或稳定盘面。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "强调险资是市场重要的增量资金来源或承接力量",
+      "指出公募基金（文中谐音/误写为“公墓”）是核心的机构承接方",
+      "暗示当前市场抛压较重，普通资金或散户难以支撑盘面"
+    ],
+    "analysis_method": "llm"
+  }
+}

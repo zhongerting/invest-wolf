@@ -1,0 +1,21 @@
+{
+  "post_num": 2054,
+  "date": "2026-04-15 10:54:16",
+  "content": "旅游家电起来了",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到旅游和家电板块近期表现活跃，呈现出明显的上涨或启动迹象。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "旅游板块行情启动",
+      "家电板块表现活跃"
+    ],
+    "analysis_method": "llm"
+  }
+}

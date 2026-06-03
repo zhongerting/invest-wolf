@@ -1,0 +1,23 @@
+{
+  "post_num": 2790,
+  "date": "2026-05-27 15:47:42",
+  "content": "我还没看  是不是科技方向的？不是当我没问",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "用户询问相关内容是否属于科技板块，表现出对科技方向的特定关注，但尚未阅读具体信息，处于信息确认阶段。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "用户对科技板块有明显的偏好或关注",
+      "目前处于询问阶段，尚未对市场表达明确的看多或看空观点"
+    ],
+    "analysis_method": "llm"
+  }
+}

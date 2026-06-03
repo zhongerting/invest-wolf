@@ -1,0 +1,22 @@
+{
+  "post_num": 198,
+  "date": "2026-01-17 09:59:11",
+  "content": "很偶尔 一年也就几次 主要是朋友互通信息的时候有点事做，总不能老是喝茶吃饭啊",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者描述其投资行为频率极低，主要作为与朋友社交、互通信息的媒介，而非专业或高频的交易行为。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "交易频率极低，一年仅操作几次",
+      "投资活动带有强烈的社交属性，用于朋友间的信息交换",
+      "将投资视为一种消遣方式，而非纯粹的盈利手段"
+    ],
+    "analysis_method": "llm"
+  }
+}

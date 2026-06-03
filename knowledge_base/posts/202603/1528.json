@@ -1,0 +1,22 @@
+{
+  "post_num": 1528,
+  "date": "2026-03-26 13:21:43",
+  "content": "指数不好 我什么都不看",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前大盘指数表现不佳，因此决定采取观望态度，不关注任何市场机会。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "大盘指数走势疲软",
+      "采取空仓或不看盘的避险策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 2102,
+  "date": "2026-04-16 10:20:16",
+  "content": "国算那种一眼望不到头的  保持不吃最后一根K线的想法  任何时候跌破前一根红K的最低价卖出  也就是最后一根红K不吃\n不然我也不知道什么时候结束",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sector",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者看好国产算力板块的长线趋势，但建议采取保守的止盈策略：以跌破前一根红K线最低价作为卖出信号，旨在放弃最后一波利润以规避趋势反转风险。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "认为国产算力板块行情具有长期潜力（一眼望不到头）",
+      "建议采取“不吃最后一根K线”的策略，即不追求卖在最高点以规避大幅回撤",
+      "明确了具体的卖出信号：股价跌破前一根红K（阳线）的最低价"
+    ],
+    "analysis_method": "llm"
+  }
+}

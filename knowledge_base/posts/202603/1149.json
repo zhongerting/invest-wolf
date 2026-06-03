@@ -1,0 +1,21 @@
+{
+  "post_num": 1149,
+  "date": "2026-03-09 13:48:05",
+  "content": "![img](assets/1149_4edcd11d.jpg)\n以后再估计我就打死你",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "用户表达了对预测或“估计”行为的强烈不满和愤怒情绪，通常源于投资预测失准导致的亏损或挫败感，属于典型的情绪宣泄。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "对市场预测/估计行为表现出极度的反感和不信任",
+      "强烈的负面投资情绪宣泄",
+      "暗示此前的预判或他人的建议可能造成了严重损失"
+    ],
+    "analysis_method": "llm"
+  }
+}

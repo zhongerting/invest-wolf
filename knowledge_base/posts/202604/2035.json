@@ -1,0 +1,24 @@
+{
+  "post_num": 2035,
+  "date": "2026-04-14 14:38:01",
+  "content": "你们可以去抬轿医药了![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者以调侃语气建议他人去给医药板块“抬轿”，暗示当前入场可能是为他人接盘或处于高位，表现出不看好的讽刺情绪。",
+    "mentioned_sectors": [
+      "医药"
+    ],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "提及医药板块的操作建议",
+      "使用“抬轿”一词，暗示他人入场是为已有持仓者抬升股价",
+      "结合哭笑表情，体现出对该板块后续走势的嘲讽或不看好"
+    ],
+    "analysis_method": "llm"
+  }
+}

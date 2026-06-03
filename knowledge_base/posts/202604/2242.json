@@ -1,0 +1,20 @@
+{
+  "post_num": 2242,
+  "date": "2026-04-24 10:16:53",
+  "content": "建议打钱给我",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖子内容为非投资相关的索要金钱请求，缺乏实质性的市场分析、技术探讨或交易建议。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "内容不涉及任何股市、板块或个股的具体分析",
+      "作者表达了索要金钱的意图，属于无效投资信息"
+    ],
+    "analysis_method": "llm"
+  }
+}

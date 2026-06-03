@@ -1,0 +1,21 @@
+{
+  "post_num": 1598,
+  "date": "2026-03-31 09:04:49",
+  "content": "因为今天星期二啊 不是护大A。。。。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者通过调侃“周二”这一时间点，暗示大盘走势疲软且缺乏护盘力量，反映了市场中常见的“黑周二”悲观情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "提及“黑周二”的市场迷信或心理预期",
+      "暗示市场缺乏护盘资金的介入"
+    ],
+    "analysis_method": "llm"
+  }
+}

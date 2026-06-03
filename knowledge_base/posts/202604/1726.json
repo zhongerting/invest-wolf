@@ -1,0 +1,23 @@
+{
+  "post_num": 1726,
+  "date": "2026-04-02 13:55:19",
+  "content": "恐慌+出金盘出来了 看承接力量了",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "market",
+      "technical"
+    ],
+    "category": "market_analysis",
+    "summary": "市场当前出现恐慌性抛售和资金流出迹象，投资者正密切关注下方买盘的承接力度，以判断市场是否能企稳。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "市场情绪进入恐慌状态",
+      "盘面出现明显的出金盘（资金流出）",
+      "当前核心观察点在于市场承接力量的强弱"
+    ],
+    "analysis_method": "llm"
+  }
+}

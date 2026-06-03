@@ -1,0 +1,23 @@
+{
+  "post_num": 2157,
+  "date": "2026-04-20 11:01:47",
+  "content": "他就是一个补涨。。不要给自己加戏",
+  "analysis": {
+    "tags": [
+      "stock",
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者认为当前的股价上涨仅仅是补涨行为，并非反转或强力行情的开始，提醒投资者不要过度解读或抱有不切实际的期待。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "当前上涨被定性为补涨性质",
+      "警告投资者不要过度解读行情（不要给自己加戏）",
+      "暗示上涨空间有限或缺乏持续性"
+    ],
+    "analysis_method": "llm"
+  }
+}

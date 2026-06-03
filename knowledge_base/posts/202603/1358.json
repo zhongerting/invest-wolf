@@ -1,0 +1,23 @@
+{
+  "post_num": 1358,
+  "date": "2026-03-20 12:50:38",
+  "content": "要是有合力我当时滑翔至少做到60块",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者回顾交易经历，认为若市场具备“合力”（资金共识），其持有的个股“滑翔”（推测为华翔股份等相关简称个股）目标价本可达到60元。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "强调市场“合力”是推动股价达到理想高度的关键因素",
+      "对个股（滑翔）给出了60元的远期心理目标价位",
+      "表达了对过去交易未能实现利润最大化的遗憾，反映出对该股基本面或走势潜力的认可"
+    ],
+    "analysis_method": "llm"
+  }
+}

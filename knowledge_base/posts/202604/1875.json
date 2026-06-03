@@ -1,0 +1,22 @@
+{
+  "post_num": 1875,
+  "date": "2026-04-08 11:20:27",
+  "content": "所以为什么我早上早早来这里说今天要怎么操作。你们知不知道操作体系的重要性了",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者强调了交易操作体系的重要性，并指出其在早盘已发布过今日的操作建议，意在提醒投资者遵循系统化交易逻辑而非盲目操作。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "强调建立和执行交易体系的重要性",
+      "暗示早盘已给出具体的每日操作指导",
+      "通过反问语气提醒投资者反思操作逻辑"
+    ],
+    "analysis_method": "llm"
+  }
+}

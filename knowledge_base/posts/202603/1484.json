@@ -1,0 +1,23 @@
+{
+  "post_num": 1484,
+  "date": "2026-03-24 14:37:58",
+  "content": "都是在做业绩方向  估计是搏个确定性的业绩报  自救最确定的方向",
+  "analysis": {
+    "tags": [
+      "market",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "市场资金目前集中于业绩确定性较高的方向，投资者倾向于通过博弈财报来寻求避险或自救，业绩表现被视为当前最具确定性的投资路径。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "市场资金流向具有业绩支撑的板块或个股",
+      "投资者主要博弈财报披露的确定性机会",
+      "业绩驱动被视为当前市场环境下‘自救’的最优策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

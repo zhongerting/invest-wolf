@@ -1,0 +1,24 @@
+{
+  "post_num": 1938,
+  "date": "2026-04-09 18:09:00",
+  "content": "现在是业绩抱团行情  毕竟外围太不确定了 只有抱业绩至少不会死\n不然买个别的他突然发消息说没有这个业务那不是直接暴雷了",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "当前市场受外围不确定性影响，资金向业绩优良的板块抱团，旨在通过基本面确定性来规避突发利空或业务造假导致的暴雷风险。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "市场进入业绩抱团行情，资金偏好确定性",
+      "外围环境存在高度不确定性，导致投资者风险偏好收缩",
+      "持有业绩支撑的股票被视为防守避险的手段",
+      "担忧非业绩股可能存在业务造假或突发暴雷风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

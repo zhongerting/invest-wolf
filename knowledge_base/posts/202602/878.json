@@ -1,0 +1,22 @@
+{
+  "post_num": 878,
+  "date": "2026-02-25 13:11:32",
+  "content": "后知后觉的机构进来了吧\n散户和柚子还没开始动作呢，散户还在等春节题材解套。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到机构资金已开始入场，而散户与游资尚未发力，目前散户多处于被套状态，正等待春节相关题材的行情以寻求解套。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "机构投资者已表现出入场迹象",
+      "散户和游资（柚子）目前尚未有明显动作",
+      "散户目前主要持仓春节题材且处于被套状态，期待后续行情"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 1504,
+  "date": "2026-03-25 10:20:14",
+  "content": "我们什么时候跟过日韩？我们要跟了现在还能是3字开头？你瞎说什么呢",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者强烈反驳 A 股走势追随日韩股市的观点，认为若 A 股真有联动，指数不至于维持在 3000 点左右，言语中透露出对当前市场点位长期停滞的不满。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "否定 A 股与日韩股市存在走势上的联动性",
+      "以指数处于“3字开头”（约 3000 点）作为市场表现独立的论据",
+      "表达了对 A 股未能像日韩股市那样上涨的负面情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

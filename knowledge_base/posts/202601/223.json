@@ -1,0 +1,26 @@
+{
+  "post_num": 223,
+  "date": "2026-01-19 13:54:41",
+  "content": "今天两融杠杆调整日  明天十五五第一次LPR公布\n你们炒股不看金融日历的吗？这种行情除了自救的题材  哪有人动手",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者强调两融杠杆调整与LPR公布等关键金融节点对市场的影响，认为当前投资者观望情绪浓厚，缺乏主动进攻意愿，仅存在部分题材的自救行情。",
+    "mentioned_sectors": [
+      "金融"
+    ],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "今日为两融杠杆调整日，影响市场杠杆资金动向",
+      "明日将公布LPR利率，市场处于政策敏感期和观察期",
+      "市场整体交易意愿低迷，缺乏增量资金入场",
+      "当前行情主要由存量资金在特定题材中进行“自救”，缺乏普涨动力"
+    ],
+    "analysis_method": "llm"
+  }
+}

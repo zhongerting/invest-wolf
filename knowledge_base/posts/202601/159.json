@@ -1,0 +1,22 @@
+{
+  "post_num": 159,
+  "date": "2026-01-16 10:45:52",
+  "content": "。。。。。明明是司令和富赛先起来的。。。。。。。。。。。。。。。。。。。。。。。。。。",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出“司令”与“富赛”是行情中率先启动的标的，意在纠正市场对于领涨品种或行情起源的认知，强调这两只个股的领先地位。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "指出“司令”和“富赛”是本轮上涨行情中较早启动的个股",
+      "暗示市场当前对行情主线的判断可能存在偏差",
+      "强调个股上涨的时间先后顺序，认为这两者具有风向标意义"
+    ],
+    "analysis_method": "llm"
+  }
+}

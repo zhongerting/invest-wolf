@@ -1,0 +1,23 @@
+{
+  "post_num": 1232,
+  "date": "2026-03-16 13:36:37",
+  "content": "是的  看机构什么时候第二次吃货。",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者正在密切关注机构投资者的动向，特别是等待机构进行第二次吸筹（吃货）的信号，以此作为后续交易的参考依据。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "关注机构资金的二次进场时机",
+      "将机构“吃货”行为视为看涨的潜在信号",
+      "目前处于观察和等待入场点的状态"
+    ],
+    "analysis_method": "llm"
+  }
+}

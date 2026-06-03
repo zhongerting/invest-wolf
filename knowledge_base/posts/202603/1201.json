@@ -1,0 +1,22 @@
+{
+  "post_num": 1201,
+  "date": "2026-03-13 10:34:13",
+  "content": "小心点石油股票就行了",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者发出预警，提醒投资者在操作石油板块股票时需保持谨慎，防范潜在风险。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "对石油股票持谨慎态度",
+      "提示石油板块可能存在回调或投资风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 1462,
+  "date": "2026-03-23 20:27:22",
+  "content": "你怕不怕大总统一边发推一边偷偷上岛  这老头有前科的。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖表达了对地缘政治风险的担忧，特别是针对某大国领导人可能采取的突发性、不可预测行动（如访岛）及其对市场造成的潜在剧烈波动。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "地缘政治不确定性增加",
+      "对领导人“言行不一”或突发举动引发市场震荡的恐惧",
+      "历史行为模式（前科）暗示未来存在类似的风险点"
+    ],
+    "analysis_method": "llm"
+  }
+}

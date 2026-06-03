@@ -1,0 +1,26 @@
+{
+  "post_num": 955,
+  "date": "2026-02-27 13:25:22",
+  "content": "半导体个股也有止盈的啊  就是轮动 反正没什么风险 问题不大\nAI硬是之前减了 这部分就是活动仓位  我前面说过了",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为半导体板块目前处于止盈和轮动阶段，整体市场风险较小。AI硬件仓位此前已进行减仓处理，目前将其作为灵活调度的活动仓位管理。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "半导体板块出现止盈操作，属于正常的板块轮动",
+      "认为当前市场整体风险不大，形势较为平稳",
+      "AI硬件相关仓位已提前调减，目前定位为活动仓位进行操作"
+    ],
+    "analysis_method": "llm"
+  }
+}

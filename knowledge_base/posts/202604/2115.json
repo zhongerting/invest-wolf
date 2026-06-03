@@ -1,0 +1,21 @@
+{
+  "post_num": 2115,
+  "date": "2026-04-16 10:56:53",
+  "content": "你们认真的吗？为何如此X炸天![咦](https://img4.nga.178.com/ngabbs/post/smile/ac11.png)",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "用户对市场或个股的极端表现（通常指大涨或强势表现）表达了强烈的震惊和不可思议的情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "表达了极度惊讶的情绪",
+      "暗示市场或某一标的存在超出预期的强势表现",
+      "内容缺乏具体逻辑分析，属于纯情绪化表达"
+    ],
+    "analysis_method": "llm"
+  }
+}

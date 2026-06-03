@@ -1,0 +1,23 @@
+{
+  "post_num": 2334,
+  "date": "2026-04-29 14:40:36",
+  "content": "协创经常小作文 反正把握每一次小作文的机会进场都是对的 其他时间都不是进场时间。",
+  "analysis": {
+    "tags": [
+      "stock",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者认为协创数据频繁出现市场传闻（小作文），并主张投资者应仅在传闻出现时进场，认为这是唯一的正确交易时机。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "协创数据（个股）具有频繁出现市场传闻或利好消息的特点",
+      "建议将“小作文”的出现作为核心进场信号",
+      "认为在没有传闻的常规时间内不具备进场价值"
+    ],
+    "analysis_method": "llm"
+  }
+}

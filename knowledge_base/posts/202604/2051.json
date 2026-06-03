@@ -1,0 +1,20 @@
+{
+  "post_num": 2051,
+  "date": "2026-04-15 08:43:48",
+  "content": "你为什么长脑子了？",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该内容为一句反问或调侃，缺乏具体的股票、市场或行业分析信息，属于非投资相关的社交评论或情绪表达。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "内容不涉及具体的投资建议或市场分析",
+      "表现为一种情绪化的社交互动，无实质性参考价值"
+    ],
+    "analysis_method": "llm"
+  }
+}

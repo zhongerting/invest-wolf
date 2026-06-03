@@ -1,0 +1,24 @@
+{
+  "post_num": 2319,
+  "date": "2026-04-29 13:55:51",
+  "content": "已经放量了  现在还是机构回补  散户还没敢进 我不急  我等他们进来再说",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "市场成交量已放大，目前处于机构回补阶段，散户尚未大规模入场。作者持乐观态度，计划保持耐心，等待散户进场后再行操作。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "市场已出现放量迹象",
+      "当前主要买入力量为机构回补",
+      "散户情绪尚处于观望状态，未敢进场",
+      "作者采取持股待涨或等待散户抬轿的策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

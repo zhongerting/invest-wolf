@@ -1,0 +1,21 @@
+{
+  "post_num": 830,
+  "date": "2026-02-13 09:44:04",
+  "content": "你污蔑他了  他10CM里面算正宗的",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者为某只个股辩护，认为该股在主板（10CM涨幅限制）标的中属于题材或基本面较为“正宗”的品种，反驳了之前的负面评价。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "作者反驳了对特定个股的负面观点",
+      "强调该个股在10%涨停限制的标的中具有较强的代表性或正宗性"
+    ],
+    "analysis_method": "llm"
+  }
+}

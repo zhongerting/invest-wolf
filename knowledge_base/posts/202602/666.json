@@ -1,0 +1,21 @@
+{
+  "post_num": 666,
+  "date": "2026-02-04 13:55:17",
+  "content": "我不知道 暂时不参与",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者对当前市场走势表示不确定，明确表达了观望态度，暂时不打算参与交易。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "对市场现状缺乏清晰判断",
+      "执行空仓观望策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

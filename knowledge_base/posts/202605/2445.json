@@ -1,0 +1,22 @@
+{
+  "post_num": 2445,
+  "date": "2026-05-08 14:10:17",
+  "content": "不配 我这几个随便哪个都是稀缺性和核心技术的。",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对其持有的投资标的表现出极强的信心，强调这些标的具备稀缺性和核心技术，并认为其他标的无法与之相比。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "强调持仓标的具有高度的稀缺性",
+      "核心技术是作者看好相关标的的底层逻辑",
+      "对其他对比标的持否定态度，认为其品质不匹配"
+    ],
+    "analysis_method": "llm"
+  }
+}

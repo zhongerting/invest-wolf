@@ -1,0 +1,22 @@
+{
+  "post_num": 1770,
+  "date": "2026-04-02 21:24:59",
+  "content": "大鹅主要还是要对付欧工资，小日子自有人来解决他     ~~ 是谁我不能说 反正总不能说是我们 ~~",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖子利用地缘政治暗语（大鹅指代俄罗斯，小日子指代日本）讨论国际局势博弈，暗示中国在复杂的国际环境中具有战略主动权。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "认为俄罗斯的主要战略目标是应对欧洲地区冲突",
+      "暗示存在特定力量（隐喻中国）在制衡日本",
+      "表达了对当前国际政治博弈中中方战略地位的隐晦信心"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "post_num": 2372,
+  "date": "2026-04-30 12:21:40",
+  "content": "你们不用什么都买  今天我觉得还是要空余一些仓位出来 毕竟放假那么久\n我买是因为我半导体 电池 铜箔那些不断的出场利润。。。每天都出来  所以有钱买",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者建议在长假前应保持部分空仓以规避风险，并透露其个人操作是基于半导体、电池及铜箔等板块持续获利后的资金再利用。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "建议在长假前预留空余仓位，不建议盲目全仓买入",
+      "作者个人在半导体、电池、铜箔等板块有持续的利润产出",
+      "强调操作的资金来源是板块盈利后的滚动资金"
+    ],
+    "analysis_method": "llm"
+  }
+}

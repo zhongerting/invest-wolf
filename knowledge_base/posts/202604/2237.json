@@ -1,0 +1,23 @@
+{
+  "post_num": 2237,
+  "date": "2026-04-24 09:55:39",
+  "content": "长川触发我的止盈点",
+  "analysis": {
+    "tags": [
+      "stock",
+      "strategy",
+      "technical"
+    ],
+    "category": "trading_signal",
+    "summary": "作者提到长川科技（长川）的股价已经触及了其预设的止盈价位，表明投资者正在按计划进行减仓或平仓以锁定收益。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "长川科技股价达到止盈点",
+      "投资者执行交易策略锁定利润",
+      "暗示该股近期已有一定涨幅"
+    ],
+    "analysis_method": "llm"
+  }
+}

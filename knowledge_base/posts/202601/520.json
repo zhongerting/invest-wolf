@@ -1,0 +1,25 @@
+{
+  "post_num": 520,
+  "date": "2026-01-29 14:20:53",
+  "content": "那我不懂  我今天全靠别的顶了我科技这边的亏损",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "用户反馈今日科技板块持仓出现亏损，但通过其他板块的盈利实现了对冲，整体盈亏平衡，并对当前市场走势表达了困惑。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "科技板块今日表现不佳，产生实际亏损",
+      "持仓中的非科技板块表现较好，抵消了科技端的损失",
+      "投资者对当前市场轮动或逻辑感到不解（“我不懂”）"
+    ],
+    "analysis_method": "llm"
+  }
+}

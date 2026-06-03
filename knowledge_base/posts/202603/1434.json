@@ -1,0 +1,22 @@
+{
+  "post_num": 1434,
+  "date": "2026-03-23 13:46:24",
+  "content": "今天哪有反抽",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "用户对当日市场未能出现预期的技术性反抽表示质疑，反映出市场走势疲软及投资者的负面情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "质疑当日市场是否存在反抽行情",
+      "暗示市场表现弱于预期，缺乏反弹动力"
+    ],
+    "analysis_method": "llm"
+  }
+}

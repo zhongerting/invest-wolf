@@ -1,0 +1,25 @@
+{
+  "post_num": 138,
+  "date": "2026-01-15 22:13:02",
+  "content": "我做了电池 就没去电网了\n这种穿插题材就是选一个做做得了  不然卖什么？卖半导体吗",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者分享了其在电池与电网板块间的抉择，最终选择持有电池板块。其观点认为在当前题材轮动的市场中，应专注单一题材操作，并对半导体板块的当前交易价值表示质疑。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "在电池和电网两个穿插题材中，作者选择了电池板块进行操作",
+      "交易策略倾向于在轮动题材中挑选其一，不建议频繁切换或多头兼顾",
+      "通过反问暗示目前不看好半导体板块的卖出或持有价值"
+    ],
+    "analysis_method": "llm"
+  }
+}

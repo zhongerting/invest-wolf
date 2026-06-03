@@ -1,0 +1,23 @@
+{
+  "post_num": 1605,
+  "date": "2026-03-31 10:37:26",
+  "content": "又不是没有这个能力 是吧 以前GJD不给力的时候不就是机构自己画线",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为机构投资者具备独立操盘和控制技术走势的能力，并指出在国家队（GJD）支持力度不足的历史时期，机构曾通过自主“画线”来主导市场。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "机构具备独立影响和控制市场技术形态的能力",
+      "回顾了国家队（GJD）不给力时机构的自主维护行为",
+      "暗示市场内部力量在缺乏外部支撑时仍有作为空间"
+    ],
+    "analysis_method": "llm"
+  }
+}

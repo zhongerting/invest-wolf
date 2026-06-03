@@ -1,0 +1,20 @@
+{
+  "post_num": 2124,
+  "date": "2026-04-16 12:52:15",
+  "content": "勇士这些老家伙打一个系列赛可能不行了  但是一场定生死的话谁也不敢说稳赢有库里的勇士",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖子内容涉及 NBA 篮球赛事分析，讨论金州勇士队在不同赛制下的竞争力，不涉及股票市场投资。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "认为勇士队老将球员的体能或状态可能无法支撑长期的系列赛",
+      "强调在单场决胜负的比赛中，拥有库里的勇士队依然具有极强的威慑力"
+    ],
+    "analysis_method": "llm"
+  }
+}

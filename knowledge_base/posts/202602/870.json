@@ -1,0 +1,21 @@
+{
+  "post_num": 870,
+  "date": "2026-02-25 10:52:03",
+  "content": "机构上班了啊。。。。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到机构投资者开始活跃，暗示市场成交量或波动可能因大资金介入而发生变化。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "观察到机构投资者进入交易状态",
+      "暗示市场活跃度提升或资金面出现变化"
+    ],
+    "analysis_method": "llm"
+  }
+}

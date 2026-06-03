@@ -1,0 +1,22 @@
+{
+  "post_num": 311,
+  "date": "2026-01-21 15:21:37",
+  "content": "但是更多的是跑都来不及的 这都不是单纯的刀口舔血了，那把刀甚至还有毒",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对当前市场持极端悲观态度，认为市场风险已达到极高水平，不仅是高风险的投机（刀口舔血），更像是一个具有毁灭性的陷阱，警告投资者可能面临撤退不及的巨大风险。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "市场风险巨大，投资者可能面临无法及时止损撤离的困境",
+      "当前行情并非普通的风险博弈，而是具有高度杀伤力的陷阱（有毒）",
+      "强烈建议规避风险，表达了对市场极度负面的情绪倾向"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "post_num": 1266,
+  "date": "2026-03-17 13:33:59",
+  "content": "这个缩量对了 和昨天一样 哪个反上来就做哪边了\n目前判断这个点位是底部  你们等确认可以等3个15分钟。",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "market"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者通过缩量特征判断当前点位为底部，建议采取跟随反弹的交易策略，并提出通过3个15分钟周期进行信号确认。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "市场出现缩量，符合技术面预期",
+      "判断当前点位为底部区域",
+      "操作策略上建议观察反弹方向，择机入场",
+      "建议等待3个15分钟K线周期以确认底部信号"
+    ],
+    "analysis_method": "llm"
+  }
+}

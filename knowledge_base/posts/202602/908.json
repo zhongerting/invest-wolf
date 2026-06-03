@@ -1,0 +1,22 @@
+{
+  "post_num": 908,
+  "date": "2026-02-26 11:00:50",
+  "content": "![img](assets/908_c28ff42y.jpg)\n差不多  确实没钱了 今天还想点火个把都没钱了",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者表达了资金枯竭的现状，即便有拉升个股（点火）的意愿也因缺乏资金而无法实施，反映出市场短线动能衰竭和投资者的无奈情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "资金流动性枯竭，缺乏后续买入能力",
+      "无法继续执行“点火”等拉升股价的操作",
+      "市场参与者可能处于满仓被套或购买力透支的状态"
+    ],
+    "analysis_method": "llm"
+  }
+}

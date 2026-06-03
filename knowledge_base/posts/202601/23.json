@@ -1,0 +1,23 @@
+{
+  "post_num": 23,
+  "date": "2026-01-12 14:07:04",
+  "content": "我不是说液冷没行情 我是说AI硬没有行情\n当然我说了不算 市场会给你们答案",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对 AI 硬件板块持悲观态度，认为其目前没有行情，但并未否定液冷板块的机会，并表示观点需经市场验证。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "明确看空 AI 硬件板块的后续表现",
+      "对液冷板块的行情持保留或非否定态度",
+      "强调市场走势是判断对错的最终标准"
+    ],
+    "analysis_method": "llm"
+  }
+}

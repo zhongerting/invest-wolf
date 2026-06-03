@@ -1,0 +1,21 @@
+{
+  "post_num": 2239,
+  "date": "2026-04-24 09:59:29",
+  "content": "在 昨天买了10% 今天目前亏损中",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "用户分享了其最新的交易动态：昨日买入10%仓位，目前持仓处于亏损状态。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "昨日进行了买入操作，仓位权重为10%",
+      "当前交易处于浮亏状态"
+    ],
+    "analysis_method": "llm"
+  }
+}

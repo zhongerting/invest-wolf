@@ -1,0 +1,25 @@
+{
+  "post_num": 1126,
+  "date": "2026-03-06 11:08:22",
+  "content": "不走不走 科技路线都不走\n光伏换去了电池 我电池今天是大涨的",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "用户分享了其调仓策略，通过避开科技板块并将资金从光伏转向电池板块，成功捕捉到今日电池板块的大涨行情。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "明确表示不参与科技板块行情",
+      "完成了从光伏板块到电池板块的调仓操作",
+      "持有的电池板块个股今日表现强劲，获得大涨"
+    ],
+    "analysis_method": "llm"
+  }
+}

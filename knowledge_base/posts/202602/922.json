@@ -1,0 +1,24 @@
+{
+  "post_num": 922,
+  "date": "2026-02-26 13:42:45",
+  "content": "寒武纪是因为消息说H200又暂时进不来了  。。。。。",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "帖子分析了寒武纪股价波动的诱因，认为受英伟达H200芯片出口受阻传闻影响，市场强化了国产替代逻辑。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "寒武纪股价上涨（或波动）归因于英伟达H200芯片暂时无法进入国内的消息",
+      "外部供应受限利好国内AI芯片厂商，存在国产替代预期",
+      "市场情绪受地缘政治及供应链政策变动驱动"
+    ],
+    "analysis_method": "llm"
+  }
+}

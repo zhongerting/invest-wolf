@@ -1,0 +1,21 @@
+{
+  "post_num": 395,
+  "date": "2026-01-26 15:04:17",
+  "content": "那就证明明天还有",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前的行情或趋势具有延续性，预测明天仍会有类似的走势或机会。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "预测市场趋势在下一个交易日将会延续",
+      "暗示当前动能尚未耗尽"
+    ],
+    "analysis_method": "llm"
+  }
+}

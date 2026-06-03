@@ -1,0 +1,22 @@
+{
+  "post_num": 366,
+  "date": "2026-01-23 15:23:26",
+  "content": "哪有人看这个来判断市场的？我炒股十余内未曾听闻",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对某种市场判断方法表示强烈质疑，凭借其十余年的炒股经验认为该方法闻所未闻，表达了对特定分析逻辑的不认可。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "质疑当前讨论的市场判断指标或方法的有效性",
+      "强调个人拥有十余年的长期交易经验作为背书",
+      "暗示该判断标准并非主流或缺乏逻辑支撑"
+    ],
+    "analysis_method": "llm"
+  }
+}

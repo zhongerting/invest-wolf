@@ -1,0 +1,20 @@
+{
+  "post_num": 598,
+  "date": "2026-02-02 13:20:57",
+  "content": "MACD没有  KDJ应该差不多了",
+  "analysis": {
+    "tags": [
+      "technical"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者通过技术指标 MACD 和 KDJ 对市场或个股进行研判，认为 MACD 尚未发出明确信号，而 KDJ 指标已接近调整到位或目标状态。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "MACD 指标目前尚未表现出明确的转折或信号（如金叉或见底）",
+      "KDJ 指标显示当前走势可能已接近阶段性尾声或目标区间"
+    ],
+    "analysis_method": "llm"
+  }
+}

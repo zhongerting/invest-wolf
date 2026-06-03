@@ -1,0 +1,24 @@
+{
+  "post_num": 2063,
+  "date": "2026-04-15 11:20:19",
+  "content": "没兴趣 那个方向之前最强是中油资本 他不行其他都很难",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对当前板块方向持否定态度，认为核心标的中油资本表现不佳，预示该板块整体难以有起色，缺乏投资吸引力。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "对该投资方向明确表示没有兴趣",
+      "中油资本被视为该方向前期的领涨龙头",
+      "基于‘龙头股不行，其余个股难有表现’的逻辑判断板块整体机会渺茫"
+    ],
+    "analysis_method": "llm"
+  }
+}

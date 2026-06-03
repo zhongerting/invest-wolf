@@ -1,0 +1,21 @@
+{
+  "post_num": 930,
+  "date": "2026-02-26 14:31:41",
+  "content": "这么屌吗？什么逻辑？",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对当前市场或特定标的的强势表现表示惊讶，并公开询问其背后的上涨逻辑。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "对行情强度表示震惊",
+      "寻求上涨背后的驱动逻辑"
+    ],
+    "analysis_method": "llm"
+  }
+}

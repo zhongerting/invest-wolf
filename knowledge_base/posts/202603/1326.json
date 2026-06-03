@@ -1,0 +1,22 @@
+{
+  "post_num": 1326,
+  "date": "2026-03-19 14:14:00",
+  "content": "你对比一下之前GJD进场的量能",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "该帖建议通过对比当前成交量与历史上“国家队”（GJD）进场时的量能特征，来研判市场是否存在支撑或底部信号。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "关注国家队（GJD）的资金进场动向",
+      "强调通过历史量能对比来辅助市场分析"
+    ],
+    "analysis_method": "llm"
+  }
+}

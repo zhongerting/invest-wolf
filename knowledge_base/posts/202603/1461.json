@@ -1,0 +1,24 @@
+{
+  "post_num": 1461,
+  "date": "2026-03-23 20:15:46",
+  "content": "指数不企稳 信心不回来 说什么板块方向都是虚的\n如果能企稳 我肯定看国算啊。。我都切了你说我看不看",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为指数企稳是市场信心恢复的前提，在指数不稳时讨论板块无意义。若市场企稳，作者明确看好并已布局国产算力板块。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "指数企稳是信心回归和板块行情展开的先决条件",
+      "在指数未企稳前，认为讨论具体的板块方向缺乏实际意义",
+      "看好国产算力方向，并表示已经完成了相关的调仓布局"
+    ],
+    "analysis_method": "llm"
+  }
+}

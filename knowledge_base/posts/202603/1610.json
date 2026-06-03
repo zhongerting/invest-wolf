@@ -1,0 +1,22 @@
+{
+  "post_num": 1610,
+  "date": "2026-03-31 10:56:58",
+  "content": "C杀可能都不一定到那里  我说指数",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者针对指数走势发表技术面看法，认为预期的C浪下跌幅度可能有限，未必会触及之前的预判位。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "分析对象为大盘指数",
+      "引用了波浪理论中的“C杀”（C浪下跌）概念",
+      "观点倾向于市场下跌空间可能不及预期，表现出相对乐观的情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

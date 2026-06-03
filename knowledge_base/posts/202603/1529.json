@@ -1,0 +1,21 @@
+{
+  "post_num": 1529,
+  "date": "2026-03-26 13:46:01",
+  "content": "![img](assets/1529_233cb93s.jpg)\nZSBD 反正很难",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场环境或交易操作非常困难，表达了较为消极和无奈的情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "认为当前市场操作难度极大",
+      "对市场走势持悲观或挫败态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

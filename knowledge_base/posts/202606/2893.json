@@ -1,0 +1,20 @@
+{
+  "post_num": 2893,
+  "date": "2026-06-02 13:30:38",
+  "content": "昨天不好意思了 我很少公域里面直接爆粗口",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者对其前一天在公域发表的不当言论（爆粗口）表示歉意，该内容属于个人行为说明，不包含市场分析。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "作者对昨日在公域爆粗口的行为进行道歉",
+      "内容不涉及任何具体的股票、板块或市场趋势分析"
+    ],
+    "analysis_method": "llm"
+  }
+}

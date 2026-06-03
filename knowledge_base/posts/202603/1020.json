@@ -1,0 +1,22 @@
+{
+  "post_num": 1020,
+  "date": "2026-03-02 14:46:53",
+  "content": "看啥 化工类 稀土类吗？\n那是原材料收益和第一次精炼，半成品还是要回国精炼的",
+  "analysis": {
+    "tags": [
+      "sector",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "讨论化工与稀土板块的产业链逻辑，指出尽管涉及原材料和初次精炼，但核心的半成品精炼环节仍需在国内完成。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "关注化工和稀土板块的产业链分工",
+      "区分了原材料收益、初次精炼与深加工环节",
+      "强调国内在稀土/化工半成品精炼环节的核心地位"
+    ],
+    "analysis_method": "llm"
+  }
+}

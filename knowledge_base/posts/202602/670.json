@@ -1,0 +1,23 @@
+{
+  "post_num": 670,
+  "date": "2026-02-04 14:39:27",
+  "content": "前段时间那个换手 什么庄都消失了",
+  "analysis": {
+    "tags": [
+      "technical",
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到在经历前期的换手阶段后，市场中的主力资金（庄家）迹象消失，暗示市场活跃度下降或缺乏主导力量。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "前期市场曾出现明显的换手过程",
+      "目前市场中主力资金或“庄家”已不活跃或撤离",
+      "暗示市场进入缺乏领涨力量或博弈热度降低的状态"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "post_num": 2159,
+  "date": "2026-04-20 11:30:23",
+  "content": "我说是就是",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖子内容仅包含一句主观性极强的断言，缺乏任何实质性的市场分析、数据支持或具体的投资逻辑，属于无有效信息的个人情绪表达。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "内容极度简略，无参考价值",
+      "表现出强烈的个人主观臆断倾向",
+      "未提及任何具体标的或市场观点"
+    ],
+    "analysis_method": "llm"
+  }
+}

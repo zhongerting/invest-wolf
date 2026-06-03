@@ -1,0 +1,21 @@
+{
+  "post_num": 2760,
+  "date": "2026-05-26 15:32:34",
+  "content": "你学杂了",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖子是对交易者投资状态的评价，指出其学习的知识点过于杂乱，缺乏核心逻辑或统一的交易体系。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "指出对方交易知识体系不纯粹、不系统",
+      "暗示过多的干扰信息或矛盾的策略会影响投资判断"
+    ],
+    "analysis_method": "llm"
+  }
+}

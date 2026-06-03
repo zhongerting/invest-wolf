@@ -1,0 +1,22 @@
+{
+  "post_num": 831,
+  "date": "2026-02-13 09:47:08",
+  "content": "AI应用不是板了一堆？SD2方向的啊",
+  "analysis": {
+    "tags": [
+      "sector",
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "帖子指出AI应用板块表现强劲，多只个股涨停，并特别点名SD2（Stable Diffusion 2.0）相关技术方向。 ",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "AI应用板块出现集体涨停现象，市场热度高",
+      "SD2（Stable Diffusion 2.0）方向是当前AI板块的关注重点"
+    ],
+    "analysis_method": "llm"
+  }
+}

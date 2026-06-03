@@ -1,0 +1,24 @@
+{
+  "post_num": 2647,
+  "date": "2026-05-20 10:09:22",
+  "content": "很多板块B反但是没反  他们敢C杀加仓?换你 你最多不割肉  你敢加仓？",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者基于波浪理论指出，许多板块在预期的B浪反弹阶段表现疲软，并对随后的C浪下跌（C杀）表示担忧，质疑投资者在缺乏反弹支撑的情况下加仓的信心。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "许多板块未出现预期的B浪反弹，市场走势弱于预期",
+      "市场面临C浪下跌（C杀）的风险，恐慌情绪蔓延",
+      "质疑投资者在当前环境下加仓的意愿，认为大多数人仅能做到不割肉",
+      "反映出市场信心极度匮乏，对后市持悲观态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

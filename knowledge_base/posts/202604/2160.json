@@ -1,0 +1,25 @@
+{
+  "post_num": 2160,
+  "date": "2026-04-20 11:33:43",
+  "content": "刚才分时4067-4063其实很危险  但是钱去银行兜底了 非常及时",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sector"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到市场在4067-4063点位时出现下行风险，但银行板块及时获得资金护盘，有效化解了分时层面的危机。",
+    "mentioned_sectors": [
+      "银行"
+    ],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "分时点位4067-4063区间曾面临破位风险",
+      "银行板块在关键时刻起到兜底护盘作用",
+      "资金流入银行板块的时机非常及时，稳定了市场情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

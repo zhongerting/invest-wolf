@@ -1,0 +1,24 @@
+{
+  "post_num": 2320,
+  "date": "2026-04-29 14:01:12",
+  "content": "我说一下  半导体材料类  我已经做出成本  减了1/3之后继续持有。 之后不在说 也暂时不会重新加仓进去",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者已对半导体材料板块进行减仓1/3的操作，目前已实现成本优化，计划对剩余仓位继续持有，且短期内明确表示不再加仓。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "已减持1/3的半导体材料类仓位",
+      "目前持仓已做出成本优势（处于盈利或安全垫状态）",
+      "剩余2/3仓位选择继续持有，但短期内没有重新加仓的计划"
+    ],
+    "analysis_method": "llm"
+  }
+}

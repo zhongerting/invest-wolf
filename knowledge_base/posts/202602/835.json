@@ -1,0 +1,22 @@
+{
+  "post_num": 835,
+  "date": "2026-02-13 10:07:17",
+  "content": "有涨多的 可以参考我的比例  过节嘛 虽然仓位不低但是配置均衡 求个稳字",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者分享节前投资策略，建议在个股涨幅较大时参考其配置比例。目前虽维持较高仓位，但通过均衡配置追求稳健，旨在应对节前市场波动。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "针对涨幅较大的个股建议参考其资产配置比例进行调整",
+      "节前维持不低的仓位，但强调配置的均衡性",
+      "投资核心逻辑为“求稳”，通过分散配置降低风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

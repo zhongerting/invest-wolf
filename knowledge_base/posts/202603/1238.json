@@ -1,0 +1,23 @@
+{
+  "post_num": 1238,
+  "date": "2026-03-16 14:40:40",
+  "content": "正常 除非彻底通航 后面再打就无所谓了 像俄乌一样。\n现在还在这个过程当中 就不要太激进。",
+  "analysis": {
+    "tags": [
+      "market",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场受地缘政治冲突影响，处于不确定性的演变过程中。在局势明朗或常态化之前，建议投资者保持谨慎，避免采取激进的投资策略。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "地缘政治冲突对市场的影响仍处于动态过程中",
+      "将当前局势与俄乌冲突类比，认为尚未达到“脱敏”或常态化阶段",
+      "操作建议：当前阶段不宜过度激进，应以防守或观望为主"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 337,
+  "date": "2026-01-22 13:22:40",
+  "content": "呐 那个撬地板的 那个一天可以地天 你们敢不敢做？我反正不敢",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy",
+      "technical"
+    ],
+    "category": "trading_signal",
+    "summary": "作者讨论了“撬地板”（跌停板买入）并期待“地天板”（从跌停到涨停）的高风险交易行为，并明确表达了自己不敢参与的谨慎态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "提及“撬地板”和“地天板”这种极端的短线交易现象",
+      "作者对参与此类高风险博弈持明确的否定和畏避态度",
+      "反映了市场中部分投资者对当前极端波动行情的谨慎情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

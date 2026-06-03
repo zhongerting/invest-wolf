@@ -1,0 +1,21 @@
+{
+  "post_num": 192,
+  "date": "2026-01-16 16:20:16",
+  "content": "我这几天也刷到这个了 从全仓涨停到全仓跌停。 哈哈",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "用户描述了近期市场极端的波动现象，即持仓从全仓涨停迅速转为全仓跌停，并以调侃的语气表达了对市场剧烈反转的关注。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "市场近期出现剧烈波动，存在从涨停到跌停的极端行情反转",
+      "投资者情绪带有嘲讽或无奈，反映出市场环境的不稳定"
+    ],
+    "analysis_method": "llm"
+  }
+}

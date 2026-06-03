@@ -1,0 +1,22 @@
+{
+  "post_num": 1086,
+  "date": "2026-03-04 14:13:57",
+  "content": "看戏吧 钱去石油了",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场资金正流向石油板块，并建议其他投资者保持观望态度（看戏）。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "资金流向石油板块",
+      "建议投资者目前保持观望"
+    ],
+    "analysis_method": "llm"
+  }
+}

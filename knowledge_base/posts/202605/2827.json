@@ -1,0 +1,20 @@
+{
+  "post_num": 2827,
+  "date": "2026-05-28 14:28:23",
+  "content": "我已经打不动FPS了   我玩FPS的时候还真玩过三角洲 不过那时候电脑系统是WIN98 没想到吧",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "用户分享了早年间在 Windows 98 系统上玩《三角洲特种部队》的回忆，并感叹现在已经无法胜任 FPS 类游戏。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "用户表达了对经典游戏 IP《三角洲》的怀旧情结",
+      "内容纯属个人生活感悟，不涉及任何股票投资或市场分析信息"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 2655,
+  "date": "2026-05-20 12:57:29",
+  "content": "我说了 我现在的仓位没什么意义 我目前都是70%仓位左右 \n我出去的仓位自然有我的用处。我提现了",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者透露其目前仓位维持在 70% 左右，并已将部分资金提现。作者强调提现资金另有用途，表现出一定的仓位管理和风险控制意识。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "目前持仓比例约为 70%",
+      "已执行提现操作，减少了市场风险敞口",
+      "强调提现资金有特定用途，对当前持仓变动持淡化态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

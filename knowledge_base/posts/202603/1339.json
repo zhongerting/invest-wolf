@@ -1,0 +1,22 @@
+{
+  "post_num": 1339,
+  "date": "2026-03-19 15:27:12",
+  "content": "说了  验牌 你都要验牌了还会加注吗？你可能没去过赌场吧",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者通过赌场博弈的隐喻，质疑在“验牌”（即真相即将揭晓或进行确认）阶段继续加注的行为逻辑，暗示某种交易策略或观点存在矛盾。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "利用赌场博弈类比股市交易中的风险控制与决策逻辑",
+      "质疑在确认阶段（验牌）进行加注（增仓）的合理性",
+      "对交易对手方或讨论对象的经验及逻辑严密性表示怀疑"
+    ],
+    "analysis_method": "llm"
+  }
+}

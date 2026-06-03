@@ -1,0 +1,22 @@
+{
+  "post_num": 336,
+  "date": "2026-01-22 13:04:53",
+  "content": "场外消息摁 不然太多人去陪葬也不行",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场受到场外消息的刻意压制，意在提醒或阻止更多投资者盲目入场，以避免造成更大规模的亏损（陪葬）。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "场外消息正在对市场产生负面压制",
+      "暗示当前市场环境风险极高，入场可能面临惨重损失",
+      "认为目前的市场走势具有某种警示或保护性质，防止散户大规模被套"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "post_num": 1702,
+  "date": "2026-04-01 14:48:48",
+  "content": "![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png) 你们慢了",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者通过“你们慢了”表达其在交易操作或市场反应速度上领先于他人，带有明显的情绪宣泄和炫耀色彩，但缺乏实质性的市场分析内容。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者暗示其进场或离场时机优于普通投资者",
+      "内容仅为情绪化表达，未提及具体标的或操作方向",
+      "信息密度极低，无法作为投资决策依据"
+    ],
+    "analysis_method": "llm"
+  }
+}

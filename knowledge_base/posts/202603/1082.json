@@ -1,0 +1,21 @@
+{
+  "post_num": 1082,
+  "date": "2026-03-04 13:11:43",
+  "content": "那行 至少没卖最低点  不过我今天不清",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "用户表示其卖出操作避开了最低点，并明确表示今日不会清空余下仓位，选择继续持仓。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "卖出时机避开了最低位，心理压力有所缓解",
+      "今日决定不进行清仓操作，保留现有仓位"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 1730,
+  "date": "2026-04-02 14:13:43",
+  "content": "这种时候能补做T的 一定是那个板块的大哥肯定是红的才行  不然都没有对标",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sector",
+      "technical"
+    ],
+    "category": "trading_signal",
+    "summary": "该观点强调在进行补仓或T+0操作时，必须以板块内领涨龙头（大哥）的走势作为参考，且龙头股需处于上涨状态（红盘）方可进行对标操作。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "补仓或做T操作需寻找板块内的领涨龙头作为参考基准",
+      "操作的前提条件是板块龙头股必须表现强势（红盘上涨）",
+      "强调了板块联动性在日内交易决策中的重要性"
+    ],
+    "analysis_method": "llm"
+  }
+}

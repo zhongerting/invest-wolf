@@ -1,0 +1,26 @@
+{
+  "post_num": 2806,
+  "date": "2026-05-28 10:48:14",
+  "content": "现在是明牌 明确的告诉你  除了 科技  你都不能玩\n你可以忍 但是你不能阻止除了科技的方向在跌\n所以了解了没用 不能改变市场只能顺应市场  市场是对的。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场逻辑清晰，仅科技板块具备投资机会，其他板块均处于下跌趋势。强调投资者应顺应市场力量，不要试图对抗趋势，应聚焦科技赛道。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "明确指出科技板块是当前唯一的投资方向",
+      "除科技以外的其他板块均在下跌，且无法阻止",
+      "强调顺应市场的重要性，认为市场永远是对的，投资者应改变自身以适应市场"
+    ],
+    "analysis_method": "llm"
+  }
+}

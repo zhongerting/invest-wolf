@@ -1,0 +1,23 @@
+{
+  "post_num": 1215,
+  "date": "2026-03-16 10:14:55",
+  "content": "拉起来才叫腿  拉起来才知道买什么  同步拉起来的方向才能追",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者主张右侧交易策略，强调应在市场或个股出现明显拉升信号（确认趋势）后再进行选股和追涨，核心在于追随同步走强的方向。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "强调趋势确认的重要性，认为拉升是确认底部或强度的必要条件",
+      "主张通过盘面实际表现来筛选强势标的，而非盲目预测",
+      "操作策略上建议追随与市场同步走强的方向（顺势而为）"
+    ],
+    "analysis_method": "llm"
+  }
+}

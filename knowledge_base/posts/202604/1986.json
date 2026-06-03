@@ -1,0 +1,21 @@
+{
+  "post_num": 1986,
+  "date": "2026-04-13 14:39:09",
+  "content": "G",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "帖子内容仅为一个字母“G”，在网络及股市语境下通常为“GG”的缩写，暗示“完蛋”或“结束”，表达了极度负面的情绪，但缺乏具体分析支撑。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "内容极简，仅包含单个字母“G”",
+      "可能暗示作者对当前市场或特定标的持悲观态度（GG/完蛋）",
+      "缺乏实质性的技术面或基本面分析信息"
+    ],
+    "analysis_method": "llm"
+  }
+}

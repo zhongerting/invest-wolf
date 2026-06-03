@@ -1,0 +1,21 @@
+{
+  "post_num": 150,
+  "date": "2026-01-16 10:16:48",
+  "content": "我问一下\n他们说可以考虑",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "帖子内容极其简略，仅提到用户在咨询他人意见，且得到“可以考虑”的反馈，缺乏具体的投资标的、市场分析或实质性建议。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "用户正在进行信息咨询",
+      "存在第三方的初步正面反馈（可以考虑）",
+      "缺乏具体的投资背景和标的信息"
+    ],
+    "analysis_method": "llm"
+  }
+}

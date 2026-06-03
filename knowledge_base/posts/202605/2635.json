@@ -1,0 +1,22 @@
+{
+  "post_num": 2635,
+  "date": "2026-05-15 15:01:14",
+  "content": "之前上下有GJD的单子  控太死了 \n这波机构主导 还行 说杀就能杀，说拉也能拉 就是一旦有获利就容易心不齐",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对比了国家队控盘与机构主导的市场差异，认为当前机构主导下市场波动性增加，虽具备拉升和打压的灵活性，但存在获利后资金分歧、合力不足的问题。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "前期市场受国家队（GJD）资金严密控制，波动空间被锁死。",
+      "当前行情转为由机构主导，市场表现出更强的波动性和灵活性（能杀能拉）。",
+      "机构资金的弱点在于获利后容易产生分歧，导致市场难以形成持续的合力。"
+    ],
+    "analysis_method": "llm"
+  }
+}

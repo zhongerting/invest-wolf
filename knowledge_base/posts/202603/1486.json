@@ -1,0 +1,23 @@
+{
+  "post_num": 1486,
+  "date": "2026-03-24 14:44:19",
+  "content": "微微放量了  这里可以套利了 从缩量转放量的时候就是有人在套利了  肯定不是散户",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者观察到成交量由缩减转为温和放大，认为这是非散户资金（主力）介入套利的信号，预示存在短线交易机会。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "成交量出现由缩转放的明显变化",
+      "判断当前位置存在套利空间",
+      "认为放量行为是由机构或主力资金驱动，而非散户所为"
+    ],
+    "analysis_method": "llm"
+  }
+}

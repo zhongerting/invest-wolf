@@ -1,0 +1,21 @@
+{
+  "post_num": 320,
+  "date": "2026-01-22 10:18:47",
+  "content": "又来了  没完了![哭1](https://img4.nga.178.com/ngabbs/post/smile/ac14.png)",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "用户通过“又来了”、“没完了”及哭泣表情，表达了对市场持续下跌或行情反复的极度沮丧和无奈情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "投资者情绪极度悲观，表现出对行情反复波动的无力感",
+      "暗示市场可能正处于连续阴跌或反弹无力的状态",
+      "反映了市场中散户群体对当前走势的强烈不满"
+    ],
+    "analysis_method": "llm"
+  }
+}

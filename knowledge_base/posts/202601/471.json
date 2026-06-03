@@ -1,0 +1,22 @@
+{
+  "post_num": 471,
+  "date": "2026-01-28 12:54:51",
+  "content": "你们懂AI 能爬墙的 去看看外网那个龙虾AI软件，那个不错 有点一代贾维斯的味道了",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "用户推荐关注海外一款名为“龙虾AI”的软件，认为其智能化程度极高，具有“一代贾维斯”的特征，表现出对该AI技术应用的高度认可。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "推荐关注海外名为“龙虾AI”的软件",
+      "评价该软件功能强大，类比为《钢铁侠》中的贾维斯",
+      "属于对AI前沿应用产品的正面情绪分享"
+    ],
+    "analysis_method": "llm"
+  }
+}

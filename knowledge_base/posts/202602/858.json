@@ -1,0 +1,22 @@
+{
+  "post_num": 858,
+  "date": "2026-02-24 11:13:40",
+  "content": "主要是我们的人力成本比较低，现在缺一个质变就是  机器人比人工成本低的那个临界点。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector"
+    ],
+    "category": "market_analysis",
+    "summary": "该观点探讨了机器人行业发展的核心驱动力，认为当前低廉的人力成本制约了机器人的大规模应用，行业爆发的关键在于机器人成本低于人工成本的临界点出现。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "当前国内人力成本较低是机器人替代进程中的主要阻碍",
+      "机器人行业存在一个成本替代的临界点（质变点）",
+      "只有当机器人综合成本低于人工成本时，行业才会迎来爆发式增长"
+    ],
+    "analysis_method": "llm"
+  }
+}

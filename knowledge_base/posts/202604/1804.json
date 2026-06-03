@@ -1,0 +1,24 @@
+{
+  "post_num": 1804,
+  "date": "2026-04-03 11:04:52",
+  "content": "这波牛市的龙中龙抱团。。。。。。。。。这个和基本面没有关系了  这波是AI牛市 他们是纯抱团 只要行情差 就抱他们",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前是AI驱动的牛市，核心龙头股的上涨逻辑已脱离基本面，转为纯粹的资金抱团行为。在市场行情不佳时，龙头股反而成为资金的避风港。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "当前市场定性为AI驱动的牛市",
+      "核心龙头股（龙中龙）的上涨动力源于资金抱团，而非基本面",
+      "抱团股具有防御属性，行情转差时资金会进一步向其集中"
+    ],
+    "analysis_method": "llm"
+  }
+}

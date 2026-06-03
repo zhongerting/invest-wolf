@@ -1,0 +1,21 @@
+{
+  "post_num": 956,
+  "date": "2026-02-27 13:36:25",
+  "content": "你们不用跟我买的 进来就是对手盘 你们懂的![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)\n我只是来炫耀我牛X而已",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者发帖炫耀其投资盈利，并调侃称跟随者会成为其对手盘，表现出极度自信和炫耀情绪，缺乏实质性市场分析。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "作者自诩投资表现优异（牛X）",
+      "调侃跟随其操作的人会成为对手盘",
+      "内容纯属情绪宣泄与炫耀，无实质参考价值"
+    ],
+    "analysis_method": "llm"
+  }
+}

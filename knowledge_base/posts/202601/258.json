@@ -1,0 +1,26 @@
+{
+  "post_num": 258,
+  "date": "2026-01-20 11:16:10",
+  "content": "去哪？我之前不是分享过了么  机构的钱只在机构趋势里面轮动 除非像之前白酒那种或者新能源牛市那种，不然目前科技牛市他轮动去哪里？",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前处于科技牛市，机构资金主要在科技板块内部轮动，类比了过往白酒和新能源的牛市行情，强调资金目前难以流向其他领域。",
+    "mentioned_sectors": [
+      "新能源",
+      "科技"
+    ],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "机构资金目前在“机构趋势”内进行轮动",
+      "当前市场定性为科技牛市",
+      "除非发生极端风格切换，否则资金将持续留在科技板块"
+    ],
+    "analysis_method": "llm"
+  }
+}

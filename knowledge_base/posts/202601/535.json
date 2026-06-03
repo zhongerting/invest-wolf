@@ -1,0 +1,20 @@
+{
+  "post_num": 535,
+  "date": "2026-01-29 21:26:18",
+  "content": "请称呼我  石油王",
+  "analysis": {
+    "tags": [
+      "sector"
+    ],
+    "category": "other",
+    "summary": "发帖者要求被称为“石油王”，内容仅为个人身份声明，未包含具体的市场分析、技术指标或投资策略。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "发帖者自称为“石油王”",
+      "内容不涉及具体的股市走势分析或个股推荐"
+    ],
+    "analysis_method": "llm"
+  }
+}

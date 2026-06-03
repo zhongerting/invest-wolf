@@ -1,0 +1,23 @@
+{
+  "post_num": 596,
+  "date": "2026-02-02 13:13:29",
+  "content": "我从来不做  调整行情的消息反抽。因为他一定不是重回趋势\n而且这里做很容易把本来灵活的资金套进去。 从而错过大级别的反抽行情",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "technical"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者主张在市场调整期不参与由消息驱动的短期反抽，认为这类反抽并非趋势反转，盲目参与会导致资金被套，从而错过后续更大级别的行情机会。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "拒绝参与调整行情中的消息面反抽",
+      "认为消息驱动的反抽不代表趋势的重新回归",
+      "强调保持资金灵活性的重要性，避免在小反弹中被套",
+      "旨在保存实力以捕捉未来更大级别的反抽或趋势行情"
+    ],
+    "analysis_method": "llm"
+  }
+}

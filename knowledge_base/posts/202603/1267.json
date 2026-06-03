@@ -1,0 +1,23 @@
+{
+  "post_num": 1267,
+  "date": "2026-03-17 13:43:04",
+  "content": "打出了散户恐慌盘 量能没有继续缩了",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "technical",
+      "market"
+    ],
+    "category": "technical_analysis",
+    "summary": "市场出现散户恐慌性抛售，同时成交量停止萎缩，显示市场情绪正在经历剧烈出清，流动性有所回升，可能处于寻底阶段。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "市场打出了散户恐慌盘，意味着情绪面达到阶段性极值",
+      "成交量停止缩减，显示在低位有承接盘介入，市场活跃度回升",
+      "这种量价配合通常被视为市场洗盘充分或即将见底的信号"
+    ],
+    "analysis_method": "llm"
+  }
+}

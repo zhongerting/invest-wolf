@@ -1,0 +1,21 @@
+{
+  "post_num": 2715,
+  "date": "2026-05-22 13:12:01",
+  "content": "你们可以先去啊 不用问我的 我做黄金很差的",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者表达了对自身黄金交易能力的缺乏信心，建议他人独立进行投资决策，不要参考其意见。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者自述在黄金交易方面表现欠佳",
+      "作者建议他人先行操作，无需参考其个人观点"
+    ],
+    "analysis_method": "llm"
+  }
+}

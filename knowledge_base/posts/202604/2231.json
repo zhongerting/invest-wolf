@@ -1,0 +1,23 @@
+{
+  "post_num": 2231,
+  "date": "2026-04-23 17:45:01",
+  "content": "对了 这波双跌停2个票都是挣钱的吧  这个方法成功率如何。",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者提到近期利用“双跌停”模式交易的两只股票均实现盈利，并对该交易方法的成功率和有效性提出询问。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "提及一种针对“双跌停”个股的特定交易策略",
+      "确认近期应用该方法的两个案例均已获利",
+      "作者在探讨或验证该交易方法的历史成功率"
+    ],
+    "analysis_method": "llm"
+  }
+}

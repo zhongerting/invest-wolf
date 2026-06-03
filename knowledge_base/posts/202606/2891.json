@@ -1,0 +1,22 @@
+{
+  "post_num": 2891,
+  "date": "2026-06-02 12:59:55",
+  "content": "看不懂就算了  证明你还没到学这个的时候。",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "发帖者表达了一种具有认知门槛的姿态，暗示其分享的内容（或之前的帖子）需要一定的专业深度才能理解，对不理解的读者持排斥或忽视态度。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "发帖者认为其投资逻辑或方法论存在较高的学习门槛",
+      "表达了对受众认知水平的选择性，缺乏具体的市场分析数据",
+      "情绪上带有一定的自负或对新手投资者的排斥"
+    ],
+    "analysis_method": "llm"
+  }
+}

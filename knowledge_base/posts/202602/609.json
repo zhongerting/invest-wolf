@@ -1,0 +1,22 @@
+{
+  "post_num": 609,
+  "date": "2026-02-02 15:06:23",
+  "content": "今天就是这样了 抄底不是一定能挣钱的，甚至抄底是一个风险不低的挣钱方法。我只能靠错了就止损这个方式去做。\n但是仓位一定要控制。亏损来源于不控制仓位。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者指出抄底具有高风险且不一定盈利，强调交易中应通过严格止损来纠错，并认为控制仓位是规避亏损的核心关键。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "抄底并非稳赚不赔，是一种风险较高的交易方式",
+      "交易中必须建立止损机制，以应对判断错误的情况",
+      "严格控制仓位是防止大幅亏损的核心手段"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 1014,
+  "date": "2026-03-02 14:34:21",
+  "content": "![img](assets/1014_54b8061f.jpg)\n过来抬轿子 我今天卖不了的 放心 明天再收割",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy",
+      "stock"
+    ],
+    "category": "trading_signal",
+    "summary": "作者发帖诱导其他投资者买入以推高股价（抬轿子），并透露因交易规则限制今日无法卖出，计划于明日获利了结（收割）。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "呼吁其他投资者入场推高股价或接盘",
+      "受限于T+1交易制度，作者声明今日不会卖出",
+      "明确表达了明日将进行获利减仓（收割）的意图"
+    ],
+    "analysis_method": "llm"
+  }
+}

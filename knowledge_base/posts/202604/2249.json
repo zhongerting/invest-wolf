@@ -1,0 +1,22 @@
+{
+  "post_num": 2249,
+  "date": "2026-04-24 12:30:38",
+  "content": "这里我控仓位 不敢去别的方向\n如果很轻仓我觉得可以试试 但是我确实没办法",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者目前采取严格的控仓策略，因现有仓位压力不敢切换投资方向。其认为轻仓投资者或可尝试新机会，但自身受限于风险管理选择观望。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "当前处于严格控仓状态，不宜增加风险敞口",
+      "对切换至其他投资方向持谨慎/畏惧态度",
+      "认为市场机会仅适合轻仓位投资者尝试"
+    ],
+    "analysis_method": "llm"
+  }
+}

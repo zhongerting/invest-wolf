@@ -1,0 +1,23 @@
+{
+  "post_num": 1443,
+  "date": "2026-03-23 14:33:31",
+  "content": "这些是被动的 肯定不会多啊 以前是被动+主观一起买才能快速拉离成本去  现在主观的都死了 比如我这种",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出当前市场仅靠被动资金难以推动股价快速上涨，强调了过去上涨依赖被动与主观资金的合力，并表达了主观投资者（活跃资金）目前处境艰难、缺乏动能的悲观情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "被动资金规模不足以独立支撑股价快速脱离成本区",
+      "市场上涨曾依赖被动资金与主观资金的协同效应",
+      "当前主观投资者（活跃资金）损失惨重，市场缺乏增量买盘"
+    ],
+    "analysis_method": "llm"
+  }
+}

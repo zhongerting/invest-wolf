@@ -1,0 +1,21 @@
+{
+  "post_num": 1003,
+  "date": "2026-03-02 11:25:09",
+  "content": "标红给你们看",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "帖子内容极简，作者通过“标红”这一视觉提示，暗示读者关注特定的市场上涨信号或表现，但未提供具体的分析逻辑或标的。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "作者引导关注标红的视觉信号",
+      "暗示市场或个股存在上涨情况（红在A股代表上涨）",
+      "信息量不足，缺乏实质性的技术或基本面分析"
+    ],
+    "analysis_method": "llm"
+  }
+}

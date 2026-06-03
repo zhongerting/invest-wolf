@@ -1,0 +1,23 @@
+{
+  "post_num": 1273,
+  "date": "2026-03-17 14:41:51",
+  "content": "很难和你们解释  本来下午真是要出A股低点的 资金是做好确认准备的\n就是刚才石油那一下导致出了恐慌盘  全打乱了。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "sector"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为 A 股下午本已接近阶段性低点且资金准备入场确认，但受石油板块异动或相关消息引发的恐慌盘影响，原有的市场筑底节奏被完全打乱。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "下午市场原本预期会出现技术性低点，且已有资金做好入场确认准备。",
+      "石油相关因素触发了市场恐慌情绪，导致恐慌盘涌出。",
+      "突发的恐慌性抛售打乱了原有的市场运行逻辑和资金节奏。"
+    ],
+    "analysis_method": "llm"
+  }
+}

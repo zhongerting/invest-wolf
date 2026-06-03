@@ -1,0 +1,22 @@
+{
+  "post_num": 1759,
+  "date": "2026-04-02 17:24:37",
+  "content": "美国利益和川普有什么关系  你翻翻最近的新闻看没看见壳牌去委内瑞拉开发石油",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖讨论了美国政治（川普）与地缘政治利益对能源行业的影响，并以壳牌公司进入委内瑞拉开发石油为例，暗示政策变动对能源板块的潜在驱动作用。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "探讨美国政治人物（川普）与国家利益及能源政策的关联性",
+      "关注壳牌公司（Shell）在委内瑞拉石油开发方面的最新动向",
+      "暗示地缘政治关系的演变正在影响全球能源企业的战略布局"
+    ],
+    "analysis_method": "llm"
+  }
+}

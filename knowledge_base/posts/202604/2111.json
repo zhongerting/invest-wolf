@@ -1,0 +1,23 @@
+{
+  "post_num": 2111,
+  "date": "2026-04-16 10:44:34",
+  "content": "存储板块整体高  和商航板块整体低\n高位板块的低位票 也就是跌得少  \n而低位板块的弱势票 最多是涨得少而已。\n能理解？",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者通过对比高位板块（存储）与低位板块（商航）的个股表现，指出高位板块低位股具有抗跌性，而低位板块弱势股风险主要在于涨幅受限，强调了板块位置对交易风险的影响。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "存储板块整体处于高位，商航板块整体处于低位",
+      "高位板块中的低位个股在市场调整时通常跌幅较小",
+      "低位板块中的弱势个股主要特征是上涨动力不足，而非大幅下跌"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 660,
+  "date": "2026-02-04 11:24:01",
+  "content": "这么神奇的吗？昨天涨3%今天跌不到1% 怎么做到的？",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment",
+      "stock"
+    ],
+    "category": "technical_analysis",
+    "summary": "用户对某标的的走势表示惊讶，指出其在昨日上涨3%后，今日回调幅度不足1%，体现出较强的价格韧性和抗跌性。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "昨日股价上涨3%",
+      "今日股价回调幅度极小（不足1%）",
+      "用户对该标的在上涨后的承接力度感到好奇或赞赏"
+    ],
+    "analysis_method": "llm"
+  }
+}

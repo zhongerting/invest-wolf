@@ -1,0 +1,22 @@
+{
+  "post_num": 1636,
+  "date": "2026-03-31 14:45:29",
+  "content": "是一半一半啊 但是仓位要减啊。。。。我靠 。。趋势交易不就是靠仓位控制吗",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "technical"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者强调在市场趋势不明朗（胜率各半）的情况下，必须通过减仓来进行风险管理，并指出仓位控制是趋势交易的核心。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "认为当前市场走势具有高度不确定性（一半一半）",
+      "明确提出当前操作应当减仓",
+      "强调趋势交易的精髓在于仓位管理而非单纯预测方向"
+    ],
+    "analysis_method": "llm"
+  }
+}

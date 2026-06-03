@@ -1,0 +1,22 @@
+{
+  "post_num": 418,
+  "date": "2026-01-27 12:06:44",
+  "content": "你应该自豪\n你抗住了这个市场的下跌。对  就是你",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖内容主要为情绪安抚，作者对在市场下跌中坚持持仓的投资者表示肯定和鼓励，旨在通过心理按摩缓解投资者的焦虑感。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "市场近期经历了明显的下跌行情",
+      "肯定了投资者在波动中坚持持仓的心理素质",
+      "侧重于提供情绪价值而非具体的市场逻辑分析"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 1165,
+  "date": "2026-03-11 10:24:33",
+  "content": "我的是长线的开端 会做做T  但是长线不会变成短线 我又不是你",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者表达了明确的长线投资立场，计划在坚持长线持有的基础上，通过“做T”操作来优化成本，并强调了不会受他人影响或改变投资纪律。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "确立长线投资布局的开端",
+      "计划通过日内或波段操作（做T）来降低持仓成本",
+      "强调投资纪律，明确长线逻辑不会演变为短线投机"
+    ],
+    "analysis_method": "llm"
+  }
+}

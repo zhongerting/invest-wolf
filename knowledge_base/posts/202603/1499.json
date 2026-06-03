@@ -1,0 +1,23 @@
+{
+  "post_num": 1499,
+  "date": "2026-03-25 09:54:55",
+  "content": "加上到现在  前天大跌的亏损大家应该回来了吧 我下午会说一下我的最新判断。\n今天早上我已经尽可能在公域里面说最露骨的了",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出市场已收复前日大跌的失地，投资者亏损基本回补。作者预告下午将发布最新市场判断，并强调早盘已给出明确的提示。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "市场表现修复，前日大跌的亏损已基本收回",
+      "作者将于下午发布对市场的最新研判",
+      "早盘已在公开渠道表达了非常明确（露骨）的观点或信号"
+    ],
+    "analysis_method": "llm"
+  }
+}

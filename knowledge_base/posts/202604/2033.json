@@ -1,0 +1,26 @@
+{
+  "post_num": 2033,
+  "date": "2026-04-14 14:14:08",
+  "content": "下午有点诱多\n那些之前涨的高位科技类就别去了  我反正撤了PCB 电子布那些",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者认为下午盘面存在诱多风险，建议规避前期涨幅较高的高位科技板块，并表示自己已撤离PCB和电子布相关持仓。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "警示下午市场表现疑似诱多",
+      "建议避开前期涨幅过高的科技类板块",
+      "作者已完成PCB及电子布板块的减仓/清仓操作"
+    ],
+    "analysis_method": "llm"
+  }
+}

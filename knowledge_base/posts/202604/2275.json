@@ -1,0 +1,23 @@
+{
+  "post_num": 2275,
+  "date": "2026-04-28 09:56:20",
+  "content": "今天我会减仓。明天出金日 如果站不上5日线我会减到50%  站上了60%",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "technical",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者计划今日减仓，并以明日5日均线的得失作为调仓依据：若无法站稳则减仓至50%，若站稳则保留60%仓位，同时提及明日为出金日。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "今日明确执行减仓操作",
+      "明日为出金日，存在资金变现需求",
+      "以5日均线作为核心技术参考位，决定后续50%或60%的仓位水平"
+    ],
+    "analysis_method": "llm"
+  }
+}

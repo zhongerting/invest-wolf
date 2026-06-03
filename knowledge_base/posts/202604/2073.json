@@ -1,0 +1,25 @@
+{
+  "post_num": 2073,
+  "date": "2026-04-15 13:11:46",
+  "content": "半导体不到1个点在那咿咿呀呀的  创新药都+3了也没人吭声\n无风险套利你们都不懂为什么",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对比了半导体与创新药的涨幅及市场关注度，指出创新药涨幅（+3%）远超半导体却被忽视，并暗示当前存在无风险套利的机会。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "创新药板块涨幅显著强于半导体板块",
+      "市场情绪对半导体过度关注，而忽视了表现更好的创新药",
+      "作者认为当前市场环境下存在无风险套利的机会"
+    ],
+    "analysis_method": "llm"
+  }
+}

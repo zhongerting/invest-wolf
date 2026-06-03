@@ -1,0 +1,23 @@
+{
+  "post_num": 1765,
+  "date": "2026-04-02 19:59:43",
+  "content": "对的 没有趋势级别行情 那就不用考虑ETF能持续上涨 但是目前做个套利没什么问题 因为没什么手续费。一个点就是一个点的收益",
+  "analysis": {
+    "tags": [
+      "market",
+      "strategy",
+      "technical"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场缺乏趋势性行情，ETF 难以持续上涨。但由于交易成本极低，目前适合进行短线套利操作，获取微小波动的收益。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "市场目前没有趋势级别行情，ETF 缺乏持续上涨的基础",
+      "建议采取套利策略而非长线持有策略",
+      "低手续费环境使得捕捉微小波动（如一个点）的收益具有可行性"
+    ],
+    "analysis_method": "llm"
+  }
+}

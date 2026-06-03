@@ -1,0 +1,23 @@
+{
+  "post_num": 1703,
+  "date": "2026-04-01 14:50:02",
+  "content": "现在就是空油多金  赌明天9点TACO 然后反向一卖",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sector",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者提出“空油多金”的对冲策略，并计划在明日9点针对TACO进行投机博弈，随后执行反向操作。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "采取做空原油、做多黄金的商品对冲策略",
+      "计划在明日9点博弈TACO（个股或特定事件）的波动",
+      "明确提到“赌”的性质，并准备在博弈后进行反向卖出操作"
+    ],
+    "analysis_method": "llm"
+  }
+}

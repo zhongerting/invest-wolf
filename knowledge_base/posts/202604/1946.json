@@ -1,0 +1,22 @@
+{
+  "post_num": 1946,
+  "date": "2026-04-10 10:33:21",
+  "content": "昨天甚至没有天银的家人给我点个赞 要给这些人点点踩才行\n我决定了 等跌完我才发我清了  然后还要举报说这些家人恶意做空",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者因社交互动未达预期产生负面情绪，计划在个股“天银”下跌后才公开清仓消息，并表达了对其他投资者的不满和举报意图。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "提及个股“天银”（推测为天银机电）",
+      "表达了清仓离场意向，但计划在股价下跌后才发布信息以示报复",
+      "反映出散户投资者极度负面的情绪以及对社区互动的强烈不满"
+    ],
+    "analysis_method": "llm"
+  }
+}

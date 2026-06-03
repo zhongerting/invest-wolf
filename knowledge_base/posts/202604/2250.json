@@ -1,0 +1,22 @@
+{
+  "post_num": 2250,
+  "date": "2026-04-24 12:35:53",
+  "content": "我收盘60%仓位敢闭眼过周末  仓位高了不敢",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者分享了其仓位管理策略，表示收盘持有60%仓位过周末感到安心，但更高的仓位会带来心理压力，体现了谨慎乐观的态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "作者当前选择以60%的仓位持股过周末",
+      "60%是作者心理上的安全边界，认为此比例下风险可控",
+      "对市场持谨慎乐观态度，但存在风险防范意识，不愿盲目满仓"
+    ],
+    "analysis_method": "llm"
+  }
+}

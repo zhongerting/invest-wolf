@@ -1,0 +1,22 @@
+{
+  "post_num": 80,
+  "date": "2026-01-14 22:37:55",
+  "content": "我现在是在516里面\n仅仅因为他体量大\n其实没什么区别",
+  "analysis": {
+    "tags": [
+      "stock",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "发帖者目前持有代码为“516”的标的（可能指代某只ETF或股票），选择逻辑仅基于其体量较大，认为与其他同类标的并无实质性差异。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "目前持有代码为516的标的",
+      "选择该标的的核心理由是体量大（流动性考虑）",
+      "认为该标的在基本面或表现上与其他选项无异"
+    ],
+    "analysis_method": "llm"
+  }
+}

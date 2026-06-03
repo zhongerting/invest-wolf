@@ -1,0 +1,21 @@
+{
+  "post_num": 1469,
+  "date": "2026-03-24 11:22:11",
+  "content": "目前吗  目前怎么走 他都没反弹。",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "用户对当前行情走势表示疑虑，重点指出标的目前缺乏反弹动力，情绪偏向悲观或观望。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "询问当前市场或个股的具体走势方向",
+      "强调目前尚未观察到任何反弹迹象"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "post_num": 993,
+  "date": "2026-03-02 09:26:21",
+  "content": "![img](assets/993_8e252a10.jpg)\n截至目前 我觉得还行  大家不要太过于慌张。",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对当前市场走势持相对淡定的态度，认为表现尚可，并安抚投资者不要产生恐慌情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "作者认为截至目前的行情表现处于可接受范围",
+      "呼吁投资者保持冷静，避免过度恐慌"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 1307,
+  "date": "2026-03-19 10:09:15",
+  "content": "黄线在下 我偏谨慎 目前没什么机会",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者通过观察“黄线在下”的技术指标，表达了对当前市场走势的担忧，态度偏向谨慎，认为短期内缺乏操作机会。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "技术面指标显示黄线在下，暗示市场广度或小盘股表现不佳",
+      "投资心态转为谨慎，不建议当前入场",
+      "明确判断目前市场缺乏明显的交易机会"
+    ],
+    "analysis_method": "llm"
+  }
+}

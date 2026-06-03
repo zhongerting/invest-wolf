@@ -1,0 +1,21 @@
+{
+  "post_num": 2022,
+  "date": "2026-04-14 13:17:03",
+  "content": "你们要是我的员工早被我开了",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者通过严厉的措辞表达了对相关人员（如基金经理或分析师）投资表现的极度不满，反映出强烈的负面情绪和对当前市场结果的失望。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "作者表达了极度的愤怒和不满情绪",
+      "暗示当前的投资业绩或专业建议表现极差",
+      "属于典型的情绪化宣泄，缺乏实质性的市场或技术分析内容"
+    ],
+    "analysis_method": "llm"
+  }
+}

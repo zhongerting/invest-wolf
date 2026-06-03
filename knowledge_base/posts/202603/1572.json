@@ -1,0 +1,22 @@
+{
+  "post_num": 1572,
+  "date": "2026-03-30 10:28:21",
+  "content": "伸头一刀 缩头也是一刀 去哪不是被割",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "投资者表达了极度的悲观与无奈情绪，认为无论采取何种操作均难逃被“割韭菜”的命运，反映出市场赚钱效应极差，投资者信心严重丧失。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "投资者情绪极度低落，存在严重的挫败感和无力感",
+      "认为市场处于全面下跌或高波动状态，缺乏有效的避险手段",
+      "反映出当前市场环境对散户极不友好，投资者对后续走势持完全否定态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

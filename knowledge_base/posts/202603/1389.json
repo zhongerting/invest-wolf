@@ -1,0 +1,22 @@
+{
+  "post_num": 1389,
+  "date": "2026-03-20 16:28:26",
+  "content": "昨晚空单对冲呢 全身心的 手慢点就死了 不开对冲根本睡不着 早上才敢撤掉。\n不然两只眼睛打瞎了都闭不上",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者因极度担忧市场隔夜波动风险，采取了空单对冲策略以缓解心理压力和资金风险，反映出市场情绪极度不稳，该对冲操作于次日早晨撤除。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "利用空单进行隔夜对冲以规避潜在的大幅下跌风险",
+      "交易者心理压力极大，表现出强烈的恐慌和避险情绪",
+      "对冲属于短期风险管理行为，早盘已撤销"
+    ],
+    "analysis_method": "llm"
+  }
+}

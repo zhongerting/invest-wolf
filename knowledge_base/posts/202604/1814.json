@@ -1,0 +1,23 @@
+{
+  "post_num": 1814,
+  "date": "2026-04-03 13:30:11",
+  "content": "他要避险就不会今天卖 而是昨天卖  今天的避险只能调仓 但是你看今天跌的都是避险板块。",
+  "analysis": {
+    "tags": [
+      "market",
+      "strategy",
+      "sector"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前的卖出行为并非真正的避险（避险应在昨日完成），而更倾向于调仓操作，并指出今日下跌的主要是避险板块。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "真正的避险行为具有前瞻性，应发生在昨日而非今日",
+      "今日的市场卖出行为被定义为调仓而非单纯的风险规避",
+      "观察到原本用于避险的板块在今日反而领跌"
+    ],
+    "analysis_method": "llm"
+  }
+}

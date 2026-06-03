@@ -1,0 +1,26 @@
+{
+  "post_num": 2807,
+  "date": "2026-05-28 10:53:09",
+  "content": "亏不了多少 但是能搅动200-300E的活钱 这可以对应进科技里面甚至能搅动上千E的成交。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为通过少量资金投入可激活200-300亿的活跃资金，若这些资金流向科技板块，有望撬动上千亿的成交规模，表现出对科技板块流动性的乐观预期。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "少量资金投入具有较强的杠杆效应，可激活200-300亿活钱",
+      "活跃资金有望流入科技板块",
+      "科技板块的成交额可能因此被放大至上千亿水平"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "post_num": 1189,
+  "date": "2026-03-12 13:32:19",
+  "content": "这不是有护盘的了？你怕什么",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出市场存在护盘力量，以此安抚投资者情绪，认为无需对当前行情感到恐惧。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "市场存在护盘资金或政策支持",
+      "质疑并反驳市场的恐慌情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

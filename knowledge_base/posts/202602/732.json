@@ -1,0 +1,22 @@
+{
+  "post_num": 732,
+  "date": "2026-02-06 10:50:36",
+  "content": "上次还有人和我说  还有几十个点盈利 不怕。。我不懂他现在怕了没",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者通过嘲讽此前持有高额盈利垫而盲目乐观的投资者，暗示近期市场出现了剧烈回调，导致盈利大幅缩水甚至转亏，反映出市场情绪的极度悲观。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "暗示市场近期经历了显著的下跌行情",
+      "指出此前投资者的盈利垫可能已消耗殆尽",
+      "反映了市场从乐观转向恐慌的情绪变化"
+    ],
+    "analysis_method": "llm"
+  }
+}

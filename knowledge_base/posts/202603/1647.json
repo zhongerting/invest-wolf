@@ -1,0 +1,22 @@
+{
+  "post_num": 1647,
+  "date": "2026-03-31 18:10:48",
+  "content": "我艹   XXX  XXXXX\n一个月中三个减持的我也是衰到家了",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者抱怨其持有的股票在一个月内接连遭遇三次大股东减持，表达了强烈的负面情绪和对自身运气的无奈。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "持仓股票频繁发布减持公告",
+      "一个月内遭遇三次减持事件，频率极高",
+      "投资者情绪极度沮丧，对所持个股前景感到悲观"
+    ],
+    "analysis_method": "llm"
+  }
+}

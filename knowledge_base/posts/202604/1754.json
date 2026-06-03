@@ -1,0 +1,22 @@
+{
+  "post_num": 1754,
+  "date": "2026-04-02 16:38:01",
+  "content": "这里机构算温柔的 你看看日韩股市 指数跟个股一样 那做错了更要死",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者通过对比国内市场与日韩股市，指出国内机构操作相对温和，而日韩市场波动剧烈（指数如个股），警示在海外高波动市场中操作失误的风险更高。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "认为国内机构的操作风格相对不那么激进",
+      "日韩股市波动性极高，指数走势呈现出类似个股的剧烈波动",
+      "强调在高波动市场中一旦判断错误，损失将非常惨重"
+    ],
+    "analysis_method": "llm"
+  }
+}

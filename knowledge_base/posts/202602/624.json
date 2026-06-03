@@ -1,0 +1,22 @@
+{
+  "post_num": 624,
+  "date": "2026-02-03 10:54:26",
+  "content": "我在参加4000保卫战 猛猛磕头\n涨我的 跌你们的\n涨我的 跌你们的\n涨我的 跌你们的",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者通过“4000点保卫战”表达了对市场上涨的强烈渴望，内容充满非理性的情绪化表达，反映了散户在市场波动中的焦虑与心理博弈。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "提及“4000点保卫战”，反映出对大盘指数特定点位的心理预期",
+      "情绪表达极端（猛猛磕头），显示出较高的市场参与焦虑感",
+      "“涨我的跌你们的”体现了典型的散户竞争心理和对个人持仓上涨的迫切愿望"
+    ],
+    "analysis_method": "llm"
+  }
+}

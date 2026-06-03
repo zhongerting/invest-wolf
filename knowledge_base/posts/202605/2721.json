@@ -1,0 +1,22 @@
+{
+  "post_num": 2721,
+  "date": "2026-05-22 14:21:56",
+  "content": "你们今天怎么不说光不行了？",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者通过反问语气质疑此前看空“光”相关板块（如光伏或光通信）的言论，暗示该板块今日表现强势，带有明显的看多情绪和对空头观点的反击。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "质疑并反击此前市场对“光”板块的悲观预期",
+      "暗示“光”相关板块在当日交易中出现了显著上涨或反弹",
+      "体现了散户投资者在板块回升时的情绪宣泄"
+    ],
+    "analysis_method": "llm"
+  }
+}

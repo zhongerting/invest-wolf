@@ -1,0 +1,23 @@
+{
+  "post_num": 1056,
+  "date": "2026-03-03 14:55:55",
+  "content": "4117附近了 GJD的位置 就等他们了",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为指数已接近 4117 点的关键位置，并将其视为“国家队”（GJD）可能出手护盘的心理价位，目前正处于等待护盘资金入场的观望状态。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "指数触及 4117 点附近的敏感区域",
+      "认为该位置是国家队（GJD）的护盘支撑位",
+      "市场情绪处于等待政策性资金入场救市的阶段"
+    ],
+    "analysis_method": "llm"
+  }
+}

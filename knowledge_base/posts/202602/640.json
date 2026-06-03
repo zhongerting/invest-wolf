@@ -1,0 +1,23 @@
+{
+  "post_num": 640,
+  "date": "2026-02-03 14:21:42",
+  "content": "我不是这么想的 我等明天兑现盘出来 再保卫一次 滚动操作 我才不追高",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者表达了谨慎的交易策略，计划等待明日获利盘兑现引发的回调后再进行滚动操作，明确表示拒绝追高，倾向于低吸。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "预判明日市场会出现获利盘兑现（抛压）",
+      "坚持不追高的交易原则",
+      "采取滚动操作（波段或T+0）的策略",
+      "计划在回调时进行“保卫”式低吸"
+    ],
+    "analysis_method": "llm"
+  }
+}

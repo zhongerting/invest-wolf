@@ -1,0 +1,21 @@
+{
+  "post_num": 1557,
+  "date": "2026-03-27 14:56:05",
+  "content": "空X材料",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者发布了针对“X材料”（推测为新材料板块或特定个股）的看空言论，表达了明确的做空或看跌意图。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "明确表达对‘X材料’的看空立场",
+      "内容极简，属于情绪化或操作方向的表态，缺乏具体逻辑支撑"
+    ],
+    "analysis_method": "llm"
+  }
+}

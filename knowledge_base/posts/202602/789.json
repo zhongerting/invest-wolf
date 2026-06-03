@@ -1,0 +1,23 @@
+{
+  "post_num": 789,
+  "date": "2026-02-12 10:57:56",
+  "content": "你放心 不仅是这周不跌 之后要跌都难 我能点出来的宽鸡你以为是什么臭鱼烂虾？",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对市场前景表现出极度乐观的情绪，认为其推荐的宽基指数基金（宽鸡）质量极高，并断言本周及未来市场都难以出现下跌。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "预测本周及未来市场均难以出现下跌",
+      "强调所推荐的宽基指数基金并非劣质资产，具有极强的抗跌性",
+      "表达了对所选标的和市场走势的强烈信心"
+    ],
+    "analysis_method": "llm"
+  }
+}

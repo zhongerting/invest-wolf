@@ -1,0 +1,22 @@
+{
+  "post_num": 526,
+  "date": "2026-01-29 15:02:17",
+  "content": "总有追进去的  如果确实没有那就认输出来  不是每一次都能挣钱的\n只是选择当下最优解而已",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "该帖强调了交易中的风险管理与止损心态，主张投资者应接受交易并非百分百获利的事实，在判断失误时应果断离场，追求当下决策的最优解。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "承认投资并非每一次都能赚钱，需保持理性心态",
+      "强调止损的重要性，若趋势不对应及时“认输”出局",
+      "交易决策的核心在于寻找并执行当下的最优策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "post_num": 2662,
+  "date": "2026-05-20 14:04:21",
+  "content": "我觉得差不多没了  机器人这波换了个名字  叫什么物理AI  然后吹了一波 最强也是快速做完双头也没什么力了 双头的票比航天少",
+  "analysis": {
+    "tags": [
+      "sector",
+      "technical",
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为机器人（物理AI）概念的炒作已接近尾声，技术面上出现双头形态且上涨乏力，整体走势强度弱于航天板块。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "机器人板块更名为“物理AI”后的补涨/炒作行情动能减弱",
+      "技术面出现“双头”形态，暗示趋势可能反转或结束",
+      "认为当前机器人板块的强势个股数量和力度均不及航天板块"
+    ],
+    "analysis_method": "llm"
+  }
+}

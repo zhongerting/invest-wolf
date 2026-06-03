@@ -1,0 +1,22 @@
+{
+  "post_num": 1155,
+  "date": "2026-03-09 14:47:59",
+  "content": "今天龙虾已经不及预期了 正常今天应该是少5个板以上的\n现在顶多算活着。",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为“龙虾”（疑似某特定个股或市场龙头）今日表现远不及预期，未能实现预想中的涨停强度，目前仅处于勉强维持的状态。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "“龙虾”今日表现不及预期",
+      "按预期今日应有5个涨停板以上的涨幅空间",
+      "目前个股或标的状态极弱，仅属于“活着”的边缘状态"
+    ],
+    "analysis_method": "llm"
+  }
+}

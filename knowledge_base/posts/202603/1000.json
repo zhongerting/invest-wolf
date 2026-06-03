@@ -1,0 +1,24 @@
+{
+  "post_num": 1000,
+  "date": "2026-03-02 10:29:55",
+  "content": "我预演过了 目前完全符合  \n4141附近有机构抄底  4115有GJD兜底 问题都不大",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场走势符合预期，指出4141点位有机构进场，4115点位有国家队资金支撑，整体风险可控，对后市持乐观态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "市场走势与作者此前的预演完全符合",
+      "4141点附近被视为机构抄底的关键位置",
+      "4115点存在国家队（GJD）的资金兜底支撑",
+      "作者认为目前市场整体问题不大，底部支撑明确"
+    ],
+    "analysis_method": "llm"
+  }
+}

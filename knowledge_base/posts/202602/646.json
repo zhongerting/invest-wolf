@@ -1,0 +1,23 @@
+{
+  "post_num": 646,
+  "date": "2026-02-04 08:46:16",
+  "content": "你们那些还做国内存储模组的 我觉得要小心一点 别闪迪映射的涨幅没吃到 ，跌幅吃到了",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对国内存储模组板块发出风险提示，担心该板块可能出现“跟跌不跟涨”的情况，即未能享受国际大厂（如闪迪）的上涨红利，却可能面临随之而来的回调风险。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "警示国内存储模组板块的投资风险，提醒投资者保持谨慎。",
+      "指出国内板块与国际龙头（闪迪）的联动存在不对称性风险。",
+      "核心观点是防范“补跌”或“跟跌”风险，避免在未获利的情况下承担损失。"
+    ],
+    "analysis_method": "llm"
+  }
+}

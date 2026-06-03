@@ -1,0 +1,22 @@
+{
+  "post_num": 1444,
+  "date": "2026-03-23 14:36:13",
+  "content": "卖100W买回10W的这种做法而已。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "该帖描述了一种大幅减仓的交易行为，即在卖出大额持仓（100万）后仅买回极小部分（10万），体现了极度谨慎的仓位管理或看空后市的态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "大幅度缩减持仓规模，资金撤出比例高达90%",
+      "仅保留少量底仓，反映出强烈的风险规避意识",
+      "可能暗示对后市不看好或处于止盈离场阶段"
+    ],
+    "analysis_method": "llm"
+  }
+}

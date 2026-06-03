@@ -1,0 +1,21 @@
+{
+  "post_num": 235,
+  "date": "2026-01-19 14:50:50",
+  "content": "今天的没意义",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为今日的市场行情缺乏参考价值或实质性波动，表达了对当前盘面走势的消极或观望态度。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "认为今日行情没有实质性的分析意义",
+      "暗示市场可能处于缩量、震荡或缺乏明确方向的状态"
+    ],
+    "analysis_method": "llm"
+  }
+}

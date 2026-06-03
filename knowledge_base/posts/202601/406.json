@@ -1,0 +1,21 @@
+{
+  "post_num": 406,
+  "date": "2026-01-27 10:39:19",
+  "content": "并不会  他只想着拉高减仓",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对当前股价上涨持怀疑态度，认为其背后的动机并非看好后市，而是为了在高位出货减仓。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "质疑上涨的持续性与真实意图",
+      "指出主力或相关方存在“拉高减仓”的操作嫌疑"
+    ],
+    "analysis_method": "llm"
+  }
+}

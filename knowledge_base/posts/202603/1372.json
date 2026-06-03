@@ -1,0 +1,22 @@
+{
+  "post_num": 1372,
+  "date": "2026-03-20 15:11:37",
+  "content": "目前67%附近 没有更多更好的位置减下去。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "technical"
+    ],
+    "category": "trading_signal",
+    "summary": "作者目前仓位约67%，表达了进一步减仓的意愿，但认为当前市场位置不理想，缺乏更好的减仓点位。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "当前仓位水平维持在67%附近",
+      "存在进一步降低仓位的预期或计划",
+      "认为目前缺乏理想的反弹位置或高点来进行减仓操作"
+    ],
+    "analysis_method": "llm"
+  }
+}

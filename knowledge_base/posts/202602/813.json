@@ -1,0 +1,23 @@
+{
+  "post_num": 813,
+  "date": "2026-02-12 14:25:26",
+  "content": "放量突破 一口吃完上面挂单。不行分两口也可以",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "帖子描述了股票放量突破阻力位，买盘力量强劲，正在积极消化上方的卖盘挂单，展现出明显的看涨信号。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "个股出现放量突破走势",
+      "买方力量正在积极消化上方挂单压力",
+      "表达了对股价继续上行及多头势力的乐观预期"
+    ],
+    "analysis_method": "llm"
+  }
+}

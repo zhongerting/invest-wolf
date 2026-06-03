@@ -1,0 +1,24 @@
+{
+  "post_num": 160,
+  "date": "2026-01-16 10:46:49",
+  "content": "低位补涨吧  落后我4大机器人至少50%以上",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者认为当前标的处于低位，存在明显的补涨需求，并指出其表现已落后于机器人板块核心品种50%以上，表达了强烈的看涨预期。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "标的目前处于低位，具备补涨潜力",
+      "该标的表现显著落后于机器人板块主流品种（约50%以上）",
+      "作者暗示该标的未来有较大的向上修复空间"
+    ],
+    "analysis_method": "llm"
+  }
+}

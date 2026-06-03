@@ -1,0 +1,23 @@
+{
+  "post_num": 103,
+  "date": "2026-01-15 13:08:05",
+  "content": "因为不是缩量双跌停啊 不是开板了么",
+  "analysis": {
+    "tags": [
+      "technical",
+      "stock",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者通过观察量价关系指出，该股并未出现缩量连续跌停的极端情况，且跌停板已经打开，暗示市场存在流动性或反弹契机。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "否定了缩量双跌停的走势判断",
+      "确认跌停板已经打开（开板），市场有换手",
+      "通过量价配合情况来评估个股的后续压力"
+    ],
+    "analysis_method": "llm"
+  }
+}

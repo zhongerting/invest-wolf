@@ -1,0 +1,22 @@
+{
+  "post_num": 2346,
+  "date": "2026-04-29 21:17:43",
+  "content": "你们 我随便选一个  其实你们写的策略都是   <span class=\"red\">毫无根据 没有任何操作体系</span>\n我已经分享过了  你们做策略 要学会怎么写\n当出现XXX时 做XXX动作\n当不出现XXX时  不做XXX动作\n这才是做策略\n策略是应对 不是靠猜",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者批评多数投资者的策略缺乏体系和根据，强调真正的策略应是基于“触发条件-执行动作”的逻辑化应对机制，而非主观的预测或猜测。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "批评当前多数人的策略缺乏操作体系和事实根据",
+      "策略的核心逻辑应为：当满足特定条件时执行特定动作，否则不操作",
+      "交易的本质是“应对”市场变化，而非“猜测”市场走向"
+    ],
+    "analysis_method": "llm"
+  }
+}

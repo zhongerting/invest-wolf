@@ -1,0 +1,21 @@
+{
+  "post_num": 456,
+  "date": "2026-01-28 11:09:04",
+  "content": "石油王 下班！！",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "发帖者以“石油王”代指石油或能源板块，并表示“下班”，暗示该板块当日行情结束、操作完成或已获利了结。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "提及“石油王”，核心关注点在石油或能源相关板块",
+      "“下班”在交易语境下通常指代结束操作、收工或行情告一段落"
+    ],
+    "analysis_method": "llm"
+  }
+}

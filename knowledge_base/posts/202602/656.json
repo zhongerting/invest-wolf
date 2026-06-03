@@ -1,0 +1,22 @@
+{
+  "post_num": 656,
+  "date": "2026-02-04 10:53:36",
+  "content": "。。。对啊。。所以现在不能做啊。 这有啥疑问啊。。",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者明确表达了当前不宜进行交易操作的观点，态度坚决，认为市场目前缺乏可操作性，建议观望或空仓。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "明确建议当前时点不能进行股票交易操作",
+      "对市场持否定或极度审慎的态度",
+      "认为当前不宜操作是显而易见的结论，无需质疑"
+    ],
+    "analysis_method": "llm"
+  }
+}

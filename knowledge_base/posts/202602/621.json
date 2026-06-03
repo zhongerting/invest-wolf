@@ -1,0 +1,22 @@
+{
+  "post_num": 621,
+  "date": "2026-02-03 10:25:22",
+  "content": "现在？跑什么？你挣多少了？",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者对当前离场行为表示质疑，认为目前并非卖出时机，暗示市场仍有上涨空间或当前收益尚不足以止盈。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "质疑当前卖出（跑）的合理性",
+      "通过询问收益情况暗示目前尚未达到理想的止盈点",
+      "倾向于继续持股，对后市持乐观态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

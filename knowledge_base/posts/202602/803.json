@@ -1,0 +1,22 @@
+{
+  "post_num": 803,
+  "date": "2026-02-12 11:31:57",
+  "content": "节前红包都吃到了吧  好好过年吧 \n哪个前几天叫你们4000点清仓过年的 记得敲他闷棍然后拉黑他",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为节前市场表现良好，投资者已获得收益（红包），并对此前建议在4000点清仓的看空言论表示强烈不满和嘲讽，建议投资者安心过年。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "节前市场出现上涨行情，投资者普遍获利",
+      "强烈反对并批判此前建议清仓离场的观点",
+      "对当前市场走势持乐观态度，建议持股或带着盈利过年"
+    ],
+    "analysis_method": "llm"
+  }
+}

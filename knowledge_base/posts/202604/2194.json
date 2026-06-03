@@ -1,0 +1,22 @@
+{
+  "post_num": 2194,
+  "date": "2026-04-22 14:45:56",
+  "content": "80%左右收盘  放量过压力 今天不用减",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "市场放量突破压力位，收盘表现强势，建议继续持仓，今日无需减仓。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "放量突破关键压力位，显示上涨动能较强",
+      "收盘表现稳健，维持在较高位置",
+      "明确建议今日不进行减仓操作，维持现有头寸"
+    ],
+    "analysis_method": "llm"
+  }
+}

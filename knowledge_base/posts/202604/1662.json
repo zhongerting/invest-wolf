@@ -1,0 +1,23 @@
+{
+  "post_num": 1662,
+  "date": "2026-04-01 09:35:06",
+  "content": "西部材料我清完了  等下换去低位商航",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者已完成西部材料的清仓操作，并计划将资金调仓至处于低位的商业航天板块，执行高低切换策略。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "已全额卖出西部材料",
+      "看好并准备买入低位商业航天板块",
+      "交易逻辑为调仓换股及寻找低位补涨机会"
+    ],
+    "analysis_method": "llm"
+  }
+}

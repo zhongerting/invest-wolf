@@ -1,0 +1,21 @@
+{
+  "post_num": 2816,
+  "date": "2026-05-28 12:43:14",
+  "content": "昨天外围大涨我们也没涨啊",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "用户指出在外围市场大涨的利好背景下，国内市场并未随之走高，表达了对市场跟涨乏力的失望情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "外围市场昨日表现强劲（大涨）",
+      "国内市场表现相对疲软，未能实现联动上涨"
+    ],
+    "analysis_method": "llm"
+  }
+}

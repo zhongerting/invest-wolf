@@ -1,0 +1,22 @@
+{
+  "post_num": 2515,
+  "date": "2026-05-12 18:38:03",
+  "content": "对 但是我不愿意冒风险吃回撤",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "用户表达了强烈的风险厌恶情绪，明确表示不愿为了追求收益而承担账户回撤的风险，体现出极其保守的投资心态或防守型交易策略。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "明确拒绝承担账户回撤风险",
+      "风险偏好极低，优先考虑本金安全",
+      "在收益与风险的权衡中选择了规避风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 2379,
+  "date": "2026-04-30 13:33:44",
+  "content": "是出货 但是不是搞坏市场那种 也就是这里利用诱多做个T。不是坏事 一",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者认为当前市场的出货行为是利用诱多手法进行的做T操作，而非恶意砸盘，认为这种波动对市场整体并非坏事。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "当前存在出货迹象，但并非破坏市场重心的恶意抛售",
+      "市场行为被定性为利用诱多手法进行高抛低吸（做T）",
+      "作者认为这种调整是良性的，明确表示“不是坏事”"
+    ],
+    "analysis_method": "llm"
+  }
+}

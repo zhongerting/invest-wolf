@@ -1,0 +1,23 @@
+{
+  "post_num": 1406,
+  "date": "2026-03-20 17:36:21",
+  "content": "对的  量化今天也是硬性止损亏出去的 条件也简单  第二次跌破4000.。。。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "量化资金因市场第二次跌破4000点关键位触发硬性止损，导致亏损离场，显示出技术破位带来的被动抛压。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "量化策略执行硬性止损操作",
+      "关键点位4000点被第二次跌破，触发卖出信号",
+      "量化资金亏损出局，反映出市场短期走势极弱"
+    ],
+    "analysis_method": "llm"
+  }
+}

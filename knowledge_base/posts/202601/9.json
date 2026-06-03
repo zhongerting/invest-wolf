@@ -1,0 +1,24 @@
+{
+  "post_num": 9,
+  "date": "2026-01-12 11:10:00",
+  "content": "现在我不看稀土 我之前用的BYD换的稀土目前都25%以上盈利了  这些东西我不动的",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者分享了其调仓及盈利情况：将比亚迪换成稀土板块后，目前已获利超25%，并决定采取坚定持股不动的策略。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "已完成从比亚迪（BYD）到稀土板块的调仓",
+      "稀土持仓目前盈利已超过25%",
+      "当前操作策略为继续持股，不进行短线操作"
+    ],
+    "analysis_method": "llm"
+  }
+}

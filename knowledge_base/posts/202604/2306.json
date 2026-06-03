@@ -1,0 +1,23 @@
+{
+  "post_num": 2306,
+  "date": "2026-04-29 10:58:59",
+  "content": "我先明确说明噢  今天  就是 诱多\n反正我吃完他诱多的诱  你们负责多",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当日的市场上涨是“诱多”行为，并表示自己已经逢高减仓或离场，警示其他投资者不要盲目追高。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "明确判定当日行情为诱多陷阱",
+      "作者自述已完成获利了结或避险操作",
+      "暗示后续市场可能下跌，对多头持负面态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 1585,
+  "date": "2026-03-30 11:25:05",
+  "content": "因为3731花了大价钱 这是市场绝大部挣钱资金的底线。",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者认为3731点位（通常指上证指数重要高点）是市场主力获利资金的关键成本区，将其视为市场多头力量的心理与技术底线。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "3731点位凝聚了市场核心获利资金的极高成本",
+      "该点位被视为市场绝大部分赚钱资金的最后防线或底线"
+    ],
+    "analysis_method": "llm"
+  }
+}

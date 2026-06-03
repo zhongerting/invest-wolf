@@ -1,0 +1,25 @@
+{
+  "post_num": 747,
+  "date": "2026-02-09 14:23:39",
+  "content": "我已经说了 我今天参与金融就是为了收盘上4117 我跟你们不同 我今天收盘前不会跑",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者表达了对金融板块的坚定看好，设定收盘目标位为 4117 点，并明确表示在收盘前不会卖出，展现出极强的持股信心。",
+    "mentioned_sectors": [
+      "金融"
+    ],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "参与金融板块投资",
+      "看好收盘点位达到 4117 点",
+      "明确表态收盘前坚定持仓，不会提前离场"
+    ],
+    "analysis_method": "llm"
+  }
+}

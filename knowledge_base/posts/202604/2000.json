@@ -1,0 +1,22 @@
+{
+  "post_num": 2000,
+  "date": "2026-04-14 09:25:37",
+  "content": "我TM都不知道  国算你们是怎么亏的  告诉我！！！",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者对“国算”（国家算力相关板块或个股）的盈利表现持极度自信态度，并对其他投资者的亏损表示强烈不解和嘲讽，反映出该标的近期可能处于强势上涨行情中。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "作者认为“国算”相关标的盈利难度极低，暗示其近期走势极强",
+      "对在该标的上产生亏损的投资者表达了嘲讽情绪",
+      "帖子内容属于典型的情绪宣泄，缺乏具体的逻辑支撑和技术分析"
+    ],
+    "analysis_method": "llm"
+  }
+}

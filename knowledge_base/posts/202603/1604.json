@@ -1,0 +1,23 @@
+{
+  "post_num": 1604,
+  "date": "2026-03-31 10:34:14",
+  "content": "![img](assets/1604_f1b6ad1h.jpg)\n笑死了  唯二两个低位补涨的空X被你丢了  哈哈哈",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy",
+      "stock"
+    ],
+    "category": "trading_signal",
+    "summary": "作者嘲讽他人卖出了仅有的两个处于低位且具有补涨潜力的标的，认为这种操作错失了后续的上涨机会。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "指出被卖出的标的具有“低位补涨”的特征",
+      "对他人过早抛售潜力标的的行为表示嘲讽",
+      "暗示看好低位补涨逻辑下的个股后续表现"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 28,
+  "date": "2026-01-12 14:24:17",
+  "content": "你这种说法就不应该做T 分仓躺平 等收盘确认破位出清",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "technical"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者建议放弃日内做T操作，主张分仓持股观望，并强调应以收盘价是否确认破位作为最终的清仓决策依据。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "反对在当前逻辑下进行日内做T（日内交易）",
+      "提倡分仓持有并保持静待观察（躺平）的策略",
+      "强调以收盘价确认“破位”作为出清持仓的触发信号"
+    ],
+    "analysis_method": "llm"
+  }
+}

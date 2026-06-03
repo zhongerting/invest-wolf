@@ -1,0 +1,20 @@
+{
+  "post_num": 877,
+  "date": "2026-02-25 13:04:01",
+  "content": "啧啧啧![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖子仅包含感叹词和表情符号，表达了作者对当前市场走势的一种情绪化反应（可能带有无奈或嘲讽意味），未提供任何实质性的分析内容。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "仅为情绪化表达",
+      "缺乏具体的市场观点或操作建议"
+    ],
+    "analysis_method": "llm"
+  }
+}

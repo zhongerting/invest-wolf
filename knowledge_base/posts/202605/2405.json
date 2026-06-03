@@ -1,0 +1,22 @@
+{
+  "post_num": 2405,
+  "date": "2026-05-06 17:54:59",
+  "content": "你买未来？龟哥到处宣传他的推荐码 哈哈",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "发帖者质疑他人购买“未来”（通常指蔚来汽车 NIO）的决策，并嘲讽博主“龟哥”到处分发推荐码的营销行为，表现出不屑与怀疑。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "对投资“未来”（蔚来）的决策持怀疑态度",
+      "指出并嘲讽博主“龟哥”存在过度推广推荐码的行为",
+      "暗示该投资标的或相关推荐存在割韭菜或营销过度嫌疑"
+    ],
+    "analysis_method": "llm"
+  }
+}

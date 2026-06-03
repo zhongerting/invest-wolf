@@ -1,0 +1,22 @@
+{
+  "post_num": 328,
+  "date": "2026-01-22 10:48:26",
+  "content": "你们的选票都是一坨 我虽然也不强 但是总还是强于你们的  而且我善于整合资源",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "作者对他人选股能力表示不屑，认为自己水平优于大众，并强调其在资源整合方面的个人优势。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者对其他投资者的选股质量持负面评价",
+      "作者自认为具备相对较高的投资水平和竞争优势",
+      "作者强调其核心能力在于资源整合"
+    ],
+    "analysis_method": "llm"
+  }
+}

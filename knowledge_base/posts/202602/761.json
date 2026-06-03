@@ -1,0 +1,22 @@
+{
+  "post_num": 761,
+  "date": "2026-02-09 22:10:32",
+  "content": "这比考公难?你要和一亿人同场竞技 而且还有大资金 你啥都不学还想赢 是不是痴人说梦了",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者强调股市竞争极其残酷，散户需与亿万投资者及大资金博弈。他认为不经过系统学习就想在市场获利是不切实际的，其难度甚至超过考公。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "股市参与者基数巨大，竞争压力极高",
+      "普通投资者面临大资金机构的博弈挑战",
+      "强调专业学习是投资获胜的必要前提，反对盲目入市"
+    ],
+    "analysis_method": "llm"
+  }
+}

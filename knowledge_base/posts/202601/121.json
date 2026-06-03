@@ -1,0 +1,26 @@
+{
+  "post_num": 121,
+  "date": "2026-01-15 14:29:05",
+  "content": "看吧 CPO拉起来 收益的是半导体 独大吃独食就会死  一旦有分散注意力的 那些散户柚子的钱就不懂要去哪边了 犹豫就会败北。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为 CPO 板块的上涨带动了半导体板块，指出市场热点分散有利于吸引散户和游资资金，避免单一板块独大导致的资金观望情绪。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "CPO 板块的拉升对半导体板块产生正向带动作用",
+      "单一板块垄断资金（吃独食）不利于市场健康发展",
+      "热点的分散有助于引导犹豫不决的散户和游资资金流向",
+      "强调在投资决策中犹豫会导致失败"
+    ],
+    "analysis_method": "llm"
+  }
+}

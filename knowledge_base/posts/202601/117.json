@@ -1,0 +1,23 @@
+{
+  "post_num": 117,
+  "date": "2026-01-15 14:01:44",
+  "content": "缩量快1WE了 哪里能上去。。。用膝盖想都懂了",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者指出市场成交量已大幅萎缩至接近1万亿水平，认为在缺乏量能支撑的情况下，市场难以实现上涨，表达了明显的悲观情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "市场成交量显著萎缩，接近1万亿关口",
+      "认为缩量状态下市场缺乏上行动能",
+      "对当前及短期后市走势持否定和看空态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

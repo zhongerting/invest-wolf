@@ -1,0 +1,23 @@
+{
+  "post_num": 1751,
+  "date": "2026-04-02 16:02:07",
+  "content": "噢 忘记了 跟美股  那就是继续交易川普明天醒来把昨天都作废",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出当前市场紧跟美股走势，核心逻辑围绕“特朗普交易”，并强调行情波动剧烈，前一日的走势可能随时被推翻。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "市场走势与美股高度联动",
+      "交易主题聚焦于“特朗普变量”",
+      "市场存在极高的不确定性和波动性，行情易出现反转"
+    ],
+    "analysis_method": "llm"
+  }
+}

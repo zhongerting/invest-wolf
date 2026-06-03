@@ -1,0 +1,21 @@
+{
+  "post_num": 2331,
+  "date": "2026-04-29 14:30:40",
+  "content": "倒也切不了这么快 估计会反复 反复的时候一般低位会更惨",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为市场风格切换不会迅速完成，过程将伴随反复震荡。特别指出在反复期间，处于低位的股票表现可能更差。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "市场切换速度不会太快，预计会有反复。",
+      "在反复震荡的过程中，低位股的处境可能更加艰难。"
+    ],
+    "analysis_method": "llm"
+  }
+}

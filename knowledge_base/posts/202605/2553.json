@@ -1,0 +1,23 @@
+{
+  "post_num": 2553,
+  "date": "2026-05-13 20:11:51",
+  "content": "你要这么看也行 但是你这肯定是马后炮才能看出来了  这个盘中用你的方法看不出来的 你再好好想想",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "该帖是对他人投资分析方法的质疑，认为其逻辑属于“马后炮”，在实盘交易过程中缺乏可操作性和预判价值，并建议对方重新审视其分析逻辑。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "指出对方的分析是基于已知结果的事后总结（马后炮）",
+      "强调该方法在盘中实时交易时无法有效识别信号",
+      "对该投资分析方法的实用性和逻辑严谨性提出质疑"
+    ],
+    "analysis_method": "llm"
+  }
+}

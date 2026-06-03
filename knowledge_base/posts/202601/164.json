@@ -1,0 +1,21 @@
+{
+  "post_num": 164,
+  "date": "2026-01-16 11:08:50",
+  "content": "主要是大放水时代",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场核心驱动力在于宏观流动性的极度充裕（大放水），强调了货币政策对市场环境的决定性影响。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "市场处于大规模货币宽松（大放水）的宏观背景之下",
+      "流动性充裕被视为支撑或推动市场表现的关键因素"
+    ],
+    "analysis_method": "llm"
+  }
+}

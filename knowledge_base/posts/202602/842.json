@@ -1,0 +1,20 @@
+{
+  "post_num": 842,
+  "date": "2026-02-13 10:42:42",
+  "content": "看什么鬼 我们都在里面",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖表达了投资者集体持仓或被套的现状，体现了市场参与者之间的一种共鸣或无奈情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "投资者普遍处于持仓状态（可能暗示被套）",
+      "表达了某种程度的集体共鸣或情绪发泄"
+    ],
+    "analysis_method": "llm"
+  }
+}

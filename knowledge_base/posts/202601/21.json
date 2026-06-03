@@ -1,0 +1,23 @@
+{
+  "post_num": 21,
+  "date": "2026-01-12 14:01:03",
+  "content": "我不能截图 但是我虽然不在中国卫星  但是我在卫星链打野\n我说了  每天都当最后一天在做，不做T  随时准备撤离",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者目前在卫星链板块进行短线“打野”操作，心态极其谨慎，不进行日内回转交易，并做好了随时清仓撤离的准备。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "在卫星链板块进行短线博弈而非长期持有",
+      "采取极高风险防范意识，将每日均视为可能的最后持仓日",
+      "不做T+0操作，保持随时撤离的灵活性"
+    ],
+    "analysis_method": "llm"
+  }
+}

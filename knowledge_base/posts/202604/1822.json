@@ -1,0 +1,26 @@
+{
+  "post_num": 1822,
+  "date": "2026-04-03 13:58:58",
+  "content": "不可能 机构这里没改目标  本来预计就是下午搞起来 问题就是刚才那波金融下来有点吓人了。\n刚才我都差点破防了  怕计划被打乱",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "sector",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为机构并未改变目标，原预期市场在下午拉升，虽受金融板块波动干扰产生焦虑，但仍维持原定计划。",
+    "mentioned_sectors": [
+      "金融"
+    ],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "机构投资者尚未改变既定的目标位",
+      "预期市场在下午盘面会有拉升动作",
+      "金融板块的短线跳水对市场情绪造成了较大冲击",
+      "作者虽受波动影响，但目前仍坚持原有的操作计划"
+    ],
+    "analysis_method": "llm"
+  }
+}

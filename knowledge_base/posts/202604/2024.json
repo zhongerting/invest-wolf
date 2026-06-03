@@ -1,0 +1,22 @@
+{
+  "post_num": 2024,
+  "date": "2026-04-14 13:29:14",
+  "content": "现在不是告诉你了么  航天",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者再次强调并确认其对航天板块的看好观点，暗示该板块存在投资机会。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "明确指出关注重点为航天板块",
+      "语气具有确认感，暗示此前已对该板块进行过预测或推荐",
+      "对航天板块后续走势持乐观态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

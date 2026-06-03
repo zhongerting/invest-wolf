@@ -1,0 +1,26 @@
+{
+  "post_num": 2859,
+  "date": "2026-05-29 17:40:34",
+  "content": "![img](assets/2859_72f39d77.jpg)\n我先问问你们  半导体这边你们觉得调整结束了吗？我不管你们看不看得懂技术  你们至少会看幅度吧？\n但是你的票为什么跌那么多 或者为什么你要在高点买 这才是你们的问题吧",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者针对半导体板块的近期调整提出疑问，暗示调整幅度已大，并批评投资者在高位追涨及持仓个股跌幅过大的操作问题。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "探讨半导体板块调整是否已接近尾声",
+      "强调投资者应关注市场调整的幅度而非仅看技术指标",
+      "指出在高位买入和个股选择不当是投资者的主要问题"
+    ],
+    "analysis_method": "llm"
+  }
+}

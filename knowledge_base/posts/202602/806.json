@@ -1,0 +1,26 @@
+{
+  "post_num": 806,
+  "date": "2026-02-12 12:53:39",
+  "content": "节前因为极度缩量 你们奢望半导体ETF能大涨就和看中继旭创能大涨一样没有道理，没那么多钱啊\nETF大票不都一样\n但是细分很好啊，我觉得很好",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sector",
+      "stock"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为节前市场因极度缩量导致资金面不足，难以支撑半导体ETF及中际旭创等大盘股大涨，但对细分赛道的结构性机会表示看好。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "节前市场极度缩量，存量资金不足以推动大盘权重股上涨",
+      "半导体ETF等大盘票短期内缺乏大幅上涨的动力",
+      "看好行业内的细分领域，认为其表现将优于大盘ETF"
+    ],
+    "analysis_method": "llm"
+  }
+}

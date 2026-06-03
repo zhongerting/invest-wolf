@@ -1,0 +1,24 @@
+{
+  "post_num": 1993,
+  "date": "2026-04-13 14:58:58",
+  "content": "说的是半导体设备 不是固态电池设备 半导体设备订单确实是有的 看他们的业绩也能看出来\n唯一的问题是最近时间节点不太好",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者澄清关注点为半导体设备而非固态电池设备，肯定了半导体设备订单充足及业绩表现良好，但认为当前市场介入的时间节点不够理想。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "明确区分标的为半导体设备，而非近期热门的固态电池设备",
+      "确认半导体设备行业订单真实存在，且已在业绩中得到验证",
+      "认为当前市场环境或时间窗口对该板块不利"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 184,
+  "date": "2026-01-16 14:50:57",
+  "content": "都没人买。。。。活钱宁可在等航天。。。。。AI软想卖都出不去。。。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "市场买气低迷，资金观望情绪浓厚。活跃资金倾向于等待航天板块机会，而AI软件板块面临流动性枯竭，投资者遭遇卖出困难。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "市场整体缺乏买盘，成交意愿极低。",
+      "存量资金正在等待航天板块的入场时机。",
+      "AI软件板块流动性极差，持仓者面临难以变现的困境。"
+    ],
+    "analysis_method": "llm"
+  }
+}

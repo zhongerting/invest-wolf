@@ -1,0 +1,23 @@
+{
+  "post_num": 1983,
+  "date": "2026-04-13 14:09:37",
+  "content": "70%左右  不是很激进 上面指数位置没多少 但是我个股位置还蛮好的。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "market",
+      "stock"
+    ],
+    "category": "market_analysis",
+    "summary": "作者目前持仓约70%，采取稳健策略。认为大盘指数进一步上行的空间有限，但对自己持有的个股位置和前景表示乐观，体现出“轻指数、重个股”的思路。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "当前仓位水平在70%左右，操作风格并不激进。",
+      "认为大盘指数上方压力较大，上涨空间有限。",
+      "对自己持有的个股位置非常满意，看好个股的独立行情。"
+    ],
+    "analysis_method": "llm"
+  }
+}

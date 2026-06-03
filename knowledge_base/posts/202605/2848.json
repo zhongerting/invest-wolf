@@ -1,0 +1,24 @@
+{
+  "post_num": 2848,
+  "date": "2026-05-29 14:52:00",
+  "content": "科技里除了光纤全杀啊",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出科技板块整体遭遇剧烈调整（全杀），仅有光纤子板块表现相对坚挺，成为科技股中唯一的例外。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "科技板块整体出现大面积下跌行情",
+      "光纤板块在科技股普跌中表现独立，未受波及"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "post_num": 1539,
+  "date": "2026-03-26 17:12:37",
+  "content": "没有不看量能的技术分析\n所有的技术分析的基础就是量价 相当于就是数学里面的加减乘除 英语里面的26个英文字母。",
+  "analysis": {
+    "tags": [
+      "technical"
+    ],
+    "category": "technical_analysis",
+    "summary": "该帖强调量价关系是技术分析的核心与基石，认为量能是不可或缺的分析要素，并将其地位比作数学中的加减乘除。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "量能是进行技术分析的必要前提",
+      "量价关系是所有技术分析工具的底层逻辑和基础",
+      "量价之于技术分析如同加减乘除之于数学，具有极高的基础性和重要性"
+    ],
+    "analysis_method": "llm"
+  }
+}

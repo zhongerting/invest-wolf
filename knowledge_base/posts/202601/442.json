@@ -1,0 +1,21 @@
+{
+  "post_num": 442,
+  "date": "2026-01-28 09:40:24",
+  "content": "并没有  那个锁了 成本为0",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "用户表示其某项投资已实现零成本持仓，并处于锁仓状态，显示出极强的持股信心和风险控制能力。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "持仓成本已降至0，意味着初始投入已收回",
+      "目前处于锁仓状态，不打算进行短期交易"
+    ],
+    "analysis_method": "llm"
+  }
+}

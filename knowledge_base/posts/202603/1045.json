@@ -1,0 +1,24 @@
+{
+  "post_num": 1045,
+  "date": "2026-03-03 11:34:33",
+  "content": "韩国那边半导体可能有问题了  会影响我们\n总统带头卖房炒股的后果就是被财阀收割。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者担忧韩国半导体产业风险将波及国内，并对韩国总统带头炒股及财阀收割的政经乱象持负面态度，暗示市场存在下行风险。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "韩国半导体产业可能出现问题，并对国内相关产业链产生负面影响",
+      "韩国政经局势不稳（总统炒股、财阀收割）加剧了市场的不确定性和负面情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

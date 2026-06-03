@@ -1,0 +1,20 @@
+{
+  "post_num": 749,
+  "date": "2026-02-09 14:30:36",
+  "content": "因为有底仓。",
+  "analysis": {
+    "tags": [
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者简要说明其操作或心态是基于目前已持有底仓的状态。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "持有底仓",
+      "以底仓作为交易决策的依据"
+    ],
+    "analysis_method": "llm"
+  }
+}

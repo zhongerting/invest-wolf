@@ -1,0 +1,24 @@
+{
+  "post_num": 622,
+  "date": "2026-02-03 10:25:56",
+  "content": "有什么奇怪的 被寒武纪影响的 不然现在半导体就+4了",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "用户认为半导体板块当前的涨幅受个股寒武纪的负面拖累，若排除该影响，板块涨幅本应达到4%左右。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "寒武纪（Cambricon）的表现对半导体板块整体走势产生了明显的拖累作用",
+      "作者认为半导体板块自身具备较强的上涨动力，潜在涨幅被个股波动所掩盖"
+    ],
+    "analysis_method": "llm"
+  }
+}

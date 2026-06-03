@@ -1,0 +1,23 @@
+{
+  "post_num": 2217,
+  "date": "2026-04-23 13:27:03",
+  "content": "放量下跌行情的盘中消息冲高是绝对不能追  是绝对的",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者严厉警告在放量下跌的市场背景下，绝对不能追逐因盘中消息引发的股价冲高，强调在弱势行情中需严格遵守交易纪律，防范追高风险。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "放量下跌行情中，盘中的冲高往往是诱多陷阱。",
+      "严禁在弱势市场环境下追逐由利好消息带动的股价拉升。",
+      "强调交易纪律的绝对性，认为此时追高风险极大。"
+    ],
+    "analysis_method": "llm"
+  }
+}

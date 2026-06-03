@@ -1,0 +1,22 @@
+{
+  "post_num": 564,
+  "date": "2026-01-30 11:24:21",
+  "content": "昨天减了 今天这个就不用减了 不过也不加 先拿拿",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者昨日已进行减仓操作，今日决定维持现状，既不继续减仓也不加仓，目前采取持股观望的策略。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "昨日已完成减仓操作",
+      "今日不进行减仓或加仓",
+      "目前采取持股观望策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

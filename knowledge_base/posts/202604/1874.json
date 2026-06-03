@@ -1,0 +1,22 @@
+{
+  "post_num": 1874,
+  "date": "2026-04-08 10:55:19",
+  "content": "我都和你说了  现在看什么  看量能 量能没有回退1000E以上今天就不是高点。",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者强调当前市场判断的核心在于成交量。认为只要量能没有萎缩超过1000亿，当前位置就不是阶段性高点，暗示市场仍有上行动力。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "成交量是当前市场走势的关键观察指标",
+      "量能萎缩1000亿以上被视为判断市场见顶的信号",
+      "基于目前量能表现，认为今天并非市场高点"
+    ],
+    "analysis_method": "llm"
+  }
+}

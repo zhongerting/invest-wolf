@@ -1,0 +1,21 @@
+{
+  "post_num": 1441,
+  "date": "2026-03-23 14:17:10",
+  "content": "完全不可能预判 这个比算命还不靠谱",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者表达了对市场预测的极度怀疑，认为预判市场走势完全不可能，甚至比算命更不靠谱，反映出一种虚无主义或极度受挫的市场情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "认为市场走势具有极强的随机性，完全无法预判",
+      "对技术分析或逻辑推演的有效性持全盘否定态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

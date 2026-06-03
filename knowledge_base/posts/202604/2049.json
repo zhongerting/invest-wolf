@@ -1,0 +1,25 @@
+{
+  "post_num": 2049,
+  "date": "2026-04-14 17:14:27",
+  "content": "那些没问题  特别很多低位光都是二买位置准备就上来了",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者认为当前低位标的风险较小，特别是‘光’相关板块（如光伏或光通信）正处于技术面上的‘二买’位置，预示即将开启反弹行情。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "认为当前低位个股风险较低，具备安全边际",
+      "重点关注处于低位的‘光’字头板块",
+      "技术面判断当前处于‘二买’（第二次买入信号）位置",
+      "预期相关标的即将开启上涨趋势"
+    ],
+    "analysis_method": "llm"
+  }
+}

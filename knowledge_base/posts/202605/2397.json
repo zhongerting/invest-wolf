@@ -1,0 +1,20 @@
+{
+  "post_num": 2397,
+  "date": "2026-05-06 16:42:14",
+  "content": "跟那个有啥关系",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖子内容仅为一句反问，表达了对某一事物关联性的质疑，缺乏具体的市场分析、个股信息或明确的投资观点。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "对特定因素与市场/个股的相关性表示怀疑",
+      "内容过于简略，无实质性投资参考价值"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "post_num": 1623,
+  "date": "2026-03-31 13:52:30",
+  "content": "![img](assets/1623_52cbd11x.jpg)\n正是在下",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "帖子内容仅包含“正是在下”及一张图片，属于社交互动或自我身份确认，缺乏实质性的市场分析、个股推荐或投资策略。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "内容主要为作者的自我表态，可能是在回应之前的预测或进行身份确认",
+      "缺乏具体的市场分析、技术指标、板块信息或明确的投资建议"
+    ],
+    "analysis_method": "llm"
+  }
+}

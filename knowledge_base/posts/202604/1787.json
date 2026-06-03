@@ -1,0 +1,22 @@
+{
+  "post_num": 1787,
+  "date": "2026-04-03 09:31:58",
+  "content": "下班 一个 哈哈 直接摁",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "内容表达了作者下班后轻松的心情，并提到进行了果断的交易操作（“直接摁”在股市语境中通常指快速卖出或按市价成交），但缺乏具体标的。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者情绪较为轻松、随性（“哈哈”）",
+      "提到了果断的执行动作（“直接摁”），暗示完成了某项交易操作",
+      "信息极简，属于个人交易状态的随笔"
+    ],
+    "analysis_method": "llm"
+  }
+}

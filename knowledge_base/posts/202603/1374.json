@@ -1,0 +1,21 @@
+{
+  "post_num": 1374,
+  "date": "2026-03-20 15:29:11",
+  "content": "因为就没有人护",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为市场表现疲软的原因在于缺乏护盘力量（通常指大资金或国家队干预），表达了对市场支撑力度的不满。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "市场缺乏护盘资金介入",
+      "投资者情绪消极，认为当前处于无支撑状态"
+    ],
+    "analysis_method": "llm"
+  }
+}

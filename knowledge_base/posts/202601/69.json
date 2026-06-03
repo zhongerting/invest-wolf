@@ -1,0 +1,22 @@
+{
+  "post_num": 69,
+  "date": "2026-01-14 13:19:07",
+  "content": "早上我不想和你们交流那么低级的问题 我的操作值多少钱你们自己说",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "作者在帖子中表现出极强的自负情绪，拒绝回答所谓的“低级问题”，并强调其交易操作具有极高价值，内容主要属于个人情绪宣泄，未涉及具体市场分析。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者拒绝与他人进行基础层面的沟通",
+      "作者对自己的交易水平和操作价值高度自信",
+      "内容缺乏具体的市场逻辑、板块指向或技术分析"
+    ],
+    "analysis_method": "llm"
+  }
+}

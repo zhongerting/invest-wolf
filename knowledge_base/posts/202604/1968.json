@@ -1,0 +1,22 @@
+{
+  "post_num": 1968,
+  "date": "2026-04-10 14:50:58",
+  "content": "他们老板就是最大的脏东西",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "发帖者对某公司管理层（老板）表达了强烈的负面情绪和人身攻击，暗示对该公司治理水平或诚信度极度不满。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "对公司核心管理人员（老板）持有极度负面的评价",
+      "表达了对公司内部治理或道德风险的严重担忧",
+      "缺乏具体业务分析，纯属情绪化输出"
+    ],
+    "analysis_method": "llm"
+  }
+}

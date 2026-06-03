@@ -1,0 +1,22 @@
+{
+  "post_num": 929,
+  "date": "2026-02-26 14:09:43",
+  "content": "很多人之前都说 大盘不可能控制 没人能控制 说能控制的都是臆想，最近一年这种话很少了",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "帖子指出市场对于“大盘是否可被控制”的认知发生了显著变化，从以往的“不可控论”转向近期对“市场可被干预或控制”的默认或认同。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "市场对大盘不可控的传统观点正在减少",
+      "暗示近一年市场干预迹象明显，改变了投资者的普遍预期",
+      "反映了市场参与者对“有形之手”调控能力的重新评估"
+    ],
+    "analysis_method": "llm"
+  }
+}

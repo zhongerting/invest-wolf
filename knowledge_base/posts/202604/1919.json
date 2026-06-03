@@ -1,0 +1,25 @@
+{
+  "post_num": 1919,
+  "date": "2026-04-09 10:45:42",
+  "content": "半导体材料那边新高附近我会减一点",
+  "analysis": {
+    "tags": [
+      "sector",
+      "technical",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者计划在半导体材料板块接近前期高点或历史新高位置时，采取减仓策略以规避潜在回调风险或锁定利润。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "关注半导体材料板块到达新高附近的阻力位",
+      "明确表达了逢高减仓的交易意向",
+      "体现了在技术压力位进行风险管理的策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

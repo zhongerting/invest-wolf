@@ -1,0 +1,21 @@
+{
+  "post_num": 901,
+  "date": "2026-02-26 10:25:44",
+  "content": "对啊。。前面我长篇都说了啊。。。题材轮着做  趋势票躺平",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者建议在当前市场环境下采取双重策略：对题材股进行轮动操作，而对趋势型股票则建议长期持有、持股不动（躺平）。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "题材板块建议采取轮动交易策略",
+      "趋势类个股建议采取持股不动的“躺平”策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

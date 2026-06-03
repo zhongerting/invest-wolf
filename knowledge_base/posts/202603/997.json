@@ -1,0 +1,21 @@
+{
+  "post_num": 997,
+  "date": "2026-03-02 10:06:37",
+  "content": "主要是卫星 不是商航 这也是战争相关。",
+  "analysis": {
+    "tags": [
+      "sector",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出当前市场关注点在于卫星板块而非商业航天，并强调该题材的驱动逻辑与战争/军事需求相关。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "明确投资标的主要是卫星，而非商业航天",
+      "指出该板块具有战争/军工相关属性"
+    ],
+    "analysis_method": "llm"
+  }
+}

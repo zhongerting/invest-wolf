@@ -1,0 +1,25 @@
+{
+  "post_num": 2815,
+  "date": "2026-05-28 12:29:35",
+  "content": "接下来你们会看到散户们\n散户：大家都跌了，我怕什么![衰](https://img4.nga.178.com/ngabbs/post/smile/ac40.png)\n大家都抄底 ，我也抄底低位的票，都跌了那么多肯定比追高科技要好 哼![凌乱](https://img4.nga.178.com/ngabbs/post/smile/ac6.png)\n看吧，你科技涨5个点 我低位的不也涨4个点，而且还安...",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy",
+      "sector"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖模拟散户心理，讽刺了散户在市场下跌时的抄底逻辑：倾向于避开高位科技股，转而选择跌幅较大的低位股票，认为其安全性更高且能获得同步反弹收益。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "散户在市场普跌时存在盲目乐观和从众心理",
+      "散户偏好“抄底”低位个股，而非追逐高位的科技板块",
+      "散户认为低位股相比科技股具有更高的防御性和性价比"
+    ],
+    "analysis_method": "llm"
+  }
+}

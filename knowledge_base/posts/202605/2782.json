@@ -1,0 +1,23 @@
+{
+  "post_num": 2782,
+  "date": "2026-05-27 15:02:26",
+  "content": "今天最强的就是 光\n嗯  单指那个 长进光子  你们谁中了啊  中了赶紧请客。",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为今日市场表现最强的是光电子板块，并特别点名个股“长进光子”，对该股及相关板块持积极看好态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "今日市场最强热点集中在“光”相关板块",
+      "明确指出长进光子个股表现突出",
+      "提及中签请客，暗示该股为近期关注度极高的新股或次新股"
+    ],
+    "analysis_method": "llm"
+  }
+}

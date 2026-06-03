@@ -1,0 +1,21 @@
+{
+  "post_num": 2097,
+  "date": "2026-04-15 17:29:52",
+  "content": "你怎么知道他买的是今天跑路的方向？",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖对他人关于投资方向的判断提出质疑，并指出当前市场中存在资金撤离（跑路）的特定方向。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "质疑他人对特定交易方向的了解程度",
+      "暗示当前市场某些板块或个股正处于资金流出或大幅下跌（跑路）状态"
+    ],
+    "analysis_method": "llm"
+  }
+}

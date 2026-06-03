@@ -1,0 +1,21 @@
+{
+  "post_num": 2536,
+  "date": "2026-05-13 14:34:43",
+  "content": "是不是有了策略后就不会卖飞了![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "用户发帖询问或调侃在拥有交易策略后，是否就能避免因过早卖出（卖飞）而错过后续涨幅的问题，反映了对策略执行与心理博弈的思考。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "探讨交易策略在防止“卖飞”方面的有效性",
+      "表达了投资者在实际操作中对于错过后续行情的焦虑或调侃"
+    ],
+    "analysis_method": "llm"
+  }
+}

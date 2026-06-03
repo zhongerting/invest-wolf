@@ -1,0 +1,23 @@
+{
+  "post_num": 1753,
+  "date": "2026-04-02 16:18:01",
+  "content": "明天见个分时顶再说 这里虽然说是短打 但是也没那么短",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者预判明天将出现分时级别的高点，届时再决定后续操作。虽然定性为短线交易，但持仓周期会比预想的极短线稍长。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "预计明天盘中会出现分时高点（分时顶）",
+      "当前的交易策略虽然是短线，但并非极短线的快进快出",
+      "操作上倾向于观察到分时高点后再做进一步决策"
+    ],
+    "analysis_method": "llm"
+  }
+}

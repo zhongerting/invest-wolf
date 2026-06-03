@@ -1,0 +1,23 @@
+{
+  "post_num": 2293,
+  "date": "2026-04-28 14:46:26",
+  "content": "以我的能力就能看到今天安全。明后天看不出来 走一步看一步了",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为今日市场环境相对安全，但对明后天走势缺乏预判能力，主张采取走一步看一步的谨慎观望策略。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "判断今日市场处于安全状态",
+      "对短期（明后天）走势持不确定态度",
+      "操作策略上倾向于随行就市，缺乏长远预期"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 1877,
+  "date": "2026-04-08 11:27:00",
+  "content": "反弹之后的高位底分型，是一个减法的位置。 反之破低点之后的顶分型 是一个加法位\n这是基础啊。。。",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "帖子分享了基于分型理论的交易策略：反弹高位出现底分型时应减仓，而破低点后出现顶分型时应加仓，并强调这是交易中的基础逻辑。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "反弹高位出现的底分型被视为减仓（减法）信号",
+      "破低点后出现的顶分型被视为加仓（加法）信号",
+      "强调分型结构在判断买卖点和仓位管理中的基础性作用"
+    ],
+    "analysis_method": "llm"
+  }
+}

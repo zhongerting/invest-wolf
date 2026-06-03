@@ -1,0 +1,23 @@
+{
+  "post_num": 2047,
+  "date": "2026-04-14 16:04:04",
+  "content": "散户是早上卖了  然后下午又被吸引回去了  看量能就懂了",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "technical",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖观察到散户在交易日内表现出早盘卖出、午后重新入场的行为，并指出这种资金流向的反复可以通过量能变化得到证实。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "散户存在早盘抛售、午后追涨的日内调仓行为",
+      "市场量能的变化反映了资金在日内的进出节奏",
+      "暗示市场情绪波动较大，散户容易受到盘中走势的影响"
+    ],
+    "analysis_method": "llm"
+  }
+}

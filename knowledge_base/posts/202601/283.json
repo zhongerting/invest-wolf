@@ -1,0 +1,22 @@
+{
+  "post_num": 283,
+  "date": "2026-01-21 09:47:03",
+  "content": "我不补 我做T",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者表达了明确的交易策略：在不增加总持仓规模（不补仓）的前提下，通过日内回转交易（做T）来降低持仓成本或获取短期差价。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "拒绝通过追加资金进行补仓",
+      "采取“做T”策略进行存量仓位的管理",
+      "倾向于通过波段操作而非长期持股不动来应对当前行情"
+    ],
+    "analysis_method": "llm"
+  }
+}

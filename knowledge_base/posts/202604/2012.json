@@ -1,0 +1,23 @@
+{
+  "post_num": 2012,
+  "date": "2026-04-14 10:40:07",
+  "content": "这里就是高的卖掉 换那种没涨的机构票  跳水和你们有什么关系",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "market",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者建议采取调仓换股策略，主张卖出高位获利筹码，转而布局尚未上涨的机构重仓股，认为通过这种高低切换可以无视市场跳水波动。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "高位股票应及时止盈卖出",
+      "建议布局低位未涨的机构重仓股",
+      "通过高低切换策略规避市场跳水风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

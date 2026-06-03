@@ -1,0 +1,23 @@
+{
+  "post_num": 2191,
+  "date": "2026-04-22 11:08:01",
+  "content": "用金融从压力位了",
+  "analysis": {
+    "tags": [
+      "sector",
+      "technical"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者指出市场正利用金融板块的力量来冲击或应对技术面上的压力位。",
+    "mentioned_sectors": [
+      "金融"
+    ],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "金融板块被用作冲击关口的主要力量",
+      "市场目前处于关键的压力位阶段"
+    ],
+    "analysis_method": "llm"
+  }
+}

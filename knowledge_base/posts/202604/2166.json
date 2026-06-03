@@ -1,0 +1,21 @@
+{
+  "post_num": 2166,
+  "date": "2026-04-20 11:50:09",
+  "content": "我这像不像德云社![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "用户通过将自己的投资持仓或交易表现比作“德云社”（相声社团）进行自嘲，暗示其投资结果具有戏剧性或令人啼笑皆非，属于股民常见的幽默情绪表达。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "用户利用“德云社”这一梗进行自嘲，表达对个人投资现状的无奈或幽默感",
+      "内容属于纯情绪化表达，不包含具体的市场分析、技术指标或操作建议",
+      "暗示其账户表现可能存在较大的波动或出乎意料的走势"
+    ],
+    "analysis_method": "llm"
+  }
+}

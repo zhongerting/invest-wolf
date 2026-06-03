@@ -1,0 +1,24 @@
+{
+  "post_num": 1102,
+  "date": "2026-03-05 18:04:43",
+  "content": "港股不用讲 这几天兜底资金都在跑 恒科暂时没有低\n等IPO潮快结束了再下去抢定价权",
+  "analysis": {
+    "tags": [
+      "market",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为港股当前缺乏支撑，兜底资金正在撤离，恒生科技指数尚未见底。建议投资者等待IPO潮结束后，再入场寻求定价权。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "港股兜底资金近期出现流出迹象",
+      "恒生科技指数目前尚未触底",
+      "入场时机需等待IPO潮基本结束",
+      "策略上建议等待市场重新定价的机会"
+    ],
+    "analysis_method": "llm"
+  }
+}

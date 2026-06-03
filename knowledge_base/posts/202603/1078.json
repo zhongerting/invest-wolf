@@ -1,0 +1,23 @@
+{
+  "post_num": 1078,
+  "date": "2026-03-04 13:05:59",
+  "content": "缩量4000E破新低了 大把人出不来",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "市场成交量极度萎缩至4000亿并创下新低，反映出流动性枯竭，大量投资者处于深套状态且难以离场，市场情绪极度低迷。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "成交量大幅萎缩（4000亿），显示市场交投极度不活跃",
+      "指数或股价跌破前期低点，呈现空头趋势",
+      "市场流动性不足，投资者套牢严重，存在“多杀多”或流动性陷阱风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

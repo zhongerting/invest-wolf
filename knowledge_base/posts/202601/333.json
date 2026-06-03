@@ -1,0 +1,22 @@
+{
+  "post_num": 333,
+  "date": "2026-01-22 11:20:42",
+  "content": "只是今天?你看昨天的海格分时  今天的信维通信等等 你看你能不能看懂盘口语言吧",
+  "analysis": {
+    "tags": [
+      "stock",
+      "technical"
+    ],
+    "category": "technical_analysis",
+    "summary": "发帖者通过提及海格通信和信维通信的分时走势，强调投资者应具备识别“盘口语言”的能力，暗示这些个股的盘面交易行为存在特定规律或信号。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "提及海格通信（002465）昨天的分时走势具有分析价值",
+      "提及信维通信（300136）今天的盘面表现值得关注",
+      "强调“盘口语言”是理解个股走势的关键技术手段"
+    ],
+    "analysis_method": "llm"
+  }
+}

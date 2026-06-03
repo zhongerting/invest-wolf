@@ -1,0 +1,22 @@
+{
+  "post_num": 74,
+  "date": "2026-01-14 14:16:38",
+  "content": "今天不会再亏了  黄线上穿了",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者观察到技术指标中“黄线上穿”的信号，表达了对当日行情好转、不再亏损的乐观预期。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "观察到“黄线上穿”这一技术分析信号（通常指分时均价线上穿或均线金叉）",
+      "对当日后续走势持乐观态度，认为不会再产生亏损",
+      "展现出交易情绪的回暖"
+    ],
+    "analysis_method": "llm"
+  }
+}

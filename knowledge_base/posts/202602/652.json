@@ -1,0 +1,22 @@
+{
+  "post_num": 652,
+  "date": "2026-02-04 10:44:04",
+  "content": "在不影响今天跑路的情况下是做完了  有点盈利就行  2-3个点我都能接受的。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "用户已完成今日交易操作，核心策略是落袋为安，计划在获得2-3%的微利后及时止盈离场。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "今日交易操作已执行完毕",
+      "投资心态谨慎，追求短期小额获利（2-3%）",
+      "明确表达了及时止盈离场（“跑路”）的意愿"
+    ],
+    "analysis_method": "llm"
+  }
+}

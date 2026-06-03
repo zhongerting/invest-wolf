@@ -1,0 +1,21 @@
+{
+  "post_num": 2074,
+  "date": "2026-04-15 13:12:42",
+  "content": "我就告诉你们 你们看一下现在的量能是什么情况",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "发帖者提醒关注当前的成交量（量能）情况，暗示量能表现对当前市场走势具有重要的指示意义，带有一定的警示或提醒语气。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "强调当前市场的成交量（量能）是判断行情的关键",
+      "暗示量能可能出现了异常变化（如缩量或放量），提醒他人注意风险或转折"
+    ],
+    "analysis_method": "llm"
+  }
+}

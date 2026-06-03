@@ -1,0 +1,22 @@
+{
+  "post_num": 995,
+  "date": "2026-03-02 09:36:07",
+  "content": "记得抄底的要兑现 我举过例子了 趁机在周2前减仓。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者建议此前抄底的投资者在周二前逢高减仓，及时兑现利润，对短期市场走势持谨慎态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "建议抄底获利的投资者及时止盈兑现",
+      "明确提出在下周二之前完成减仓操作",
+      "强调利用当前机会进行仓位调整"
+    ],
+    "analysis_method": "llm"
+  }
+}

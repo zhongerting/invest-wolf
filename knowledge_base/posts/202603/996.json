@@ -1,0 +1,21 @@
+{
+  "post_num": 996,
+  "date": "2026-03-02 10:02:09",
+  "content": "没办法和你们共情![心](https://img4.nga.178.com/ngabbs/post/smile/ac23.png)\n我好爽",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者表达了在市场波动中获得盈利或处于有利地位的愉悦感，并明确表示无法与亏损的投资者产生共情，展现出极度亢奋的个人情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "作者情绪极度正面，暗示其在当前行情中获利",
+      "作者与市场主流（可能处于亏损状态）的情绪产生背离",
+      "内容缺乏具体的市场分析或操作建议，纯属个人情绪宣泄"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 427,
+  "date": "2026-01-27 14:39:17",
+  "content": "下面也有兜底，目前只能看不让涨，但是会不会大跌目前也没迹象。",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为市场下方有支撑，目前处于受压制无法上涨的状态，但同时也未发现大跌的迹象，整体呈现震荡或观望态势。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "下方有支撑（兜底）",
+      "目前上涨受限，处于压制状态",
+      "暂无大跌迹象"
+    ],
+    "analysis_method": "llm"
+  }
+}

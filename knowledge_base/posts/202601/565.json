@@ -1,0 +1,23 @@
+{
+  "post_num": 565,
+  "date": "2026-01-30 11:40:56",
+  "content": "我昨天甚至还去别的帖子发言了，你们懂的 我一般不会随便去的\n上次我记得提醒铜的时候第二天是大跌来着",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者通过提及自己反常的发帖行为，暗示市场或特定板块可能面临回调风险。文中回顾了此前提醒“铜”板块后出现大跌的经历，以此作为当前操作的警示信号。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "作者近期在非惯常区域发帖，暗示有重要信号释放",
+      "以历史经验为依据，指出上次提醒“铜”板块后次日即发生大跌",
+      "暗示当前市场或相关板块存在较大的下行风险，提醒投资者注意"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "post_num": 376,
+  "date": "2026-01-26 11:41:45",
+  "content": "我的已经板了",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "用户反馈其持有的个股已触发涨停（板了），表现出极强的上涨动力和乐观情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "持有的个股已涨停",
+      "投资者情绪积极，处于获利状态"
+    ],
+    "analysis_method": "llm"
+  }
+}

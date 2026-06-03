@@ -1,0 +1,25 @@
+{
+  "post_num": 1689,
+  "date": "2026-04-01 13:30:47",
+  "content": "开始用券商补量了",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sector"
+    ],
+    "category": "trading_signal",
+    "summary": "作者观察到市场正通过拉升券商板块来增加整体成交量，这通常是市场试图激活人气或冲击关键点位的信号。",
+    "mentioned_sectors": [
+      "券商"
+    ],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "券商板块作为工具被用来补充市场成交量",
+      "市场可能面临放量突破的需求",
+      "利用权重板块（券商）带动市场情绪和指数"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 1470,
+  "date": "2026-03-24 11:23:19",
+  "content": "我现在就问你们一句 你们怕不怕下午1点到2点半。。。。。",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对交易日午后（1点至2点半）的市场走势表达了担忧或警示，暗示该时段可能出现跳水或剧烈波动，反映出较强的恐慌情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "关注下午1:00至2:30的特定交易时段",
+      "暗示该时段存在市场下跌风险",
+      "通过反问句式试探或煽动投资者的恐慌心理"
+    ],
+    "analysis_method": "llm"
+  }
+}

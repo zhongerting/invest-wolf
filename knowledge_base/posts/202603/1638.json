@@ -1,0 +1,21 @@
+{
+  "post_num": 1638,
+  "date": "2026-03-31 14:51:44",
+  "content": "还在 他们出个P货这里",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "stock"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为主力资金并未离场，对当前市场存在的“出货”担忧表示强烈否定。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "主力资金依然在场，没有撤退",
+      "否定了当前存在大规模出货行为的观点"
+    ],
+    "analysis_method": "llm"
+  }
+}

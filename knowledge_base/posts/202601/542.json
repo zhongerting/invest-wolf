@@ -1,0 +1,23 @@
+{
+  "post_num": 542,
+  "date": "2026-01-29 23:14:47",
+  "content": "哪天早上你追完晚上期货暴跌你就知道为什么了",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "该贴发出风险警示，告诫投资者不要在早盘盲目追高，并指出夜盘期货波动可能带来的剧烈回撤风险，强调了市场的不确定性。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "警惕早盘追高的交易行为",
+      "期货市场夜盘波动对次日股价具有负面传导风险",
+      "强调投资者应具备风险意识，防止被套"
+    ],
+    "analysis_method": "llm"
+  }
+}

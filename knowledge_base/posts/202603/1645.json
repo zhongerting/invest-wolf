@@ -1,0 +1,22 @@
+{
+  "post_num": 1645,
+  "date": "2026-03-31 15:15:50",
+  "content": "我啥时候长线有储能了？我只有做了T的电池",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sector"
+    ],
+    "category": "trading_signal",
+    "summary": "作者澄清其投资策略，表示并未长线持有储能板块，目前仅持有电池板块，且操作方式为“做T”（波段或日内交易）。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "否认长线持有储能板块",
+      "确认持有电池板块相关标的",
+      "对电池板块采取“做T”的交易策略，而非长线持有"
+    ],
+    "analysis_method": "llm"
+  }
+}

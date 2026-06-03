@@ -1,0 +1,23 @@
+{
+  "post_num": 378,
+  "date": "2026-01-26 12:10:42",
+  "content": "不去 那边资金太杂 没有确定性",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对特定市场或板块持规避态度，认为其资金构成复杂且缺乏确定性，风险收益比不高。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "资金构成杂乱，暗示缺乏主流机构引导或合力",
+      "市场缺乏确定性，难以进行趋势判断",
+      "明确表达不参与（不去）的规避策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

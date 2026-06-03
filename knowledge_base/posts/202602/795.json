@@ -1,0 +1,22 @@
+{
+  "post_num": 795,
+  "date": "2026-02-12 11:17:50",
+  "content": "你们大概率看不过来 理是这么个理 但是你不一定能做到。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖主要探讨投资中的知行合一问题，认为虽然投资逻辑（理）是正确的，但普通投资者在实际操作和执行层面往往难以做到。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "强调投资逻辑与实际执行之间存在巨大鸿沟",
+      "暗示交易纪律和心理素质是投资成功的难点",
+      "对普通投资者的执行力持怀疑或提醒态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

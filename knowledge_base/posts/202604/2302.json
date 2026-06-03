@@ -1,0 +1,24 @@
+{
+  "post_num": 2302,
+  "date": "2026-04-29 10:47:29",
+  "content": "收盘不跳就没事 注意看那些不正宗的被摁的时候他会被连累。",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者建议关注收盘时段的稳定性，并提醒警惕非核心（不正宗）个股走弱对核心标的产生的联动拖累效应。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "收盘阶段若无大幅跳水则短期风险可控",
+      "需警惕非核心或跟风标的被资金抛售（摁）的风险",
+      "防范核心标的受非核心标的走弱的负面联动影响"
+    ],
+    "analysis_method": "llm"
+  }
+}

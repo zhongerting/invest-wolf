@@ -1,0 +1,21 @@
+{
+  "post_num": 72,
+  "date": "2026-01-14 13:46:19",
+  "content": "从跌破4141的那一秒开始算",
+  "analysis": {
+    "tags": [
+      "technical",
+      "market"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者将 4141 点位视为关键的技术分水岭，认为跌破该点位是某个特定趋势或阶段开始的重要信号。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "4141 是关键的技术支撑位或观察点",
+      "跌破该点位被视为趋势转折或新阶段计时的起点"
+    ],
+    "analysis_method": "llm"
+  }
+}

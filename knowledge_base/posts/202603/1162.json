@@ -1,0 +1,22 @@
+{
+  "post_num": 1162,
+  "date": "2026-03-11 10:01:22",
+  "content": "我调仓又不会告诉你们\n我决定了  减少被你们白嫖",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者表达了对信息分享的态度转变，声明未来将不再公开其调仓动态，以防止他人无偿跟随其交易策略（白嫖）。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "明确表示不会公开调仓信息",
+      "主观意愿上决定减少分享交易行为",
+      "对他人无偿获取其投资策略的行为表示反感"
+    ],
+    "analysis_method": "llm"
+  }
+}

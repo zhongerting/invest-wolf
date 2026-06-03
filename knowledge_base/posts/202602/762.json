@@ -1,0 +1,23 @@
+{
+  "post_num": 762,
+  "date": "2026-02-09 22:18:01",
+  "content": "音符那里有个用缠论的还行的 虽然废话很多 我看了两次大概知道是什么水平  名字是  都XX <span class=\"red\">不是引流 只是个人看到</span>\n噢 编辑了",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "发帖者分享并评价了抖音平台上一位使用缠论进行分析的博主“都XX”，认为其技术水平尚可，但存在表达冗长的问题，并强调非引流行为。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "提及抖音（音符）平台一位名为“都XX”的缠论分析者",
+      "评价该博主技术水平还可以，但分析时废话较多",
+      "发帖者通过少量观察（两次）对其水平有了初步定性",
+      "明确声明该分享仅为个人见解，并非引流行为"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 778,
+  "date": "2026-02-12 10:10:29",
+  "content": "一周跌不到1个点  亏在哪？",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对市场指数一周跌幅不足1%但自身账户却出现亏损的现象表示困惑，反映了市场赚钱效应较差或个股表现与指数背离的现状。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "市场指数表现相对平稳，单周跌幅小于1%。",
+      "投资者实际感受与指数走势存在背离，表达了对亏损的质疑。",
+      "暗示市场可能存在“指数没怎么跌，但个股普跌”的结构性行情特征。"
+    ],
+    "analysis_method": "llm"
+  }
+}

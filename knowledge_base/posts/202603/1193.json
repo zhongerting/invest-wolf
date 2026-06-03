@@ -1,0 +1,22 @@
+{
+  "post_num": 1193,
+  "date": "2026-03-12 20:10:32",
+  "content": "这么多年了 你们始终是任何市场都想着买买买  生怕踏空任何一次可能性\n但是  会卖才是入门 你们甚至门都没入。",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "strategy",
+    "summary": "作者批评投资者普遍存在的盲目买入和恐高心理（FOMO），强调掌握卖出时机才是交易入门的关键，指出多数散户缺乏成熟的交易体系和风险意识。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "投资者过度关注买入，存在严重的踏空心理（FOMO）",
+      "强调‘会卖’是区分交易水平高低的核心标准",
+      "批评多数市场参与者尚未掌握基本的交易门槛"
+    ],
+    "analysis_method": "llm"
+  }
+}

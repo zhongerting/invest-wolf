@@ -1,0 +1,25 @@
+{
+  "post_num": 1928,
+  "date": "2026-04-09 12:57:17",
+  "content": "今天白线在上 银保证还在杀 证明这里肯定不可能是反转位 那就仍然按之前的策略做 \n该激进的时候激进 该保守的时候保守",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sector",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者通过观察分时白线走势及金融权重板块（银保证）的持续走弱，判断当前并非市场趋势的反转位，建议维持既定策略，灵活调整仓位节奏。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "分时图白线在上，显示市场结构性特征。",
+      "大金融板块（银行、保险、证券）表现低迷，持续杀跌。",
+      "明确判定当前位置不具备反转条件，趋势尚未扭转。",
+      "操作上主张维持原有策略，强调根据市场环境动态调整激进与保守的程度。"
+    ],
+    "analysis_method": "llm"
+  }
+}

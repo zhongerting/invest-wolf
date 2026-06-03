@@ -1,0 +1,23 @@
+{
+  "post_num": 1210,
+  "date": "2026-03-13 16:50:08",
+  "content": "有个好现象 下午2点后去港股抄底资金蛮多的 这些钱蛮聪明 胜率还可以的",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到港股在下午2点后有明显的抄底资金流入，认为这些“聪明钱”的介入是积极信号，且其历史胜率较高。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "下午2点后港股市场出现明显的抄底资金流入",
+      "作者认为这部分资金属于“聪明钱”，具有较强的市场前瞻性",
+      "基于资金流向和历史胜率，对当前港股走势持乐观态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

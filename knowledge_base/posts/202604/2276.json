@@ -1,0 +1,22 @@
+{
+  "post_num": 2276,
+  "date": "2026-04-28 10:24:30",
+  "content": "设备龙头之一 是真龙头",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对某设备行业的龙头公司表示高度认可，强调其是名副其实的“真龙头”。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "确认某设备公司在行业内的核心领先地位",
+      "表达了对该龙头公司真实竞争力和市场地位的强烈肯定"
+    ],
+    "analysis_method": "llm"
+  }
+}

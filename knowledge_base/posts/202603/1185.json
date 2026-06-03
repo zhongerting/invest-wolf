@@ -1,0 +1,22 @@
+{
+  "post_num": 1185,
+  "date": "2026-03-11 22:15:42",
+  "content": "4E桶",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "帖子提及“4E桶”，该词为市场黑话，通常指代以“三桶油”（中石油、中石化、中海油）为代表的能源（Energy）板块权重股，反映了对高股息、资源类资产的关注。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "指代石油石化等能源类核心资产",
+      "体现了对高股息、低估值板块的配置意向",
+      "暗示市场资金可能在向防御性或资源驱动型板块聚集"
+    ],
+    "analysis_method": "llm"
+  }
+}

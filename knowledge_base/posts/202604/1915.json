@@ -1,0 +1,22 @@
+{
+  "post_num": 1915,
+  "date": "2026-04-09 09:49:09",
+  "content": "只要财报没体现 他每次出研报都要炒一次10E订单",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "帖子质疑某分析师或机构频繁利用“10亿订单”进行研报炒作，但相关业绩在财报中并未得到实际体现，表达了对这种重复炒作行为的怀疑和不满。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "质疑研报中提到的10亿订单真实性或业绩转化能力",
+      "指出公司财报数据与研报宣传内容存在严重脱节",
+      "认为相关研报的发布具有刻意引导市场炒作的嫌疑"
+    ],
+    "analysis_method": "llm"
+  }
+}

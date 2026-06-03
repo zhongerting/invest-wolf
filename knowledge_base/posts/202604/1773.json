@@ -1,0 +1,24 @@
+{
+  "post_num": 1773,
+  "date": "2026-04-02 22:08:34",
+  "content": "明天大概率黄上 问题别高开啊…明天不可能持续放量的…时机不允许",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者预测明日市场大概率上涨，但担忧高开风险，并明确指出当前时机不支持成交量持续放大，对行情的持续性持谨慎乐观态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "预测明天市场大概率向上运行（“黄上”意指向上）",
+      "希望不要高开，暗示高开可能导致走势不稳",
+      "判断成交量无法在明天持续放大",
+      "认为当前时机尚不具备放量大涨的条件"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "post_num": 1179,
+  "date": "2026-03-11 14:13:01",
+  "content": "维稳信号",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖指出市场当前释放出维稳信号，暗示政策面或监管层可能采取措施防止市场大幅波动，维持行情稳定。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "市场释放出明确的维稳信号",
+      "预期后续会有政策或资金面支持以稳定市场情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

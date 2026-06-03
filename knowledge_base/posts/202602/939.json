@@ -1,0 +1,21 @@
+{
+  "post_num": 939,
+  "date": "2026-02-26 16:55:36",
+  "content": "万一我哪天着草的时候记得给我发点路费就行了 留个后手",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者以调侃的方式表达了对投资失败、甚至需要“跑路”的极端担忧，反映出极度悲观或自嘲的心理状态。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "表达了对未来可能面临巨大亏损的恐惧",
+      "以“着草”（跑路）自嘲，暗示目前投资压力极大",
+      "体现了典型的市场恐慌或绝望情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

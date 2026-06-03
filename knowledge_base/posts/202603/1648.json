@@ -1,0 +1,21 @@
+{
+  "post_num": 1648,
+  "date": "2026-03-31 18:49:27",
+  "content": "除非老鼠仓 不然一般这种1%-3%的减持不会传播出去的。犯法的",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者讨论了股东减持信息的传播机制，认为 1%-3% 的小额减持信息通常不会提前泄露，除非涉及违法的“老鼠仓”行为。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "1%-3% 的小额减持信息通常具有保密性，不会轻易外传",
+      "提前泄露减持信息被视为违法违规行为（老鼠仓）"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 864,
+  "date": "2026-02-24 16:37:21",
+  "content": "春节档不搞笑那也太搞笑了",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者通过讽刺的口吻指出春节档电影缺乏喜剧元素，表达了对影视板块内容供给与市场预期不符的担忧。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "春节档电影内容被指缺乏喜剧元素，与传统市场预期不符",
+      "作者对当前影视市场的作品调性持讽刺和负面态度",
+      "暗示对春节档票房表现及相关影视板块个股的担忧"
+    ],
+    "analysis_method": "llm"
+  }
+}

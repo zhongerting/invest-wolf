@@ -1,0 +1,22 @@
+{
+  "post_num": 568,
+  "date": "2026-01-30 12:41:48",
+  "content": "大A就没跟过那边 大A这边是做自主扩产",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为 A 股市场走势具有独立性，不跟随外围市场，核心驱动力在于国内产业的自主扩产。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "A 股走势与外部市场（如美股）脱钩",
+      "市场逻辑侧重于国内自主扩产与内生增长"
+    ],
+    "analysis_method": "llm"
+  }
+}

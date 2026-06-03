@@ -1,0 +1,22 @@
+{
+  "post_num": 220,
+  "date": "2026-01-19 11:20:07",
+  "content": "你是不是自选股置顶了？这种波动都能看出来？",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "stock"
+    ],
+    "category": "other",
+    "summary": "该帖是对他人能察觉到极细微股价波动的调侃或询问，暗示对方对特定个股高度关注，甚至可能将其在自选股中置顶。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "对方对特定个股保持极高频率的盯盘关注",
+      "当前市场或个股的波动幅度非常细微",
+      "侧面反映了投资者对个股走势的敏感度"
+    ],
+    "analysis_method": "llm"
+  }
+}

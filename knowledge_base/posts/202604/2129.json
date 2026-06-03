@@ -1,0 +1,22 @@
+{
+  "post_num": 2129,
+  "date": "2026-04-16 13:53:08",
+  "content": "![img](assets/2129_1f141665.jpg)\n字数补丁 以后不发低位票了",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者表达了对低位股票的负面情绪或投资策略的转变，声明未来将不再发布处于低位运行的个股信息。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "作者明确表示以后不再发布低位票相关内容",
+      "暗示当前市场环境下低位股票的赚钱效应可能不佳",
+      "反映出作者个人交易风格或分享偏好的重大调整"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 2711,
+  "date": "2026-05-21 22:12:24",
+  "content": "我之前的判断应该没什么问题\n今天下午的量化主杀是超预期  但是不代表我的逻辑是错的。我们大A自有一套独立运行体系。。。。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为午后量化资金的大幅杀跌虽超预期，但并未动摇其核心投资逻辑，并强调 A 股市场具有独特的独立运行体系。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "坚持原有的市场判断和逻辑，认为逻辑并未因市场波动而失效",
+      "指出下午量化资金的剧烈杀跌属于超预期的突发因素",
+      "强调 A 股市场存在独立于常规逻辑的运行规律"
+    ],
+    "analysis_method": "llm"
+  }
+}

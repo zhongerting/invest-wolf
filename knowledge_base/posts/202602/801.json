@@ -1,0 +1,23 @@
+{
+  "post_num": 801,
+  "date": "2026-02-12 11:28:27",
+  "content": "不看 有钱去做过年多出来那几天而已  但是主战场还是大A 我觉得没必要去",
+  "analysis": {
+    "tags": [
+      "market",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为投资的主战场应在A股，不建议为了春节期间多出的交易日而参与其他市场，表现出对A股市场的偏好和坚持。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "坚持A股是投资的主战场",
+      "认为没必要为了春节期间的额外交易日去其他市场",
+      "对跨市场交易持否定态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

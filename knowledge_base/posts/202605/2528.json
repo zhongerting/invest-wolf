@@ -1,0 +1,22 @@
+{
+  "post_num": 2528,
+  "date": "2026-05-13 11:19:41",
+  "content": "看到什么叫盘中喊单的能力了么 知道怎么做出收益了么 \n有买有卖才是重点  昨天卖了  今天买回来是不是差价\n懂不懂什么叫操作",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者强调盘中操作和波段交易的重要性，通过展示“昨日卖出、今日买回”的差价操作，标榜其盘中喊单能力和获利逻辑。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "强调盘中实时喊单与执行力的重要性",
+      "核心收益逻辑在于通过高抛低吸赚取波段差价",
+      "认为灵活的买卖操作是实现盈利的关键"
+    ],
+    "analysis_method": "llm"
+  }
+}

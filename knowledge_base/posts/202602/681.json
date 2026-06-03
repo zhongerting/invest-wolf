@@ -1,0 +1,20 @@
+{
+  "post_num": 681,
+  "date": "2026-02-05 08:10:17",
+  "content": "不敢睁开眼  希望是我的幻觉![怕](https://img4.nga.178.com/ngabbs/post/smile/ac26.png)",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "投资者表达了对当前市场行情或账户亏损的极度恐惧和焦虑，表现出不敢直视现实的逃避心理。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "投资者情绪陷入极度恐慌",
+      "对市场走势或个人持仓表现出强烈的心理排斥和否认感"
+    ],
+    "analysis_method": "llm"
+  }
+}

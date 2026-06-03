@@ -1,0 +1,22 @@
+{
+  "post_num": 1369,
+  "date": "2026-03-20 14:41:04",
+  "content": "嗯 机构要靠这种走法出货 出一个月都出不完。",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "technical"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前的市场走势反映了机构正在进行出货操作，且由于出货速度缓慢，预计这种抛压将持续较长时间（一个月以上）。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "机构当前处于出货（派发筹码）阶段",
+      "目前的行情走势导致机构出货效率较低",
+      "预判出货周期将持续较长时间，短期内难以完成"
+    ],
+    "analysis_method": "llm"
+  }
+}

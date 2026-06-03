@@ -1,0 +1,19 @@
+{
+  "post_num": 489,
+  "date": "2026-01-28 14:31:18",
+  "content": "打开你的财经信息看啊",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖子内容极简，仅为提醒他人关注财经新闻或市场动态，未提供具体的投资分析或观点。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "建议关注财经信息"
+    ],
+    "analysis_method": "llm"
+  }
+}

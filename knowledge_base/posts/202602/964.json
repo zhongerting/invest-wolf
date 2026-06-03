@@ -1,0 +1,22 @@
+{
+  "post_num": 964,
+  "date": "2026-02-27 14:57:11",
+  "content": "股票我只做油  期货做金油",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "作者分享了其高度专注的投资策略：股票端仅交易石油板块，期货端则专注于黄金与原油品种，体现了极简且集中的交易风格。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "股票投资范围：仅限于石油相关个股",
+      "期货交易品种：专注于黄金（金）和原油（油）",
+      "交易风格：采取高度聚焦的行业/品种集中化策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

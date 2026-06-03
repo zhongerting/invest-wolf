@@ -1,0 +1,22 @@
+{
+  "post_num": 718,
+  "date": "2026-02-05 14:11:43",
+  "content": "对啊 只要当天收盘没有跌破前一天低点 都是70%仓位 没走弱不用减仓",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者分享了一种基于价格走势的仓位管理策略：只要当日收盘价未跌破前一交易日低点，则维持70%的高仓位，强调在趋势未走弱前不进行减仓操作。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "以当日收盘价是否跌破前一日低点作为核心减仓触发条件",
+      "目前维持70%的高仓位，显示对当前行情持乐观态度",
+      "主张顺势而为，在市场未表现出明确走弱信号前不盲目减仓"
+    ],
+    "analysis_method": "llm"
+  }
+}

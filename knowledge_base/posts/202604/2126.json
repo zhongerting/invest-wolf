@@ -1,0 +1,21 @@
+{
+  "post_num": 2126,
+  "date": "2026-04-16 12:56:22",
+  "content": "全NBA唯一一个围绕队医建队的球队含金量![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖子内容为关于 NBA 球队的体育类讨论，通过调侃“围绕队医建队”来讽刺某支球队频繁的伤病问题，与股票投资市场无关。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "内容涉及 NBA 体育赛事讨论",
+      "核心观点是调侃某球队的伤病史或医疗团队的存在感",
+      "不包含任何金融市场、行业板块或个股的投资分析信息"
+    ],
+    "analysis_method": "llm"
+  }
+}

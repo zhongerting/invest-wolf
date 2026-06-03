@@ -1,0 +1,21 @@
+{
+  "post_num": 2745,
+  "date": "2026-05-25 21:07:17",
+  "content": "行情结束跟上市什么票没关系\n跟还能不能继续放水有关系。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为市场行情的延续与新股发行（股票供给）无关，核心驱动力在于货币政策的流动性支持（放水）是否能够持续。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "行情是否结束取决于流动性（放水）的持续性",
+      "新股上市不是影响行情终结的主要因素"
+    ],
+    "analysis_method": "llm"
+  }
+}

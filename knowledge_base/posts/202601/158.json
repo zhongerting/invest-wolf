@@ -1,0 +1,22 @@
+{
+  "post_num": 158,
+  "date": "2026-01-16 10:42:32",
+  "content": "放屁  至少到ETF 20CM才是高潮 为什么不给涨",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对当前市场走势表示不满，认为行情尚未达到高潮，预判ETF触及20%涨幅（20CM）才是真正的市场高点。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "认为当前行情力度不足，尚未达到情绪高潮",
+      "设定ETF涨幅达到20%（20CM）作为行情阶段性见顶的标志",
+      "对市场目前未能持续上涨的状态持质疑和不满态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

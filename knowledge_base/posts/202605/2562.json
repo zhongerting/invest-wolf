@@ -1,0 +1,23 @@
+{
+  "post_num": 2562,
+  "date": "2026-05-14 11:39:11",
+  "content": "你们老是改我点位做什么",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者对交易点位被频繁改动或调整表示强烈不满，反映了其在技术分析或策略执行过程中遇到的干扰或质疑。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者关注具体的交易点位设定",
+      "表达了对点位变动的负面情绪或抱怨",
+      "暗示其交易策略可能受到外部因素或平台机制的影响"
+    ],
+    "analysis_method": "llm"
+  }
+}

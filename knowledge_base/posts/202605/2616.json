@@ -1,0 +1,21 @@
+{
+  "post_num": 2616,
+  "date": "2026-05-15 11:09:00",
+  "content": "我昨天说的  哪个字不是金色的![计划通](https://img4.nga.178.com/ngabbs/post/smile/ac41.png)",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者在帖子中炫耀其昨日预测的准确性，认为市场走势完全符合预期，表现出极强的自信和邀功情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "作者强调昨日发布的观点极具价值且完全正确",
+      "表达了对当前市场走势尽在掌握的自信（计划通）",
+      "内容属于典型的预测成功后的情绪宣泄，缺乏具体逻辑支撑"
+    ],
+    "analysis_method": "llm"
+  }
+}

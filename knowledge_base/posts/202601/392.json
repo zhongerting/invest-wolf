@@ -1,0 +1,23 @@
+{
+  "post_num": 392,
+  "date": "2026-01-26 14:32:26",
+  "content": "这里什么是亏损最大化，就是早上不断下跌的过程中不断切换股票，吃完这个跌幅割掉后吃那个\n最后把今天的操作空间用完，最后反弹的时候发现弹的不是自己最后切的方向。\n那就死定了\n看我的口型\n<span class=\"red\"><span style=\"font-size:150%;line-height:183%\">死定了</span></span>",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "帖子警示在市场下跌时频繁调仓（割肉后再买入其他下跌股）会导致亏损最大化，并可能因节奏错误而错过随后的反弹，最终陷入绝境。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "频繁调仓是导致亏损最大化的核心原因",
+      "在下跌过程中不断切换股票会导致连续吃掉跌幅",
+      "错误的操作节奏会导致在市场反弹时错失机会",
+      "对盲目割肉换股的行为持极度悲观和警告态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

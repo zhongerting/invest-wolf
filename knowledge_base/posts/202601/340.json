@@ -1,0 +1,23 @@
+{
+  "post_num": 340,
+  "date": "2026-01-22 13:35:36",
+  "content": "上板会有人卖的 这个毕竟真的没有业绩 纯靠吹 一点都比不上航天卫星那几个",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前个股缺乏业绩支撑，纯属概念炒作，预计在涨停板位置会有抛压，且基本面表现远不及航天卫星板块。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "个股缺乏实际业绩支撑，属于纯概念炒作",
+      "预计涨停板（上板）位置将面临较大的抛售压力",
+      "认为该股质地不如航天卫星板块的相关标的"
+    ],
+    "analysis_method": "llm"
+  }
+}

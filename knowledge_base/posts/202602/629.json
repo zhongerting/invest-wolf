@@ -1,0 +1,22 @@
+{
+  "post_num": 629,
+  "date": "2026-02-03 11:20:05",
+  "content": "![img](assets/629_50d59e1a.jpg)\n真的 不开玩笑 真的是涨我的跌你们的![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "stock"
+    ],
+    "category": "other",
+    "summary": "用户发帖调侃市场行情，称自己的持仓在上涨而他人的在下跌，表现出一种炫耀和戏谑的情绪，反映了市场个股表现的剧烈分化。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "作者自述其个人持仓表现优于市场平均水平或他人持仓",
+      "反映出当前市场存在明显的“二八效应”或个股分化行情",
+      "内容属于典型的社交平台情绪化表达，缺乏具体的板块或技术面支撑"
+    ],
+    "analysis_method": "llm"
+  }
+}

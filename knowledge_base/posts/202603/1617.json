@@ -1,0 +1,22 @@
+{
+  "post_num": 1617,
+  "date": "2026-03-31 11:26:56",
+  "content": "这是做日内T的而已啊 也就是要么早上卖了 这里买回 要么这里买了 等下一定要T出去的那种",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "technical"
+    ],
+    "category": "trading_signal",
+    "summary": "该内容描述了日内T+0交易策略，即通过日内的高抛低吸或低吸高抛来赚取波动差价，强调必须在当日完成头寸回补或平仓。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "明确操作性质为日内T+0交易",
+      "操作逻辑包含‘先卖后买’或‘先买后卖’两种方式",
+      "强调交易必须在当日内完成闭环（T出去）"
+    ],
+    "analysis_method": "llm"
+  }
+}

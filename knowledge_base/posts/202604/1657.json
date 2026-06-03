@@ -1,0 +1,24 @@
+{
+  "post_num": 1657,
+  "date": "2026-04-01 09:06:53",
+  "content": "就这个 不用考虑别的 特别是港股券商ETF",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者表达了对港股券商ETF极强的投资偏好，建议投资者无需考虑其他标的，专注该板块。",
+    "mentioned_sectors": [
+      "券商"
+    ],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "强烈推荐港股券商ETF作为首选投资对象",
+      "建议排除其他投资选项，表现出极高的确定性倾向"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "post_num": 637,
+  "date": "2026-02-03 14:04:59",
+  "content": "有没有现在想加仓进去的？大胆说",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "发帖者询问是否有投资者计划在当前时点加仓，旨在探测市场情绪及他人的操作意向。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "询问当前加仓意愿",
+      "探测市场参与者的买入情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

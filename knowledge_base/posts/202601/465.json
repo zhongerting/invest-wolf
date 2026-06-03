@@ -1,0 +1,23 @@
+{
+  "post_num": 465,
+  "date": "2026-01-28 11:33:10",
+  "content": "我前面一个月都没提AI硬 我这几天每天说一次 我就差拿你们仓位操作了吧 \n当然 这是违法的 我不做",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者近期一改此前一个月的沉默，开始密集且强烈地看好AI板块（AI硬件），通过夸张的修辞强调当前是极佳的操作时机，展现出极强的多头情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "作者近期显著提高了对AI板块的关注和推荐频率（每日提及）",
+      "对AI板块（或AI硬件）的走势持极度乐观态度",
+      "通过暗示‘代客操作’来表达对当前行情确定性的高度自信"
+    ],
+    "analysis_method": "llm"
+  }
+}

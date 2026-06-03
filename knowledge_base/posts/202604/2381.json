@@ -1,0 +1,24 @@
+{
+  "post_num": 2381,
+  "date": "2026-04-30 13:43:24",
+  "content": "你看电子化学品 那才像费城半导体的映射![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)",
+  "analysis": {
+    "tags": [
+      "sector",
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "发帖者认为电子化学品板块与费城半导体指数（SOX）存在强烈的映射关系，暗示该板块更能反映国际半导体市场的走势。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "电子化学品板块被视为费城半导体指数在国内市场的直接映射",
+      "发帖者强调了该板块在半导体产业链中的联动价值"
+    ],
+    "analysis_method": "llm"
+  }
+}

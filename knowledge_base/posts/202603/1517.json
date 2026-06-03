@@ -1,0 +1,22 @@
+{
+  "post_num": 1517,
+  "date": "2026-03-26 08:49:16",
+  "content": "![img](assets/1517_ab7e136m.jpg)\n统一一下  以后看这俩 然后不断随交割日切换就行了",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "technical"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者建议简化观察标的，重点关注两个特定合约（通常指股指期货主力与次主力合约），并强调需根据交割日进行动态切换以维持观察的连续性。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "建议统一观察对象，减少干扰，聚焦核心标的",
+      "操作核心在于随交割日进行合约切换（展期/换仓）",
+      "该方法主要用于通过期货市场波动来研判大盘走势"
+    ],
+    "analysis_method": "llm"
+  }
+}

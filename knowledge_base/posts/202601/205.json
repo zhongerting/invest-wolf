@@ -1,0 +1,27 @@
+{
+  "post_num": 205,
+  "date": "2026-01-17 18:52:56",
+  "content": "看情绪方面航天人会不会自救 半导体加速后是不是引来柚子等等 反正无外乎题材和趋势之间的博弈\nAI应用是航天的补涨  这个航天得活AI应用才能不死那么难看",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "帖子探讨了航天、半导体与AI应用板块间的联动逻辑，强调航天板块的情绪修复是AI应用走强的关键，并关注半导体加速后游资的动向，反映了题材与趋势的博弈。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "关注航天板块是否存在情绪自救行为。",
+      "半导体板块加速后可能吸引游资（柚子）进场。",
+      "市场当前处于题材炒作与趋势投资的博弈阶段。",
+      "AI应用被视为航天的补涨板块，其表现依赖于航天板块的稳定性。"
+    ],
+    "analysis_method": "llm"
+  }
+}

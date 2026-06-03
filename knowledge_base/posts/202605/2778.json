@@ -1,0 +1,25 @@
+{
+  "post_num": 2778,
+  "date": "2026-05-27 13:50:03",
+  "content": "跟这个没关系 就是随机拉一个很久没人玩的方向  比如昨天的贵金属。前几天的券商",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场走势并非基于特定利好，而是资金在随机轮动，拉升长期无人关注的冷门板块（如贵金属、券商）进行超跌反弹或补涨。",
+    "mentioned_sectors": [
+      "券商"
+    ],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "市场上涨与特定逻辑或消息面关系不大",
+      "资金倾向于选择长期冷门、参与度低的方向进行随机拉升",
+      "市场呈现明显的板块轮动特征，缺乏持续性主线"
+    ],
+    "analysis_method": "llm"
+  }
+}

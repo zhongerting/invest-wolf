@@ -1,0 +1,21 @@
+{
+  "post_num": 661,
+  "date": "2026-02-04 11:27:30",
+  "content": "不要污蔑机构 最近机构都是净流入",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者为机构投资者辩护，指出近期机构资金呈现净流入状态，反驳市场对机构的负面言论。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "近期机构资金表现为净流入",
+      "反驳对机构投资者的负面评价"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 511,
+  "date": "2026-01-29 11:56:39",
+  "content": "期货铜在做金铜比的补涨",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sector"
+    ],
+    "category": "market_analysis",
+    "summary": "该观点认为期货铜目前正处于补涨阶段，核心逻辑是修复金铜比（Gold-Copper Ratio）。在黄金价格走强的背景下，铜价通过上涨来缩小两者间的比例差距。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "期货铜正在进行补涨行情",
+      "分析逻辑基于金铜比的比例修复",
+      "暗示铜价相对于黄金此前表现偏弱，目前具备上行动力"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "post_num": 1012,
+  "date": "2026-03-02 14:15:06",
+  "content": "资源3 科技5 剩下2做活动\n预期打仗或者黑天鹅就44  然后T了做切换。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sector",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者分享了当前的资产配置方案（资源30%、科技50%、活动资金20%），并针对战争或黑天鹅等突发风险制定了调仓预案，计划届时调整比例并进行板块切换。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "当前仓位比例：资源板块3成，科技板块5成，余下2成作为活动资金。",
+      "风险预案：若发生战争或黑天鹅事件，计划将比例调整为4:4。",
+      "交易策略：计划通过T+0或波段操作（T了）完成板块间的仓位切换。"
+    ],
+    "analysis_method": "llm"
+  }
+}

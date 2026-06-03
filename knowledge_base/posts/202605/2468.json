@@ -1,0 +1,24 @@
+{
+  "post_num": 2468,
+  "date": "2026-05-11 15:25:35",
+  "content": "今天这么大的量能你看不出来吗\n正常放量5000E才涨这么点指数点你有没有觉得不对？\n特别是今天不管是外部环境 还是我们自己公布的数据都很好的情况下",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者指出市场在利好数据及外部环境下，虽有巨量成交但指数涨幅微弱，质疑量价背离现象，对后市表现持谨慎或看空态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "市场成交量显著放大（提及5000亿级别）",
+      "指数涨幅与成交量严重不匹配，存在量价背离迹象",
+      "在外部环境和宏观数据均利好的情况下，指数表现不及预期",
+      "暗示市场可能存在较大的抛压或上涨动能衰竭"
+    ],
+    "analysis_method": "llm"
+  }
+}

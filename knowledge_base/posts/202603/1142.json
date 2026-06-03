@@ -1,0 +1,22 @@
+{
+  "post_num": 1142,
+  "date": "2026-03-07 09:20:13",
+  "content": "这个有道理 连拖都可以是程序解决 也不用人工去帮提热度了。",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "market"
+    ],
+    "category": "other",
+    "summary": "该帖讨论了股市讨论环境中的自动化现象，指出目前可以通过程序化手段（如机器人/托）来提升个股热度，而无需人工干预。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "指出市场热度可以由程序自动生成",
+      "提到‘托’（水军）的行为已实现程序化，降低了人工成本",
+      "反映了对社交媒体或讨论区热度真实性的质疑"
+    ],
+    "analysis_method": "llm"
+  }
+}

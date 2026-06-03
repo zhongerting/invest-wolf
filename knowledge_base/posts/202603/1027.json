@@ -1,0 +1,22 @@
+{
+  "post_num": 1027,
+  "date": "2026-03-02 20:48:36",
+  "content": "天然气大起飞",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出天然气价格或相关板块近期出现大幅上涨行情，表现出强烈的看多情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "天然气价格或板块显著走强",
+      "市场对天然气后续走势持乐观态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

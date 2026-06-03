@@ -1,0 +1,23 @@
+{
+  "post_num": 1660,
+  "date": "2026-04-01 09:13:42",
+  "content": "。。。。他什么时候压通胀了？他目标明确 就是卖油。。。。。。美国死活关他什么事啊。。。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖质疑相关方压制通胀的真实意图，认为其核心目标是利用高油价卖油获利，而非关注美国经济利益，表现出对宏观政策走向的怀疑和悲观情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "质疑相关方（可能指代特定领导人或产油国）压制通胀的动力",
+      "认为核心利益驱动点在于石油销售利润",
+      "暗示地缘政治或个人利益优先于美国经济稳定"
+    ],
+    "analysis_method": "llm"
+  }
+}

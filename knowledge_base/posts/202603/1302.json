@@ -1,0 +1,23 @@
+{
+  "post_num": 1302,
+  "date": "2026-03-18 14:36:10",
+  "content": "我说的是白线。。。明天的白线位置 今天肯定到不了的 \n今天是昨天卖出去的量化今天乖乖买回来 明天才是博弈",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者认为今日市场主要是量化资金的回补行为，价格尚未到达预期的技术位（白线），真正的市场博弈节点在明天。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "今日价格无法触及明天的预设技术位（白线位置）",
+      "今日行情动力主要源于昨日卖出的量化资金进行回补",
+      "预测明天的市场多空博弈将更加激烈"
+    ],
+    "analysis_method": "llm"
+  }
+}

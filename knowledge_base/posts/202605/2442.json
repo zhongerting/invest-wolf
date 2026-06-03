@@ -1,0 +1,23 @@
+{
+  "post_num": 2442,
+  "date": "2026-05-08 13:55:44",
+  "content": "诱多的概率很大  里面的资金在高切低  外面的资金进来追高",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场存在较大的诱多风险，场内资金正进行高位向低位的切换，而场外资金盲目追高，暗示市场可能面临调整。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "市场当前大概率处于诱多阶段",
+      "存量资金正在进行‘高切低’的调仓换股",
+      "增量资金存在盲目追高行为，风险较大"
+    ],
+    "analysis_method": "llm"
+  }
+}

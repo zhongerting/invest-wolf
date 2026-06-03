@@ -1,0 +1,22 @@
+{
+  "post_num": 367,
+  "date": "2026-01-23 15:29:24",
+  "content": "想学习提升的 问得正常的 我有空会分享，但肯定不是盘中\n不想的 乱搞的 我懒得理\n不懂技术的甚至不知道为什么指数到4141就被砸 根本不能理解为什么是这个数字",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者强调技术分析的重要性，指出指数在 4141 点位遭遇明显阻力（被砸），并表示愿意在非交易时段分享技术见解，但对交流对象有一定筛选。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "强调技术分析是理解市场波动（如特定点位受阻）的关键",
+      "指出指数 4141 点是一个重要的技术压力位，曾在此处出现抛压",
+      "作者倾向于在盘后进行深度分享，拒绝无效沟通"
+    ],
+    "analysis_method": "llm"
+  }
+}

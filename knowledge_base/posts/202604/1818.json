@@ -1,0 +1,23 @@
+{
+  "post_num": 1818,
+  "date": "2026-04-03 13:38:38",
+  "content": "我刚减了第一次。。。这个我叫 图图了  他不信我",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment",
+      "technical"
+    ],
+    "category": "trading_signal",
+    "summary": "作者分享了其首次减仓的操作行为，并提到此前根据技术图形（图图）做出的判断未被他人采纳，暗示其对当前走势持谨慎或看空态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "作者已执行首次减仓操作",
+      "提及“图图”（可能指技术图形或特定走势）作为操作依据",
+      "暗示市场走势验证了其此前的负面预期"
+    ],
+    "analysis_method": "llm"
+  }
+}

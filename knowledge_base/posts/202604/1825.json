@@ -1,0 +1,22 @@
+{
+  "post_num": 1825,
+  "date": "2026-04-03 14:07:49",
+  "content": "只能是他们  刚才下午砸盘那波全市场同一个走势。 除了量化卖盘没这种可能",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到下午市场出现同步下跌，认为这种全市场一致的走势是由量化卖盘砸盘所致。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "下午市场出现同步砸盘现象",
+      "全市场走势呈现高度一致性",
+      "作者断定该波动是由量化交易卖盘引发的"
+    ],
+    "analysis_method": "llm"
+  }
+}

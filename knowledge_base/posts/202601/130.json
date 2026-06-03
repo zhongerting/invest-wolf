@@ -1,0 +1,25 @@
+{
+  "post_num": 130,
+  "date": "2026-01-15 15:54:24",
+  "content": "悱恻还蛮强的了 不过他体量小 肯定不是核心\n至于风向标 半导体这边不是这么看的\n我们是按前道后道分的",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出某标的（悱恻）虽强但因体量小非核心，并强调半导体板块的分析逻辑应基于前道与后道产业链划分，而非单一风向标。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "特定标的（悱恻）虽然表现较强，但因体量限制不具备核心地位。",
+      "半导体板块的研判应遵循前道和后道的专业划分逻辑。",
+      "否定了以简单风向标来定义半导体板块走势的看法。"
+    ],
+    "analysis_method": "llm"
+  }
+}

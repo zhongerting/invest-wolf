@@ -1,0 +1,21 @@
+{
+  "post_num": 1542,
+  "date": "2026-03-27 09:47:34",
+  "content": "鼎龙清一大半了  后续就不看他了",
+  "analysis": {
+    "tags": [
+      "stock",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者表示已卖出大部分“鼎龙”（通常指鼎龙股份）的持仓，并明确表示后续将不再关注该股，展现出离场态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "已减持/清仓大半鼎龙股份仓位",
+      "后续不再跟踪该标的"
+    ],
+    "analysis_method": "llm"
+  }
+}

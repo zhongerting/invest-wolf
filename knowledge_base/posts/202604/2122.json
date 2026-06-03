@@ -1,0 +1,22 @@
+{
+  "post_num": 2122,
+  "date": "2026-04-16 11:54:01",
+  "content": "创业板指横了6个多月 他涨13%咋了。。。之前上证突破他可是没突破的。",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical"
+    ],
+    "category": "market_analysis",
+    "summary": "作者关注到创业板指在横盘6个月后近期突然上涨13%，并对比了其与上证指数此前突破时的表现差异，对这一滞后补涨的现象表示关注和疑问。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "创业板指经历了长达6个月的横盘整理期",
+      "近期创业板指录得13%的显著涨幅",
+      "创业板指表现与上证指数存在滞后性，此前上证突破时创业板并未跟随"
+    ],
+    "analysis_method": "llm"
+  }
+}

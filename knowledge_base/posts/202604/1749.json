@@ -1,0 +1,22 @@
+{
+  "post_num": 1749,
+  "date": "2026-04-02 15:52:46",
+  "content": "不确定 所以明天这些钱一定跑路",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者因对市场前景感到不确定，表达了强烈的避险情绪，并计划在明日撤出资金或进行减仓操作。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "市场存在较高的不确定性",
+      "预期资金将在明日流出或撤离",
+      "采取避险策略以应对潜在风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "2026-06-03": [
+    {
+      "stock_code": "515880",
+      "stock_name": "半导体ETF",
+      "operation_type": "买入",
+      "quantity": 1700,
+      "amount": 0,
+      "recorded_at": "2026-06-03 19:06:27"
+    },
+    {
+      "stock_code": "515880",
+      "stock_name": "半导体ETF",
+      "operation_type": "卖出",
+      "quantity": 1600,
+      "amount": 0,
+      "recorded_at": "2026-06-03 19:06:27"
+    },
+    {
+      "stock_code": "515880",
+      "stock_name": "半导体ETF",
+      "operation_type": "卖出",
+      "quantity": 1200,
+      "amount": 0,
+      "recorded_at": "2026-06-03 19:06:27"
+    },
+    {
+      "stock_code": "515880",
+      "stock_name": "半导体ETF",
+      "operation_type": "卖出",
+      "quantity": 1400,
+      "amount": 0,
+      "recorded_at": "2026-06-03 19:06:27"
+    }
+  ]
+}

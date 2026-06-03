@@ -1,0 +1,22 @@
+{
+  "post_num": 1096,
+  "date": "2026-03-05 14:28:24",
+  "content": "沪油没意义的  他和妖股没什么两样",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为沪油（燃料油期货）缺乏投资意义，其波动特征与投机性极强的“妖股”无异，暗示其走势不符合常规逻辑且风险较高。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "沪油被认为缺乏实际的投资或参考价值",
+      "沪油的走势特征被类比为投机性极强的“妖股”",
+      "表达了对沪油市场波动规律不确定性的负面评价"
+    ],
+    "analysis_method": "llm"
+  }
+}

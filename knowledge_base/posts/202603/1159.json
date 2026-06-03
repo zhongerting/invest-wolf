@@ -1,0 +1,23 @@
+{
+  "post_num": 1159,
+  "date": "2026-03-10 21:30:19",
+  "content": "明天第一个就干你",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者表达了强烈的交易意愿，计划在明天开盘时立即针对特定标的进行操作，展现出极高的情绪冲动和激进的交易态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "计划在明天开盘第一时间进行交易操作",
+      "表现出极强的进场意愿和看好情绪",
+      "属于典型的情绪化表态，缺乏具体逻辑支撑"
+    ],
+    "analysis_method": "llm"
+  }
+}

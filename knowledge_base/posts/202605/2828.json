@@ -1,0 +1,20 @@
+{
+  "post_num": 2828,
+  "date": "2026-05-28 14:31:46",
+  "content": "我知道的  哈哈  所以我就说说 我现在不完FPS了",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖子内容主要涉及作者个人的生活爱好变化，提到其不再玩FPS（第一人称射击）类游戏，与股票市场、投资分析或行业趋势无任何关联。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者提到自己不再玩FPS游戏",
+      "内容纯属个人闲聊，不包含任何投资相关信息"
+    ],
+    "analysis_method": "llm"
+  }
+}

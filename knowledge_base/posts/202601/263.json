@@ -1,0 +1,24 @@
+{
+  "post_num": 263,
+  "date": "2026-01-20 11:42:21",
+  "content": "剩15%仓位 平均70%以上涨幅\n没行情我不锁他干什么",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者目前仅剩15%仓位，此前已实现平均70%以上的丰厚涨幅。因判断当前市场缺乏上涨行情，故采取大幅减仓、获利了结的防御性策略。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "仓位管理：目前处于15%的极低仓位状态",
+      "盈利情况：前期持仓表现优异，平均涨幅超过70%",
+      "市场判断：认为当前市场缺乏上涨行情（没行情）",
+      "交易逻辑：在缺乏趋势的情况下选择锁利离场，保护利润"
+    ],
+    "analysis_method": "llm"
+  }
+}

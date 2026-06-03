@@ -1,0 +1,22 @@
+{
+  "post_num": 2233,
+  "date": "2026-04-23 17:57:18",
+  "content": "你知道你为什么拿不住么  因为你不是开板的时候买的 开盘你一旦继续大亏 你就拿不住了",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "该帖分析了投资者无法拿住头寸的心理与技术原因，强调买入时机（如开板时机）对持仓心态的决定性影响，指出开盘即面临大亏是导致心态崩盘的主因。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "买入成本和时机直接影响投资者的持仓信心",
+      "非理想时机（如未在开板时）介入容易导致开盘即面临大幅亏损",
+      "巨大的账面亏损是导致投资者无法坚持既定策略、被迫离场的核心因素"
+    ],
+    "analysis_method": "llm"
+  }
+}

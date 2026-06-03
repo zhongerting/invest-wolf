@@ -1,0 +1,24 @@
+{
+  "post_num": 218,
+  "date": "2026-01-19 09:58:06",
+  "content": "烽火通信按策略 应该止盈了  收获应该是3个点\n然后你们通过这次双跌停策略 自己分析一下为什么买 为什么这里要止盈。",
+  "analysis": {
+    "tags": [
+      "stock",
+      "strategy",
+      "technical"
+    ],
+    "category": "trading_signal",
+    "summary": "作者发出烽火通信的止盈信号，预计获利约3%，并引导投资者结合“双跌停策略”复盘买卖逻辑。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "烽火通信已达到策略止盈标准，建议获利了结",
+      "该笔交易预计收益率为3%",
+      "操作基于特定的“双跌停策略”",
+      "要求投资者通过此案例自我分析买入与止盈的交易逻辑"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 2619,
+  "date": "2026-05-15 11:30:21",
+  "content": "我已经不想重复了 我昨天说的你们如果不看  那到时候被收割就不要叫 也不要问为什么",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者对读者未重视其过往建议表示不满，并发出严厉警告，暗示市场即将出现风险（被收割），提醒投资者注意规避。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "发出强烈的风险预警，暗示市场存在下跌或被套牢的风险",
+      "强调其前期观点的延续性和重要性",
+      "情绪化表达较为明显，缺乏具体的逻辑支撑和技术分析"
+    ],
+    "analysis_method": "llm"
+  }
+}

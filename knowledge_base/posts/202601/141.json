@@ -1,0 +1,23 @@
+{
+  "post_num": 141,
+  "date": "2026-01-16 08:50:25",
+  "content": "两融不仅没缩，还在继续快速增加。外面进场的开始增加了，享受3-3就行了",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出两融余额持续快速增长且场外资金加速进场，显示市场流动性与热度上升，建议投资者维持现有策略享受行情。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "两融余额（融资融券）持续快速增加，杠杆资金活跃度提升。",
+      "场外增量资金进场意愿增强，市场资金面趋于充裕。",
+      "建议保持当前持仓或策略（3-3），积极参与当前行情。"
+    ],
+    "analysis_method": "llm"
+  }
+}

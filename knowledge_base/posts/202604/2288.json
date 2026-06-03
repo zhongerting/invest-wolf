@@ -1,0 +1,23 @@
+{
+  "post_num": 2288,
+  "date": "2026-04-28 11:27:34",
+  "content": "早盘虽然安全 但是没拉红  确实盘面可能开始转弱 \n今天要是收不回5日线  那明天触发双重条件卖盘",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者观察到早盘走势不及预期，盘面出现转弱迹象。重点关注今日能否收复5日均线，若收盘破位，则预判明日将触发卖出信号。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "早盘未能翻红，显示市场动能开始转弱",
+      "将5日均线视为关键的技术支撑/压力位",
+      "设定了明确的止损/卖出触发条件：若今日收盘无法站上5日线，明日将执行卖出"
+    ],
+    "analysis_method": "llm"
+  }
+}

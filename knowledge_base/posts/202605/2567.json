@@ -1,0 +1,22 @@
+{
+  "post_num": 2567,
+  "date": "2026-05-14 13:29:55",
+  "content": "4210附近  白酒起来了  你们自己看吧",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sector",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者指出在 4210 点位附近，白酒板块表现活跃并开始上涨，提醒投资者关注该板块的异动。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "关注 4210 附近的价位表现",
+      "白酒板块出现明显的上涨或反弹迹象"
+    ],
+    "analysis_method": "llm"
+  }
+}

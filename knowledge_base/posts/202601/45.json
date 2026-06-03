@@ -1,0 +1,23 @@
+{
+  "post_num": 45,
+  "date": "2026-01-13 10:49:58",
+  "content": "相比碳酸锂期货这个幅度  锂矿股简直还没涨。真是神奇",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出碳酸锂期货价格大幅上涨，但锂矿板块股票涨幅显著滞后，对这种期现背离的现象感到惊讶，暗示锂矿股存在补涨空间。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "碳酸锂期货价格近期出现大幅上涨",
+      "锂矿板块股票的涨幅远不及期货市场的涨幅",
+      "市场存在期货与股票走势脱节的异常现象"
+    ],
+    "analysis_method": "llm"
+  }
+}

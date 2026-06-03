@@ -1,0 +1,23 @@
+{
+  "post_num": 1700,
+  "date": "2026-04-01 14:43:08",
+  "content": "<span class=\"red\">1、gjd进来，带量突破反转</span>  他们打电话给你了？",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "帖子提及国家队入场并观察到市场带量突破的反转信号，但随后以调侃语气质疑该观点的消息来源。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "提及国家队（gjd）资金入场支撑市场",
+      "指出技术面出现带量突破的反转迹象",
+      "存在对市场反转观点真实性的怀疑或调侃"
+    ],
+    "analysis_method": "llm"
+  }
+}

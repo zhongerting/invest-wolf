@@ -1,0 +1,23 @@
+{
+  "post_num": 2311,
+  "date": "2026-04-29 11:16:34",
+  "content": "我哪里知道 你自己检讨自己。板块都不到10个是绿的",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出当前市场处于普跌状态，全市场仅有不到10个板块上涨，情绪较为负面且带有防御性。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "市场整体表现极差，绝大多数板块处于下跌状态",
+      "上涨板块数量极少（不足10个）",
+      "作者对市场或他人提问表现出明显的负面/抵触情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

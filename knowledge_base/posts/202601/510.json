@@ -1,0 +1,24 @@
+{
+  "post_num": 510,
+  "date": "2026-01-29 10:56:37",
+  "content": "油这块 要么金下去 要么油上去  如果金还在涨 那就看至少金油比回40再说",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者通过金油比逻辑分析原油走势，认为当前比例失衡，需通过金价下跌或油价上涨来修复。若金价维持涨势，则预期油价将上涨以推动金油比回归至40水平。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "金油比存在回归历史均值或特定目标位的需求",
+      "比例修复存在两条路径：金价回调或油价补涨",
+      "设定金油比回归40作为关键观察目标",
+      "若金价持续走强，则看好油价的潜在上涨空间"
+    ],
+    "analysis_method": "llm"
+  }
+}

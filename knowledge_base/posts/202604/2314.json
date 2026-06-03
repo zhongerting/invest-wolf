@@ -1,0 +1,22 @@
+{
+  "post_num": 2314,
+  "date": "2026-04-29 13:43:37",
+  "content": "不会有人这个位置追进去吧？有的话麻烦出这个门左转圆润的弹开",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者强烈警告投资者不要在当前位置盲目追高，认为此时入场风险极高，表达了对追涨行为的极度不认同。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "警告投资者不要在当前价位追涨",
+      "暗示当前位置可能是阶段性高点或存在回调风险",
+      "情绪较为激进，对追高买入持否定态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

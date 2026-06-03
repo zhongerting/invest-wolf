@@ -1,0 +1,23 @@
+{
+  "post_num": 973,
+  "date": "2026-02-28 14:58:54",
+  "content": "一般事件落地的时候就是全体10CM一字，不会有机会的。一旦开了就证明兑现了",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者分析了重大利好事件落地后的市场逻辑：认为真正的利好通常表现为一字涨停，无法买入；而一旦涨停板打开，则意味着利好兑现，存在调整风险。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "重大事件落地时，强势个股往往直接以10%一字涨停开盘，普通投资者难以介入。",
+      "一字涨停板如果打开，通常被视为利好出尽、资金开始获利了结的信号。",
+      "强调了市场对“利好兑现”的预期管理，警惕开板后的风险。"
+    ],
+    "analysis_method": "llm"
+  }
+}

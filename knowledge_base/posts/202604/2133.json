@@ -1,0 +1,23 @@
+{
+  "post_num": 2133,
+  "date": "2026-04-16 17:18:56",
+  "content": "这次哪怕做也不做指南针啊",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "发帖者表达了在当前交易机会中，坚决不考虑操作“指南针（300803）”这只股票的意愿，展现出对该标的的排斥情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "明确表示即使参与市场交易，也会排除“指南针”这一标的",
+      "对“指南针”个股持负面或回避态度",
+      "暗示该股票可能不符合其目前的选股逻辑或存在风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "post_num": 1796,
+  "date": "2026-04-03 10:31:51",
+  "content": "他老板强 自己维护",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该观点认为相关标的的实际控制人或主力资金实力强劲，且正在对股价进行主动维护或护盘。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "主力资金或大股东实力雄厚",
+      "存在明显的护盘或市值管理行为"
+    ],
+    "analysis_method": "llm"
+  }
+}

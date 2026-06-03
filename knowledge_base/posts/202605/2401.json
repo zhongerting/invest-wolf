@@ -1,0 +1,24 @@
+{
+  "post_num": 2401,
+  "date": "2026-05-06 17:06:02",
+  "content": "算是AI应用的补涨吧  没什么别的逻辑  反正也相对底部建仓位置",
+  "analysis": {
+    "tags": [
+      "sector",
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前AI应用板块的上涨属于补涨性质，且股价处于相对底部区域，适合进行建仓布局。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "行情定性为AI应用板块的补涨，缺乏其他深层驱动逻辑。",
+      "股价处于相对底部的建仓位置，具有一定的安全边际。",
+      "观点倾向于在低位布局等待轮动。"
+    ],
+    "analysis_method": "llm"
+  }
+}

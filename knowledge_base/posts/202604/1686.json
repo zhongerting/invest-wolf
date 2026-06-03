@@ -1,0 +1,23 @@
+{
+  "post_num": 1686,
+  "date": "2026-04-01 12:47:49",
+  "content": "反正我今天不买  我今天减完就看 有什么明天再说\n不过我觉得今天倒是没有大跌的可能性 最多有点回撤",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment",
+      "market"
+    ],
+    "category": "trading_signal",
+    "summary": "作者今日完成减仓并选择持币观望，认为市场短期虽有回撤压力但无大跌风险，计划明日再行决策。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "今日采取减仓策略，明确表示不再买入",
+      "对今日市场走势持谨慎态度，认为存在回撤可能",
+      "判断今日不会出现大跌，操作上以观望为主"
+    ],
+    "analysis_method": "llm"
+  }
+}

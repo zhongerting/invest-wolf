@@ -1,0 +1,23 @@
+{
+  "post_num": 1413,
+  "date": "2026-03-23 10:25:45",
+  "content": "长线仓位补了一次稀土  减了一次摩托",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者披露了其长线仓位的调仓动作：增持了稀土板块，并相应减持了摩托车板块。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "针对长线仓位进行结构性调整",
+      "补仓稀土板块，显示对该板块长线看好",
+      "减仓摩托车板块，可能出于获利了结或避险需求"
+    ],
+    "analysis_method": "llm"
+  }
+}

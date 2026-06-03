@@ -1,0 +1,20 @@
+{
+  "post_num": 2698,
+  "date": "2026-05-21 17:36:59",
+  "content": "没有这个可能",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "内容仅包含一句否定性表述，缺乏具体的投资标的、市场逻辑或上下文语境。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者对某一隐含的观点或可能性持绝对否定态度",
+      "由于缺乏上下文，无法判断其针对的具体市场行为或个股"
+    ],
+    "analysis_method": "llm"
+  }
+}

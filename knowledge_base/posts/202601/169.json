@@ -1,0 +1,23 @@
+{
+  "post_num": 169,
+  "date": "2026-01-16 13:28:03",
+  "content": "不懂技术的是不是完全看不懂  能看懂的才能互相沟通  就和那些学霸解微积分觉得很爽一样   我也完全不能理解",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者感叹技术分析具有极高的专业门槛，将其比作解微积分，认为懂与不懂的人之间存在严重的沟通隔阂，并表达了自己对技术分析的困惑。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "技术分析被认为具有较高的学习和理解门槛。",
+      "作者将掌握技术分析比喻为学霸解微积分，暗示其专业性与复杂性。",
+      "指出懂技术与不懂技术的人群之间难以进行有效沟通。",
+      "作者表达了对技术分析理论的完全不理解。"
+    ],
+    "analysis_method": "llm"
+  }
+}

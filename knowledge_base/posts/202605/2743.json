@@ -1,0 +1,24 @@
+{
+  "post_num": 2743,
+  "date": "2026-05-25 19:41:22",
+  "content": "不够时间  明天来了外资就懂了 反正没满仓 但是也没空仓  而且他上去一定会带我的光上去 我没什么所谓。",
+  "analysis": {
+    "tags": [
+      "market",
+      "strategy",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前时间不足，期待明日外资流入带来的行情变化。目前维持部分仓位，并看好大盘上涨对“光”（疑似光伏）板块的带动作用，心态较为平稳。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "期待明日外资（北向资金）流入对市场的正面引导",
+      "仓位管理上采取非满仓、非空仓的折中策略",
+      "认为市场整体上行会带动光伏等相关板块同步上涨"
+    ],
+    "analysis_method": "llm"
+  }
+}

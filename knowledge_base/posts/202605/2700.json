@@ -1,0 +1,23 @@
+{
+  "post_num": 2700,
+  "date": "2026-05-21 17:50:09",
+  "content": "错了  光今天本来就是要跌 而且先跌了 \n后续跳水的时候跟着跳了而已。",
+  "analysis": {
+    "tags": [
+      "stock",
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为特定标的（疑似光伏板块或个股）今日走势本身就偏弱，在大盘跳水前已先行下跌，后续的剧烈波动仅是顺势跟随。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "标的在市场整体跳水前已表现出独立下跌趋势",
+      "认为下跌是其自身运行逻辑的结果，而非单纯受大盘拖累",
+      "后续的跳水被视为对市场情绪的被动跟随"
+    ],
+    "analysis_method": "llm"
+  }
+}

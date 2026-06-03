@@ -1,0 +1,21 @@
+{
+  "post_num": 2095,
+  "date": "2026-04-15 17:21:29",
+  "content": "还在算点数   今天尾盘的拉升让我能大概算出来",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者通过观察今日市场尾盘的拉升走势，尝试对市场后续的点数位进行测算和预判。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "关注到今日市场尾盘存在拉升行为",
+      "作者试图通过盘面信号计算具体的市场点数目标"
+    ],
+    "analysis_method": "llm"
+  }
+}

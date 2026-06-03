@@ -1,0 +1,26 @@
+{
+  "post_num": 2147,
+  "date": "2026-04-17 15:13:23",
+  "content": "药买ETF  还能T+0  如果个股有鬼故事直接跑了就行   大A的医药个股鬼故事太多了 跑还出不去",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者建议通过医药ETF而非个股进行投资，认为A股医药个股频繁出现突发利空（鬼故事）且易面临流动性风险，ETF交易更灵活且能有效规避个股风险。",
+    "mentioned_sectors": [
+      "医药"
+    ],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "建议配置医药ETF以替代个股投资",
+      "规避医药个股频繁出现的突发性利空（鬼故事）",
+      "担忧个股出事时流动性枯竭导致无法及时止损",
+      "强调ETF具备更好的交易灵活性和风险分散作用"
+    ],
+    "analysis_method": "llm"
+  }
+}

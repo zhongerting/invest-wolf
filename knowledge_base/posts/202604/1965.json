@@ -1,0 +1,22 @@
+{
+  "post_num": 1965,
+  "date": "2026-04-10 14:14:33",
+  "content": "你们真是小看我了 这点程度不值得吹嘘\n之前我甚至可以虚空画第二天的线。",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者自诩拥有极强的技术预测能力，声称能精准预判次日走势（虚空画线），表现出极度的自信和对当前成绩的淡然。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "作者强调其具备预判次日K线走势的技术实力",
+      "言论表现出极强的个人自信和情绪化特征",
+      "内容缺乏具体逻辑支撑，属于主观经验或战绩的吹嘘"
+    ],
+    "analysis_method": "llm"
+  }
+}

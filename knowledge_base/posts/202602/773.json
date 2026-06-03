@@ -1,0 +1,22 @@
+{
+  "post_num": 773,
+  "date": "2026-02-11 13:50:10",
+  "content": "不拿了  昨天换了石油",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sector"
+    ],
+    "category": "trading_signal",
+    "summary": "用户表示已卖出原有持仓，并于昨日完成调仓，转而买入石油板块。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "卖出并放弃原有持仓",
+      "昨日已执行调仓操作",
+      "资金流向石油板块，表达了对该板块的看好"
+    ],
+    "analysis_method": "llm"
+  }
+}

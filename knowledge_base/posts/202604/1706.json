@@ -1,0 +1,23 @@
+{
+  "post_num": 1706,
+  "date": "2026-04-01 15:06:15",
+  "content": "你们买啥都行。我做的是期货![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png) 随便一层仓位上个12倍杠杆  1个点的波动就够了\n而且这是稳稳的1个点![计划通](https://img4.nga.178.com/ngabbs/post/smile/ac41.png)",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "用户分享其期货交易策略，主张利用10%的仓位配合12倍杠杆，通过捕捉1%的微小波动来实现盈利，并对该收益的确定性表达了极强信心。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "交易工具为期货，区别于普通股票买卖",
+      "采用高杠杆（12倍）与轻仓位（10%）相结合的资金管理模式",
+      "盈利核心在于捕捉极小的市场波动（1%）",
+      "交易情绪乐观，认为1%的波动收益具有极高的稳健性"
+    ],
+    "analysis_method": "llm"
+  }
+}

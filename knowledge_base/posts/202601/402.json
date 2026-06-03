@@ -1,0 +1,23 @@
+{
+  "post_num": 402,
+  "date": "2026-01-27 10:23:50",
+  "content": "只能说这里有抄底的性价比 AI硬这块 ，至少不能这里割肉",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者认为当前市场位置具备抄底性价比，特别看好AI硬件板块，并明确建议投资者不应在当前价位止损割肉。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "当前点位具有抄底的性价比",
+      "看好AI硬件（AI硬）板块的表现",
+      "建议在当前位置持仓，不宜进行割肉操作"
+    ],
+    "analysis_method": "llm"
+  }
+}

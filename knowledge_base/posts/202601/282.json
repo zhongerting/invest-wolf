@@ -1,0 +1,22 @@
+{
+  "post_num": 282,
+  "date": "2026-01-21 09:44:47",
+  "content": "今天CPU最强 应该是最近吹的CPU也缺货那个。",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "今日CPU板块表现最为强劲，市场分析认为其上涨动力主要源于近期关于CPU供应短缺的传闻或预期。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "CPU板块是当日市场表现最强的热点",
+      "板块上涨逻辑指向近期市场流传的CPU缺货消息"
+    ],
+    "analysis_method": "llm"
+  }
+}

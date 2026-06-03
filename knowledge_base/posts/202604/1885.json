@@ -1,0 +1,22 @@
+{
+  "post_num": 1885,
+  "date": "2026-04-08 13:37:47",
+  "content": "散户就是想卖  你信不信 他也不是卖 他是10块卖  10块5买回来  11块卖  11块5又买回来\n你不信你问多两个人",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖描述并讽刺了散户投资者常见的“追涨杀跌”行为，即在卖出后又以更高价格买回，反映了散户在交易心理和策略执行上的不成熟。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "散户投资者存在频繁调仓且“低卖高买”的非理性行为",
+      "揭示了散户在上涨行情中容易因心态不稳而踏空并被迫追高",
+      "强调了散户缺乏持股定力和科学的交易逻辑"
+    ],
+    "analysis_method": "llm"
+  }
+}

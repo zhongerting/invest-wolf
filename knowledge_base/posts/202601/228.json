@@ -1,0 +1,27 @@
+{
+  "post_num": 228,
+  "date": "2026-01-19 14:07:26",
+  "content": "明知道大手控温 还想反抗，跟看西游记一样。\n我今天除了加一点金融  其他都是网格和发呆",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场受到大资金（大手）的强力调控，散户难以逆势而为。其操作策略较为保守，仅小幅加仓金融板块，其余则通过网格交易或观望（发呆）来应对。",
+    "mentioned_sectors": [
+      "金融"
+    ],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "市场存在明显的护盘或控盘迹象（大手控温）",
+      "认为在当前调控环境下，散户的抵抗作用有限",
+      "今日操作仅限于小幅增持金融板块",
+      "主要交易策略为网格交易，并保持观望态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "post_num": 2850,
+  "date": "2026-05-29 14:56:57",
+  "content": "你看 又冲动用事",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "该帖内容简短，主要对投资者的冲动交易行为进行了批评，强调了在投资过程中情绪控制和交易纪律的重要性。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "指出交易者存在冲动交易的问题",
+      "暗示投资者缺乏冷静和预设的交易策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

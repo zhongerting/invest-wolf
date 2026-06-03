@@ -1,0 +1,23 @@
+{
+  "post_num": 299,
+  "date": "2026-01-21 13:30:09",
+  "content": "大家都懂了 GJD不是为了让场子炸了 只是敲打比较跳的而已 和有真实业绩的没什么关系",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为“国家队”近期的干预行为并非为了打压市场整体，而是针对过度投机的个股进行警示，强调有真实业绩支撑的股票不受影响，市场逻辑转向基本面。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "国家队（GJD）的意图是抑制市场过度投机，而非破坏市场上涨趋势",
+      "干预措施主要针对涨幅过大、缺乏基本面支撑的投机标的",
+      "具有真实业绩支撑的个股不受此次“敲打”影响，投资价值依然存在"
+    ],
+    "analysis_method": "llm"
+  }
+}

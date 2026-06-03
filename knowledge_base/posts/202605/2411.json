@@ -1,0 +1,22 @@
+{
+  "post_num": 2411,
+  "date": "2026-05-07 13:47:43",
+  "content": "没事 等我说跑再跑就行 现在人均股神的时候",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者认为当前市场处于全民狂热阶段（人均股神），建议投资者暂不撤退，等待其明确的离场信号。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "观察到市场情绪极度亢奋，出现“人均股神”的过热迹象",
+      "建议追随者目前继续持有，不要盲目离场",
+      "承诺后续会提供明确的卖出/逃顶信号"
+    ],
+    "analysis_method": "llm"
+  }
+}

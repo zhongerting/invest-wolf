@@ -1,0 +1,23 @@
+{
+  "post_num": 1665,
+  "date": "2026-04-01 09:45:42",
+  "content": "DML这个跳水。。。。啧啧  肯定有人打板进去的  有谁？",
+  "analysis": {
+    "tags": [
+      "stock",
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "帖子关注个股DML的剧烈波动，指出其在涨停价附近出现“跳水”走势，并对追高（打板）买入被套的投资者表达了关注或嘲讽。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "个股DML股价出现大幅跳水",
+      "存在投资者在涨停价（打板）位置买入被套的情况",
+      "反映了市场短线追高的风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

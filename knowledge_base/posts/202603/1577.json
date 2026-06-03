@@ -1,0 +1,22 @@
+{
+  "post_num": 1577,
+  "date": "2026-03-30 10:38:17",
+  "content": "快进来 进来咱就是对手盘了",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "帖子通过“对手盘”这一交易术语，表达了作者与潜在入场者相反的交易立场，带有调侃和博弈色彩，反映了典型的零和博弈心理。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "提及“对手盘”概念，暗示作者与新入场者的交易方向相反",
+      "体现了市场参与者之间的对立情绪和博弈心理",
+      "内容属于纯情绪化表达，缺乏具体的技术或基本面支撑"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 1847,
+  "date": "2026-04-07 13:34:38",
+  "content": "你没发现今天没有统一卖盘了么",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到市场今日缺乏统一的抛售力量，暗示卖盘压力已显著减轻，市场可能进入企稳或情绪修复阶段。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "市场抛压减弱，不再呈现统一的卖出行为",
+      "暗示恐慌性杀跌或一致性看空预期有所松动",
+      "市场情绪可能正处于由弱转稳的拐点"
+    ],
+    "analysis_method": "llm"
+  }
+}

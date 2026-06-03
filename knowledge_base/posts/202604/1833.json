@@ -1,0 +1,21 @@
+{
+  "post_num": 1833,
+  "date": "2026-04-03 14:47:07",
+  "content": "过两天我要去找太公拜拜  也去庙里给大家拜拜 希望祖先保佑4月能好过一点。",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者计划通过祭拜祈福的方式寻求心理慰藉，希望 4 月份行情能有所好转，反映出当前市场环境压力较大，投资者情绪较为焦虑。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "投资者通过寻求精神寄托来应对市场波动带来的压力",
+      "侧面暗示近期市场行情艰难，投资者普遍体感不佳",
+      "对 4 月份的市场表现持有转好的期盼"
+    ],
+    "analysis_method": "llm"
+  }
+}

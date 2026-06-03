@@ -1,0 +1,24 @@
+{
+  "post_num": 676,
+  "date": "2026-02-04 14:51:07",
+  "content": "昨天我没钱 不然我应该买的中漫  尾盘洲际虽然开板  但是快收盘了我就没搞 所以今天买的出不去了",
+  "analysis": {
+    "tags": [
+      "stock",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者回顾了近期的操作失误：因资金不足错过中漫，因犹豫错过洲际尾盘机会，导致目前持仓被套或面临流动性问题，表现出较强的负面情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "因资金受限未能按计划买入中漫",
+      "洲际尾盘开板时因临近收盘未进行操作",
+      "当前面临今日买入品种无法卖出的被动局面",
+      "反映出交易节奏错位及对当前持仓的焦虑"
+    ],
+    "analysis_method": "llm"
+  }
+}

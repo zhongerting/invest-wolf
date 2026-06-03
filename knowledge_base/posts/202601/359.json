@@ -1,0 +1,23 @@
+{
+  "post_num": 359,
+  "date": "2026-01-23 09:08:23",
+  "content": "继大盘17连阳后，A50可能出九阴真经。。。。\nGJD真会玩",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者观察到大盘17连阳后的走势，预判A50指数可能出现连续阴线调整（九阴真经），并对国家队（GJD）的控盘手段表示感叹。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "大盘近期经历了极罕见的17连阳强势行情。",
+      "预判A50指数可能进入回调周期，出现所谓的“九阴真经”（连续阴线）走势。",
+      "暗示市场波动受国家队（GJD）资金意志的影响较大。"
+    ],
+    "analysis_method": "llm"
+  }
+}

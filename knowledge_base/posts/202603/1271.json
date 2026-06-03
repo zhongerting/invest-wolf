@@ -1,0 +1,22 @@
+{
+  "post_num": 1271,
+  "date": "2026-03-17 14:14:55",
+  "content": "我不跑 只是影响我抄底节奏",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者表达了坚定的持仓态度，并计划继续抄底，认为目前的市场波动仅影响了其买入的节奏，而非改变其看好市场的基本观点。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "明确表示不会卖出离场（不跑）",
+      "具有明确的抄底意愿",
+      "认为当前市场走势干扰了原有的建仓或加仓节奏"
+    ],
+    "analysis_method": "llm"
+  }
+}

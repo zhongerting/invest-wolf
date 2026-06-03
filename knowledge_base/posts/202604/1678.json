@@ -1,0 +1,23 @@
+{
+  "post_num": 1678,
+  "date": "2026-04-01 11:08:47",
+  "content": "光伏那边看起来是超跌反弹的减仓位 属于趁行情好的时候自救的那种",
+  "analysis": {
+    "tags": [
+      "sector",
+      "technical",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者认为光伏板块目前的上涨仅属于超跌反弹，是借市场行情好转时的自救行为，建议投资者逢高减仓。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "光伏板块当前走势被定性为超跌反弹而非趋势反转",
+      "上涨动力主要源于市场整体走强背景下的被动修复（自救）",
+      "操作上建议利用反弹机会进行减仓"
+    ],
+    "analysis_method": "llm"
+  }
+}

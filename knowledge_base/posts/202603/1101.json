@@ -1,0 +1,22 @@
+{
+  "post_num": 1101,
+  "date": "2026-03-05 15:36:30",
+  "content": "只有炸了美国和以色列的船才会上新闻。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖表达了对当前地缘政治局势及媒体报道偏好的讽刺，暗示只有涉及美以两国的重大海上冲突才会获得主流媒体关注，反映出对地缘风险不确定性的关注。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "地缘政治冲突对航运安全的潜在威胁",
+      "对媒体报道选择性的质疑",
+      "暗示市场可能低估了非美以相关地区的地缘风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 1921,
+  "date": "2026-04-09 10:52:07",
+  "content": "ETF持仓  个股方面我主要做材料",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sector",
+      "stock"
+    ],
+    "category": "market_analysis",
+    "summary": "作者披露了其投资组合构成，主要持有ETF，并在个股投资方面聚焦于材料板块。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "持有ETF仓位作为配置",
+      "个股投资侧重于材料行业"
+    ],
+    "analysis_method": "llm"
+  }
+}

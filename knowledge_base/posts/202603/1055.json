@@ -1,0 +1,21 @@
+{
+  "post_num": 1055,
+  "date": "2026-03-03 14:40:16",
+  "content": "我反正只对我自己负责，我觉得有机会我就做",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者表达了独立的交易心态，强调个人对投资决策负责，并表示在感知到机会时会果断行动，体现了主观能动性。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "强调个人投资决策的独立性与责任感",
+      "表达了机会导向的交易态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

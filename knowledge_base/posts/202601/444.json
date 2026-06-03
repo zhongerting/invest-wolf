@@ -1,0 +1,22 @@
+{
+  "post_num": 444,
+  "date": "2026-01-28 09:50:19",
+  "content": "你们现在学会怎么上仓位了吗？不是想买就买的 买了要能挣钱才行",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "帖子强调了科学管理仓位的重要性，提醒投资者不应盲目冲动买入，而应建立在能确保盈利的逻辑基础上进行交易。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "强调仓位管理是投资中的核心环节",
+      "反对随意的冲动型买入行为",
+      "主张交易应以盈利结果为导向，而非单纯的买入动作"
+    ],
+    "analysis_method": "llm"
+  }
+}

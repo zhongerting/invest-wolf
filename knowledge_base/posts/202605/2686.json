@@ -1,0 +1,24 @@
+{
+  "post_num": 2686,
+  "date": "2026-05-21 13:47:32",
+  "content": "无所谓了 我吃了机器人第一波双头 资金选到但是我没有 我就不考虑他了",
+  "analysis": {
+    "tags": [
+      "sector",
+      "technical",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者指出机器人板块第一波行情出现双头走势，尽管市场资金流入，但因错过入场时机，决定放弃参与该板块后续行情。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "机器人板块第一波行情呈现“双头”技术形态，暗示短期见顶风险",
+      "市场资金选择了该板块，但作者并未及时跟进持仓",
+      "作者表达了放弃该板块后续交易机会的策略意向"
+    ],
+    "analysis_method": "llm"
+  }
+}

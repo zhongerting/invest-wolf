@@ -1,0 +1,26 @@
+{
+  "post_num": 2679,
+  "date": "2026-05-21 11:10:57",
+  "content": "截至目前大概420E挂今天半导体方向的高点。",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "半导体板块今日在日内高点附近成交额约420亿，暗示大量资金在高位成交，可能形成短期套牢盘或面临较强抛压。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "半导体板块今日高位成交量巨大，约420亿元资金在最高点附近成交",
+      "大量资金“挂”在高点，意味着该位置存在显著的阻力位",
+      "暗示市场短期情绪过热后可能面临回调或震荡消化压力"
+    ],
+    "analysis_method": "llm"
+  }
+}

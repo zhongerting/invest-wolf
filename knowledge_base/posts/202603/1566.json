@@ -1,0 +1,25 @@
+{
+  "post_num": 1566,
+  "date": "2026-03-27 17:30:18",
+  "content": "反正下周半导体材料带ETF上去你不要认错追高就行",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者预测下周半导体材料板块将带动相关 ETF 上涨，并提醒投资者届时不要盲目追高。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "预测下周半导体材料板块将呈上涨趋势",
+      "预计板块走强将带动相关 ETF 价格上升",
+      "警示投资者在价格上涨后不要进行追高操作"
+    ],
+    "analysis_method": "llm"
+  }
+}

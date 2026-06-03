@@ -1,0 +1,22 @@
+{
+  "post_num": 1318,
+  "date": "2026-03-19 11:26:30",
+  "content": "黄线在下 我不主动的 我今天只是调仓而已。",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者通过观察分时图黄线在下的技术形态，判断当前市场赚钱效应较弱或小盘股走势低迷，因此采取保守策略，不主动进攻，仅进行存量仓位的调整。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "技术面观察：分时图黄线在下，暗示市场分化或中小盘股表现弱于大盘",
+      "操作策略：态度审慎，不主动开仓或加仓",
+      "交易行为：当日仅执行了调仓操作，而非方向性大变动"
+    ],
+    "analysis_method": "llm"
+  }
+}

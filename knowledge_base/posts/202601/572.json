@@ -1,0 +1,21 @@
+{
+  "post_num": 572,
+  "date": "2026-01-30 13:25:47",
+  "content": "嗯  我说的是安全仓位外的，防一手，",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "该帖讨论了仓位管理策略，建议对超出安全仓位的部分采取防范措施，体现了谨慎的风险控制意识。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "针对安全仓位之外的资金建议保持警惕",
+      "强调“防一手”，即采取防御性措施以应对潜在风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

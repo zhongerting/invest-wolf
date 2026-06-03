@@ -1,0 +1,23 @@
+{
+  "post_num": 2277,
+  "date": "2026-04-28 10:27:08",
+  "content": "铜箔和长川 我的策略是  每天把当天的盈利拿出去 只保持当时的底仓金额",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者分享了针对铜箔板块和长川科技的交易策略：每日提取当日盈利，仅保留初始底仓金额，通过动态止盈的方式锁定利润并控制风险。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "操作对象为铜箔板块相关标的及长川科技",
+      "核心策略是每日将盈利部分变现，实现落袋为安",
+      "维持固定的底仓规模，不随盈利增加而加仓"
+    ],
+    "analysis_method": "llm"
+  }
+}

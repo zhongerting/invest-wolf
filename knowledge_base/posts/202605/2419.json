@@ -1,0 +1,26 @@
+{
+  "post_num": 2419,
+  "date": "2026-05-07 14:40:04",
+  "content": "大清早你看那个复牌的券商直接跳水  然后大盘缩量  10分钟之内你就可以判断今天不可能破新高了",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者通过观察复牌券商股跳水及大盘成交量萎缩，判断市场动能不足，预判当日大盘无法突破新高。",
+    "mentioned_sectors": [
+      "券商"
+    ],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "复牌券商股开盘跳水对市场情绪造成负面冲击",
+      "大盘成交量萎缩，显示上涨动能匮乏",
+      "通过开盘10分钟的表现预判全天无法突破新高"
+    ],
+    "analysis_method": "llm"
+  }
+}

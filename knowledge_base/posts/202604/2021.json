@@ -1,0 +1,21 @@
+{
+  "post_num": 2021,
+  "date": "2026-04-14 13:12:56",
+  "content": "![img](assets/2021_2e84c96i.jpg)\n早上在那叫叫叫叫",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖子内容极简，主要表达了作者对早盘期间市场中嘈杂声音或他人情绪化表现的观察与不满，缺乏具体的市场分析或个股信息。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "观察到早盘期间市场参与者情绪波动较大或言论嘈杂",
+      "作者对当前市场中的“叫嚣”行为持观望或讽刺态度",
+      "内容缺乏实质性的投资建议或技术分析"
+    ],
+    "analysis_method": "llm"
+  }
+}

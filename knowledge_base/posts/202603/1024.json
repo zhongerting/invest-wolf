@@ -1,0 +1,20 @@
+{
+  "post_num": 1024,
+  "date": "2026-03-02 15:04:57",
+  "content": "那我不知道 我对化工类知道的很少\n我上学时候学化学只会配平化合价和等价交换",
+  "analysis": {
+    "tags": [
+      "sector"
+    ],
+    "category": "other",
+    "summary": "作者明确表示对化工板块缺乏专业了解，仅具备基础化学常识，无法提供相关投资分析。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者自述对化工行业了解极少",
+      "作者缺乏化工板块的专业分析能力"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 1602,
+  "date": "2026-03-31 10:22:25",
+  "content": "放心 就卡这里 总有人忍不住这个位置追进去的 \n看量能就懂了  分时微微转放量了",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者认为当前股价处于关键阻力位或震荡区间，并观察到分时图出现放量迹象，暗示有散户在此时点盲目追高，表达了对当前追涨行为的警示。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "股价目前处于特定位置（卡点），存在震荡或阻力",
+      "分时走势显示成交量有放大迹象",
+      "作者认为当前放量是由于投资者忍不住追涨导致的，暗示可能是诱多或风险点"
+    ],
+    "analysis_method": "llm"
+  }
+}

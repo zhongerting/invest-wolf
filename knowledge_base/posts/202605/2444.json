@@ -1,0 +1,22 @@
+{
+  "post_num": 2444,
+  "date": "2026-05-08 14:02:22",
+  "content": "我刚才不是说了么 \n你不会说的是等航天机器人AI软二线光那些之后的吧？我没有那个预测未来的能力",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者在回应中提及了航天、机器人、AI、软件及二线光伏/光通信等板块，但明确表示自己无法预测未来的市场走势，表现出审慎或不确定的态度。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "涉及多个热门题材板块：航天、机器人、AI、软件、二线光伏/光通信。",
+      "作者对未来行情持保留意见，声明不具备预测能力。",
+      "内容属于对他人询问的回应，缺乏明确的看多或看空指引。"
+    ],
+    "analysis_method": "llm"
+  }
+}

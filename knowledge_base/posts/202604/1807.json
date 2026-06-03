@@ -1,0 +1,21 @@
+{
+  "post_num": 1807,
+  "date": "2026-04-03 11:16:13",
+  "content": "你们真是疯了。。。",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者对当前市场参与者的行为表示极度震惊或不解，认为市场情绪处于非理性状态，暗示市场可能存在过度投机或极端波动。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "表达了对市场现状的强烈情绪化反应",
+      "暗示当前投资者行为可能已脱离基本面或常理",
+      "内容缺乏具体逻辑支撑，属于典型的市场情绪宣泄"
+    ],
+    "analysis_method": "llm"
+  }
+}

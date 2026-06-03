@@ -1,0 +1,23 @@
+{
+  "post_num": 226,
+  "date": "2026-01-19 14:01:01",
+  "content": "怎么会还有人买红利 想不通，牛市买红利？",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对牛市环境下依然有人购买红利股表示不解，认为红利策略在牛市中并非明智选择。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "质疑在牛市行情下配置红利资产的合理性",
+      "暗示红利股作为防御性资产，在牛市中弹性不足",
+      "反映了市场中追求高收益、高弹性品种的激进情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

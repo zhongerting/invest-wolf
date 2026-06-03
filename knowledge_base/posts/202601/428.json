@@ -1,0 +1,22 @@
+{
+  "post_num": 428,
+  "date": "2026-01-27 14:41:09",
+  "content": "我都告诉你们了  我打电话问过了  就是4141 \n你们明知道我是吹牛P 但是没办法证伪![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "market"
+    ],
+    "category": "other",
+    "summary": "发帖者以调侃语气宣称获得“内部消息”指点位将达4141点，并直言自己在吹牛，反映了社交媒体上常见的娱乐化预测心态。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "提出4141点的具体点位预期（通常指上证指数）",
+      "承认言论属于主观臆测或“吹牛”，缺乏事实依据",
+      "利用“无法证伪”的逻辑进行情绪化输出，属于典型的散户社区调侃帖"
+    ],
+    "analysis_method": "llm"
+  }
+}

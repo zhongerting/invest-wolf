@@ -1,0 +1,22 @@
+{
+  "post_num": 420,
+  "date": "2026-01-27 14:01:40",
+  "content": "![img](assets/420_aa08e11d.jpg)\n图哥看不起的封测  哎",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者感叹被某大V（图哥）看轻的封测板块近期表现出色，表达了对错过行情或大V误判的遗憾与反讽。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "封测板块近期表现可能超预期上涨",
+      "提及大V‘图哥’此前对封测板块持否定或轻视态度",
+      "作者通过‘哎’字表达了对该板块走势与大V观点背离的感叹"
+    ],
+    "analysis_method": "llm"
+  }
+}

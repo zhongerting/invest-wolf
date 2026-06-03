@@ -1,0 +1,23 @@
+{
+  "post_num": 890,
+  "date": "2026-02-25 21:24:09",
+  "content": "最近终止重组啊 收购啊的公司有点多，那种暴雷的，不懂是不是线下监管力度加强了\n所以暂时尽量避开这种类型的票了",
+  "analysis": {
+    "tags": [
+      "market",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "近期终止重组与收购的公司增多，疑似监管力度加强导致风险暴露。作者建议投资者暂时避开此类具有潜在“暴雷”风险的个股，以规避市场不确定性。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "观察到近期市场上终止重组和收购的公司数量显著增加。",
+      "推测监管力度可能正在加强，导致部分重组项目无法推进或风险暴露。",
+      "投资策略上建议暂时避开涉及重组、收购或存在潜在暴雷风险的股票。"
+    ],
+    "analysis_method": "llm"
+  }
+}

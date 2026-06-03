@@ -1,0 +1,23 @@
+{
+  "post_num": 2141,
+  "date": "2026-04-17 14:48:29",
+  "content": "怎么可能被影响  要是能影响我绝对不会这里说AI软  特别是在他准备要起来的时候",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者坚决否认 AI 板块走弱，并强调 AI 目前正处于即将启动上涨的关键阶段，表达了强烈的看多立场。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "作者认为 AI 板块并未受到负面因素的实质影响",
+      "明确指出 AI 板块正处于准备起涨的时点",
+      "反驳了市场关于 AI 走势疲软（软）的观点"
+    ],
+    "analysis_method": "llm"
+  }
+}

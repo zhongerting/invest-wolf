@@ -1,0 +1,23 @@
+{
+  "post_num": 1442,
+  "date": "2026-03-23 14:24:45",
+  "content": "跌破3800的量化买盘进来了。。这也是量化操作。。。不是主动的",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "帖子指出当市场跌破3800点位时，触发了量化交易系统的自动买盘。作者强调这种买入行为是基于程序的被动操作，而非投资者主动看多买入。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "3800点被视为量化策略触发买入的技术阈值",
+      "当前的买盘力量主要源于量化程序的被动成交",
+      "作者强调该买入行为缺乏主动做多的意愿"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "post_num": 1048,
+  "date": "2026-03-03 13:09:57",
+  "content": "问题不大 科技这边还是有点承接",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场整体风险受控，特别指出科技板块表现出一定的资金承接力，态度偏向乐观。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "市场整体风险不大",
+      "科技板块存在资金承接"
+    ],
+    "analysis_method": "llm"
+  }
+}

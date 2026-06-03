@@ -1,0 +1,22 @@
+{
+  "post_num": 785,
+  "date": "2026-02-12 10:41:42",
+  "content": "对  AI应用其实利好就是国产算力租赁 你不管用谁的AI应用 人多导致服务器炸了是不是都要增加服务器",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为AI应用的普及将直接利好国产算力租赁板块。其核心逻辑在于，无论使用何种AI应用，用户量的增长都会导致服务器负载增加，从而迫使服务商增加服务器投入，带动算力租赁需求。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "AI应用的发展会倒逼算力基础设施的扩容",
+      "国产算力租赁被视为AI应用爆发下的核心受益方向",
+      "用户流量增长是推动服务器需求增加的直接诱因"
+    ],
+    "analysis_method": "llm"
+  }
+}

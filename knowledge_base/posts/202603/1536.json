@@ -1,0 +1,21 @@
+{
+  "post_num": 1536,
+  "date": "2026-03-26 15:16:53",
+  "content": "放心吧 我能说出来的 错的机会不多的",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者表达了对其预测准确性的极高自信，意在安抚受众情绪，强调其给出的建议或观点具有很高的可靠性。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "作者表现出强烈的个人自信，认为自己的判断失误率极低。",
+      "言论主要起到情绪安抚作用，缺乏具体的市场分析数据或逻辑支撑。",
+      "暗示其之前或当前的投资观点是值得信赖的。"
+    ],
+    "analysis_method": "llm"
+  }
+}

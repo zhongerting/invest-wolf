@@ -1,0 +1,22 @@
+{
+  "post_num": 1368,
+  "date": "2026-03-20 14:27:07",
+  "content": "这段一点量都没变化  感觉和死了一样  只有一些不断的割肉散单子盘口",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "市场成交量极度萎缩，缺乏流动性，盘口显示散户正在割肉离场，整体氛围死气沉沉。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "成交量无明显变化，市场活跃度降至冰点",
+      "盘口观察到持续的散户割肉单",
+      "市场缺乏买盘支撑，情绪极度低迷"
+    ],
+    "analysis_method": "llm"
+  }
+}

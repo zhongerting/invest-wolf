@@ -1,0 +1,22 @@
+{
+  "post_num": 1681,
+  "date": "2026-04-01 11:21:17",
+  "content": "啧啧啧 被我收割能差过被外面的收割吗？",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "该帖子属于投资者的情绪化表达，作者以“收割者”自居，调侃其在市场中获利的行为，暗示其相对于其他投资者处于优势地位，缺乏实质性的市场分析。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者自认为在市场交易中处于获利或优势地位（“收割”他人）",
+      "言论带有明显的炫耀、调侃或傲慢情绪",
+      "内容纯属个人情绪宣泄，不包含具体的投资逻辑、个股信息或市场趋势判断"
+    ],
+    "analysis_method": "llm"
+  }
+}

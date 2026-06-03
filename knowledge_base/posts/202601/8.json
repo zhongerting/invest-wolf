@@ -1,0 +1,22 @@
+{
+  "post_num": 8,
+  "date": "2026-01-12 11:07:34",
+  "content": "我说了 利用盘中大盘带下来的机会做正T 要么就平躺。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "market"
+    ],
+    "category": "trading_signal",
+    "summary": "作者建议利用大盘盘中回调的机会进行日内正T操作（低吸高抛），或者选择持股不动（平躺）。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "利用大盘盘中下杀的机会进行日内正T操作",
+      "若不具备操作条件或能力，建议采取‘平躺’策略，即持股不动",
+      "强调顺应盘中波动寻找交易机会"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 2622,
+  "date": "2026-05-15 13:46:28",
+  "content": "今天应该不会直接走C  因为光没动  周一需要光也来一次才能出C看下面缺口",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sector"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者认为市场今日不会直接开启C浪下跌，主因是光伏板块未动。预计周一若光伏板块补跌或变动，市场才可能走C浪并向下回补缺口。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "判断当前市场尚未进入C浪调整阶段",
+      "光伏板块的走势被视为市场开启C浪的关键观察指标",
+      "预期周一市场可能出现变动，目标是回补下方的技术性缺口"
+    ],
+    "analysis_method": "llm"
+  }
+}

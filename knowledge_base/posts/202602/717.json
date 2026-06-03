@@ -1,0 +1,22 @@
+{
+  "post_num": 717,
+  "date": "2026-02-05 14:08:01",
+  "content": "不会有人现在才追进去的吧 。。。这样操作哪怕赚钱也是昙花一现的噢![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者警告投资者不要在当前时点盲目追涨，认为这种操作模式下的获利是不可持续的，暗示市场可能处于高位或存在回调风险。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "警惕高位追涨（FOMO）行为",
+      "认为当前入场的获利具有短期性和不稳定性",
+      "对当前市场追高情绪持否定和嘲讽态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

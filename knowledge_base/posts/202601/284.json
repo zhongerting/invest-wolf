@@ -1,0 +1,23 @@
+{
+  "post_num": 284,
+  "date": "2026-01-21 09:49:22",
+  "content": "嗯  按理来说是瞎炒  但是其实是内部轮动 芯片太久没涨了涨一点  实际设备才是稳定上涨的那个",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为近期芯片板块的上涨并非盲目炒作，而是板块内部轮动的结果。芯片因长期未涨而出现补涨，但强调半导体设备才是真正维持稳定上涨趋势的品种。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "近期行情本质是板块内部轮动，而非无逻辑的瞎炒。",
+      "芯片板块上涨主因是前期调整时间较长，存在补涨需求。",
+      "半导体设备板块具有更强的确定性，呈现稳定上涨态势。"
+    ],
+    "analysis_method": "llm"
+  }
+}

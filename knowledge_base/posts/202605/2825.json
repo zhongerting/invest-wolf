@@ -1,0 +1,21 @@
+{
+  "post_num": 2825,
+  "date": "2026-05-28 13:54:29",
+  "content": "这个肯定看完了啊  都是我最喜欢的演员\n我德云社粉啊  怎么可能不看有烧饼的",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖子内容为用户表达对德云社及其演员“烧饼”的喜爱，属于个人娱乐兴趣分享，与股市投资无关。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "用户表达了对特定演艺团体（德云社）及演员（烧饼）的忠诚度",
+      "内容纯属娱乐生活范畴",
+      "未提及任何股票、板块或市场交易相关信息"
+    ],
+    "analysis_method": "llm"
+  }
+}

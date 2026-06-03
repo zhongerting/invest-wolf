@@ -1,0 +1,25 @@
+{
+  "post_num": 2835,
+  "date": "2026-05-28 19:34:42",
+  "content": "这当然是好信号\n不然最近密集减持的半导体谁来接？",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前出现的某种信号是积极利好，能够为近期面临密集减持压力的半导体板块提供承接力量，缓解抛压。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "市场出现了被作者视为“好信号”的正面消息",
+      "半导体板块近期正处于大股东或资金密集减持的阶段",
+      "该利好信号有助于吸引接盘资金，维持板块或市场的流动性"
+    ],
+    "analysis_method": "llm"
+  }
+}

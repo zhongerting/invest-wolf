@@ -1,0 +1,22 @@
+{
+  "post_num": 548,
+  "date": "2026-01-29 23:37:45",
+  "content": "我动他干啥 我剩下的单子3000多块的…这要一卖我根本买不回来\n我前面减过了",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "用户表达了对剩余小额仓位（约3000元）的持股守仓态度，因担心卖出后无法以理想价格买回而拒绝清仓，并提到此前已完成部分减仓。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "坚持持有剩余仓位，不愿轻易卖出",
+      "存在恐高或担心踏空的心理，认为卖出后难以重新买回",
+      "此前已进行过减仓操作，目前处于利润留存或轻仓观望阶段"
+    ],
+    "analysis_method": "llm"
+  }
+}

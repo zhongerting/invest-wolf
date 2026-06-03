@@ -1,0 +1,23 @@
+{
+  "post_num": 2672,
+  "date": "2026-05-20 15:04:33",
+  "content": "如果你们不记得上一次怎么套山顶亏下来的 \n我建议回顾一下我上一次出机器人之后的样子",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者通过回顾以往机器人板块走势后的市场表现，警示投资者当前可能面临见顶回调风险，提醒避免在高位被套。 ",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "警示当前市场或板块可能处于阶段性高位（山顶）",
+      "提醒投资者注意追高风险，防止重蹈覆辙导致亏损",
+      "以历史“机器人”板块发布后的走势作为风险参考指标"
+    ],
+    "analysis_method": "llm"
+  }
+}

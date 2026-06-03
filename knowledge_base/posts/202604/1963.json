@@ -1,0 +1,21 @@
+{
+  "post_num": 1963,
+  "date": "2026-04-10 13:56:00",
+  "content": "55%-60%啊  收盘的时候\n盘中看情况加减  但是最后是这个仓位",
+  "analysis": {
+    "tags": [
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "用户分享其仓位管理策略，计划在收盘时保持55%-60%的仓位，并根据盘中情况进行动态加减仓操作。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "收盘目标仓位设定在55%-60%",
+      "盘中会根据行情波动进行灵活的加减仓操作",
+      "强调最终维持的仓位比例"
+    ],
+    "analysis_method": "llm"
+  }
+}

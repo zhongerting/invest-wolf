@@ -1,0 +1,23 @@
+{
+  "post_num": 2253,
+  "date": "2026-04-24 13:12:39",
+  "content": "大盘能不能止跌  先看CPO能不能稳住 别搞成踩踏就不太好了 \n我宁可他们被原谅",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为大盘能否止跌取决于CPO板块的稳定性，并表达了对市场出现恐慌性踩踏风险的担忧，希望该板块能企稳而非继续杀跌。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "大盘止跌的风向标在于CPO板块能否稳住",
+      "担忧市场情绪恶化导致踩踏式下跌",
+      "希望市场对CPO板块的调整表现出宽容，避免极端行情"
+    ],
+    "analysis_method": "llm"
+  }
+}

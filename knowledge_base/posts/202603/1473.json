@@ -1,0 +1,24 @@
+{
+  "post_num": 1473,
+  "date": "2026-03-24 11:43:06",
+  "content": "。。。你们要是全仓深套的 现在只能等啊 等回补缺口上沿减仓。 不及时就是这样了 只能等。",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "针对全仓深套的投资者，建议目前持股等待，待股价回补缺口上沿时再进行减仓操作，反映了对错过止损时机后的补救策略。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "全仓深套者目前应以持股等待为主，不宜盲目操作",
+      "建议将减仓位定在回补缺口的上沿位置",
+      "暗示当前市场处于弱势，反弹即是减仓机会",
+      "强调了交易及时性的重要性，目前处于被动等待阶段"
+    ],
+    "analysis_method": "llm"
+  }
+}

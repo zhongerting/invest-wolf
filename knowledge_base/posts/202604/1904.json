@@ -1,0 +1,22 @@
+{
+  "post_num": 1904,
+  "date": "2026-04-08 16:42:30",
+  "content": "目标是这么多 毕竟美元上100我们汇率动都不动就等于升值",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为在美元指数走强（突破100）的背景下，若人民币汇率保持稳定，实质上等同于本币升值，并以此作为看好市场目标位的依据。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "美元指数上涨至100以上",
+      "人民币汇率在美元走强时保持不动被视为变相升值",
+      "基于汇率的相对强势对市场目标位持有积极预期"
+    ],
+    "analysis_method": "llm"
+  }
+}

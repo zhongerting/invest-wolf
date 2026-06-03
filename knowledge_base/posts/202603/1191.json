@@ -1,0 +1,22 @@
+{
+  "post_num": 1191,
+  "date": "2026-03-12 13:50:51",
+  "content": "不知道 还在观察 我不急",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "作者表达了对当前市场走势的不确定性，目前选择观望，心态平稳，不急于进行交易操作。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "对市场后续走势缺乏明确判断",
+      "采取观望策略，等待更清晰的信号",
+      "投资心态冷静，无急躁入场或调仓的意愿"
+    ],
+    "analysis_method": "llm"
+  }
+}

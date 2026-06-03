@@ -1,0 +1,21 @@
+{
+  "post_num": 2255,
+  "date": "2026-04-24 13:35:39",
+  "content": "。。。她全能的啊  还有调色盘综艺呢",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖子内容主要讨论演艺圈艺人及其参与的综艺节目（如《调色盘》），属于娱乐生活类信息，与股票投资、市场分析完全无关。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "内容提及某位艺人表现全能",
+      "提及综艺节目《调色盘》（通常指IU的Palette）",
+      "不包含任何股票代码、板块或市场交易信息"
+    ],
+    "analysis_method": "llm"
+  }
+}

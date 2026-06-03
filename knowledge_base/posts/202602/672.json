@@ -1,0 +1,22 @@
+{
+  "post_num": 672,
+  "date": "2026-02-04 14:41:22",
+  "content": "![img](assets/672_8eecde1j.jpg)\n早上不知道谁摁的",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "technical"
+    ],
+    "category": "trading_signal",
+    "summary": "作者观察到早盘市场或个股出现不明身份的大单抛压（“摁”），表达了对突发性砸盘行为的关注，反映出盘中情绪偏向负面。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "早盘出现明显的异常卖压或砸盘行为",
+      "作者对抛盘来源及动机表示不解",
+      "暗示个股或市场短期走势受到空头压制"
+    ],
+    "analysis_method": "llm"
+  }
+}

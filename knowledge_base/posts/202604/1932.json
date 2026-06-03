@@ -1,0 +1,20 @@
+{
+  "post_num": 1932,
+  "date": "2026-04-09 13:38:29",
+  "content": "涨价",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "帖子仅包含“涨价”二字，通常在投资语境下暗示产品价格上调，可能带动相关公司业绩增长或行业景气度回升。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "提及价格上涨，暗示潜在的利好逻辑或盈利改善预期。"
+    ],
+    "analysis_method": "llm"
+  }
+}

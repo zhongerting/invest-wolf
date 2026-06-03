@@ -1,0 +1,23 @@
+{
+  "post_num": 941,
+  "date": "2026-02-27 10:40:30",
+  "content": "我中稀都翻倍了",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment",
+      "sector"
+    ],
+    "category": "trading_signal",
+    "summary": "投资者分享其持有的中国稀土（中稀）股票已实现收益翻倍，表现出极强的获利情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "投资者持有的“中国稀土”个股价格已实现翻倍",
+      "反映出该股票在特定周期内表现异常强劲",
+      "投资者情绪高涨，对该股持仓结果高度认可"
+    ],
+    "analysis_method": "llm"
+  }
+}

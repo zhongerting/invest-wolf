@@ -1,0 +1,22 @@
+{
+  "post_num": 699,
+  "date": "2026-02-05 10:52:04",
+  "content": "有挣钱就行  这里不要考虑预期太高，不是激进的时候\n不追高就是对的",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者建议在当前市场环境下保持谨慎，降低盈利预期，主张见好就收。强调目前不宜采取激进策略，应严格遵守不追高的交易纪律。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "建议降低盈利预期，采取落袋为安的策略",
+      "当前市场环境不适合激进操作",
+      "强调风险控制，明确反对追高行为"
+    ],
+    "analysis_method": "llm"
+  }
+}

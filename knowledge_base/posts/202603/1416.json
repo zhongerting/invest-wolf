@@ -1,0 +1,23 @@
+{
+  "post_num": 1416,
+  "date": "2026-03-23 10:37:01",
+  "content": "我在东兴的两个铺头的车全没了 电池都没了  紧急还要从南宁调货过去。。。",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者反馈其在东兴的店铺车辆及电池库存已全部售罄，正紧急从南宁调货，反映出当地终端市场需求异常火爆。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "东兴地区店铺出现车辆与电池断货情况",
+      "需从南宁跨区域紧急调货，显示供不应求",
+      "侧面印证相关行业（如电动两轮车或新能源车）在特定区域的消费景气度"
+    ],
+    "analysis_method": "llm"
+  }
+}

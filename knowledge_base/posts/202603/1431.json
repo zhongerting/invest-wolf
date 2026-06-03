@@ -1,0 +1,20 @@
+{
+  "post_num": 1431,
+  "date": "2026-03-23 11:27:17",
+  "content": "为了家庭地位不择手段？",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖子内容主要涉及家庭地位或个人情感话题，不包含任何关于股票市场、行业板块或投资策略的实质性分析。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "内容与股市投资无关",
+      "属于个人情感或社交类话题"
+    ],
+    "analysis_method": "llm"
+  }
+}

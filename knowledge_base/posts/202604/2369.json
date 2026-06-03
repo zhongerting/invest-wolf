@@ -1,0 +1,23 @@
+{
+  "post_num": 2369,
+  "date": "2026-04-30 10:32:17",
+  "content": "我提前说明 我70%仓位内过51 今天白线不一定抗得住",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "technical",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者计划以70%的高仓位持股过五一假期，显示对后市有一定信心，但对今日短线走势持谨慎态度，预警白线（权重指数）可能面临支撑压力。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "仓位管理：明确表示将以70%的仓位跨越五一长假",
+      "短期研判：认为今日盘中白线（通常指大盘指数或权重股走势）可能无法维持强势",
+      "风险提示：在保持高仓位的同时，对节前最后一个交易日的波动做了心理预期"
+    ],
+    "analysis_method": "llm"
+  }
+}

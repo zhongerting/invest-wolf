@@ -1,0 +1,23 @@
+{
+  "post_num": 240,
+  "date": "2026-01-19 15:40:06",
+  "content": "砸300这种红利对冲不就行了",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "market",
+      "sector"
+    ],
+    "category": "market_analysis",
+    "summary": "作者建议通过卖出或做空沪深300指数，并配置红利股进行对冲，以应对当前的市场波动。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "建议卖出或做空沪深300指数",
+      "提倡利用红利资产作为对冲手段",
+      "体现了防御性的投资策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

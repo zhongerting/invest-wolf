@@ -1,0 +1,22 @@
+{
+  "post_num": 1788,
+  "date": "2026-04-03 09:45:47",
+  "content": "通宇吗  我清不了仓的。。。",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "用户提及个股“通宇”（疑似通宇通讯），并表达了无法清仓的焦虑，反映出其持仓被套或市场流动性受限的困境。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "提及个股“通宇”（疑似通宇通讯）",
+      "投资者表达了无法清仓的无奈，暗示股价下跌严重或流动性不足",
+      "情绪极度负面，反映出被套牢的痛苦感"
+    ],
+    "analysis_method": "llm"
+  }
+}

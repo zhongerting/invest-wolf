@@ -1,0 +1,22 @@
+{
+  "post_num": 1151,
+  "date": "2026-03-09 14:00:01",
+  "content": "嗯 我会偷偷走的 放心",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "发帖者表达了明确的离场意愿，暗示将减仓或清仓退出市场，反映出对当前持仓或市场前景的消极态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "表达了离场或卖出的意图",
+      "情绪偏向悲观或失望，决定不再持有",
+      "暗示采取悄悄撤退的避险策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

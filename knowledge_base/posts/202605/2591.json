@@ -1,0 +1,24 @@
+{
+  "post_num": 2591,
+  "date": "2026-05-14 17:40:54",
+  "content": "今天有没有早上退订了小妹  然后下午被诱多进去又点了更贵的公主 结果收盘只能被迫下海的？",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "market",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖利用隐喻描述了典型的日内“追涨杀跌”失败案例：投资者早盘割肉离场，午后受行情诱多高位追入，最终因收盘回落或大跌导致严重亏损。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "早盘出现恐慌性抛售（退订小妹）",
+      "午后市场出现诱多陷阱，导致投资者高位追涨（点更贵的公主）",
+      "收盘行情反转，投资者面临深度套牢或巨额亏损（被迫下海）",
+      "反映了市场剧烈波动下散户情绪化交易的负面结果"
+    ],
+    "analysis_method": "llm"
+  }
+}

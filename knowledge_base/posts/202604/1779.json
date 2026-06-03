@@ -1,0 +1,23 @@
+{
+  "post_num": 1779,
+  "date": "2026-04-03 08:09:52",
+  "content": "你们还记得昨天抄进去的钱是要干嘛了的哇？我还画了图的。不会睡了一觉 看见日韩开盘就忘记了吧？",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment",
+      "technical"
+    ],
+    "category": "trading_signal",
+    "summary": "作者提醒投资者应坚持昨日抄底的既定策略，不要受日韩股市开盘波动的影响而动摇，强调了交易的计划性与技术分析支撑。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "提醒投资者记住昨日抄底的操作初衷",
+      "强调此前已通过技术图表（画图）做好了规划",
+      "警示投资者不要受日韩股市开盘表现的情绪扰动"
+    ],
+    "analysis_method": "llm"
+  }
+}

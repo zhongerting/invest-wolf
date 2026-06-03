@@ -1,0 +1,21 @@
+{
+  "post_num": 802,
+  "date": "2026-02-12 11:29:31",
+  "content": "你这不是废话么  我前面不是带过复盘了？",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者在回复中表达了不耐烦的情绪，强调自己此前已经进行过市场复盘，并未提供新的实质性分析内容。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者指出此前已发布过复盘观点",
+      "文中未包含具体的市场走势判断或个股信息",
+      "属于社交互动中的情绪性表达"
+    ],
+    "analysis_method": "llm"
+  }
+}

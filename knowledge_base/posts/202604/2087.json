@@ -1,0 +1,22 @@
+{
+  "post_num": 2087,
+  "date": "2026-04-15 14:52:00",
+  "content": "70% 毫无压力 根本不吃任何回撤 哪怕明天还要跌",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者表达了对当前 70% 持仓的高度信心，认为其具备极强的抗回撤能力，即便市场短期继续下跌也毫无压力，心态非常乐观。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "目前持仓比例或利润垫达 70%，心理状态极度轻松。",
+      "对市场短期波动（回撤）具有极强的耐受力，不担心资产缩水。",
+      "预判短期内市场可能继续下跌，但依然选择坚定持仓，看好后市。"
+    ],
+    "analysis_method": "llm"
+  }
+}

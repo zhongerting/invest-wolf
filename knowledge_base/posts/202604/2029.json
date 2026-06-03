@@ -1,0 +1,22 @@
+{
+  "post_num": 2029,
+  "date": "2026-04-14 13:50:29",
+  "content": "对啊  我刚S了  应该就是卖给你了\n![img](assets/2029_2d1a5124.jpg)",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "用户确认已执行卖出（S）操作，并以调侃的方式表示筹码已完成换手，反映了个人离场行为及散户间的互动情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "用户明确表达了刚完成卖出（Sell）操作",
+      "体现了市场筹码的换手过程",
+      "社交媒体上的典型散户情绪互动，缺乏具体逻辑支撑"
+    ],
+    "analysis_method": "llm"
+  }
+}

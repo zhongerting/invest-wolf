@@ -1,0 +1,21 @@
+{
+  "post_num": 2317,
+  "date": "2026-04-29 13:49:50",
+  "content": "无FXXK可说",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者通过谐音梗表达了极度的无奈、无语或愤怒情绪，通常出现在市场暴跌或走势极度不符合预期时，属于典型的情绪化宣泄。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "作者表达了强烈的负面情绪，暗示市场或个股表现令人极度失望",
+      "内容缺乏具体的逻辑分析或数据支持，仅为情绪化的表达",
+      "反映出投资者可能处于极度悲观或心理防线崩溃的状态"
+    ],
+    "analysis_method": "llm"
+  }
+}

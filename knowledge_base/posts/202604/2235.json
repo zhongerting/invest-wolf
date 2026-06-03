@@ -1,0 +1,21 @@
+{
+  "post_num": 2235,
+  "date": "2026-04-24 09:46:13",
+  "content": "前天你们叼杠我  我不挑你们理 \n今天能不能给我道歉",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者因之前的观点被他人质疑或反驳，在今日市场走势疑似验证其正确性后，要求此前质疑他的用户道歉。该帖属于典型的个人情绪宣泄，缺乏具体投资建议。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "作者表达了被他人“叼杠”（反驳/质疑）后的不满",
+      "暗示其之前的预测或操作在今天得到了市场验证",
+      "侧重于社区互动和个人情绪，未提及具体股票或板块"
+    ],
+    "analysis_method": "llm"
+  }
+}

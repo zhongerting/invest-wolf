@@ -1,0 +1,21 @@
+{
+  "post_num": 1903,
+  "date": "2026-04-08 15:38:14",
+  "content": "对 如果缩太多肯定有问题",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者认为成交量如果过度萎缩（缩量）通常预示着市场或个股存在潜在问题，表达了对流动性不足或动能缺失的担忧。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "成交量过度萎缩被视为负面信号",
+      "缩量可能暗示市场参与度不足或存在潜在风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

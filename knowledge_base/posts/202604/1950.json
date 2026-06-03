@@ -1,0 +1,21 @@
+{
+  "post_num": 1950,
+  "date": "2026-04-10 10:43:10",
+  "content": "我不差那10个指数点![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者表达了对指数 10 个点波动的忽视，体现出一种调侃或对短期微小波动不在意的交易心态。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "对指数的微小波动（10个点）持无所谓态度",
+      "表现出一种佛系或对市场波动钝化的情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

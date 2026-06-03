@@ -1,0 +1,23 @@
+{
+  "post_num": 888,
+  "date": "2026-02-25 14:05:16",
+  "content": "鼎泰后面不强了 我转到别的吃了两轮了。",
+  "analysis": {
+    "tags": [
+      "stock",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者认为个股“鼎泰”后续走势转弱，已完成调仓换股，并表示在其他标的上获得了两轮收益。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "鼎泰后续走势强度减弱",
+      "作者已执行调仓换股策略",
+      "通过切换标的已获得两轮获利"
+    ],
+    "analysis_method": "llm"
+  }
+}

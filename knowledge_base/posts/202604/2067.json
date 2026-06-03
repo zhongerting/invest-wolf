@@ -1,0 +1,26 @@
+{
+  "post_num": 2067,
+  "date": "2026-04-15 11:31:42",
+  "content": "明明知道科技会被高切低  然后去高位的存储板块 丢了低位刚起来的航天\n你脑子已经不清醒了",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者反思交易失误：在明知科技股存在“高切低”切换预期的情况下，错误地追高了高位存储板块，从而错失了低位刚起涨的航天板块。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "市场逻辑倾向于从高位板块切换至低位板块（高切低）",
+      "存储板块目前处于高位，追高风险较大",
+      "航天板块处于低位启动阶段，具有较好的博弈价值",
+      "作者对自己在高位接盘、放弃低位筹码的行为表示强烈懊悔"
+    ],
+    "analysis_method": "llm"
+  }
+}

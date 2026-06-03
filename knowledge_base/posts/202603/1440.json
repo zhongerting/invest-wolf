@@ -1,0 +1,21 @@
+{
+  "post_num": 1440,
+  "date": "2026-03-23 14:16:02",
+  "content": "每天的止损绝对不应该是下午1点到2点半这个时间。。。要么你早上卖 要么你尾盘卖。。。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "technical"
+    ],
+    "category": "technical_analysis",
+    "summary": "该帖分享了关于止损时机的交易策略，建议投资者避开下午1点至2点半的交易时段进行止损，主张在早盘或尾盘执行卖出操作。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "明确反对在 13:00 至 14:30 这一时间段执行止损",
+      "建议将卖出时机选择在早盘或尾盘阶段"
+    ],
+    "analysis_method": "llm"
+  }
+}

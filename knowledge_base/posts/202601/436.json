@@ -1,0 +1,24 @@
+{
+  "post_num": 436,
+  "date": "2026-01-27 15:14:57",
+  "content": "你没见我最近一点都没提机器人么\n最近没有板块级别的行情，这个方向我平躺。反正仓位不多。",
+  "analysis": {
+    "tags": [
+      "sector",
+      "market",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场缺乏板块级别的行情，对机器人板块持观望态度，采取低仓位“平躺”策略。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "近期机器人板块缺乏整体性趋势行情",
+      "作者对该方向采取不操作（平躺）的应对策略",
+      "目前在机器人板块的仓位配置较低"
+    ],
+    "analysis_method": "llm"
+  }
+}

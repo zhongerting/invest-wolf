@@ -1,0 +1,20 @@
+{
+  "post_num": 861,
+  "date": "2026-02-24 14:05:00",
+  "content": "比例不动 总体仓位会有加减",
+  "analysis": {
+    "tags": [
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者描述了一种组合管理策略：在保持各资产或个股相对比例不变的前提下，通过调整总仓位水平来应对市场波动。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "维持现有持仓品种的配置比例不变",
+      "根据市场情况动态调整整体仓位（加仓或减仓）"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 1937,
+  "date": "2026-04-09 18:00:53",
+  "content": "等消息  利空消息就诱空拉起来  利好消息直接拉上去逼空",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为市场正处于等待消息的阶段，并预测无论消息利好还是利空，市场最终都会向上运行（利空诱空拉升，利好直接逼空）。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "市场目前处于观望消息的状态",
+      "预测利空消息会出现“诱空”动作后反转拉升",
+      "预测利好消息将直接导致“逼空”式上涨",
+      "整体观点倾向于看涨，认为向上动力强劲"
+    ],
+    "analysis_method": "llm"
+  }
+}

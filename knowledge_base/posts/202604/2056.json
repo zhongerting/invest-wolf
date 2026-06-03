@@ -1,0 +1,20 @@
+{
+  "post_num": 2056,
+  "date": "2026-04-15 10:59:31",
+  "content": "利好  硫磺加工",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "该内容简要指出硫磺加工行业存在利好消息，表达了对该板块的正面预期。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "硫磺加工行业迎来利好消息"
+    ],
+    "analysis_method": "llm"
+  }
+}

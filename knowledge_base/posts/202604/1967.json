@@ -1,0 +1,23 @@
+{
+  "post_num": 1967,
+  "date": "2026-04-10 14:45:30",
+  "content": "刚才下午4000点附近应该大概是300来E增量   一半应该是散户![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "technical"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到下午市场在 4000 点附近出现了约 300 亿的增量资金，并推测其中约一半由散户贡献，表现出对散户进场参与的调侃或关注。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "市场在 4000 点附近出现约 300 亿的增量资金",
+      "作者推测增量资金中散户占比约为 50%",
+      "通过表情符号反映出对散户大规模涌入市场的复杂或戏谑情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

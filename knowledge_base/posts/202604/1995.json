@@ -1,0 +1,23 @@
+{
+  "post_num": 1995,
+  "date": "2026-04-13 15:01:42",
+  "content": "然后商航这块。。。高位的出清  直接换低位的。。。我真的觉得这个方向很好啊。。",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者表达了对商航板块的强烈看好，并建议执行“卖高买低”的调仓策略，认为该方向具有较好的投资价值。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "看好商航板块的后续发展潜力",
+      "建议采取高位出清、切换至低位标的的调仓策略",
+      "认为商航是一个非常值得关注的投资方向"
+    ],
+    "analysis_method": "llm"
+  }
+}

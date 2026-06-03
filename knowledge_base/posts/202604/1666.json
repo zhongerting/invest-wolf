@@ -1,0 +1,24 @@
+{
+  "post_num": 1666,
+  "date": "2026-04-01 09:54:35",
+  "content": "商航没过昨天高点  减仓了 等个二买位\n国算T出去 继续做",
+  "analysis": {
+    "tags": [
+      "technical",
+      "stock",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者因商航未能突破昨日高点而选择减仓，计划等待二次买入机会；同时对国算进行了T+0减仓操作，并表示将持续关注和操作该标的。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "商航因受阻于昨日高点，作者已执行减仓操作",
+      "针对商航的操作策略是等待回调后的‘二买’机会",
+      "国算已完成T+0卖出动作（T出去）",
+      "作者明确表示将继续参与国算后续的交易机会"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 1714,
+  "date": "2026-04-02 10:59:49",
+  "content": "没理解错啊  今天黄金ETF开盘直接丢是套利1个点的。积存金也行  \n期货更不用说了 2.5%的盈利 开杠杆更多",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "market"
+    ],
+    "category": "trading_signal",
+    "summary": "作者分析了今日黄金相关资产的获利机会，指出黄金ETF、积存金及黄金期货均有显著收益，并强调了期货杠杆交易的放大效应。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "黄金ETF开盘即有约1%的套利或获利空间",
+      "积存金也是一种可行的黄金投资获利方式",
+      "黄金期货涨幅达2.5%，利用杠杆可获得更高回报"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 2342,
+  "date": "2026-04-29 17:35:42",
+  "content": "都差不多的  毕竟有个宁德  锂矿企业都是这样的。都是被逼的啊",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "帖子讨论了锂矿行业的普遍现状，认为锂矿企业受宁德时代影响较大，且在产业链中处于被动地位。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "锂矿企业面临相似的行业困境或经营环境",
+      "宁德时代作为下游巨头对锂矿企业有较强的议价能力或影响力",
+      "锂矿企业在产业链博弈中处于被动地位（“都是被逼的”）"
+    ],
+    "analysis_method": "llm"
+  }
+}

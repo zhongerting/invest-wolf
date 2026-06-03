@@ -1,0 +1,23 @@
+{
+  "post_num": 47,
+  "date": "2026-01-13 11:03:07",
+  "content": "好几个卫星和卫星材料都回流了啊\n而且卫星回流速度比发动机那边多多了\n中国卫星 陕西话大 超捷 函询  通宇等等",
+  "analysis": {
+    "tags": [
+      "sector",
+      "stock",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "帖子指出卫星及卫星材料板块近期资金回流显著，且回流速度和力度均优于航天发动机板块，并列举了多只相关个股作为观察标的。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "卫星及卫星材料板块出现明显的资金回流迹象",
+      "卫星板块的回流速度快于发动机相关板块",
+      "提及个股包括中国卫星、陕西华达（原帖误为陕西话大）、超捷股份、航天环宇（原帖误为函询）、通宇通讯"
+    ],
+    "analysis_method": "llm"
+  }
+}

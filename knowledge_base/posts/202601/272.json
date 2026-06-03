@@ -1,0 +1,24 @@
+{
+  "post_num": 272,
+  "date": "2026-01-20 14:46:11",
+  "content": "说了 不要去港股 港股是拿来给A股公司去上市的 为了吸引RMB回流投资，主要是为了消耗顺差产生RMB能有地方用\n不是给你们去投资的。",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者强烈建议投资者远离港股，认为港股市场的核心功能是为内地公司提供融资平台、吸引人民币回流及消化贸易顺差，而非为普通投资者提供获利机会。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "明确劝诫投资者不要进入港股市场",
+      "认为港股是为A股公司上市及融资服务的工具",
+      "观点指出港股存在的目的是吸引人民币回流并消耗贸易顺差",
+      "强调港股并非以提供投资回报为主要目的"
+    ],
+    "analysis_method": "llm"
+  }
+}

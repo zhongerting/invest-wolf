@@ -1,0 +1,24 @@
+{
+  "post_num": 1546,
+  "date": "2026-03-27 10:37:29",
+  "content": "我剩下的仓位除了一点ETF打底 其他都是国算方向。没拉我就等 等到他动起来  然后减出去  用10%仓位做做T 被套了我就等着。相对低位就安全\n不追涨任何一切的票。",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者目前重仓“国算”方向并持有少量ETF。采取低位潜伏、不追涨的策略，计划在板块启动后减仓，并利用10%的仓位进行日内交易（做T）。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "核心仓位布局于国算方向，辅以ETF打底",
+      "坚持不追涨原则，认为当前处于相对低位，具备安全性",
+      "交易策略为持股待涨，待板块异动后减仓并配合10%仓位做T",
+      "心态稳健，若遭遇被套则选择坚守等待"
+    ],
+    "analysis_method": "llm"
+  }
+}

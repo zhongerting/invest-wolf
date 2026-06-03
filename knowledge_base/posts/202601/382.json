@@ -1,0 +1,21 @@
+{
+  "post_num": 382,
+  "date": "2026-01-26 14:00:05",
+  "content": "除了这个呢  一个很明显的现象",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该内容为社交互动中的追问或引导性语句，缺乏具体的市场分析、个股信息或明确的投资观点。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "用户在询问除当前讨论话题外的其他现象",
+      "内容不包含任何实质性的市场数据或技术指标",
+      "无法判断具体的投资倾向"
+    ],
+    "analysis_method": "llm"
+  }
+}

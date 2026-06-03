@@ -1,0 +1,25 @@
+{
+  "post_num": 48,
+  "date": "2026-01-13 11:17:51",
+  "content": "今天开仓的只有2个方向挣钱啊  抄底主线卫星   买资源股 还是蛮聚焦了 其他都是路边一条。哪怕是AI医疗的赚钱效应都不够",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "今日市场赚钱效应高度聚焦在卫星导航和资源股两个方向，其余板块表现低迷，包括AI医疗在内的非核心方向赚钱效应不足。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "市场赚钱效应高度聚焦，仅卫星导航和资源股两个方向有获利空间",
+      "卫星导航被视为抄底主线",
+      "除核心聚焦方向外，其他板块表现极差（路边一条）",
+      "AI医疗板块目前的赚钱效应未达预期"
+    ],
+    "analysis_method": "llm"
+  }
+}

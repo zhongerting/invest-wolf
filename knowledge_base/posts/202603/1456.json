@@ -1,0 +1,22 @@
+{
+  "post_num": 1456,
+  "date": "2026-03-23 19:20:22",
+  "content": "最主要是他和谁谈了。。。伊朗革命军控制海峡  然后伊朗国内之前还说袭击的时候不谈。。他和谁谈了？目前看可能就是单方面宣布自己赢了",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "帖子对近期涉及伊朗的地缘政治谈判消息表示怀疑，认为在伊朗革命卫队控制海峡且此前拒绝谈判的背景下，当前所谓的进展可能是单方面宣布的虚假利好。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "质疑谈判对象的真实性与合法性",
+      "强调伊朗革命卫队对海峡的实际控制权对局势的影响",
+      "怀疑所谓的“胜利”或“进展”仅为单方面措辞，缺乏实质性共识"
+    ],
+    "analysis_method": "llm"
+  }
+}

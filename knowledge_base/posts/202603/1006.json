@@ -1,0 +1,21 @@
+{
+  "post_num": 1006,
+  "date": "2026-03-02 13:18:19",
+  "content": "正在目标4190中 可以期待一下",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者对市场走势持乐观态度，明确提出了 4190 点位作为目标预期，并表达了对后市的期待。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "设定了 4190 的具体目标位",
+      "表达了对达到该目标的乐观预期"
+    ],
+    "analysis_method": "llm"
+  }
+}

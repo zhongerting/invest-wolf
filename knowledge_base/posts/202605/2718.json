@@ -1,0 +1,23 @@
+{
+  "post_num": 2718,
+  "date": "2026-05-22 13:53:33",
+  "content": "黄线已经打到昨天量化杀盘的起点。 量能开始有点放了  我感觉这里T出去不是什么错误\n这里是一个换手区域 或者再窜一下T出去也行",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者观察到分时均线已回升至昨日量化抛压起点，且成交量有所放大。认为当前处于换手区域，建议投资者考虑在此处或小幅冲高时进行日内减仓（T出）操作。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "价格回升至昨日量化杀盘的起始位置，面临前期压力",
+      "市场量能开始放大，显示当前处于换手区域",
+      "作者倾向于在当前位置或利用冲高机会进行日内卖出（T出）操作"
+    ],
+    "analysis_method": "llm"
+  }
+}

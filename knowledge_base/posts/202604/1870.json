@@ -1,0 +1,27 @@
+{
+  "post_num": 1870,
+  "date": "2026-04-08 09:55:33",
+  "content": "今天我的航天  半导体材料  国算都是大爽！！！ 下午看看量能看看要不要今天T还是明天T  保持55%仓位",
+  "analysis": {
+    "tags": [
+      "sector",
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者持有的航天、半导体材料及国产算力板块表现强劲。目前计划根据下午的市场量能决定是否进行T+0操作，并维持55%的仓位水平。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "航天、半导体材料、国产算力板块今日获利显著",
+      "关注下午量能变化作为后续交易决策依据",
+      "考虑进行日内或跨日T+0操作",
+      "当前仓位控制在55%"
+    ],
+    "analysis_method": "llm"
+  }
+}

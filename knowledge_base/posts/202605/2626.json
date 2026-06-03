@@ -1,0 +1,23 @@
+{
+  "post_num": 2626,
+  "date": "2026-05-15 14:17:23",
+  "content": "能 我觉得没补缺口  B反过程没结束  至少到周1 有机会",
+  "analysis": {
+    "tags": [
+      "technical",
+      "market",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者认为市场缺口尚未回补，且B浪反弹过程尚未结束，预计反弹机会至少会持续到下周一。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "技术面上认为缺口尚未回补",
+      "判断当前处于B浪反弹阶段且尚未结束",
+      "时间窗口上看好行情至少持续至下周一"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 1637,
+  "date": "2026-03-31 14:51:08",
+  "content": "我前面说了啊 3层石油 加少量杠杆 和5层黄金 没有杠杆 都不设止损",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sector"
+    ],
+    "category": "trading_signal",
+    "summary": "作者披露了其资产配置方案：持有3成石油仓位（含少量杠杆）及5成黄金仓位（无杠杆），并明确表示不设置止损。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "配置3成石油仓位并使用少量杠杆",
+      "配置5成黄金仓位，未使用杠杆",
+      "采取不设止损的交易策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

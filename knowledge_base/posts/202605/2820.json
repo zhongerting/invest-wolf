@@ -1,0 +1,21 @@
+{
+  "post_num": 2820,
+  "date": "2026-05-28 13:22:26",
+  "content": "我看资金的能力  服不服",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "technical"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者在帖子中表达了对其分析市场资金流向能力的极度自信，带有明显的炫耀和情绪宣泄色彩。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "作者强调其对资金面（资金能力）的研判非常精准",
+      "帖子缺乏具体逻辑支撑，主要为个人情绪表达"
+    ],
+    "analysis_method": "llm"
+  }
+}

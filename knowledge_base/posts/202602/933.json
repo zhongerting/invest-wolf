@@ -1,0 +1,22 @@
+{
+  "post_num": 933,
+  "date": "2026-02-26 15:08:23",
+  "content": "算了 能收3天红包就不错了  应该没有人这三天不挣钱吧",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者感叹过去三个交易日市场具备明显的赚钱效应（发红包），认为多数投资者应已获利，并流露出对短期行情涨幅已满足的情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "市场近期连续三天走强，呈现普涨获利行情",
+      "作者认为在当前市场环境下，绝大多数投资者都实现了盈利",
+      "“能收3天红包就不错了”暗示作者对行情持续性持谨慎态度，或有见好就收的心理"
+    ],
+    "analysis_method": "llm"
+  }
+}

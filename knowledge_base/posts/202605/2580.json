@@ -1,0 +1,22 @@
+{
+  "post_num": 2580,
+  "date": "2026-05-14 14:28:17",
+  "content": "![img](assets/2580_fea21b6h.jpg)\n你们猜猜这是什么票？",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "用户发布了一张股票相关的图表或信息截图（图片内容未显示），并邀请他人猜测该股票的名称，属于典型的互动类社交帖子。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "用户发起互动，要求猜测特定股票身份",
+      "帖子内容仅包含提问，缺乏具体的逻辑分析或明确的买卖建议",
+      "信息主要依赖于未显示的图片内容"
+    ],
+    "analysis_method": "llm"
+  }
+}

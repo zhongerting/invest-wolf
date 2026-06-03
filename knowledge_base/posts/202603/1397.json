@@ -1,0 +1,21 @@
+{
+  "post_num": 1397,
+  "date": "2026-03-20 16:57:33",
+  "content": "。。。我昨天已经说明了  刚才还说了一次  美元美债锁了流动性",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者强调美元和美债的走势锁定了市场流动性，反映出对当前市场资金面偏紧的担忧。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "美元和美债收益率的高企导致市场流动性受限",
+      "流动性紧缩对权益类资产构成压力"
+    ],
+    "analysis_method": "llm"
+  }
+}

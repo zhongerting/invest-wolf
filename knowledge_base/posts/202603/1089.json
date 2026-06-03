@@ -1,0 +1,23 @@
+{
+  "post_num": 1089,
+  "date": "2026-03-04 21:27:46",
+  "content": "如果布油期货跌破昨天低点到早上  明天石油股票应该会板块级别跌8个点 天然气煤炭那些我觉得也一起陪葬\n*---下挂评论---*\n1.[0] \\<pid:860042759\\>2026-03-04 22:50:08 by nydse(1383368):\n狼大辛苦了，感谢大佬谆谆教诲",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sector",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者认为若布油期货跌破昨日低点，石油板块将面临约8%的大幅下跌，并预测天然气和煤炭板块也将随之走弱。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "以布油期货跌破昨日低点作为看空触发条件",
+      "预计石油板块可能出现8%左右的板块级别跌幅",
+      "认为天然气和煤炭板块会受石油走势拖累同步下跌"
+    ],
+    "analysis_method": "llm"
+  }
+}

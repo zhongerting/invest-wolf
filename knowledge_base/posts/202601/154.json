@@ -1,0 +1,24 @@
+{
+  "post_num": 154,
+  "date": "2026-01-16 10:31:49",
+  "content": "他们还在数地板那几个航天的封单呢  减了减了  啊  又加了  减了减了  啊 还在加",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "sentiment",
+      "technical"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者观察到航天板块个股处于跌停状态（地板），并实时关注跌停板封单量的动态变化，指出封单在反复增减，反映出市场资金在跌停位的博弈或撤单行为。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "航天板块相关个股遭遇跌停，市场表现极弱。",
+      "跌停板上的封单量出现频繁波动，存在“减单后又加单”的反复过程。",
+      "投资者情绪受跌停封单变化影响，反映出资金在极端行情下的博弈态势。"
+    ],
+    "analysis_method": "llm"
+  }
+}

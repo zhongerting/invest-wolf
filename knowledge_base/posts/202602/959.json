@@ -1,0 +1,23 @@
+{
+  "post_num": 959,
+  "date": "2026-02-27 13:45:49",
+  "content": "因为科技没联动啊。。。",
+  "analysis": {
+    "tags": [
+      "sector",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为科技板块当前缺乏联动效应，这可能是导致市场或相关标的表现不及预期的原因。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "科技板块内部缺乏协同联动效应",
+      "板块未能形成合力影响了行情表现"
+    ],
+    "analysis_method": "llm"
+  }
+}

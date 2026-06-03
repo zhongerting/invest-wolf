@@ -1,0 +1,23 @@
+{
+  "post_num": 1394,
+  "date": "2026-03-20 16:50:11",
+  "content": "不知道 4000没动手就等到他动手  在他动手之前我都按我目前的逻辑做",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者关注 4000 点这一关键点位，表示在市场或特定力量做出反应之前，将继续坚持现有的投资逻辑和操作策略，整体处于观望状态。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "将 4000 点视为重要的行动触发点或观察位",
+      "在市场未出现明确动作前，坚持既有的投资逻辑不变",
+      "表现出较强的策略定力，采取“以静制动”的观望态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

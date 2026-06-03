@@ -1,0 +1,27 @@
+{
+  "post_num": 2327,
+  "date": "2026-04-29 14:25:20",
+  "content": "科技  科技  还是TM的科技\n无论做什么别的边缘的  一切的基础都是科技\nAI大基建  上中下和附属。 半导体不也是AI大基建里面的。\n只是你看你喜欢做什么细分而已",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者强烈看好科技板块，认为科技是所有行业的基础。核心观点聚焦于AI大基建及其全产业链，包括半导体等细分领域，建议投资者在科技细分赛道中寻找机会。",
+    "mentioned_sectors": [
+      "半导体",
+      "科技"
+    ],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "科技被视为所有产业和投资的底层基础",
+      "重点关注AI大基建的上中下游及附属产业链",
+      "半导体是AI大基建核心组成部分",
+      "投资策略应聚焦于科技板块内的细分领域选择"
+    ],
+    "analysis_method": "llm"
+  }
+}

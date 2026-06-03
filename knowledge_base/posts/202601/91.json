@@ -1,0 +1,23 @@
+{
+  "post_num": 91,
+  "date": "2026-01-15 10:26:22",
+  "content": "我做的是期货  期货没完 股票我没做 观察而已 江铜质量很高",
+  "analysis": {
+    "tags": [
+      "market",
+      "stock",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者目前专注于期货交易，认为期货行情尚未结束；对股市仅处于观察阶段，但明确看好江西铜业（江铜）的资产质量。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "作者主营期货交易，认为期货行情仍有延续性",
+      "目前对股票市场仅作观察，未实际参与",
+      "评价江西铜业（江铜）基本面质量很高"
+    ],
+    "analysis_method": "llm"
+  }
+}

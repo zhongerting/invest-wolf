@@ -1,0 +1,24 @@
+{
+  "post_num": 2365,
+  "date": "2026-04-30 10:04:13",
+  "content": "三花财报出来  证明机器人1-100的路线走通了 资金可以按业绩做了。不是纯消息了。",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "三花智控财报发布验证了机器人产业化落地逻辑，标志着该板块投资从单纯的消息面炒作转向业绩驱动阶段。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "三花智控财报数据验证了机器人业务从1到100的商业化路径已走通",
+      "机器人板块的投资逻辑发生转变，从题材驱动进入业绩兑现期",
+      "市场资金开始转向基于基本面和业绩预期进行布局"
+    ],
+    "analysis_method": "llm"
+  }
+}

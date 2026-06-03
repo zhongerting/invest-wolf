@@ -1,0 +1,23 @@
+{
+  "post_num": 1119,
+  "date": "2026-03-06 10:05:40",
+  "content": "好了 板了  飞天小摩托开板就止盈 \n这种行情能带给大家一点好事  我觉得可以了",
+  "analysis": {
+    "tags": [
+      "stock",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者持有的个股“飞天小摩托”已涨停，并计划在开板时止盈。作者认为在当前市场行情下能有此收益已属难得，表达了落袋为安的情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "目标个股（飞天小摩托）达成涨停",
+      "明确止盈策略：一旦开板即卖出",
+      "对当前市场环境持谨慎态度，认为能获利已是好事"
+    ],
+    "analysis_method": "llm"
+  }
+}

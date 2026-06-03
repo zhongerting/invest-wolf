@@ -1,0 +1,22 @@
+{
+  "post_num": 2532,
+  "date": "2026-05-13 13:14:52",
+  "content": "？你都不看一下股指期货就能说出强空信号？",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者质疑他人发布的“强空信号”，认为其在未参考股指期货数据的情况下下结论是不严谨的，表现出对该看空观点的怀疑。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "质疑对方在未参考股指期货的情况下发布强空信号",
+      "强调股指期货是判断市场走势和信号准确性的重要参考"
+    ],
+    "analysis_method": "llm"
+  }
+}

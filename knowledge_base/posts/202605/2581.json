@@ -1,0 +1,22 @@
+{
+  "post_num": 2581,
+  "date": "2026-05-14 14:33:01",
+  "content": "怎么样 我说了今天会退订小妹吧![哭笑](https://img4.nga.178.com/ngabbs/post/smile/ac15.png)\n你要相信我这个18年的酒吧人",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者以资深股民身份自居，发帖确认其对今日市场热度退散或特定热门标的（“小妹”）走弱的预判准确，表达了看空或离场的情绪。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "作者准确预判了今日的行情“退潮”（以“退订小妹”代称）",
+      "作者自称为拥有18年经验的资深投资者（“酒吧人”即“股吧人”）",
+      "暗示当前市场情绪转冷，验证了之前的减仓或看空观点"
+    ],
+    "analysis_method": "llm"
+  }
+}

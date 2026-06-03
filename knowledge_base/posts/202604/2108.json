@@ -1,0 +1,21 @@
+{
+  "post_num": 2108,
+  "date": "2026-04-16 10:38:43",
+  "content": "目前机构预期5月或者6月",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "机构投资者普遍预期重要的市场节点或政策变动将出现在5月或6月。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "机构关注5月至6月的时间窗口",
+      "市场对特定时间点存在明确的预期共识"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 447,
+  "date": "2026-01-28 10:44:17",
+  "content": "我 石油王  打钱![闪光](https://img4.nga.178.com/ngabbs/post/smile/ac43.png)",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖子内容属于网络社交平台的调侃或迷因（Meme），作者自称“石油王”并配以索要金钱的玩笑话，缺乏实质性的市场分析或投资逻辑。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "作者自称为“石油王”，暗示财富或盈利状态",
+      "内容属于网络梗，无具体个股或技术面分析",
+      "表达了极度乐观但非理性的情绪"
+    ],
+    "analysis_method": "llm"
+  }
+}

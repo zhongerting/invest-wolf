@@ -1,0 +1,25 @@
+{
+  "post_num": 896,
+  "date": "2026-02-26 09:59:51",
+  "content": "昨天科技大涨  ETF都涨了5个点 今天微调 有些止盈去买别的 这不是很正常么\n今天有今天的题材。手痒可以玩今天的啊",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "科技板块昨日大涨后今日迎来正常微调，资金出现止盈并流向新题材。作者认为这种板块轮动属于正常现象，建议关注当日热点题材进行短线交易。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "科技板块昨日涨幅较大（ETF约5%），今日微调属于获利盘回吐的正常表现。",
+      "市场资金正在进行板块轮动，部分资金止盈后寻找新题材。",
+      "作者对市场波动持平常心，建议投资者可关注当日活跃的热点题材。"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "post_num": 2518,
+  "date": "2026-05-12 20:36:33",
+  "content": "没行情  AI要么埋伏应用 要么做光上游材料加速。其他硬件我没什么兴趣",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场整体缺乏行情，建议在AI领域采取结构性策略：要么提前布局应用端，要么关注上游光材料的加速机会，并明确表示对其他硬件板块不感兴趣。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "认为当前大盘整体没有行情",
+      "AI板块建议采取埋伏应用端的策略",
+      "看好AI上游光材料的加速机会",
+      "对除光材料以外的其他硬件板块持否定态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

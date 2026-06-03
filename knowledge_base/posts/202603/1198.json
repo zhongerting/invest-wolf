@@ -1,0 +1,22 @@
+{
+  "post_num": 1198,
+  "date": "2026-03-13 09:15:10",
+  "content": "差不多的就无所谓  等到期了再换也行 这个参考而已。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者建议对于差异不大的投资标的无需急于调整，可持有至到期后再行置换，表达了一种随缘、不急于操作的策略观点。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "认为细微差异对投资影响不大，无需频繁操作",
+      "建议采取“持有至到期”再调仓的策略",
+      "强调观点仅供参考，态度较为谨慎或随性"
+    ],
+    "analysis_method": "llm"
+  }
+}

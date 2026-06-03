@@ -1,0 +1,21 @@
+{
+  "post_num": 1768,
+  "date": "2026-04-02 21:05:11",
+  "content": "那条疯狗不会让川普撤那么容易的 不然他就要承受一切反扑",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖内容主要涉及对特朗普相关政治博弈的个人主观评论，认为其政策转向或撤退将面临激烈的政治阻力和反扑风险。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "观点认为特朗普的决策受到外部或内部政治势力的强烈制约",
+      "强调了政治博弈中的“反扑”风险",
+      "内容偏向地缘政治或政策不确定性讨论，未直接涉及具体市场标的"
+    ],
+    "analysis_method": "llm"
+  }
+}

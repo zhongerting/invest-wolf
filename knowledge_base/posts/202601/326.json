@@ -1,0 +1,23 @@
+{
+  "post_num": 326,
+  "date": "2026-01-22 10:42:19",
+  "content": "GJD ：我给你的 你可以吃  我不给你的  你不能要 我说不行的 你要走 我说行的 你要做",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖通过拟人化的霸气语录，强调了“国家队”（GJD）在A股市场中的绝对主导地位和话语权，暗示投资者应紧跟政策导向，服从监管意志与市场节奏。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "强调国家队（GJD）对市场流动性和走势的掌控力",
+      "投资策略应高度参考政策信号，不可逆势而为",
+      "暗示当前市场为典型的‘政策市’，机会与风险均由上位力量主导"
+    ],
+    "analysis_method": "llm"
+  }
+}

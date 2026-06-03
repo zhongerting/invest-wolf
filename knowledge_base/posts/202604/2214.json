@@ -1,0 +1,23 @@
+{
+  "post_num": 2214,
+  "date": "2026-04-23 13:14:15",
+  "content": "现在为什么能守在这里 就是观察2点那些钱会不会进来。他们已经来了10天  看看今天会不会不来。如果不来  很多钱会一起卖",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者正在观察每日下午2点的资金流入规律，该规律已持续10天。若今日资金未按时流入，预判将引发集体抛售，目前处于观望决策点。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "重点观察下午2点是否有特定资金流入",
+      "该资金流入模式已连续维持10个交易日",
+      "若今日资金流入中断，可能触发大规模止损或抛售行为"
+    ],
+    "analysis_method": "llm"
+  }
+}

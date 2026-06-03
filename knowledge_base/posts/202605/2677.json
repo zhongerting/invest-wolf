@@ -1,0 +1,23 @@
+{
+  "post_num": 2677,
+  "date": "2026-05-21 10:22:49",
+  "content": "就是因为京东方的消息才引爆的板块",
+  "analysis": {
+    "tags": [
+      "stock",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为京东方的相关消息是导致所属板块行情爆发的直接诱因。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "京东方发布的消息对市场产生了显著影响",
+      "该消息触发了相关板块的集体上涨行情",
+      "京东方在板块中具有核心风向标和带动作用"
+    ],
+    "analysis_method": "llm"
+  }
+}

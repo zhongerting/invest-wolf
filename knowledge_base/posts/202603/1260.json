@@ -1,0 +1,20 @@
+{
+  "post_num": 1260,
+  "date": "2026-03-17 11:45:49",
+  "content": "因为今天有个马拉松  北京亦庄的\n不过没什么意义",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "内容提及北京亦庄举办马拉松赛事，但作者认为该事件对市场或投资并无实际意义。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "北京亦庄举办马拉松赛事",
+      "作者明确表示该事件没有参考意义"
+    ],
+    "analysis_method": "llm"
+  }
+}

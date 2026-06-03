@@ -1,0 +1,23 @@
+{
+  "post_num": 1567,
+  "date": "2026-03-27 18:06:26",
+  "content": "你们还记得我之前对原油的判断么  还没签完单子 没那么快结束的 现在不是只有川普要卖油了  利益扩大化了",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为原油行情尚未结束，因相关订单签署未完结。目前利益方已不仅限于特朗普，利益范围正在扩大，暗示原油相关的市场趋势或交易机会将持续。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "原油相关的行情或交易尚未到结束阶段",
+      "相关合同/订单签署仍在进行中，具有延续性",
+      "利益相关方增加，不仅限于特朗普，利益格局进一步扩大"
+    ],
+    "analysis_method": "llm"
+  }
+}

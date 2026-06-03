@@ -1,0 +1,20 @@
+{
+  "post_num": 1336,
+  "date": "2026-03-19 15:14:04",
+  "content": "我什么时候认为是GJD做的了？我都在帖子里面说了我的看法了 我说话不可能模棱两可的 是就是 不是就不是",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者在回复中澄清自己并未将市场波动归因于“国家队”（GJD），并强调其观点表达一向清晰明确，不存在模糊地带。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "否认将当前市场走势归功或归咎于“国家队”（GJD）的操作",
+      "强调个人立场坚定且表达直接，拒绝模棱两可的解读"
+    ],
+    "analysis_method": "llm"
+  }
+}

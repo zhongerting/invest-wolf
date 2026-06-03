@@ -1,0 +1,22 @@
+{
+  "post_num": 2462,
+  "date": "2026-05-11 15:10:11",
+  "content": "30分钟讨论时间  有什么想聊的 个股不聊",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "作者发起一个限时30分钟的互动讨论，旨在与投资者交流市场观点或交易策略，但明确表示不讨论具体个股。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "限时30分钟的互动交流",
+      "明确拒绝讨论个股",
+      "侧重于宏观市场、行业趋势或投资策略的探讨"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 1203,
+  "date": "2026-03-13 12:09:00",
+  "content": "应该是科技了",
+  "analysis": {
+    "tags": [
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为市场热点或上涨动能将切换至科技板块，表达了对科技行业的看好预期。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "作者预测科技板块将成为接下来的市场主线",
+      "表达了对科技板块后续走势的乐观态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

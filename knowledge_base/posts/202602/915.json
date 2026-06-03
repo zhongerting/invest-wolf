@@ -1,0 +1,24 @@
+{
+  "post_num": 915,
+  "date": "2026-02-26 13:07:24",
+  "content": "光伏可以看短 但是长线是电池  我预计下周吃电池的长线仓位。最近没钱了",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者对光伏持短期看好态度，但更看好电池板块的长线价值。计划下周建立电池板块的长线仓位，尽管目前提到资金状况偏紧。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "光伏板块仅看好短期行情",
+      "电池板块具备长线投资价值",
+      "计划下周加仓电池板块长线仓位",
+      "作者目前面临资金短缺的约束"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_num": 1002,
+  "date": "2026-03-02 11:16:46",
+  "content": "早上冲高不减你现在问我明天？我今早说的最多的就是冲高减仓。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者强调今早冲高是减仓良机，并对未及时操作而询问明日走势的行为表示不满，核心观点是逢高减仓。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "明确建议在早盘冲高时进行减仓操作",
+      "对错过卖点的投资者表达了负面情绪",
+      "暗示短期内市场存在风险，不建议持仓过重"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "post_num": 2826,
+  "date": "2026-05-28 14:10:06",
+  "content": "我刚才不是发了小剧场了么  需要放的那些量能在非科技方向 看着自己手上刚反弹的1个点 他们动不了啊",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出当前市场成交量主要集中在科技方向，而非科技板块因缺乏量能支持，导致相关个股即便出现微弱反弹也难以持续走强，表现出动能不足的困境。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "非科技方向目前缺乏足够的成交量配合",
+      "资金集中在特定领域（科技），导致其他板块流动性不足",
+      "持仓个股反弹力度微弱（1个点）且缺乏后续向上动能"
+    ],
+    "analysis_method": "llm"
+  }
+}

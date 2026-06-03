@@ -1,0 +1,22 @@
+{
+  "post_num": 1120,
+  "date": "2026-03-06 10:11:07",
+  "content": "发动机才是最重要的消耗品 不是那个飞机本体",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为在航空航天领域，航空发动机作为核心消耗品，其长期市场价值和投资重要性超过飞机整机本体。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "发动机是航空产业链中价值量最高且具备高频消耗属性的核心环节",
+      "强调售后维修、零部件更换等存量市场的投资逻辑优于整机制造",
+      "投资重点应侧重于具有持续需求和高技术壁垒的消耗性部件"
+    ],
+    "analysis_method": "llm"
+  }
+}

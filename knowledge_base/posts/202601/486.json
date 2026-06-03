@@ -1,0 +1,21 @@
+{
+  "post_num": 486,
+  "date": "2026-01-28 14:27:05",
+  "content": "夏天可以去玩啊  能用就不算亏",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该内容主要表达了对夏季休闲活动的建议以及一种基于实用主义的消费/使用心态，认为只要具备使用价值就不算亏损，不涉及具体的股市投资分析。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "建议夏季可以外出游玩",
+      "提出“能用就不算亏”的实用主义观点",
+      "内容缺乏金融市场或个股相关的实质性信息"
+    ],
+    "analysis_method": "llm"
+  }
+}

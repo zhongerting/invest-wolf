@@ -1,0 +1,22 @@
+{
+  "post_num": 1515,
+  "date": "2026-03-25 17:41:22",
+  "content": "这里别揉搓了  你能看到漂亮的图都是画出来的。别问我为什么懂 我也在画",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者发帖警告投资者不要迷信技术走势图，直言漂亮的K线形态多为主力资金人为操纵（画图）的结果，暗示当前市场信号具有欺骗性。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "指出技术走势图存在人为操纵和“画图”痕迹",
+      "提醒投资者警惕所谓的“漂亮图形”，防范诱多陷阱",
+      "暗示当前市场波动不反映真实价值，缺乏操作价值"
+    ],
+    "analysis_method": "llm"
+  }
+}

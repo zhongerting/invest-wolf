@@ -1,0 +1,24 @@
+{
+  "post_num": 1982,
+  "date": "2026-04-13 14:08:39",
+  "content": "我个人的两个电池都是300的  长线  网格做T 加多于减",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者持有电池板块标的，采取长线投资结合网格做T的策略，目前操作上加仓多于减仓，显示出对该板块的看好态度。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "持有电池板块相关标的",
+      "投资期限设定为长线",
+      "采用网格交易策略进行日内或波段做T",
+      "当前操作倾向于加仓多于减仓"
+    ],
+    "analysis_method": "llm"
+  }
+}

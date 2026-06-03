@@ -1,0 +1,23 @@
+{
+  "post_num": 474,
+  "date": "2026-01-28 13:25:40",
+  "content": "反正哪天收盘都没有砸盘 那就是结束了 根本不用盘中判断。",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者认为判断市场调整或砸盘压力结束的关键在于收盘表现，若收盘时未出现砸盘现象则视为信号确认，主张忽略盘中波动，以收盘定性。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "以收盘状态作为行情转折或调整结束的判定标准",
+      "认为收盘无砸盘即代表卖压衰竭或洗盘结束",
+      "强调减少盘中随机波动的干扰，主张静态观察收盘结果"
+    ],
+    "analysis_method": "llm"
+  }
+}

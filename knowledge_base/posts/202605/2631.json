@@ -1,0 +1,25 @@
+{
+  "post_num": 2631,
+  "date": "2026-05-15 14:39:44",
+  "content": "我再说一次 我半导体之后不管是设备还是材料 都是减法  完全加不了一点。\n光这边我等诱多  然后也是一样。",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者明确表示对半导体板块（含设备与材料）持减仓态度，坚决不再加仓；同时计划在‘光’板块出现诱多行情时同步进行减仓操作。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "对半导体设备和材料板块执行减仓（做减法）策略",
+      "明确表态半导体板块完全不会再加仓",
+      "认为‘光’板块后续存在诱多风险，并计划届时减仓"
+    ],
+    "analysis_method": "llm"
+  }
+}

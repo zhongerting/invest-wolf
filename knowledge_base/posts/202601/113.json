@@ -1,0 +1,22 @@
+{
+  "post_num": 113,
+  "date": "2026-01-15 13:47:12",
+  "content": "你就当我们也是一个小机构就行，大家做的是合力",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "作者将群体定位为“小机构”，强调通过集体协作形成“合力”进行市场操作，体现了抱团或协同作战的投资策略。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "low",
+    "key_points": [
+      "将散户或特定群体比作“小机构”，暗示具备一定的资金或信息优势",
+      "核心观点是市场操作需要形成“合力”",
+      "强调集体行动在股价驱动或市场博弈中的重要性"
+    ],
+    "analysis_method": "llm"
+  }
+}

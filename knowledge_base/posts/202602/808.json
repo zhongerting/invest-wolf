@@ -1,0 +1,22 @@
+{
+  "post_num": 808,
+  "date": "2026-02-12 13:40:45",
+  "content": "不是啊。。做的是这段时间发酵的AI应用爆算力。。。你不见都是国内算力租赁么",
+  "analysis": {
+    "tags": [
+      "sector",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "帖子指出当前市场热点逻辑在于AI应用端发酵引发的算力需求激增，并明确指出国内算力租赁是核心受益方向。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "AI应用的快速发展导致算力需求出现爆发式增长",
+      "国内算力租赁板块是当前市场关注的重点逻辑",
+      "解释了近期相关板块上涨的驱动因素是算力供需矛盾"
+    ],
+    "analysis_method": "llm"
+  }
+}

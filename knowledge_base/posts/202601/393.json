@@ -1,0 +1,22 @@
+{
+  "post_num": 393,
+  "date": "2026-01-26 14:39:25",
+  "content": "今天吗?今天只是因为跌多了而已。",
+  "analysis": {
+    "tags": [
+      "technical",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者认为今日的市场表现（通常指反弹）仅仅是由于前期跌幅过大而引发的技术性超跌反弹，缺乏基本面支撑或趋势反转的信号。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "今日行情被定性为超跌后的技术性修复",
+      "作者对当前上涨的持续性或动力持保留态度",
+      "暗示市场并未出现实质性的利好驱动"
+    ],
+    "analysis_method": "llm"
+  }
+}

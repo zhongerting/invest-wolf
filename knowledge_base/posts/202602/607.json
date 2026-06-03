@@ -1,0 +1,23 @@
+{
+  "post_num": 607,
+  "date": "2026-02-02 14:55:49",
+  "content": "亏半个点出清完刚才加仓的。因为放量跌破新低。",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者因标的放量跌破新低，果断对刚加仓的部分进行止损清仓（亏损0.5%），反映出其在技术破位时的风险控制操作。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "操作行为：清仓了近期加仓的仓位",
+      "盈亏情况：小幅亏损0.5%后止损离场",
+      "卖出理由：技术面出现放量跌破新低的看空信号"
+    ],
+    "analysis_method": "llm"
+  }
+}

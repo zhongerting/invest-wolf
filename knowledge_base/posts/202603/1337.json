@@ -1,0 +1,22 @@
+{
+  "post_num": 1337,
+  "date": "2026-03-19 15:15:06",
+  "content": "你要按年算肯定没问题 这个我现在还是放话在这里\n但是我是做趋势的，上下我肯定要做对应操作的。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "technical"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者表达了对长期走势的坚定信心，但强调自己是趋势交易者，会根据市场波动（上下趋势）进行灵活的波段操作，而非死守。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "长期维度（按年算）看好市场前景",
+      "交易风格定位于趋势跟踪",
+      "操作上具有灵活性，会随市场波动进行对应调仓"
+    ],
+    "analysis_method": "llm"
+  }
+}

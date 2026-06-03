@@ -1,0 +1,22 @@
+{
+  "post_num": 1405,
+  "date": "2026-03-20 17:29:21",
+  "content": "没用  真金白银进来才有用",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者对当前市场环境或政策利好持怀疑态度，认为只有实际的资金流入（成交量增加）才是市场走强的关键，而非口头承诺或虚假信号。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "认为口头利好或非资金类政策对市场无效",
+      "强调增量资金（真金白银）是驱动市场的唯一实质因素",
+      "表达了对当前市场缺乏流动性或实质性支撑的失望"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "post_num": 1452,
+  "date": "2026-03-23 15:04:14",
+  "content": "量化也是亏的 现在是止损盘 5000多下跌  谁挣钱了\n但是他们也没办法  现在台子不稳不是他们的错",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "帖子反映了当前市场极度低迷，超5000只个股下跌触发止损盘。作者指出量化资金同样亏损，认为赚钱效应缺失的主因在于市场环境（台子）不稳，而非量化机构的责任。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "high",
+    "key_points": [
+      "量化基金目前也处于亏损状态，并非盈利方",
+      "市场出现大规模止损盘，导致5000多只个股普跌",
+      "市场整体环境（台子）不稳定是导致亏损的核心原因",
+      "当前市场缺乏赚钱效应，整体情绪极度悲观"
+    ],
+    "analysis_method": "llm"
+  }
+}

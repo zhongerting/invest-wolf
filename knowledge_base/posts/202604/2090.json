@@ -1,0 +1,23 @@
+{
+  "post_num": 2090,
+  "date": "2026-04-15 15:03:21",
+  "content": "对 除非早上睡过头的 不然82.33%会被杀出去  最可怕的是这些被杀出去的 会在随后的拉升中B回来，然后再被反复摁下去",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖描述了典型的市场洗盘与追涨杀跌心理：多数投资者在早盘波动中被洗出筹码，随后在拉升时因恐慌性买回（B回来）而再次被套，反映了市场反复震荡对散户心理的收割。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "早盘剧烈波动会导致大部分不坚定的投资者被“洗出去”。",
+      "被洗出的投资者容易在随后的拉升中产生FOMO心理追高买回。",
+      "市场存在反复震荡的风险，追高买回的投资者可能面临二次被套的局面。"
+    ],
+    "analysis_method": "llm"
+  }
+}

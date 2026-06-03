@@ -1,0 +1,21 @@
+{
+  "post_num": 1301,
+  "date": "2026-03-18 14:31:57",
+  "content": "今晚不会加息 预期在7月后",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者预测短期内（今晚）不会加息，并将加息的时间预期推迟至7月以后。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "预测今晚维持利率不变",
+      "加息预期窗口移至7月之后"
+    ],
+    "analysis_method": "llm"
+  }
+}

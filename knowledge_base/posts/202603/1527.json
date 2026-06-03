@@ -1,0 +1,23 @@
+{
+  "post_num": 1527,
+  "date": "2026-03-26 13:15:29",
+  "content": "要割肉也不能这里割肉 这是跳空位置 会有人过来做诱多盘的。",
+  "analysis": {
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者建议不要在当前的跳空位置盲目止损，认为该位置会有资金介入制造“诱多”行情，建议等待反弹机会再行处理。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "当前处于跳空缺口位置，具有技术性参考意义",
+      "不建议在当前位置直接割肉止损",
+      "预判后续会有诱多盘出现，存在短期反弹或回抽需求"
+    ],
+    "analysis_method": "llm"
+  }
+}

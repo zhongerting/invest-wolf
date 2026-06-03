@@ -1,0 +1,21 @@
+{
+  "post_num": 322,
+  "date": "2026-01-22 10:25:37",
+  "content": "再说什么鬼话这是 我就这一个号 连小号都没申请过 封了就没了",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "发帖者澄清自己仅有一个账号，否认拥有小号，并对可能面临的封号风险或相关指责做出回应，内容不涉及具体的股市分析。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "发帖者强调账号的唯一性，否认存在多账号操作",
+      "对外界的质疑或封号威胁表示抗议",
+      "内容属于社交平台个人申诉，无市场参考价值"
+    ],
+    "analysis_method": "llm"
+  }
+}

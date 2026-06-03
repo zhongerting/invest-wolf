@@ -1,0 +1,22 @@
+{
+  "post_num": 780,
+  "date": "2026-02-12 10:20:27",
+  "content": "没有 那几个进指数的大票都一样",
+  "analysis": {
+    "tags": [
+      "market",
+      "stock"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为近期新纳入指数的大盘权重股表现雷同，缺乏差异化或亮点，表达了对这些标的较为平淡或消极的看法。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "新纳入指数的大盘股（大票）走势具有高度一致性",
+      "暗示这些权重股目前缺乏独立行情或超额收益",
+      "对市场中大盘股的整体表现持否定或观望态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

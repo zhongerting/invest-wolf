@@ -1,0 +1,22 @@
+{
+  "post_num": 1090,
+  "date": "2026-03-05 08:09:11",
+  "content": "韩国这种股市才是正常救市言论出来的样子",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者通过赞赏韩国股市的救市言论表现，表达了对“正常”救市方式的认可，间接反映出对当前市场救市政策力度或表态方式的期待。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "认可韩国股市救市言论的及时性和有效性",
+      "强调市场需要符合预期的“正常”救市表态",
+      "暗示当前市场情绪对有力政策引导的渴望"
+    ],
+    "analysis_method": "llm"
+  }
+}

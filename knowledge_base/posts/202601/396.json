@@ -1,0 +1,25 @@
+{
+  "post_num": 396,
+  "date": "2026-01-27 10:08:41",
+  "content": "T出昨天抄底半导体ETF的一半",
+  "analysis": {
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者对昨日抄底的半导体ETF进行减仓，卖出了一半仓位，属于短线获利了结或波段操作。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "sentiment": "neutral",
+    "confidence": "high",
+    "key_points": [
+      "昨日买入（抄底）了半导体ETF",
+      "今日卖出（T出）其中一半仓位",
+      "执行短线波段或降低成本的交易策略"
+    ],
+    "analysis_method": "llm"
+  }
+}

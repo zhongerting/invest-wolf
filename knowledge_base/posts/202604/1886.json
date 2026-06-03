@@ -1,0 +1,23 @@
+{
+  "post_num": 1886,
+  "date": "2026-04-08 13:40:19",
+  "content": "量化调整策略了 被弱化了 现在是跟大资金后面 没有办法冲前面了",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "量化交易策略因环境变化而调整，其市场主导地位被削弱，目前已转为跟随大资金操作，失去了先发冲锋的优势。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "量化交易策略近期进行了调整，其市场影响力被弱化",
+      "量化资金的操作模式从主动进攻转为跟随大资金",
+      "量化交易失去了以往在行情中冲在前面的先发优势"
+    ],
+    "analysis_method": "llm"
+  }
+}

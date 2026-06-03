@@ -1,0 +1,18 @@
+{
+  "post_num": 193,
+  "date": "2026-01-16 16:44:29",
+  "content": "跟这个没关系",
+  "analysis": {
+    "tags": [],
+    "category": "other",
+    "summary": "该内容仅包含一句简短的否定性陈述，缺乏具体的股市投资相关信息、板块指向或市场观点。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "内容为简短的对话回复，无实质性金融分析价值",
+      "无法识别具体的讨论对象或市场意图"
+    ],
+    "analysis_method": "llm"
+  }
+}

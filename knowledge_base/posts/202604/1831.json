@@ -1,0 +1,20 @@
+{
+  "post_num": 1831,
+  "date": "2026-04-03 14:30:46",
+  "content": "他弄出来放哪？",
+  "analysis": {
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖子内容仅包含一个简短的询问“他弄出来放哪？”，疑似在讨论资金流向或资产套现后的去处，但由于缺乏上下文，无法确定具体指代对象。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "用户在询问某人或某机构提取资金/资产后的安置问题",
+      "信息量极低，无法判断具体的股票、板块或市场趋势"
+    ],
+    "analysis_method": "llm"
+  }
+}

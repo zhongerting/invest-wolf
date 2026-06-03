@@ -1,0 +1,28 @@
+{
+  "post_num": 2200,
+  "date": "2026-04-22 15:26:04",
+  "content": "主线 和题材都在涨\n量价也OK  金融也没拖后退\n战争题材没有集体反扑\n我暂时没有看到风险。",
+  "analysis": {
+    "tags": [
+      "market",
+      "technical",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "市场呈现主线与题材共振上涨态势，量价配合理想，金融板块支撑有力，且避险情绪（战争题材）未抬头，作者判断当前市场风险较低，情绪乐观。",
+    "mentioned_sectors": [
+      "金融"
+    ],
+    "sentiment": "bullish",
+    "confidence": "high",
+    "key_points": [
+      "主线与题材股同步上涨，市场赚钱效应较好",
+      "量价关系匹配，技术面走势健康",
+      "金融权重板块表现稳健，未对大盘造成拖累",
+      "避险/战争题材未出现集体反弹，显示市场风险偏好稳定",
+      "作者明确表示暂时未看到市场风险"
+    ],
+    "analysis_method": "llm"
+  }
+}

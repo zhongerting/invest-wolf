@@ -1,0 +1,22 @@
+{
+  "post_num": 1217,
+  "date": "2026-03-16 10:53:44",
+  "content": "这里建议你别看盘 就这一个小时别看",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者建议投资者在接下来的一个小时内停止看盘，意在提醒避开短期的剧烈波动或情绪化交易时段，侧重于交易心理的管理。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "明确建议投资者在未来一小时内远离盘面",
+      "暗示当前市场可能存在剧烈波动或非理性走势",
+      "旨在通过物理隔离信息流来规避情绪化决策"
+    ],
+    "analysis_method": "llm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "post_num": 1789,
+  "date": "2026-04-03 09:53:38",
+  "content": "开始情绪有点出来了  不急 给情绪释放一下。现在是黄线带着白线下去的。",
+  "analysis": {
+    "tags": [
+      "sentiment",
+      "technical",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到市场情绪开始释放，盘面呈现黄线（代表小盘股或分时均线）领跌白线（代表大盘股或指数）的特征，建议投资者保持耐心，等待压力释放完毕。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "市场负面情绪开始显现，需要时间进行释放",
+      "盘面特征为黄线带动白线下行，暗示市场普跌或小盘股跌幅较大",
+      "操作策略上主张观望，不急于进场"
+    ],
+    "analysis_method": "llm"
+  }
+}

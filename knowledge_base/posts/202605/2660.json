@@ -1,0 +1,26 @@
+{
+  "post_num": 2660,
+  "date": "2026-05-20 13:22:33",
+  "content": "包括量化也去加速科技核心票了 基本是全场吸血了",
+  "analysis": {
+    "tags": [
+      "market",
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "量化资金加速涌入科技核心个股，导致市场出现明显的流动性挤压，呈现出科技板块对全场资金的“吸血效应”。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "量化资金正在加速向科技核心标的集中",
+      "科技核心股走强伴随着对市场其他板块的流动性虹吸（吸血效应）",
+      "市场呈现出极端的结构化特征，资金高度抱团核心科技票"
+    ],
+    "analysis_method": "llm"
+  }
+}

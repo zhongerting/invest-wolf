@@ -1,0 +1,22 @@
+{
+  "post_num": 1173,
+  "date": "2026-03-11 11:08:44",
+  "content": "风电需要有自主控制权的山或者超级大平原 或者海风\n你说话之前不能看看欧洲地图吗",
+  "analysis": {
+    "tags": [
+      "sector",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖讨论了风电产业发展的地理选址要求，强调风电布局需具备特定地理条件（如山地、平原或海风）及自主控制权，并以欧洲地理环境作为参考依据。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "风电开发高度依赖特定的地理环境，如具有控制权的山区、超级大平原或海上资源",
+      "强调风电场址的“自主控制权”是开发的关键因素",
+      "暗示欧洲的地理特征是风电发展的典型参考模式"
+    ],
+    "analysis_method": "llm"
+  }
+}

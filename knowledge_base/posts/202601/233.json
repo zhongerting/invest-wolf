@@ -1,0 +1,25 @@
+{
+  "post_num": 233,
+  "date": "2026-01-19 14:21:15",
+  "content": "里面都是机构和量化。。。。柚子摆明不会去的。。。只要散户接够了 这个方向就结束，不存在什么超额预期。不用看基本面 就看量价就行了",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy",
+      "technical"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场方向由机构和量化主导，缺乏游资参与。一旦散户接盘完成，行情将结束且无超额预期。建议投资者忽略基本面，仅关注量价关系。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "medium",
+    "key_points": [
+      "市场参与者结构以机构和量化为主，游资（柚子）避而远之",
+      "散户接盘被视为行情终结的信号",
+      "该投资方向已无超额预期空间",
+      "主张放弃基本面分析，转而通过量价关系进行技术面判断"
+    ],
+    "analysis_method": "llm"
+  }
+}

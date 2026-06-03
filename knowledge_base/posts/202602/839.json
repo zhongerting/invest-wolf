@@ -1,0 +1,22 @@
+{
+  "post_num": 839,
+  "date": "2026-02-13 10:20:27",
+  "content": "![img](assets/839_238bac1z.jpg)\n目前所有账户都是这样 等冲高了我减回80%",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者透露目前多个账户处于高仓位状态，并计划在市场出现冲高行情时进行减仓，目标是将仓位降至 80%。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "目前所有账户持仓比例较高（可能接近满仓）",
+      "预期后市会有冲高走势",
+      "明确了减仓计划，目标位是恢复到 80% 的仓位水平"
+    ],
+    "analysis_method": "llm"
+  }
+}

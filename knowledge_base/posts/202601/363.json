@@ -1,0 +1,21 @@
+{
+  "post_num": 363,
+  "date": "2026-01-23 14:57:56",
+  "content": "哪个位面在缩量？",
+  "analysis": {
+    "tags": [
+      "technical",
+      "market"
+    ],
+    "category": "technical_analysis",
+    "summary": "用户以调侃的语气询问哪里出现了“缩量”现象，表达了对当前市场成交量数据或市场状态的困惑与质疑。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "low",
+    "key_points": [
+      "关注市场成交量（缩量）变化",
+      "对当前市场是否存在缩量状态持怀疑或讽刺态度"
+    ],
+    "analysis_method": "llm"
+  }
+}

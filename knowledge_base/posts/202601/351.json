@@ -1,0 +1,22 @@
+{
+  "post_num": 351,
+  "date": "2026-01-22 15:11:25",
+  "content": "对了  是这种意思\n所以那些散户就觉得GJD就针对自己。。。这TM不是天方夜谭么",
+  "analysis": {
+    "tags": [
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者驳斥了散户认为“国家队”（GJD）专门针对自己的观点，认为这种受害者心态是荒谬且不切实际的。",
+    "mentioned_sectors": [],
+    "sentiment": "neutral",
+    "confidence": "medium",
+    "key_points": [
+      "驳斥散户关于国家队（GJD）操盘针对个人的阴谋论",
+      "指出散户在市场波动中存在认知偏差和受害者心理",
+      "认为散户将亏损归咎于国家队针对是“天方夜谭”"
+    ],
+    "analysis_method": "llm"
+  }
+}

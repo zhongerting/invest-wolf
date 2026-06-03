@@ -1,0 +1,22 @@
+{
+  "post_num": 2499,
+  "date": "2026-05-12 11:08:30",
+  "content": "我目前减到了71%仓位\n感觉不太对。",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者因主观感知市场风险，已将仓位降至71%，表达了对当前市场走势的担忧和不确定感。",
+    "mentioned_sectors": [],
+    "sentiment": "bearish",
+    "confidence": "low",
+    "key_points": [
+      "当前仓位已减至71%",
+      "作者主观直觉认为市场状态异常",
+      "采取了减仓避险的交易行动"
+    ],
+    "analysis_method": "llm"
+  }
+}

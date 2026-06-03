@@ -1,0 +1,23 @@
+{
+  "post_num": 2406,
+  "date": "2026-05-06 18:32:03",
+  "content": "埋伏的没出现就不做了啊 我留着干啥。准备访华了  过节海那边不跳 现在就更跳不起来了",
+  "analysis": {
+    "tags": [
+      "strategy",
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者因预期的利好行情未出现而选择撤出，同时认为随着外交访问临近及海外市场企稳，市场下行风险减小，整体环境趋于稳定。",
+    "mentioned_sectors": [],
+    "sentiment": "bullish",
+    "confidence": "medium",
+    "key_points": [
+      "交易策略上，因“埋伏”的预期未兑现，决定不再持有或停止操作。",
+      "宏观层面，认为即将到来的访华消息对市场具有维稳作用。",
+      "外部环境上，观察到海外市场在假期期间表现平稳，判断后续波动风险较低。"
+    ],
+    "analysis_method": "llm"
+  }
+}
