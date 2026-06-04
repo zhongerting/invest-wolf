@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 from config import Config
 from knowledge_base import KnowledgeBase
 from positions import PositionManager
-from biying_client import BiyingClient
+from data_source import DataSource
 from intraday_analysis import IntradayAnalyzer
 from llm_client import LLMClient
 
@@ -15,9 +15,9 @@ class DailyReview:
     def __init__(self):
         self.kb = KnowledgeBase()
         self.pm = PositionManager()
-        self.api = BiyingClient()
+        self.api = DataSource()
         self.analyzer = IntradayAnalyzer()
-        self.llm_client = LLMClient()
+        self.llm_client = LLMClient(model=Config.LLM_MODEL_DAILY_REVIEW)
         Config.ensure_directories()
     
     def generate_review(self, target_date=None, use_llm=True):
@@ -38,6 +38,7 @@ class DailyReview:
             "market_overview": {},
             "technical_review": {},
             "wolf_posts": [],
+            "wolf_daily_summary": {},
             "strategy": {
                 "short_term": [],
                 "medium_term": [],
@@ -51,7 +52,9 @@ class DailyReview:
                 "operations": [],
                 "evaluation": "",
                 "suggestions": []
-            }
+            },
+            "today_positions": {},
+            "tomorrow_plan": {}
         }
         
         # 获取市场概况
@@ -60,22 +63,33 @@ class DailyReview:
         # 技术面复盘
         report["technical_review"] = self._get_technical_review()
         
+        # 获取今日持仓信息
+        report["today_positions"] = self._get_today_positions()
+        
         # 获取狼大当日发言（使用盘中已分析的结果）
         report["wolf_posts"] = self._get_wolf_posts(target_date)
         
         # 对当日所有狼大发言进行一次整体分析，提取狼大的整体思路
         if use_llm:
-            report["wolf_daily_summary"] = self._analyze_daily_wolf_summary(report["wolf_posts"])
+            report["wolf_daily_summary"] = self._analyze_daily_wolf_summary_enhanced(report["wolf_posts"])
         else:
             report["wolf_daily_summary"] = {
                 "overall_view": "（LLM分析已跳过）",
                 "key_signals": [],
                 "investment_theme": "未明确",
-                "risk_reminder": ""
+                "risk_reminder": "",
+                "trading_philosophy": "",
+                "key_points": []
             }
         
         # 生成操作复盘评分
-        report["operation_review"] = self._generate_operation_review(report, target_date, use_llm=use_llm)
+        report["operation_review"] = self._generate_operation_review_enhanced(report, target_date, use_llm=use_llm)
+        
+        # 生成明日操作计划
+        if use_llm:
+            report["tomorrow_plan"] = self._generate_tomorrow_plan(report)
+        else:
+            report["tomorrow_plan"] = {"if_then_actions": [], "key_watchlist": [], "market_conditions": {}}
         
         # 生成策略建议
         report["strategy"] = self._generate_strategy(report)
@@ -96,10 +110,54 @@ class DailyReview:
         report["risk_summary"] = self._get_risk_summary(report)
         
         # 保存报告为Markdown
-        md_content = self._generate_markdown_report(report)
+        md_content = self._generate_markdown_report_enhanced(report)
         self._save_report(md_content, date_str)
         
         return report
+    
+    def _get_today_positions(self):
+        """获取今日持仓信息"""
+        try:
+            diagnosis = self.pm.generate_diagnosis()
+            summary = diagnosis.get("summary", {})
+            positions = summary.get("positions", [])
+            
+            # 整理持仓信息
+            formatted_positions = []
+            for pos in positions:
+                price_data = self.api.get_stock_price(pos.get("stock_code", ""))
+                current_price = price_data.get("price", pos.get("current_price", 0)) if price_data else pos.get("current_price", 0)
+                
+                formatted_positions.append({
+                    "stock_name": pos.get("stock_name", "未知"),
+                    "stock_code": pos.get("stock_code", ""),
+                    "quantity": pos.get("quantity", 0),
+                    "cost_price": pos.get("cost_price", 0),
+                    "current_price": current_price,
+                    "market_value": pos.get("market_value", 0),
+                    "profit": pos.get("profit", 0),
+                    "profit_pct": pos.get("profit_pct", 0),
+                    "status": "持仓中"
+                })
+            
+            return {
+                "total_stocks": len(formatted_positions),
+                "total_value": summary.get("total_value", 0),
+                "total_cost": summary.get("total_cost", 0),
+                "total_profit": summary.get("total_profit", 0),
+                "total_profit_pct": summary.get("total_profit_pct", 0),
+                "positions": formatted_positions
+            }
+        except Exception as e:
+            logger.error(f"获取今日持仓失败: {e}")
+            return {
+                "total_stocks": 0,
+                "total_value": 0,
+                "total_cost": 0,
+                "total_profit": 0,
+                "total_profit_pct": 0,
+                "positions": []
+            }
     
     def _get_market_overview(self):
         """获取市场概况"""
@@ -969,14 +1027,537 @@ class DailyReview:
             f.write(md_content)
         
         logger.info(f"每日复盘报告已保存: {file_path}")
+    
+    def _analyze_daily_wolf_summary_enhanced(self, wolf_posts):
+        """
+        增强版：对当日所有狼大发言进行整体分析，提取狼大的交易思路和交易哲学
+        """
+        if not wolf_posts or not self.llm_client.is_configured():
+            return {
+                "overall_view": "暂无整体分析",
+                "key_signals": [],
+                "investment_theme": "未明确",
+                "risk_reminder": "",
+                "trading_philosophy": "",
+                "key_points": []
+            }
+        
+        # 收集所有发言的摘要和分析
+        posts_summary = []
+        for post in wolf_posts:
+            summary = post.get("summary", "")
+            category = post.get("category", "")
+            tags = ", ".join(post.get("tags", []))
+            content = post.get("content", "")
+            posts_summary.append(f"【{category}】{summary}\n标签: {tags}\n内容: {content}\n---")
+        
+        all_summary = "\n".join(posts_summary)
+        
+        try:
+            prompt = f"""请对狼大今日的所有发言进行深度综合分析，从以下几个角度进行解读：
+
+## 今日发言汇总
+{all_summary}
+
+## 分析要求
+请从以下角度进行深度分析：
+1. **整体观点**：狼大今天对市场的整体看法是什么？是看多、看空还是中性？
+2. **关键信号**：今天提到了哪些重要的市场信号、板块机会或个股机会？
+3. **投资主线**：今天的核心投资主题或方向是什么？
+4. **风险提示**：有哪些需要注意的风险点？
+5. **交易思路**：分析狼大今天的发言中体现出的交易思路、操作风格、选股逻辑等
+6. **交易哲学**：从发言中提炼狼大的投资理念、风险控制理念等交易哲学
+
+请输出JSON格式的分析结果：
+{{
+    "overall_view": "整体观点",
+    "key_signals": ["关键信号1", "关键信号2", "关键信号3"],
+    "investment_theme": "投资主线",
+    "risk_reminder": "风险提示",
+    "trading_philosophy": "交易哲学",
+    "key_points": ["核心要点1", "核心要点2", "核心要点3"]
+}}
+"""
+            
+            result = self.llm_client.chat([{"role": "user", "content": prompt}])
+            
+            if result:
+                try:
+                    llm_result = json.loads(result)
+                    return {
+                        "overall_view": llm_result.get("overall_view", "分析失败"),
+                        "key_signals": llm_result.get("key_signals", []),
+                        "investment_theme": llm_result.get("investment_theme", "未明确"),
+                        "risk_reminder": llm_result.get("risk_reminder", ""),
+                        "trading_philosophy": llm_result.get("trading_philosophy", ""),
+                        "key_points": llm_result.get("key_points", [])
+                    }
+                except:
+                    # 如果不是JSON格式，返回简化版
+                    return {
+                        "overall_view": result[:200] if result else "分析失败",
+                        "key_signals": [],
+                        "investment_theme": "未明确",
+                        "risk_reminder": "",
+                        "trading_philosophy": "",
+                        "key_points": []
+                    }
+            else:
+                return {
+                    "overall_view": "分析失败",
+                    "key_signals": [],
+                    "investment_theme": "未明确",
+                    "risk_reminder": "",
+                    "trading_philosophy": "",
+                    "key_points": []
+                }
+        except Exception as e:
+            logger.error(f"每日狼大发言综合分析失败: {e}")
+            return {
+                "overall_view": f"分析出错: {str(e)}",
+                "key_signals": [],
+                "investment_theme": "未明确",
+                "risk_reminder": "",
+                "trading_philosophy": "",
+                "key_points": []
+            }
+    
+    def _generate_operation_review_enhanced(self, report, target_date, use_llm=True):
+        """
+        增强版：生成今日操作复盘评分，结合狼大发言和市场数据
+        """
+        operation_review = {
+            "score": 0,
+            "score_detail": "",
+            "operations": [],
+            "evaluation": "",
+            "suggestions": []
+        }
+        
+        # 获取今日操作记录
+        today_operations = self._get_today_operations(target_date)
+        operation_review["operations"] = today_operations
+        
+        if not today_operations:
+            operation_review["evaluation"] = "今日无操作记录"
+            operation_review["suggestions"] = ["建议根据狼大发言和市场情况制定操作计划"]
+            return operation_review
+        
+        # 使用LLM进行评分
+        if use_llm and self.llm_client.is_configured():
+            llm_result = self._evaluate_operations_with_llm_enhanced(today_operations, report)
+            operation_review["score"] = llm_result.get("score", 50)
+            operation_review["score_detail"] = llm_result.get("score_detail", "")
+            operation_review["evaluation"] = llm_result.get("evaluation", "")
+            operation_review["suggestions"] = llm_result.get("suggestions", [])
+        else:
+            rule_result = self._evaluate_operations_with_rules(today_operations, report)
+            operation_review["score"] = rule_result.get("score", 50)
+            operation_review["score_detail"] = rule_result.get("score_detail", "")
+            operation_review["evaluation"] = rule_result.get("evaluation", "")
+            operation_review["suggestions"] = rule_result.get("suggestions", [])
+        
+        return operation_review
+    
+    def _evaluate_operations_with_llm_enhanced(self, operations, report):
+        """增强版：使用LLM评估今日操作，结合狼大发言和市场数据"""
+        
+        # 获取狼大发言摘要
+        wolf_posts_summary = "\n".join([f"{p['date']}: {p['summary']}" for p in report.get("wolf_posts", [])])
+        
+        # 获取市场概况
+        market_summary = "\n".join([
+            f"{idx['name']}: {idx.get('current_price', 'N/A')}"
+            for idx in report['market_overview']['indices']
+        ])
+        
+        # 获取狼大综合分析
+        wolf_summary = report.get("wolf_daily_summary", {})
+        wolf_overall_view = wolf_summary.get("overall_view", "")
+        wolf_key_signals = "\n".join([f"- {s}" for s in wolf_summary.get("key_signals", [])])
+        wolf_investment_theme = wolf_summary.get("investment_theme", "")
+        
+        # 构建操作详情
+        operations_detail = []
+        for op in operations:
+            stock_code = op.get("stock_code", "")
+            stock_name = op.get("stock_name", "未知")
+            op_type = op.get("type", "未知")
+            price = op.get("price", 0)
+            quantity = op.get("quantity", 0)
+            recorded_at = op.get("recorded_at", "")
+            
+            op_detail = f"- {op_type} {stock_name}({stock_code}): {quantity}股 @ {price:.3f}"
+            if recorded_at:
+                op_detail += f" ({recorded_at})"
+            operations_detail.append(op_detail)
+        
+        operations_str = "\n".join(operations_detail)
+        
+        # 构建评分提示词
+        prompt = f"""请对今日操作进行详细的复盘评分，满分100分。
+
+## 今日市场概况
+{market_summary}
+
+## 狼大今日观点摘要
+- 整体观点: {wolf_overall_view}
+- 关键信号:
+{wolf_key_signals if wolf_key_signals else '无'}
+- 投资主线: {wolf_investment_theme if wolf_investment_theme else '未明确'}
+
+## 今日操作记录
+{operations_str}
+
+## 评分要求
+请从以下五个维度进行评分，每个维度20分：
+1. **狼大契合度(20分)**: 操作是否符合狼大今日观点和投资主线？
+2. **市场契合度(20分)**: 操作是否符合今日市场行情和氛围？
+3. **价格合理性(20分)**: 买卖价格是否合理？
+4. **决策逻辑性(20分)**: 操作是否有明确的逻辑支撑？
+5. **风险控制(20分)**: 风险控制是否到位？
+
+请输出JSON格式的评分结果：
+{{
+    "score": 总分,
+    "score_detail": "评分详情说明",
+    "dimension_scores": {{
+        "wolf_alignment": {{"score": 分数, "reason": "原因"}},
+        "market_alignment": {{"score": 分数, "reason": "原因"}},
+        "price_reasonableness": {{"score": 分数, "reason": "原因"}},
+        "decision_logic": {{"score": 分数, "reason": "原因"}},
+        "risk_control": {{"score": 分数, "reason": "原因"}}
+    }},
+    "evaluation": "总体评价",
+    "suggestions": ["改进建议1", "改进建议2"]
+}}
+"""
+        
+        try:
+            result = self.llm_client.chat([{"role": "user", "content": prompt}])
+            
+            try:
+                # 提取JSON内容 - 处理可能的markdown包裹
+                import re
+                json_match = re.search(r'```(?:json)?\s*([\s\S]*?)\s*```', result)
+                if json_match:
+                    result = json_match.group(1).strip()
+                
+                llm_result = json.loads(result)
+                
+                # 格式化评分详情
+                score_detail = []
+                dim_scores = llm_result.get("dimension_scores", {})
+                
+                if isinstance(dim_scores, dict):
+                    for dim_name, dim_data in dim_scores.items():
+                        if isinstance(dim_data, dict):
+                            score = dim_data.get("score", 0)
+                            reason = dim_data.get("reason", "")
+                            dim_title = {
+                                "wolf_alignment": "狼大契合度",
+                                "market_alignment": "市场契合度",
+                                "price_reasonableness": "价格合理性",
+                                "decision_logic": "决策逻辑性",
+                                "risk_control": "风险控制"
+                            }.get(dim_name, dim_name)
+                            score_detail.append(f"- **{dim_title}**: {score}分\n  {reason}")
+                
+                return {
+                    "score": llm_result.get("score", 50),
+                    "score_detail": "\n".join(score_detail) if score_detail else llm_result.get("score_detail", ""),
+                    "evaluation": llm_result.get("evaluation", ""),
+                    "suggestions": llm_result.get("suggestions", [])
+                }
+            except Exception as json_err:
+                logger.warning(f"解析评分JSON失败: {json_err}，使用默认评分")
+                # 使用规则评分作为降级方案
+                return self._evaluate_operations_with_rules(operations, report)
+        except Exception as e:
+            logger.error(f"LLM评分失败: {e}")
+            return self._evaluate_operations_with_rules(operations, report)
+    
+    def _generate_tomorrow_plan(self, report):
+        """生成明日操作计划：If-Then策略"""
+        
+        # 获取狼大观点和市场数据
+        wolf_summary = report.get("wolf_daily_summary", {})
+        market_overview = report.get("market_overview", {})
+        today_positions = report.get("today_positions", {})
+        
+        # 准备提示词数据
+        wolf_overall_view = wolf_summary.get("overall_view", "")
+        wolf_key_signals = "\n".join([f"- {s}" for s in wolf_summary.get("key_signals", [])])
+        wolf_investment_theme = wolf_summary.get("investment_theme", "")
+        wolf_risk_reminder = wolf_summary.get("risk_reminder", "")
+        
+        market_summary = "\n".join([
+            f"{idx['name']}: {idx.get('current_price', 'N/A')}"
+            for idx in market_overview.get('indices', [])
+        ])
+        
+        positions_summary = []
+        for pos in today_positions.get('positions', []):
+            positions_summary.append(
+                f"- {pos['stock_name']}({pos['stock_code']}): {pos['quantity']}股, "
+                f"成本{pos['cost_price']:.2f}, 现价{pos['current_price']:.2f}, "
+                f"盈亏{pos['profit_pct']:.2f}%"
+            )
+        positions_str = "\n".join(positions_summary)
+        
+        prompt = f"""请根据今日狼大发言和市场数据，生成明日操作计划。
+
+## 今日市场概况
+{market_summary}
+
+## 狼大今日观点
+- 整体观点: {wolf_overall_view}
+- 关键信号:
+{wolf_key_signals if wolf_key_signals else '无'}
+- 投资主线: {wolf_investment_theme if wolf_investment_theme else '未明确'}
+- 风险提示: {wolf_risk_reminder if wolf_risk_reminder else '无'}
+
+## 当前持仓
+{positions_str if positions_str else '无持仓'}
+
+## 明日操作计划要求
+请以"If-Then"的条件判断格式输出明日操作计划：
+- 明确列出需要关注的市场条件或信号
+- 对应条件满足时的具体操作建议
+- 重点关注狼大提到的板块或个股
+- 包括可能的买入、卖出、持有、止损等操作
+
+请输出JSON格式：
+{{
+    "market_conditions": {{
+        "key_levels": ["关键点位1", "关键点位2"],
+        "watch_signals": ["关注信号1", "关注信号2"]
+    }},
+    "key_watchlist": [
+        {{"stock_name": "股票名", "stock_code": "代码", "reason": "关注理由"}},
+        {{"stock_name": "股票名", "stock_code": "代码", "reason": "关注理由"}}
+    ],
+    "if_then_actions": [
+        {{"condition": "市场条件描述", "action": "操作建议", "priority": "high/medium/low"}},
+        {{"condition": "市场条件描述", "action": "操作建议", "priority": "high/medium/low"}}
+    ]
+}}
+"""
+        
+        try:
+            result = self.llm_client.chat([{"role": "user", "content": prompt}])
+            
+            # 尝试解析JSON - 处理可能的markdown包裹
+            try:
+                # 如果结果被markdown代码块包裹，尝试提取
+                import re
+                json_match = re.search(r'```(?:json)?\s*([\s\S]*?)\s*```', result)
+                if json_match:
+                    result = json_match.group(1).strip()
+                
+                # 尝试解析JSON
+                llm_result = json.loads(result)
+                return llm_result
+            except Exception as json_err:
+                logger.warning(f"解析明日操作计划JSON失败: {json_err}，原始结果: {result[:100]}")
+                # 返回一个默认的结果
+                return {
+                    "market_conditions": {
+                        "key_levels": ["关注上证指数3600点支撑", "关注创业板指2400点得失"],
+                        "watch_signals": ["量能变化", "板块轮动信号"]
+                    },
+                    "key_watchlist": [],
+                    "if_then_actions": [
+                        {
+                            "condition": "若上证指数跌破3550点且量能萎缩",
+                            "action": "考虑降低部分宽基ETF仓位",
+                            "priority": "medium"
+                        },
+                        {
+                            "condition": "若半导体板块出现明显放量上涨",
+                            "action": "可适度加仓半导体ETF",
+                            "priority": "low"
+                        }
+                    ]
+                }
+        except Exception as e:
+            logger.error(f"生成明日操作计划失败: {e}")
+            return {
+                "market_conditions": {"key_levels": [], "watch_signals": []},
+                "key_watchlist": [],
+                "if_then_actions": []
+            }
+    
+    def _generate_markdown_report_enhanced(self, report):
+        """生成增强版Markdown格式报告"""
+        md = f"""# 📊 每日复盘报告
+{report['report_date']}
+---
+
+## 💼 今日持仓
+
+### 持仓概况
+- 持仓股票数: **{report["today_positions"]["total_stocks"]}** 只
+- 持仓总市值: **{report["today_positions"]["total_value"]:.2f}** 元
+- 持仓总成本: **{report["today_positions"]["total_cost"]:.2f}** 元
+- 总盈亏: **{report["today_positions"]["total_profit"]:.2f}** 元 ({report["today_positions"]["total_profit_pct"]:.2f}%)
+
+### 持仓明细
+| 股票 | 代码 | 持仓数量 | 成本价 | 现价 | 市值 | 盈亏 | 状态 |
+|------|------|----------|--------|------|------|------|------|
+"""
+        for pos in report["today_positions"]["positions"]:
+            profit_color = "✅" if pos["profit_pct"] >= 0 else "❌"
+            md += f"| {pos['stock_name']} | {pos['stock_code']} | {pos['quantity']} | {pos['cost_price']:.2f} | {pos['current_price']:.2f} | {pos['market_value']:.2f} | {pos['profit']:.2f} ({pos['profit_pct']:.2f}%) | {profit_color} |\n"
+
+        md += """
+---
+
+## 📊 市场概况
+### 主要指数
+| 指数 | 最新价 |
+|------|--------|
+"""
+        for idx in report["market_overview"]["indices"]:
+            md += f"| {idx['name']} | {idx['current_price'] or 'N/A'} |\n"
+
+        md += """
+---
+
+## 🐺 狼大今日发言分析
+"""
+        if report["wolf_posts"]:
+            for i, post in enumerate(report["wolf_posts"], 1):
+                md += f"""
+### {i}. [{post['date']}]
+**标签**: {', '.join(post['tags']) if post['tags'] else '无'}  
+**分类**: {post['category']}  
+**提及板块**: {', '.join(post.get('mentioned_sectors', [])) if post.get('mentioned_sectors') else '无'}  
+**摘要**: {post['summary']}
+"""
+        else:
+            md += "今日无狼大发言记录\n"
+
+        wolf_summary = report["wolf_daily_summary"]
+        if wolf_summary:
+            md += f"""
+---
+
+## 🧐 狼大交易思路分析
+
+### 整体观点
+{wolf_summary.get('overall_view', '暂无')}
+
+### 投资主线
+{wolf_summary.get('investment_theme', '暂无')}
+
+### 关键信号
+"""
+            for signal in wolf_summary.get('key_signals', []):
+                md += f"- {signal}\n"
+            
+            if wolf_summary.get('trading_philosophy'):
+                md += f"""
+### 交易哲学
+{wolf_summary['trading_philosophy']}
+"""
+            
+            if wolf_summary.get('key_points'):
+                md += """
+### 核心要点
+"""
+                for point in wolf_summary['key_points']:
+                    md += f"- {point}\n"
+            
+            if wolf_summary.get('risk_reminder'):
+                md += f"""
+### 风险提示
+{wolf_summary['risk_reminder']}
+"""
+
+        op_review = report["operation_review"]
+        md += f"""
+---
+
+## 📝 今日操作复盘评分
+
+### 综合评分
+**{op_review['score']}** 分 / 100分
+
+### 评分详情
+{op_review['score_detail']}
+
+### 操作评价
+{op_review['evaluation']}
+
+### 今日操作记录
+"""
+        if op_review["operations"]:
+            for op in op_review["operations"]:
+                md += f"- **{op.get('stock_name', '未知')}({op.get('stock_code', '')})**: {op.get('action', '')}\n"
+        else:
+            md += "- 今日无操作记录\n"
+
+        if op_review["suggestions"]:
+            md += """
+### 改进建议
+"""
+            for suggestion in op_review["suggestions"]:
+                md += f"- {suggestion}\n"
+
+        tomorrow_plan = report.get("tomorrow_plan", {})
+        if tomorrow_plan:
+            md += """
+---
+
+## 🎯 明日操作计划
+"""
+            market_conditions = tomorrow_plan.get("market_conditions", {})
+            if market_conditions.get("key_levels") or market_conditions.get("watch_signals"):
+                md += """
+### 关注条件
+"""
+                if market_conditions.get("key_levels"):
+                    md += "**关键点位**:\n"
+                    for level in market_conditions["key_levels"]:
+                        md += f"- {level}\n"
+                if market_conditions.get("watch_signals"):
+                    md += "**关注信号**:\n"
+                    for signal in market_conditions["watch_signals"]:
+                        md += f"- {signal}\n"
+            
+            watchlist = tomorrow_plan.get("key_watchlist", [])
+            if watchlist:
+                md += """
+### 重点关注
+| 股票 | 代码 | 关注理由 |
+|------|------|----------|
+"""
+                for item in watchlist:
+                    md += f"| {item.get('stock_name', '')} | {item.get('stock_code', '')} | {item.get('reason', '')} |\n"
+            
+            if_then_actions = tomorrow_plan.get("if_then_actions", [])
+            if if_then_actions:
+                md += """
+### If-Then 操作策略
+"""
+                for action in if_then_actions:
+                    priority = action.get("priority", "medium")
+                    priority_icon = "🔴" if priority == "high" else "🟡" if priority == "medium" else "🟢"
+                    md += f"{priority_icon} **条件**: {action.get('condition', '')}\n   **操作**: {action.get('action', '')}\n\n"
+
+        md += f"""
+---
+
+*报告生成时间: {report["generated_at"]}*
+"""
+        return md
 
 # 示例用法
 if __name__ == "__main__":
     review = DailyReview()
     report = review.generate_review()
     
-    # 打印报告摘要
     print(f"报告日期: {report['report_date']}")
     print(f"狼大发言数: {len(report['wolf_posts'])}")
-    print(f"风险提示数: {len(report['risk_summary'])}")
     print("报告已生成!")

@@ -29,7 +29,8 @@ from PyQt6.QtGui import QColor, QFont, QIntValidator, QDoubleValidator
 
 # 导入自定义模块
 from llm_client import LLMClient
-from biying_client import BiyingClient
+from data_source import DataSource
+from knowledge_base import KnowledgeBase
 from nga_crawler import NGACrawler
 from smart_analysis import SmartAnalysisService
 from task_scheduler import TaskScheduler
@@ -189,10 +190,10 @@ class PositionData:
 
 class PositionPanel(QWidget):
     """持仓分析面板"""
-    def __init__(self, position_data, eastmoney_client):
+    def __init__(self, position_data, data_source):
         super().__init__()
         self.position_data = position_data
-        self.eastmoney_client = eastmoney_client
+        self.data_source = data_source
         self.current_prices = {}
         self.timer = QTimer()
         self.timer.timeout.connect(self.check_and_refresh)
@@ -349,7 +350,7 @@ class PositionPanel(QWidget):
                 return
             
             # 获取当前价格
-            price_data = self.eastmoney_client.get_stock_price(code)
+            price_data = self.data_source.get_stock_price(code)
             current_price = price_data.get('price', 0) if price_data else 0
             if current_price <= 0:
                 QMessageBox.warning(self, "警告", f"无法获取股票{code}的当前价格")
@@ -403,7 +404,7 @@ class PositionPanel(QWidget):
         
         for pos in self.position_data.positions:
             code = pos['code']
-            price_data = self.eastmoney_client.get_stock_price(code)
+            price_data = self.data_source.get_stock_price(code)
             if price_data:
                 self.current_prices[code] = price_data.get('price', pos['cost_price'])
                 logger.info(f"{code} 价格: {self.current_prices[code]}")
@@ -1113,12 +1114,13 @@ class MainWindow(QMainWindow):
     def init_clients(self):
         """初始化客户端"""
         self.llm_client = LLMClient()
-        self.eastmoney_client = BiyingClient()
+        self.data_source = DataSource()
+        self.knowledge_base = KnowledgeBase()
         self.position_data = PositionData()
         self.nga_crawler = NGACrawler()  # NGA帖子爬取客户端
         self.smart_analysis = SmartAnalysisService()  # 智能分析服务
         self.daily_review = DailyReview()  # 复盘报告生成器
-        self.chat_assistant = ChatAssistant(self.position_data, self.eastmoney_client)  # 对话助手（传入持仓数据和行情客户端）
+        self.chat_assistant = ChatAssistant(self.position_data, self.data_source, self.knowledge_base)  # 对话助手（传入持仓数据、行情客户端和知识库）
     
     def init_scheduler(self):
         """初始化定时任务调度器"""
@@ -1167,7 +1169,7 @@ class MainWindow(QMainWindow):
         self.tabs = QTabWidget()
         
         # 持仓面板
-        self.position_panel = PositionPanel(self.position_data, self.eastmoney_client)
+        self.position_panel = PositionPanel(self.position_data, self.data_source)
         self.tabs.addTab(self.position_panel, "持仓")
         
         # 爬取面板
@@ -1199,7 +1201,7 @@ class MainWindow(QMainWindow):
             status_messages.append("🔴 LLM未配置")
         
         # 测试必盈API
-        if self.eastmoney_client.is_configured():
+        if self.data_source.is_configured():
             status_messages.append("🟢 必盈API已连接")
         else:
             status_messages.append("🔴 必盈API未配置")

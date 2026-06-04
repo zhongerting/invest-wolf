@@ -4,12 +4,14 @@
 对话助手 - 智能持仓管理和疑问解答
 """
 
-import json
+import os
 import logging
 import re
-from datetime import datetime
+import json
+from datetime import datetime, timedelta
 from llm_client import LLMClient
-from biying_client import BiyingClient
+from data_source import DataSource
+from knowledge_base import KnowledgeBase
 
 logger = logging.getLogger(__name__)
 
@@ -17,9 +19,10 @@ logger = logging.getLogger(__name__)
 class ChatAssistant:
     """对话助手"""
     
-    def __init__(self, position_data=None, eastmoney_client=None):
+    def __init__(self, position_data=None, data_source=None, knowledge_base=None):
         self.llm_client = LLMClient()
-        self.eastmoney_client = eastmoney_client
+        self.data_source = data_source if data_source else DataSource()
+        self.knowledge_base = knowledge_base if knowledge_base else KnowledgeBase()
         self.position_data = position_data
         self.operations_file = 'daily_operations.json'
         self.load_operations()
@@ -36,6 +39,86 @@ class ChatAssistant:
         """保存每日操作记录"""
         with open(self.operations_file, 'w', encoding='utf-8') as f:
             json.dump(self.operations, f, ensure_ascii=False, indent=2)
+    
+    def should_use_knowledge_base(self, question):
+        """
+        智能判断是否需要使用知识库
+        
+        判断逻辑：
+        1. 提到"狼大"、"发言"、"观点"、"看法"等关键词
+        2. 询问特定板块或股票的看法
+        3. 询问市场走势、操作建议
+        4. 涉及投资策略、交易理念
+        
+        :param question: 用户问题
+        :return: 是否需要知识库
+        """
+        keywords = [
+            # 直接关键词
+            "狼大", "发言", "观点", "看法", "说过", "提过", 
+            "最近说", "今天说", "之前说",
+            # 市场相关
+            "怎么看", "看法", "走势", "行情", "后市", "机会", "风险",
+            # 操作相关
+            "怎么做", "怎么操作", "建议", "策略", "买入", "卖出",
+            # 板块股票
+            "半导体", "新能源", "券商", "创业板", "上证指数", "大盘"
+        ]
+        
+        question_lower = question.lower()
+        
+        # 检查是否包含关键词
+        for keyword in keywords:
+            if keyword in question_lower:
+                return True
+        
+        return False
+    
+    def get_recent_knowledge_base(self, days=30):
+        """
+        获取最近N天的知识库内容（狼大发言）
+        
+        :param days: 天数（默认30天）
+        :return: 格式化的知识库内容字符串
+        """
+        try:
+            end_date = datetime.now()
+            start_date = end_date - timedelta(days=days)
+            
+            # 获取时间段内的帖子
+            posts = self.knowledge_base.get_posts_by_date_range(start_date, end_date)
+            
+            if not posts:
+                return f"【知识库提示】暂无最近{days}天的狼大发言记录"
+            
+            # 格式化输出
+            kb_content = f"【狼大最近{days}天发言记录 - 背景世界书】\n"
+            kb_content += "=" * 60 + "\n\n"
+            
+            for i, post in enumerate(posts, 1):
+                post_date = post.get("date", "")
+                post_summary = post.get("summary", "")
+                post_tags = ", ".join(post.get("tags", []))
+                post_category = post.get("category", "")
+                post_sectors = ", ".join(post.get("mentioned_sectors", []))
+                
+                kb_content += f"【发言 {i} - {post_date}】\n"
+                kb_content += f"分类: {post_category}\n"
+                if post_tags:
+                    kb_content += f"标签: {post_tags}\n"
+                if post_sectors:
+                    kb_content += f"提到板块: {post_sectors}\n"
+                kb_content += f"内容摘要: {post_summary}\n\n"
+            
+            kb_content += "=" * 60 + "\n"
+            kb_content += f"总计: {len(posts)} 条发言\n"
+            kb_content += "请基于以上狼大的发言记录来回答用户的问题。\n"
+            
+            return kb_content
+            
+        except Exception as e:
+            logger.error(f"获取知识库内容失败: {e}")
+            return f"【知识库提示】获取知识失败: {str(e)}"
     
     def parse_operations(self, user_input):
         """
@@ -266,7 +349,7 @@ class ChatAssistant:
         logger.info(f"已记录 {len(operations)} 条操作")
         
         # 更新持仓数据
-        if self.position_data and self.eastmoney_client:
+        if self.position_data and self.data_source:
             for op in operations:
                 code = op.get('stock_code', '')
                 quantity = op.get('quantity', 0)
@@ -277,7 +360,7 @@ class ChatAssistant:
                     continue
                 
                 # 获取当前股票价格
-                price_data = self.eastmoney_client.get_stock_price(code)
+                price_data = self.data_source.get_stock_price(code)
                 price = price_data.get('price', 0) if price_data else 0
                 
                 if op_type == '买入':
@@ -297,7 +380,7 @@ class ChatAssistant:
     
     def answer_question(self, question, context=None):
         """
-        回答用户疑问
+        回答用户疑问（支持知识库增强）
         
         :param question: 用户问题
         :param context: 上下文信息（可选）
@@ -308,23 +391,39 @@ class ChatAssistant:
         if context:
             context_info = f"\n## 上下文信息\n{context}\n"
         
-        prompt = f"""你是一个专业的投资助手，擅长分析市场数据、交易策略和投资建议。
-
-用户问题：
-{question}
-{context_info}
-
-请提供专业、准确、易懂的回答。如果需要查询实时市场数据，请在回答中明确标注【需要查询：XXX】。
+        # 判断是否需要使用知识库
+        use_kb = self.should_use_knowledge_base(question)
+        kb_content = ""
+        
+        if use_kb:
+            logger.info(f"用户问题涉及知识库，正在检索近30天的狼大发言...")
+            kb_content = self.get_recent_knowledge_base(days=30)
+            logger.info(f"知识库内容已准备")
+        
+        # 构建系统提示词
+        system_prompt = """你是一个专业的投资助手，擅长分析市场数据、交易策略和投资建议。
 
 回答要求：
 1. 专业准确
 2. 条理清晰
 3. 实用性强
 4. 如涉及风险，请明确提示
+5. 如果知识库中有相关内容，请优先基于狼大的发言来回答问题
+6. 如果知识库中没有相关内容，可以基于你的专业知识回答，但要说明这是你自己的看法而非狼大的观点
 """
         
+        # 构建用户问题
+        user_content = question + "\n" + context_info
+        
+        if use_kb:
+            user_content = kb_content + "\n\n## 用户问题\n" + user_content
+        
         try:
-            result = self.llm_client.chat([{"role": "user", "content": prompt}])
+            messages = [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_content}
+            ]
+            result = self.llm_client.chat(messages)
             return result
         except Exception as e:
             logger.error(f"回答问题失败: {e}")
@@ -347,13 +446,13 @@ class ChatAssistant:
     
     def query_market_data(self, query):
         """
-        查询市场数据（通过妙想API）
+        查询市场数据（通过综合数据源）
         
         :param query: 查询内容
         :return: 查询结果
         """
         try:
-            result = self.eastmoney_client.query_mx(query)
+            result = self.data_source.query_mx(query)
             return result
         except Exception as e:
             logger.error(f"查询市场数据失败: {e}")

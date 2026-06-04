@@ -4,14 +4,14 @@ import logging
 from datetime import datetime
 from collections import defaultdict
 from config import Config
-from biying_client import BiyingClient
+from data_source import DataSource
 
 logger = logging.getLogger(__name__)
 
 class PositionManager:
     def __init__(self):
         self.positions_file = Config.POSITIONS_FILE
-        self.api = BiyingClient()
+        self.api = DataSource()
         self._load_positions()
     
     def _load_positions(self):

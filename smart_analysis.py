@@ -17,6 +17,7 @@ import json
 import logging
 import re
 from datetime import datetime, timedelta
+from config import Config
 from nga_crawler import NGACrawler
 from knowledge_base import KnowledgeBase
 from llm_client import LLMClient
@@ -27,7 +28,7 @@ class SmartAnalysisService:
     def __init__(self):
         self.nga_crawler = NGACrawler()
         self.knowledge_base = KnowledgeBase()
-        self.llm_client = LLMClient()
+        self.llm_client = LLMClient(model=Config.LLM_MODEL_POST_ANALYSIS)
         
         # 记录上次爬取时间
         self.last_crawl_time_file = 'last_crawl_time.json'

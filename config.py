@@ -64,6 +64,10 @@ class Config:
     LLM_API_KEY = "gg-gcli-KVOOFwFjeKUrkwfZlyjGZUIleVoIPbaSwdoJ1l1WRe4"
     LLM_MODEL = "gemini-3-flash-preview"
     
+    # 任务特定模型配置
+    LLM_MODEL_DAILY_REVIEW = "gemini-3.1-pro-preview-cache"    # 每日复盘使用
+    LLM_MODEL_POST_ANALYSIS = "gemini-2.5-pro-search"          # 狼大发言分析使用
+    
     # LLM API配置（备用API - Anthropic）
     LLM_API_URL_BACKUP = "https://anthropic.qnaigc.com/v1/messages"
     LLM_API_KEY_BACKUP = "sk-cb63ac5a226656822a4862ce68c39d8045f16bb5482053ce77aad0ba714dcb9b"
