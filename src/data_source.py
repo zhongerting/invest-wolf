@@ -10,8 +10,8 @@ import logging
 import os
 import re
 from datetime import datetime
-from config import Config
-from biying_client import BiyingClient
+from .config import Config
+from .biying_client import BiyingClient
 
 logger = logging.getLogger(__name__)
 

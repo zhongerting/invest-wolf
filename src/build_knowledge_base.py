@@ -18,7 +18,7 @@ import re
 import json
 import logging
 from datetime import datetime
-from llm_client import LLMClient
+from .llm_client import LLMClient
 
 # 配置日志
 logging.basicConfig(

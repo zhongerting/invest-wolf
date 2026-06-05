@@ -29,15 +29,15 @@ from PyQt6.QtCore import Qt, QTimer, QThread, pyqtSignal, QTime
 from PyQt6.QtGui import QColor, QFont, QIntValidator, QDoubleValidator
 
 # 导入自定义模块
-from config import Config
-from llm_client import LLMClient
-from data_source import DataSource
-from knowledge_base import KnowledgeBase
-from nga_crawler import NGACrawler
-from smart_analysis import SmartAnalysisService
-from task_scheduler import TaskScheduler
-from daily_review import DailyReview
-from chat_assistant import ChatAssistant
+from .config import Config
+from .llm_client import LLMClient
+from .data_source import DataSource
+from .knowledge_base import KnowledgeBase
+from .nga_crawler import NGACrawler
+from .smart_analysis import SmartAnalysisService
+from .task_scheduler import TaskScheduler
+from .daily_review import DailyReview
+from .chat_assistant import ChatAssistant
 
 # 配置日志
 logging.basicConfig(

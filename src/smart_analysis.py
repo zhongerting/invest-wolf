@@ -17,10 +17,10 @@ import json
 import logging
 import re
 from datetime import datetime, timedelta
-from config import Config
-from nga_crawler import NGACrawler
-from knowledge_base import KnowledgeBase
-from llm_client import LLMClient
+from .config import Config
+from .nga_crawler import NGACrawler
+from .knowledge_base import KnowledgeBase
+from .llm_client import LLMClient
 
 logger = logging.getLogger(__name__)
 

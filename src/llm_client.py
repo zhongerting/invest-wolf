@@ -4,7 +4,7 @@ import logging
 import re
 import time
 from datetime import datetime
-from config import Config
+from .config import Config
 
 logger = logging.getLogger(__name__)
 

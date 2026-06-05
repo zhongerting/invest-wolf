@@ -3,8 +3,8 @@ import json
 import logging
 from datetime import datetime
 from collections import defaultdict
-from config import Config
-from data_source import DataSource
+from .config import Config
+from .data_source import DataSource
 
 logger = logging.getLogger(__name__)
 

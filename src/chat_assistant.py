@@ -9,9 +9,9 @@ import logging
 import re
 import json
 from datetime import datetime, timedelta
-from llm_client import LLMClient
-from data_source import DataSource
-from knowledge_base import KnowledgeBase
+from .llm_client import LLMClient
+from .data_source import DataSource
+from .knowledge_base import KnowledgeBase
 
 logger = logging.getLogger(__name__)
 

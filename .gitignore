@@ -39,31 +39,21 @@ env/
 investment_analysis.log
 investment_assistant.log
 
-# 测试和调试文件
-test_*.py
-debug_*.py
-rebuild_*.py
-update_*.py
-check_environment.py
-list_available_models.py
-split_posts.py
-
 # 用户数据和配置
 investment.db
 daily_reports/
 intraday_alerts/
-nga_master_posts.md
-daily_operations.json
-
-# 知识库 - 只上传索引，不上传原始发言内容
 knowledge_base/
-!knowledge_base/
-knowledge_base/posts/
-!knowledge_base/*.json
-
-# 用户配置文件（首次运行会生成）
 app_config.json
 knowledge_base.json
+positions.json
+daily_operations.json
+last_crawl_time.json
+nga_master_posts*.md
+LLM_API_CONFIG.md
+POSITION_OPTIMIZATION.md
+单次爬取.bat
+post.md
 
 # 临时文件
 *.tmp

@@ -2,10 +2,10 @@ import os
 import json
 import logging
 from datetime import datetime
-from config import Config
-from knowledge_base import KnowledgeBase
-from positions import PositionManager
-from data_source import DataSource
+from .config import Config
+from .knowledge_base import KnowledgeBase
+from .positions import PositionManager
+from .data_source import DataSource
 
 logger = logging.getLogger(__name__)
 

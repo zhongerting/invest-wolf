@@ -4,8 +4,8 @@ import re
 import logging
 from datetime import datetime
 from collections import defaultdict
-from config import Config
-from llm_client import LLMClient
+from .config import Config
+from .llm_client import LLMClient
 
 logger = logging.getLogger(__name__)
 

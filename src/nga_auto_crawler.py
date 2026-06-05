@@ -10,11 +10,11 @@ import logging
 import argparse
 
 # 导入新模块
-from config import Config
-from knowledge_base import KnowledgeBase
-from positions import PositionManager
-from intraday_analysis import IntradayAnalyzer
-from daily_review import DailyReview
+from .config import Config
+from .knowledge_base import KnowledgeBase
+from .positions import PositionManager
+from .intraday_analysis import IntradayAnalyzer
+from .daily_review import DailyReview
 
 logging.basicConfig(
     level=logging.INFO,
