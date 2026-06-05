@@ -54,6 +54,7 @@ LLM_API_CONFIG.md
 POSITION_OPTIMIZATION.md
 *.bat
 post.md
+commit_extraction/
 
 # 临时文件
 *.tmp
