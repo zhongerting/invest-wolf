@@ -333,7 +333,7 @@ def job每日复盘():
 
 def setup_schedule():
     """配置定时任务"""
-    schedule.every(Config.INTRADAY_INTERVAL_MINUTES).minutes.do(job盘中爬取)
+    schedule.every(Config.NGA_MONITOR_INTERVAL_MINUTES).minutes.do(job盘中爬取)
     
     schedule.every().day.at(Config.EVENING_ANALYSIS_TIME).do(job晚间爬取)
     
@@ -342,7 +342,7 @@ def setup_schedule():
     schedule.every().day.at("23:30").do(job每日复盘)
     
     logger.info("定时任务已配置:")
-    logger.info(f"  - 盘中爬取: 每{Config.INTRADAY_INTERVAL_MINUTES}分钟检查（{Config.MORNING_START}-{Config.MORNING_END}, {Config.AFTERNOON_START}-{Config.AFTERNOON_END}执行）")
+    logger.info(f"  - 盘中爬取: 每{Config.NGA_MONITOR_INTERVAL_MINUTES}分钟检查（{Config.MORNING_START}-{Config.MORNING_END}, {Config.AFTERNOON_START}-{Config.AFTERNOON_END}执行）")
     logger.info(f"  - 晚间爬取: 每日{Config.EVENING_ANALYSIS_TIME}")
     logger.info(f"  - 每日备份: 每日{Config.DAILY_REPORT_TIME}")
     logger.info("  - 每日复盘: 每日23:30")

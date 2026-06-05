@@ -22,12 +22,14 @@ from PyQt6.QtWidgets import (
     QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout,
     QTabWidget, QLabel, QPushButton, QTableWidget, QTableWidgetItem,
     QTextEdit, QStatusBar, QSplitter, QGroupBox, QGridLayout,
-    QMessageBox, QProgressBar, QFrame, QComboBox, QLineEdit
+    QMessageBox, QProgressBar, QFrame, QComboBox, QLineEdit,
+    QScrollArea, QFormLayout
 )
 from PyQt6.QtCore import Qt, QTimer, QThread, pyqtSignal, QTime
 from PyQt6.QtGui import QColor, QFont, QIntValidator, QDoubleValidator
 
 # 导入自定义模块
+from config import Config
 from llm_client import LLMClient
 from data_source import DataSource
 from knowledge_base import KnowledgeBase
@@ -50,47 +52,99 @@ logger = logging.getLogger(__name__)
 
 
 class PositionData:
-    """持仓数据管理"""
-    def __init__(self, positions_file='positions.json'):
-        self.positions_file = positions_file
+    """持仓数据管理 - 使用SQLite数据库存储"""
+    def __init__(self):
+        from database import DatabaseManager
+        self.db = DatabaseManager()
         self.positions = []
-        self.total_assets = 0
+        self.total_assets = 0  # 总资产 = 总市值 + 可用资产
+        self.available_asset = 0  # 可用资产
         self.last_prices = {}  # 保存上次查询的价格
         self.last_price_update = None  # 上次价格更新时间
         self.load_positions()
     
     def load_positions(self):
-        """加载持仓数据"""
+        """加载持仓数据（从数据库）"""
         try:
-            with open(self.positions_file, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                self.total_assets = data.get('total_assets', 0)
-                self.positions = data.get('positions', [])
-                self.last_prices = data.get('last_prices', {})
-                self.last_price_update = data.get('last_price_update', None)
-            logger.info(f"加载持仓数据成功，共 {len(self.positions)} 只股票")
+            # 尝试从数据库加载
+            db_positions = self.db.get_all_positions()
+            
+            if db_positions:
+                self.positions = db_positions
+                logger.info(f"从数据库加载持仓数据成功，共 {len(self.positions)} 只股票")
+            else:
+                # 如果数据库为空，尝试从JSON文件迁移
+                self._migrate_from_json()
+                db_positions = self.db.get_all_positions()
+                self.positions = db_positions
+                logger.info(f"数据迁移完成，共 {len(self.positions)} 只股票")
+            
+            # 加载可用资产设置
+            available_asset_str = self.db.get_setting('available_asset')
+            if available_asset_str:
+                self.available_asset = float(available_asset_str)
+            else:
+                # 如果没有设置过可用资产，初始化为总资产（首次使用）
+                self.available_asset = 100000.00  # 默认初始资金10万
+            
+            # 加载总资产设置
+            total_assets_str = self.db.get_setting('total_assets')
+            if total_assets_str:
+                self.total_assets = float(total_assets_str)
+            
+            # 如果总资产为0但有持仓或可用资产，计算总资产
+            if self.total_assets == 0 and (len(self.positions) > 0 or self.available_asset > 0):
+                # 计算总市值
+                total_market_value = sum(pos['cost_price'] * pos['quantity'] for pos in self.positions)
+                self.total_assets = total_market_value + self.available_asset
+                logger.info(f"根据持仓计算总资产: ¥{self.total_assets:,.2f} (市值 ¥{total_market_value:,.2f} + 可用 ¥{self.available_asset:,.2f})")
+            elif self.total_assets == 0:
+                # 完全首次使用
+                self.available_asset = 100000.00
+                self.total_assets = 100000.00
+                logger.info("首次使用，初始化总资产和可用资产为 ¥100,000.00")
+            
+            # 加载上次价格数据
+            last_prices_str = self.db.get_setting('last_prices')
+            if last_prices_str:
+                self.last_prices = json.loads(last_prices_str)
+            
+            last_update_str = self.db.get_setting('last_price_update')
+            if last_update_str:
+                self.last_price_update = last_update_str
+            
             if self.last_prices:
                 logger.info(f"加载上次价格数据，更新时间: {self.last_price_update}")
+                
         except Exception as e:
             logger.error(f"加载持仓数据失败: {e}")
             self.positions = []
             self.total_assets = 0
+            self.available_asset = 0
             self.last_prices = {}
             self.last_price_update = None
     
+    def _migrate_from_json(self):
+        """从JSON文件迁移数据到数据库"""
+        logger.info("尝试从JSON文件迁移数据...")
+        self.db.migrate_from_json()
+    
     def save_positions(self):
-        """保存持仓数据"""
+        """保存持仓数据（到数据库）"""
         try:
-            data = {
-                'total_assets': self.total_assets,
-                'positions': self.positions,
-                'last_prices': self.last_prices,  # 保存上次价格
-                'last_price_update': self.last_price_update,  # 保存价格更新时间
-                'last_update': datetime.now().strftime('%Y-%m-%d')
-            }
-            with open(self.positions_file, 'w', encoding='utf-8') as f:
-                json.dump(data, f, ensure_ascii=False, indent=2)
-            logger.info("保存持仓数据成功")
+            # 保存每个持仓
+            for pos in self.positions:
+                self.db.save_position(pos)
+            
+            # 保存总资产和可用资产
+            self.db.set_setting('total_assets', str(self.total_assets))
+            self.db.set_setting('available_asset', str(self.available_asset))
+            
+            # 保存价格数据
+            self.db.set_setting('last_prices', json.dumps(self.last_prices))
+            self.db.set_setting('last_price_update', self.last_price_update or datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
+            
+            logger.info("保存持仓数据到数据库成功")
         except Exception as e:
             logger.error(f"保存持仓数据失败: {e}")
     
@@ -119,17 +173,49 @@ class PositionData:
             pos['cost_value'] = cost_value
             pos['profit'] = profit
             pos['profit_percent'] = (profit / cost_value * 100) if cost_value > 0 else 0
-            pos['position_percent'] = (market_value / self.total_assets * 100) if self.total_assets > 0 else 0
+            
+            # 使用当前市值计算仓位百分比
+            pos['position_percent'] = (market_value / total_market_value * 100) if total_market_value > 0 else 0
+        
+        # 动态计算总资产 = 市值 + 可用资产
+        # 从数据库获取可用资产
+        available_asset_str = self.db.get_setting('available_asset')
+        if available_asset_str:
+            self.available_asset = float(available_asset_str)
+        else:
+            self.available_asset = 100000.00  # 默认值
+        
+        self.total_assets = total_market_value + self.available_asset
+        
+        # 计算持仓占比（总市值 / 总资产）
+        position_ratio = (total_market_value / self.total_assets * 100) if self.total_assets > 0 else 0
         
         return {
             'total_market_value': total_market_value,
             'total_cost': total_cost,
             'total_profit': total_profit,
-            'total_profit_percent': (total_profit / total_cost * 100) if total_cost > 0 else 0
+            'total_profit_percent': (total_profit / total_cost * 100) if total_cost > 0 else 0,
+            'available_asset': self.available_asset,
+            'position_ratio': position_ratio
         }
     
     def buy_stock(self, code, quantity, price, stock_name=None):
-        """买入股票"""
+        """买入股票：从可用资产中扣除"""
+        # 计算买入金额
+        buy_amount = quantity * price
+        
+        # 获取当前可用资产
+        available_asset_str = self.db.get_setting('available_asset')
+        if available_asset_str:
+            self.available_asset = float(available_asset_str)
+        else:
+            self.available_asset = 100000.00  # 默认初始资金
+        
+        # 检查可用资产是否足够
+        if self.available_asset < buy_amount:
+            logger.error(f"可用资产不足，需要 ¥{buy_amount:.2f}，当前可用 ¥{self.available_asset:.2f}")
+            raise ValueError(f"可用资产不足，需要 ¥{buy_amount:.2f}，当前可用 ¥{self.available_asset:.2f}")
+        
         # 查找现有持仓
         existing_pos = None
         for pos in self.positions:
@@ -161,25 +247,53 @@ class PositionData:
             self.positions.append(new_pos)
             logger.info(f"新建持仓 {new_pos['name']}({code}): {quantity}股，成本价: {price:.2f}")
         
+        # 更新可用资产（从可用资产中扣除买入金额）
+        self.available_asset -= buy_amount
+        self.db.set_setting('available_asset', str(self.available_asset))
+        logger.info(f"买入后可用资产: ¥{self.available_asset:.2f}")
+        
         self.save_positions()
     
-    def sell_stock(self, code, quantity, price):
-        """卖出股票"""
+    def sell_stock(self, code, quantity, price=None):
+        """卖出股票：将卖出金额加入可用资产"""
         for pos in self.positions:
             if pos['code'] == code:
                 if quantity > pos.get('available', pos['quantity']):
                     logger.error(f"卖出数量 {quantity} 超过可用数量 {pos.get('available', pos['quantity'])}")
                     return False
                 
+                # 如果没有指定价格，使用当前价格或成本价
+                if price is None:
+                    price = pos.get('current_price', pos['cost_price'])
+                
+                # 计算卖出金额
+                sell_amount = quantity * price
+                
+                # 保存当前成本价（部分卖出时保持不变）
+                current_cost_price = pos['cost_price']
+                
+                # 更新持仓数量
                 pos['quantity'] -= quantity
                 pos['available'] = pos.get('available', pos['quantity']) - quantity
                 
                 # 如果持仓归零，移除该持仓
                 if pos['quantity'] <= 0:
+                    logger.info(f"全部卖出 {pos['name']}({code}): -{quantity}股，价格: {price:.2f}")
                     self.positions.remove(pos)
-                    logger.info(f"全部卖出 {pos['name']}({code})")
                 else:
-                    logger.info(f"卖出 {pos['name']}({code}): -{quantity}股")
+                    # 部分卖出时，保持成本价不变
+                    logger.info(f"卖出 {pos['name']}({code}): -{quantity}股，价格: {price:.2f}，剩余持仓成本价保持为 {current_cost_price:.3f}")
+                
+                # 更新可用资产（将卖出金额加入可用资产）
+                available_asset_str = self.db.get_setting('available_asset')
+                if available_asset_str:
+                    self.available_asset = float(available_asset_str)
+                else:
+                    self.available_asset = 100000.00  # 默认初始资金
+                
+                self.available_asset += sell_amount
+                self.db.set_setting('available_asset', str(self.available_asset))
+                logger.info(f"卖出后可用资产: ¥{self.available_asset:.2f}")
                 
                 self.save_positions()
                 return True
@@ -208,18 +322,23 @@ class PositionPanel(QWidget):
         overview_layout = QGridLayout()
         
         self.label_total_assets = QLabel("总资产: ¥0.00")
-        self.label_total_profit = QLabel("总盈亏: ¥0.00 (0.00%)")
-        self.label_market_value = QLabel("市值: ¥0.00")
+        self.label_market_value = QLabel("总市值: ¥0.00")
+        self.label_position_ratio = QLabel("持仓占比: 0.00%")
+        self.label_available_asset = QLabel("可用资产: ¥0.00")
         
         font = QFont()
         font.setBold(True)
         font.setPointSize(12)
         self.label_total_assets.setFont(font)
-        self.label_total_profit.setFont(font)
+        self.label_market_value.setFont(font)
         
+        # 第一行：总资产和持仓占比
         overview_layout.addWidget(self.label_total_assets, 0, 0)
-        overview_layout.addWidget(self.label_total_profit, 0, 1)
-        overview_layout.addWidget(self.label_market_value, 1, 0, 1, 2)
+        overview_layout.addWidget(self.label_position_ratio, 0, 1)
+        
+        # 第二行：总市值和可用资产
+        overview_layout.addWidget(self.label_market_value, 1, 0)
+        overview_layout.addWidget(self.label_available_asset, 1, 1)
         
         self.overview_group.setLayout(overview_layout)
         layout.addWidget(self.overview_group)
@@ -368,8 +487,12 @@ class PositionPanel(QWidget):
             
             # 执行操作
             if operation == "买入":
-                self.position_data.buy_stock(code, quantity, current_price, stock_name)
-                QMessageBox.information(self, "成功", f"买入 {stock_name}({code}) {quantity}股，均价 ¥{current_price:.2f}")
+                try:
+                    self.position_data.buy_stock(code, quantity, current_price, stock_name)
+                    QMessageBox.information(self, "成功", f"买入 {stock_name}({code}) {quantity}股，均价 ¥{current_price:.2f}")
+                except ValueError as ve:
+                    QMessageBox.warning(self, "失败", str(ve))
+                    return
             else:
                 # 查找持仓
                 existing_pos = None
@@ -424,16 +547,15 @@ class PositionPanel(QWidget):
         # 计算盈亏
         profit_data = self.position_data.calculate_profit_loss(self.current_prices)
         
-        # 更新概览
+        # 更新概览 - 显示四个关键指标
         self.label_total_assets.setText(f"总资产: ¥{self.position_data.total_assets:,.2f}")
-        self.label_market_value.setText(f"市值: ¥{profit_data['total_market_value']:,.2f}")
+        self.label_market_value.setText(f"总市值: ¥{profit_data['total_market_value']:,.2f}")
+        self.label_position_ratio.setText(f"持仓占比: {profit_data['position_ratio']:.2f}%")
+        self.label_available_asset.setText(f"可用资产: ¥{profit_data['available_asset']:,.2f}")
         
-        profit = profit_data['total_profit']
-        profit_percent = profit_data['total_profit_percent']
-        profit_color = "green" if profit >= 0 else "red"
-        self.label_total_profit.setText(
-            f"总盈亏: <span style='color:{profit_color}'>¥{profit:,.2f} ({profit_percent:+.2f}%)</span>"
-        )
+        # 更新数据来源标签
+        if self.position_data.last_price_update:
+            self.data_source_label.setText(f"<font color='blue'>上次价格更新: {self.position_data.last_price_update}</font>")
         
         # 更新表格
         self.table.setRowCount(len(self.position_data.positions))
@@ -492,6 +614,7 @@ class CrawlPanel(QWidget):
         self.btn_stop = QPushButton("停止爬取")
         self.btn_stop.setEnabled(False)
         self.btn_manual_crawl = QPushButton("手动爬取一次")
+        self.btn_today_messages = QPushButton("今日消息")
         
         # 状态指示灯
         self.status_indicator = QLabel()
@@ -506,6 +629,7 @@ class CrawlPanel(QWidget):
         control_layout.addWidget(self.btn_start)
         control_layout.addWidget(self.btn_stop)
         control_layout.addWidget(self.btn_manual_crawl)
+        control_layout.addWidget(self.btn_today_messages)
         control_layout.addWidget(self.status_indicator)
         control_layout.addWidget(self.status_label)
         control_layout.addWidget(self.crawler_status)
@@ -545,6 +669,19 @@ class CrawlPanel(QWidget):
         
         layout.addWidget(splitter)
         
+        # 今日消息显示区域
+        today_group = QGroupBox("今日消息")
+        today_layout = QVBoxLayout()
+        
+        self.today_messages_text = QTextEdit()
+        self.today_messages_text.setReadOnly(True)
+        self.today_messages_text.setPlaceholderText("点击'今日消息'按钮查看今天提取的所有发言和智能分析...")
+        self.today_messages_text.setMaximumHeight(200)
+        
+        today_layout.addWidget(self.today_messages_text)
+        today_group.setLayout(today_layout)
+        layout.addWidget(today_group)
+        
         self.setLayout(layout)
     
     def connect_signals(self):
@@ -552,6 +689,7 @@ class CrawlPanel(QWidget):
         self.btn_start.clicked.connect(self.start_crawl)
         self.btn_stop.clicked.connect(self.stop_crawl)
         self.btn_manual_crawl.clicked.connect(self.manual_crawl)
+        self.btn_today_messages.clicked.connect(self.show_today_messages)
     
     def update_indicator(self):
         """更新状态指示灯"""
@@ -566,7 +704,7 @@ class CrawlPanel(QWidget):
             self.status_indicator.setStyleSheet("border-radius: 10px; background-color: #666666;")
     
     def start_crawl(self):
-        """开始自动爬取（每10分钟一次）"""
+        """开始自动爬取"""
         if not self.nga_crawler.is_available():
             QMessageBox.warning(self, "警告", "NGA爬取器不可用，请检查ngapost2md配置")
             return
@@ -576,7 +714,7 @@ class CrawlPanel(QWidget):
         self.btn_start.setEnabled(False)
         self.btn_stop.setEnabled(True)
         self.status_label.setText("状态: 运行中")
-        self.posts_text.append(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] 开始自动爬取（每10分钟）...")
+        self.posts_text.append(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] 开始自动爬取（每{Config.NGA_MONITOR_INTERVAL_MINUTES}分钟）...")
         
         # 更新指示灯
         self.update_indicator()
@@ -584,8 +722,9 @@ class CrawlPanel(QWidget):
         # 立即执行一次爬取
         self.manual_crawl()
         
-        # 启动定时爬取（10分钟 = 600000毫秒）
-        self.timer.start(600000)
+        # 启动定时爬取（使用配置文件中的间隔）
+        interval_ms = Config.NGA_MONITOR_INTERVAL_MINUTES * 60 * 1000
+        self.timer.start(interval_ms)
         self.update_next_crawl_time()
     
     def stop_crawl(self):
@@ -602,20 +741,88 @@ class CrawlPanel(QWidget):
         # 更新指示灯
         self.update_indicator()
     
+    def show_today_messages(self):
+        """显示今日消息（今天提取的所有发言和智能分析）"""
+        self.today_messages_text.clear()
+        
+        try:
+            # 获取今天的日期范围
+            from datetime import timedelta
+            today_start = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+            today_end = today_start + timedelta(days=1)
+            today_str = today_start.strftime('%Y-%m-%d')
+            
+            # 从知识库获取今天的完整发言（包含内容）
+            today_posts = self.smart_analysis.knowledge_base.get_full_posts_by_date_range(today_start, today_end)
+            
+            if not today_posts:
+                self.today_messages_text.append(f"📅 {today_str}")
+                self.today_messages_text.append("")
+                self.today_messages_text.append("今日暂无狼大发言记录")
+                return
+            
+            # 显示今日消息
+            output = []
+            output.append(f"📅 {today_str} - 今日消息汇总")
+            output.append("=" * 60)
+            output.append("")
+            
+            # 遍历今天的发言
+            for i, post in enumerate(today_posts, 1):
+                post_time = post.get('date', '')
+                # 处理完整帖子和简化帖子两种情况
+                if 'analysis' in post:
+                    # 完整帖子结构
+                    post_content = post.get('content', '')
+                    analysis = post.get('analysis', {})
+                    post_summary = analysis.get('summary', '')
+                    post_tags = analysis.get('tags', [])
+                    post_category = analysis.get('category', '')
+                else:
+                    # 简化帖子结构
+                    post_content = post.get('content', '')
+                    post_summary = post.get('summary', '')
+                    post_tags = post.get('tags', [])
+                    post_category = post.get('category', '')
+                
+                output.append(f"--- 发言 {i} ---")
+                output.append(f"时间: {post_time}")
+                if post_category:
+                    output.append(f"分类: {post_category}")
+                if post_tags:
+                    output.append(f"标签: {', '.join(post_tags)}")
+                output.append(f"摘要: {post_summary}")
+                output.append(f"原文:")
+                output.append(post_content)
+                output.append("")
+            
+            output.append("=" * 60)
+            output.append(f"总计: {len(today_posts)} 条发言")
+            
+            self.today_messages_text.append('\n'.join(output))
+            
+        except Exception as e:
+            self.today_messages_text.append(f"获取今日消息失败: {str(e)}")
+            logger.error(f"获取今日消息失败: {e}")
+    
     def update_next_crawl_time(self):
         """更新下次爬取时间显示"""
-        next_time = QTime.currentTime().addSecs(600)  # 10分钟后
+        next_time = QTime.currentTime().addSecs(Config.NGA_MONITOR_INTERVAL_MINUTES * 60)
         self.next_crawl_label.setText(f"下次爬取: {next_time.toString('HH:mm:ss')}")
     
     def scheduled_crawl(self):
-        """定时爬取（每10分钟）"""
+        """定时爬取"""
         if self.is_running:
             self.posts_text.append(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] 定时爬取触发...")
-            self.manual_crawl()
+            self.manual_crawl(is_auto=True)
             self.update_next_crawl_time()
     
-    def manual_crawl(self):
-        """手动执行一次爬取和分析"""
+    def manual_crawl(self, is_auto=False):
+        """手动执行一次爬取和分析
+        
+        Args:
+            is_auto: 是否是自动模式，自动模式下保留分析历史内容
+        """
         if not self.nga_crawler.is_available():
             QMessageBox.warning(self, "警告", "NGA爬取器不可用")
             return
@@ -623,7 +830,9 @@ class CrawlPanel(QWidget):
         try:
             current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
             self.posts_text.append(f"[{current_time}] 正在爬取狼大最新发言...")
-            self.analysis_text.clear()
+            # 只有手动模式才清空分析内容，自动模式保留
+            if not is_auto:
+                self.analysis_text.clear()
             
             # 第一步：获取新发言（快速）
             self.posts_text.append(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] 正在获取新发言...")
@@ -636,7 +845,9 @@ class CrawlPanel(QWidget):
             
             if not new_posts:
                 self.posts_text.append("暂无新发言")
-                self.analysis_text.append("暂无新发言需要分析")
+                # 只有手动模式才显示暂无新发言的提示，自动模式不显示
+                if not is_auto:
+                    self.analysis_text.append("暂无新发言需要分析")
                 self.crawl_error = False
                 self.update_indicator()
                 return
@@ -655,7 +866,7 @@ class CrawlPanel(QWidget):
             
             # 第四步：显示分析结果
             self.posts_text.append(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] 分析完成")
-            self._display_analysis(analyses)
+            self._display_analysis(analyses, is_auto)
             
             # 第五步：保存到知识库和文件
             for post in new_posts:
@@ -673,9 +884,21 @@ class CrawlPanel(QWidget):
             self.update_indicator()
             logger.error(f"爬取异常: {e}")
     
-    def _display_analysis(self, analyses):
-        """显示分析结果"""
+    def _display_analysis(self, analyses, is_auto=False):
+        """显示分析结果
+        
+        Args:
+            analyses: 分析结果列表
+            is_auto: 是否是自动模式，自动模式下添加时间分隔符
+        """
         analysis_output = []
+        
+        # 自动模式下添加时间分隔符，区分不同时间的分析
+        if is_auto:
+            separator_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+            analysis_output.append(f"\n{'='*60}")
+            analysis_output.append(f"📅 自动分析 - {separator_time}")
+            analysis_output.append(f"{'='*60}\n")
         
         for i, analysis in enumerate(analyses):
             analysis_output.append(f"=== 发言 {i+1} 分析 ===")
@@ -1184,6 +1407,10 @@ class MainWindow(QMainWindow):
         self.chat_panel = ChatPanel(self.chat_assistant)
         self.tabs.addTab(self.chat_panel, "对话")
         
+        # 配置面板
+        self.config_panel = ConfigPanel(self.llm_client, self.data_source)
+        self.tabs.addTab(self.config_panel, "配置")
+        
         # 连接对话面板的持仓更新信号到持仓面板的刷新方法
         self.chat_panel.position_updated.connect(self.position_panel.refresh_data)
         
@@ -1212,12 +1439,387 @@ class MainWindow(QMainWindow):
         logger.info("连接测试完成")
 
 
+class ConfigPanel(QWidget):
+    """配置和测试面板"""
+    def __init__(self, llm_client, data_source):
+        super().__init__()
+        self.llm_client = llm_client
+        self.data_source = data_source
+        self.init_ui()
+        self.load_config_from_file()
+    
+    def init_ui(self):
+        layout = QVBoxLayout()
+        
+        # 滚动区域
+        scroll = QScrollArea()
+        scroll.setWidgetResizable(True)
+        scroll_content = QWidget()
+        scroll_layout = QVBoxLayout()
+        
+        # 大模型配置
+        llm_group = QGroupBox("大模型配置")
+        llm_layout = QFormLayout()
+        
+        # 主API配置
+        self.main_api_url = QLineEdit()
+        self.main_api_key = QLineEdit()
+        self.main_api_key.setEchoMode(QLineEdit.EchoMode.Password)
+        self.main_model = QComboBox()
+        self.main_model.setEditable(True)
+        
+        self.main_show_btn = QPushButton("显示/隐藏")
+        self.main_show_btn.clicked.connect(lambda: self.toggle_password(self.main_api_key))
+        
+        main_btn_layout = QHBoxLayout()
+        self.main_test_models_btn = QPushButton("测试模型")
+        self.main_test_models_btn.clicked.connect(lambda: self.test_llm_models(0))
+        self.main_test_conn_btn = QPushButton("测试连接")
+        self.main_test_conn_btn.clicked.connect(lambda: self.test_llm_connection(0))
+        main_btn_layout.addWidget(self.main_test_models_btn)
+        main_btn_layout.addWidget(self.main_test_conn_btn)
+        
+        llm_layout.addRow("主API地址:", self.main_api_url)
+        llm_layout.addRow("主API Key:", self.create_key_input(self.main_api_key, self.main_show_btn))
+        llm_layout.addRow("主模型:", self.main_model)
+        llm_layout.addRow("", main_btn_layout)
+        
+        # 备用API配置
+        self.backup_api_url = QLineEdit()
+        self.backup_api_key = QLineEdit()
+        self.backup_api_key.setEchoMode(QLineEdit.EchoMode.Password)
+        self.backup_model = QComboBox()
+        self.backup_model.setEditable(True)
+        
+        self.backup_show_btn = QPushButton("显示/隐藏")
+        self.backup_show_btn.clicked.connect(lambda: self.toggle_password(self.backup_api_key))
+        
+        backup_btn_layout = QHBoxLayout()
+        self.backup_test_models_btn = QPushButton("测试模型")
+        self.backup_test_models_btn.clicked.connect(lambda: self.test_llm_models(1))
+        self.backup_test_conn_btn = QPushButton("测试连接")
+        self.backup_test_conn_btn.clicked.connect(lambda: self.test_llm_connection(1))
+        backup_btn_layout.addWidget(self.backup_test_models_btn)
+        backup_btn_layout.addWidget(self.backup_test_conn_btn)
+        
+        llm_layout.addRow("备用API地址:", self.backup_api_url)
+        llm_layout.addRow("备用API Key:", self.create_key_input(self.backup_api_key, self.backup_show_btn))
+        llm_layout.addRow("备用模型:", self.backup_model)
+        llm_layout.addRow("", backup_btn_layout)
+        
+        # 备用说明
+        backup_note = QLabel("说明：当主API模型调用失败时，将自动切换到备用API进行调用")
+        backup_note.setStyleSheet("color: #666; font-size: 10pt;")
+        llm_layout.addRow("", backup_note)
+        
+        llm_group.setLayout(llm_layout)
+        scroll_layout.addWidget(llm_group)
+        
+        # 任务特定模型
+        task_model_group = QGroupBox("任务特定模型配置")
+        task_model_layout = QFormLayout()
+        
+        task_note = QLabel("说明：每个任务会优先使用对应的模型，如果为空则使用主模型")
+        task_note.setStyleSheet("color: #666; font-size: 10pt;")
+        task_model_layout.addRow("", task_note)
+        
+        self.daily_review_model = QComboBox()
+        self.daily_review_model.setEditable(True)
+        self.post_analysis_model = QComboBox()
+        self.post_analysis_model.setEditable(True)
+        self.chat_model = QComboBox()
+        self.chat_model.setEditable(True)
+        self.operation_parse_model = QComboBox()
+        self.operation_parse_model.setEditable(True)
+        
+        task_model_layout.addRow("每日复盘模型:", self.daily_review_model)
+        task_model_layout.addRow("狼大发言分析模型:", self.post_analysis_model)
+        task_model_layout.addRow("智能对话模型:", self.chat_model)
+        task_model_layout.addRow("持仓操作解析模型:", self.operation_parse_model)
+        task_model_group.setLayout(task_model_layout)
+        scroll_layout.addWidget(task_model_group)
+        
+        # 必盈API配置
+        biying_group = QGroupBox("必盈API配置")
+        biying_layout = QFormLayout()
+        
+        self.biying_base_url = QLineEdit()
+        self.biying_licence = QLineEdit()
+        self.biying_licence.setEchoMode(QLineEdit.EchoMode.Password)
+        
+        self.biying_show_btn = QPushButton("显示/隐藏")
+        self.biying_show_btn.clicked.connect(lambda: self.toggle_password(self.biying_licence))
+        
+        biying_btn_layout = QHBoxLayout()
+        self.biying_test_btn = QPushButton("测试连接")
+        self.biying_test_btn.clicked.connect(self.test_biying_connection)
+        biying_btn_layout.addWidget(self.biying_test_btn)
+        
+        biying_layout.addRow("API地址:", self.biying_base_url)
+        biying_layout.addRow("Licence:", self.create_key_input(self.biying_licence, self.biying_show_btn))
+        biying_layout.addRow("", biying_btn_layout)
+        
+        biying_group.setLayout(biying_layout)
+        scroll_layout.addWidget(biying_group)
+        
+        # 东方财富API配置
+        eastmoney_group = QGroupBox("东方财富API配置")
+        eastmoney_layout = QFormLayout()
+        
+        self.eastmoney_api_url = QLineEdit()
+        self.eastmoney_api_key = QLineEdit()
+        self.eastmoney_api_key.setEchoMode(QLineEdit.EchoMode.Password)
+        
+        self.eastmoney_show_btn = QPushButton("显示/隐藏")
+        self.eastmoney_show_btn.clicked.connect(lambda: self.toggle_password(self.eastmoney_api_key))
+        
+        eastmoney_btn_layout = QHBoxLayout()
+        self.eastmoney_test_btn = QPushButton("测试连接")
+        self.eastmoney_test_btn.clicked.connect(self.test_eastmoney_connection)
+        eastmoney_btn_layout.addWidget(self.eastmoney_test_btn)
+        
+        eastmoney_layout.addRow("API地址:", self.eastmoney_api_url)
+        eastmoney_layout.addRow("API Key:", self.create_key_input(self.eastmoney_api_key, self.eastmoney_show_btn))
+        eastmoney_layout.addRow("", eastmoney_btn_layout)
+        
+        eastmoney_group.setLayout(eastmoney_layout)
+        scroll_layout.addWidget(eastmoney_group)
+        
+        # 保存按钮
+        save_btn_layout = QHBoxLayout()
+        self.save_btn = QPushButton("保存配置")
+        self.save_btn.clicked.connect(self.save_config)
+        save_btn_layout.addStretch()
+        save_btn_layout.addWidget(self.save_btn)
+        
+        scroll_layout.addLayout(save_btn_layout)
+        
+        # 测试结果显示区域
+        result_group = QGroupBox("测试结果")
+        result_layout = QVBoxLayout()
+        self.result_text = QTextEdit()
+        self.result_text.setReadOnly(True)
+        self.result_text.setMaximumHeight(200)
+        result_layout.addWidget(self.result_text)
+        result_group.setLayout(result_layout)
+        scroll_layout.addWidget(result_group)
+        
+        scroll_layout.addStretch()
+        scroll_content.setLayout(scroll_layout)
+        scroll.setWidget(scroll_content)
+        layout.addWidget(scroll)
+        
+        self.setLayout(layout)
+    
+    def create_key_input(self, key_edit, show_btn):
+        """创建带显示按钮的key输入框"""
+        container = QWidget()
+        container_layout = QHBoxLayout()
+        container_layout.setContentsMargins(0, 0, 0, 0)
+        container_layout.addWidget(key_edit)
+        container_layout.addWidget(show_btn)
+        container.setLayout(container_layout)
+        return container
+    
+    def toggle_password(self, line_edit):
+        """切换密码显示"""
+        if line_edit.echoMode() == QLineEdit.EchoMode.Password:
+            line_edit.setEchoMode(QLineEdit.EchoMode.Normal)
+        else:
+            line_edit.setEchoMode(QLineEdit.EchoMode.Password)
+    
+    def load_config_from_file(self):
+        """从配置文件加载配置"""
+        # 加载到UI
+        self.main_api_url.setText(Config.LLM_API_URL)
+        self.main_api_key.setText(Config.LLM_API_KEY)
+        self.main_model.addItem(Config.LLM_MODEL)
+        self.main_model.setCurrentText(Config.LLM_MODEL)
+        
+        self.backup_api_url.setText(Config.LLM_API_URL_BACKUP)
+        self.backup_api_key.setText(Config.LLM_API_KEY_BACKUP)
+        self.backup_model.addItem(Config.LLM_MODEL_BACKUP)
+        self.backup_model.setCurrentText(Config.LLM_MODEL_BACKUP)
+        
+        self.daily_review_model.addItem(Config.LLM_MODEL_DAILY_REVIEW)
+        self.daily_review_model.setCurrentText(Config.LLM_MODEL_DAILY_REVIEW)
+        self.post_analysis_model.addItem(Config.LLM_MODEL_POST_ANALYSIS)
+        self.post_analysis_model.setCurrentText(Config.LLM_MODEL_POST_ANALYSIS)
+        
+        # 加载新增的任务模型
+        if hasattr(Config, 'LLM_MODEL_CHAT') and Config.LLM_MODEL_CHAT:
+            self.chat_model.addItem(Config.LLM_MODEL_CHAT)
+            self.chat_model.setCurrentText(Config.LLM_MODEL_CHAT)
+        else:
+            self.chat_model.addItem("")
+            self.chat_model.setCurrentText("")
+        
+        if hasattr(Config, 'LLM_MODEL_OPERATION_PARSE') and Config.LLM_MODEL_OPERATION_PARSE:
+            self.operation_parse_model.addItem(Config.LLM_MODEL_OPERATION_PARSE)
+            self.operation_parse_model.setCurrentText(Config.LLM_MODEL_OPERATION_PARSE)
+        else:
+            self.operation_parse_model.addItem("")
+            self.operation_parse_model.setCurrentText("")
+        
+        self.biying_base_url.setText(Config.BIYING_BASE_URL)
+        self.biying_licence.setText(Config.BIYING_LICENCE)
+        
+        self.eastmoney_api_url.setText(Config.MX_API_URL)
+        self.eastmoney_api_key.setText(Config.MX_API_KEY)
+    
+    def save_config(self):
+        """保存配置"""
+        try:
+            # 更新Config类属性
+            Config.LLM_API_URL = self.main_api_url.text()
+            Config.LLM_API_KEY = self.main_api_key.text()
+            Config.LLM_MODEL = self.main_model.currentText()
+            
+            Config.LLM_API_URL_BACKUP = self.backup_api_url.text()
+            Config.LLM_API_KEY_BACKUP = self.backup_api_key.text()
+            Config.LLM_MODEL_BACKUP = self.backup_model.currentText()
+            
+            Config.LLM_MODEL_DAILY_REVIEW = self.daily_review_model.currentText()
+            Config.LLM_MODEL_POST_ANALYSIS = self.post_analysis_model.currentText()
+            
+            # 保存新增的任务模型
+            Config.LLM_MODEL_CHAT = self.chat_model.currentText()
+            Config.LLM_MODEL_OPERATION_PARSE = self.operation_parse_model.currentText()
+            
+            Config.BIYING_BASE_URL = self.biying_base_url.text()
+            Config.BIYING_LICENCE = self.biying_licence.text()
+            
+            Config.MX_API_URL = self.eastmoney_api_url.text()
+            Config.MX_API_KEY = self.eastmoney_api_key.text()
+            
+            # 保存到文件
+            Config.save_config()
+            self.result_text.append("✅ 配置保存成功！")
+            QMessageBox.information(self, "成功", "配置保存成功！请重启程序以使配置生效。")
+        except Exception as e:
+            self.result_text.append(f"❌ 配置保存失败: {str(e)}")
+            QMessageBox.warning(self, "错误", f"配置保存失败: {str(e)}")
+    
+    def test_llm_models(self, api_index):
+        """测试获取可用模型列表"""
+        self.result_text.append(f"=== 测试获取模型列表 (API {api_index + 1}) ===")
+        
+        try:
+            if api_index == 0:
+                api_url = self.main_api_url.text()
+                api_key = self.main_api_key.text()
+                combo_box = self.main_model
+            else:  # api_index == 1 (备用API)
+                api_url = self.backup_api_url.text()
+                api_key = self.backup_api_key.text()
+                combo_box = self.backup_model
+            
+            # 创建临时LLM客户端测试
+            client = LLMClient(api_url=api_url, api_key=api_key)
+            models = client.list_available_models()
+            
+            if models:
+                self.result_text.append(f"✅ 成功获取 {len(models)} 个模型:")
+                for model in models:
+                    self.result_text.append(f"  - {model}")
+                
+                # 更新下拉框
+                current_text = combo_box.currentText()
+                combo_box.clear()
+                for model in models:
+                    combo_box.addItem(model)
+                if current_text:
+                    index = combo_box.findText(current_text)
+                    if index >= 0:
+                        combo_box.setCurrentIndex(index)
+            else:
+                self.result_text.append("⚠️ 未获取到模型列表")
+        except Exception as e:
+            self.result_text.append(f"❌ 测试失败: {str(e)}")
+    
+    def test_llm_connection(self, api_index):
+        """测试LLM连接"""
+        self.result_text.append(f"=== 测试LLM连接 (API {api_index + 1}) ===")
+        
+        try:
+            if api_index == 0:
+                api_url = self.main_api_url.text()
+                api_key = self.main_api_key.text()
+                model = self.main_model.currentText()
+            else:  # api_index == 1 (备用API)
+                api_url = self.backup_api_url.text()
+                api_key = self.backup_api_key.text()
+                model = self.backup_model.currentText()
+            
+            # 创建临时LLM客户端测试
+            client = LLMClient(api_url=api_url, api_key=api_key, model=model)
+            response, used_backup = client.chat([{"role": "user", "content": "返回一段富有人生哲理的话"}])
+            
+            self.result_text.append("✅ 连接成功！")
+            if used_backup:
+                self.result_text.append("⚠️ 注意：使用了备用API进行响应")
+            self.result_text.append(f"返回内容: {response}")
+        except Exception as e:
+            self.result_text.append(f"❌ 连接失败: {str(e)}")
+    
+    def test_biying_connection(self):
+        """测试必盈API连接"""
+        self.result_text.append("=== 测试必盈API连接 ===")
+        
+        try:
+            base_url = self.biying_base_url.text()
+            licence = self.biying_licence.text()
+            
+            # 创建临时数据源测试
+            from biying_client import BiyingClient
+            client = BiyingClient(licence=licence)
+            data = client.get_index_data("000001")
+            
+            if data:
+                self.result_text.append("✅ 连接成功！")
+                self.result_text.append(f"上证指数信息: 开盘={data.get('open', 'N/A')}, 收盘={data.get('close', 'N/A')}")
+            else:
+                self.result_text.append("⚠️ 连接成功，但未获取到数据")
+        except Exception as e:
+            self.result_text.append(f"❌ 连接失败: {str(e)}")
+    
+    def test_eastmoney_connection(self):
+        """测试东方财富API连接"""
+        self.result_text.append("=== 测试东方财富API连接 ===")
+        
+        try:
+            api_url = self.eastmoney_api_url.text()
+            api_key = self.eastmoney_api_key.text()
+            
+            # 创建临时数据源测试
+            from data_source import DataSource
+            ds = DataSource()
+            
+            # 直接使用东方财富公开接口测试
+            from eastmoney_client import EastMoneyClient
+            client = EastMoneyClient()
+            data = client.get_intraday_data("000001")
+            
+            if data:
+                self.result_text.append("✅ 连接成功！")
+                if len(data) > 0:
+                    last_data = data[-1]
+                    self.result_text.append(f"上证指数分时数据: 最后价格={last_data.get('price', 'N/A')}")
+            else:
+                self.result_text.append("⚠️ 连接成功，但未获取到数据")
+        except Exception as e:
+            self.result_text.append(f"❌ 连接失败: {str(e)}")
+
+
 def main():
-    # 设置环境变量
-    os.environ['LLM_API_URL'] = 'https://gcli.ggchan.dev/v1/chat/completions'
-    os.environ['LLM_API_KEY'] = 'gg-gcli-KVOOFwFjeKUrkwfZlyjGZUIleVoIPbaSwdoJ1l1WRe4'
-    os.environ['LLM_MODEL'] = 'gemini-3.1-pro-preview'
-    os.environ['MX_APIKEY'] = 'mkt_y5OEqO1aoagzi_AmfQmbCBzQsRcVDi2GafW6QCsifjs'
+    # 加载配置文件
+    Config.load_config()
+    
+    # 设置环境变量（从配置中读取）
+    os.environ['LLM_API_URL'] = Config.LLM_API_URL
+    os.environ['LLM_API_KEY'] = Config.LLM_API_KEY
+    os.environ['LLM_MODEL'] = Config.LLM_MODEL
+    os.environ['MX_APIKEY'] = Config.MX_API_KEY
     
     app = QApplication(sys.argv)
     app.setStyle('Fusion')

@@ -111,18 +111,29 @@ class LLMClient:
         self.request_timestamps.append(now)
         self.last_request_time = now
     
-    def chat(self, messages, temperature=0.7, max_tokens=2000):
+    def chat(self, messages, temperature=0.7, max_tokens=2000, task_model=None):
         """
         发送聊天请求到 LLM API（带速率限制和重试）
         
         :param messages: 消息列表，格式为 [{"role": "user/system/assistant", "content": "内容"}]
         :param temperature: 温度参数，控制随机性
         :param max_tokens: 最大生成长度
-        :return: LLM 返回的文本或 None
+        :param task_model: 任务特定模型名称，如果为空则使用默认模型
+        :return: (LLM 返回的文本或 None, 是否使用了备用API)
         """
+        # 如果指定了任务模型，临时切换模型
+        original_model = self.model
+        using_task_model = False
+        switched_to_backup = False
+        
+        if task_model:
+            self.model = task_model
+            using_task_model = True
+            logger.info(f"使用任务特定模型: {task_model}")
+        
         if not self.is_configured():
             logger.warning("LLM API 未配置，无法调用")
-            return None
+            return None, switched_to_backup
         
         # 根据是否使用备用API选择不同的请求格式
         if self.using_backup and "anthropic" in self.api_url:
@@ -198,7 +209,12 @@ class LLMClient:
                     # 如果之前切换到了备用API，成功后切回主API
                     if self.using_backup:
                         self._switch_to_primary()
-                    return content
+                        switched_to_backup = True
+                        logger.info("已从备用API切换回主API")
+                    # 恢复原始模型（如果使用了任务模型）
+                    if using_task_model:
+                        self.model = original_model
+                    return content, switched_to_backup
                 
                 elif response.status_code == 429:
                     # 服务器限流，需要等待
@@ -218,7 +234,19 @@ class LLMClient:
                         continue
                     else:
                         logger.error(f"LLM API 限流，已达最大重试次数 ({self.max_retries})")
-                        return None
+                        # 尝试备用API
+                        if not self.using_backup and self.api_url_backup:
+                            self._switch_to_backup()
+                            switched_to_backup = True
+                            logger.info("主API限流，切换到备用API")
+                            # 恢复原始模型（如果使用了任务模型）
+                            if using_task_model:
+                                self.model = original_model
+                            return self.chat(messages, temperature, max_tokens, task_model)
+                        # 恢复原始模型（如果使用了任务模型）
+                        if using_task_model:
+                            self.model = original_model
+                        return None, switched_to_backup
                 
                 else:
                     logger.error(f"LLM API 调用失败，状态码：{response.status_code}, 响应：{response.text}")
@@ -226,6 +254,8 @@ class LLMClient:
                     # 如果是主API失败，尝试切换到备用API
                     if not self.using_backup and attempt < self.max_retries:
                         self._switch_to_backup()
+                        switched_to_backup = True
+                        logger.info("主API调用失败，切换到备用API")
                         headers["Authorization"] = f"Bearer {self.api_key}"
                         continue
                     
@@ -235,7 +265,19 @@ class LLMClient:
                         time.sleep(delay)
                         continue
                     else:
-                        return None
+                        # 尝试备用API
+                        if not self.using_backup and self.api_url_backup:
+                            self._switch_to_backup()
+                            switched_to_backup = True
+                            logger.info("主API调用失败，切换到备用API")
+                            # 恢复原始模型（如果使用了任务模型）
+                            if using_task_model:
+                                self.model = original_model
+                            return self.chat(messages, temperature, max_tokens, task_model)
+                        # 恢复原始模型（如果使用了任务模型）
+                        if using_task_model:
+                            self.model = original_model
+                        return None, switched_to_backup
                         
             except requests.exceptions.RequestException as e:
                 logger.error(f"LLM API 请求异常（第{attempt+1}次尝试）：{e}")
@@ -243,6 +285,8 @@ class LLMClient:
                 # 如果是主API异常，尝试切换到备用API
                 if not self.using_backup and attempt < self.max_retries:
                     self._switch_to_backup()
+                    switched_to_backup = True
+                    logger.info("主API请求异常，切换到备用API")
                     headers["Authorization"] = f"Bearer {self.api_key}"
                     continue
                 
@@ -252,9 +296,24 @@ class LLMClient:
                     time.sleep(delay)
                     continue
                 else:
-                    return None
+                    # 尝试备用API
+                    if not self.using_backup and self.api_url_backup:
+                        self._switch_to_backup()
+                        switched_to_backup = True
+                        logger.info("主API请求异常，切换到备用API")
+                        # 恢复原始模型（如果使用了任务模型）
+                        if using_task_model:
+                            self.model = original_model
+                        return self.chat(messages, temperature, max_tokens, task_model)
+                    # 恢复原始模型（如果使用了任务模型）
+                    if using_task_model:
+                        self.model = original_model
+                    return None, switched_to_backup
         
-        return None
+        # 恢复原始模型（如果使用了任务模型）
+        if using_task_model:
+            self.model = original_model
+        return None, switched_to_backup
     
     def _extract_json(self, text):
         """
@@ -311,7 +370,7 @@ class LLMClient:
             {"role": "user", "content": prompt}
         ]
         
-        response = self.chat(messages, temperature=0.3)
+        response, used_backup = self.chat(messages, temperature=0.3)
         
         if response:
             try:
@@ -375,7 +434,7 @@ class LLMClient:
             {"role": "user", "content": prompt}
         ]
         
-        response = self.chat(messages, temperature=0.5)
+        response, used_backup = self.chat(messages, temperature=0.5)
         
         if response:
             try:
@@ -424,7 +483,7 @@ class LLMClient:
             {"role": "user", "content": prompt}
         ]
         
-        response = self.chat(messages, temperature=0.4)
+        response, used_backup = self.chat(messages, temperature=0.4)
         
         if response:
             try:
@@ -469,6 +528,39 @@ class LLMClient:
             "key_points": [],
             "analysis_method": "rule_based_fallback"
         }
+    
+    def list_available_models(self):
+        """
+        获取可用的模型列表
+        
+        :return: 模型列表
+        """
+        try:
+            # 尝试从OpenAI兼容的模型列表接口获取
+            models_endpoint = self.api_url.replace("/chat/completions", "/models")
+            
+            headers = {
+                "Authorization": f"Bearer {self.api_key}",
+                "Content-Type": "application/json"
+            }
+            
+            response = requests.get(models_endpoint, headers=headers, timeout=30)
+            
+            if response.status_code == 200:
+                data = response.json()
+                if "data" in data:
+                    models = [model["id"] for model in data["data"]]
+                    logger.info(f"成功获取 {len(models)} 个模型")
+                    return models
+            
+            # 如果获取模型列表失败，返回默认模型列表
+            logger.warning("获取模型列表失败，返回默认模型")
+            return [self.model]
+            
+        except Exception as e:
+            logger.error(f"获取模型列表异常: {e}")
+            # 返回默认模型作为兜底
+            return [self.model]
 
 
 # 示例用法

@@ -227,6 +227,49 @@ class EastMoneyClient:
             'amount': 20000000000
         }
     
+    def get_intraday_data(self, stock_code):
+        """
+        获取分时数据（模拟数据，因为东方财富妙想API不直接提供分时数据）
+        
+        :param stock_code: 股票代码（如 000001）
+        :return: 分时数据列表
+        """
+        # 使用模拟数据模拟一天的分时数据
+        try:
+            price = self.mock_prices.get(stock_code, self.mock_prices.get('000001', 3600))
+            
+            # 生成模拟分时数据（9:30 - 15:00，每5分钟一个点）
+            intraday_data = []
+            from datetime import datetime, timedelta
+            
+            base_time = datetime.now().replace(hour=9, minute=30, second=0, microsecond=0)
+            
+            for i in range(78):  # 78个5分钟 = 6.5小时
+                current_time = base_time + timedelta(minutes=i*5)
+                
+                # 跳过中午休息时间
+                if current_time.hour == 12:
+                    continue
+                
+                # 模拟价格波动
+                import random
+                fluctuation = random.uniform(-0.005, 0.005)  # ±0.5%
+                current_price = price * (1 + fluctuation)
+                
+                intraday_data.append({
+                    'time': current_time.strftime('%H:%M'),
+                    'price': round(current_price, 2),
+                    'volume': random.randint(10000, 100000),
+                    'amount': random.randint(1000000, 10000000)
+                })
+            
+            logger.info(f"生成分时数据 {stock_code}: {len(intraday_data)} 个点")
+            return intraday_data
+            
+        except Exception as e:
+            logger.error(f"获取分时数据异常: {e}")
+            return []
+    
     def test_connection(self):
         """测试API连接"""
         try:

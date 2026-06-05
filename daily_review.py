@@ -354,14 +354,17 @@ class DailyReview:
 请用简洁专业的语言回答，不需要输出JSON格式。"""
             
             # 调用LLM分析
-            analysis_text = self.llm_client.chat([{"role": "user", "content": prompt}])
+            analysis_text, used_backup = self.llm_client.chat([{"role": "user", "content": prompt}])
             
             if analysis_text:
-                return {
+                result = {
                     "core_viewpoint": analysis_text,
                     "market_signal": self._extract_market_signal(analysis_text),
                     "trading_suggestion": self._extract_trading_suggestion(analysis_text)
                 }
+                if used_backup:
+                    logger.info("每日复盘使用备用API完成")
+                return result
             else:
                 return {
                     "core_viewpoint": "（LLM分析失败）",
@@ -439,7 +442,9 @@ class DailyReview:
 
 请用简洁专业的语言回答，不需要输出JSON格式。"""
             
-            result = self.llm_client.chat([{"role": "user", "content": prompt}])
+            result, used_backup = self.llm_client.chat([{"role": "user", "content": prompt}])
+            if used_backup:
+                logger.info("市场概况分析使用备用API")
             
             if result:
                 # 解析结果
@@ -645,9 +650,11 @@ class DailyReview:
     "suggestions": ["建议1", "建议2"]
 }}
 """
-        
+
         try:
-            result = self.llm_client.chat([{"role": "user", "content": prompt}])
+            result, used_backup = self.llm_client.chat([{"role": "user", "content": prompt}])
+            if used_backup:
+                logger.info("操作评分使用备用API")
             # 尝试解析JSON结果
             try:
                 llm_result = json.loads(result)
@@ -1078,10 +1085,11 @@ class DailyReview:
     "key_points": ["核心要点1", "核心要点2", "核心要点3"]
 }}
 """
-            
-            result = self.llm_client.chat([{"role": "user", "content": prompt}])
-            
-            if result:
+
+            result, used_backup = self.llm_client.chat([{"role": "user", "content": prompt}])
+            if used_backup:
+                logger.info("狼大交易思路分析使用备用API")
+            if not result:
                 try:
                     llm_result = json.loads(result)
                     return {
@@ -1232,10 +1240,11 @@ class DailyReview:
     "suggestions": ["改进建议1", "改进建议2"]
 }}
 """
-        
+
         try:
-            result = self.llm_client.chat([{"role": "user", "content": prompt}])
-            
+            result, used_backup = self.llm_client.chat([{"role": "user", "content": prompt}])
+            if used_backup:
+                logger.info("持仓分析使用备用API")
             try:
                 # 提取JSON内容 - 处理可能的markdown包裹
                 import re
@@ -1345,7 +1354,9 @@ class DailyReview:
 """
         
         try:
-            result = self.llm_client.chat([{"role": "user", "content": prompt}])
+            result, used_backup = self.llm_client.chat([{"role": "user", "content": prompt}])
+            if used_backup:
+                logger.info("明日计划生成使用备用API")
             
             # 尝试解析JSON - 处理可能的markdown包裹
             try:

@@ -6,6 +6,7 @@
 支持的接口：
 - 实时股票行情: hsstock/real/time/{code}/{licence}
 - 实时指数行情: hsindex/real/time/{code}/{licence}
+- 实时基金行情: fd/real/time/{code}/{licence} (用于ETF)
 - 股票基础信息: hsstock/instrument/{code}.S[ZH]/{licence}
 - 实时交易公开数据: hsrl/ssjy/{code}/{licence}
 
@@ -43,21 +44,40 @@ class BiyingClient:
             return f"{stock_code}.SH"
         return f"{stock_code}.SZ"
 
+    def _is_etf(self, stock_code):
+        """判断是否是ETF基金代码"""
+        # ETF代码通常以51开头（上交所）或15开头（深交所）或58开头（科创板ETF）
+        return stock_code.startswith("51") or stock_code.startswith("15") or stock_code.startswith("58")
+
     def get_stock_price(self, stock_code):
         """
-        获取股票实时价格
+        获取股票/ETF实时价格
         同时兼容 EastMoneyClient 和 EastMoneyAPI 的返回格式
         返回数据中包含 'is_mock' 字段标识是否为模拟数据
         """
         try:
-            url = self._get_url("hsstock/real/time", stock_code)
-            logger.debug(f"请求必盈API: {url}")
+            # 判断是否是ETF，使用不同的接口
+            if self._is_etf(stock_code):
+                # ETF使用基金接口: fd/real/time
+                url = self._get_url("fd/real/time", stock_code)
+                logger.debug(f"请求必盈API(ETF): {url}")
+            else:
+                # 普通股票使用股票接口: hsstock/real/time
+                url = self._get_url("hsstock/real/time", stock_code)
+                logger.debug(f"请求必盈API(股票): {url}")
+            
             resp = requests.get(url, timeout=15)
             resp.raise_for_status()
             data = resp.json()
 
+            # 支持字典和列表两种格式
+            item = None
             if isinstance(data, list) and len(data) > 0:
                 item = data[0]
+            elif isinstance(data, dict) and "error" not in data:
+                item = data
+
+            if item:
                 price = float(item.get("p", 0))
                 stock_name = self._resolve_name(stock_code)
 
@@ -75,7 +95,7 @@ class BiyingClient:
                     "pre_close": float(item.get("yc", 0)),
                     "is_mock": False,  # 标记：真实数据
                 }
-            logger.warning(f"必盈API get_stock_price 返回空数据: {stock_code}")
+            logger.warning(f"必盈API get_stock_price 返回空数据: {stock_code}, 数据: {data}")
             return self._mock_price(stock_code)
         except Exception as e:
             logger.error(f"必盈API获取 {stock_code} 价格失败: {e}")
@@ -96,8 +116,14 @@ class BiyingClient:
             resp.raise_for_status()
             data = resp.json()
 
+            # 支持字典和列表两种格式
+            item = None
             if isinstance(data, list) and len(data) > 0:
                 item = data[0]
+            elif isinstance(data, dict) and "error" not in data:
+                item = data
+
+            if item:
                 price = float(item.get("p", 0))
                 return {
                     "code": index_code,
@@ -113,6 +139,7 @@ class BiyingClient:
                     "pre_close": float(item.get("yc", 0)),
                     "is_mock": False,  # 标记：真实数据
                 }
+            logger.warning(f"必盈API get_index_data 返回空数据: {index_code}, 数据: {data}")
             return self._mock_index_data(index_code)
         except Exception as e:
             logger.error(f"必盈API获取指数{index_query}失败: {e}")
@@ -188,8 +215,14 @@ class BiyingClient:
             resp = requests.get(url, timeout=10)
             resp.raise_for_status()
             data = resp.json()
+            # 支持字典和列表两种格式
+            item = None
             if isinstance(data, list) and len(data) > 0:
-                name = data[0].get("name", f"股票{stock_code}")
+                item = data[0]
+            elif isinstance(data, dict) and "error" not in data:
+                item = data
+            if item:
+                name = item.get("name", f"股票{stock_code}")
                 self.stock_name_cache[stock_code] = name
                 return name
         except Exception:
@@ -199,8 +232,14 @@ class BiyingClient:
                 resp = requests.get(url, timeout=10)
                 resp.raise_for_status()
                 data = resp.json()
+                # 支持字典和列表两种格式
+                item = None
                 if isinstance(data, list) and len(data) > 0:
-                    name = data[0].get("name", f"股票{stock_code}")
+                    item = data[0]
+                elif isinstance(data, dict) and "error" not in data:
+                    item = data
+                if item:
+                    name = item.get("name", f"股票{stock_code}")
                     self.stock_name_cache[stock_code] = name
                     return name
             except Exception:
@@ -222,10 +261,6 @@ class BiyingClient:
         
         # 同时输出到控制台和控制日志，防止因日志未及时查看而忽略警告
         mock_warning = f"[警告] 使用模拟价格: {name}({stock_code}) = {price}，请检查必盈API连接！"
-        print(f"\n{'!'*60}")
-        print(f"! {mock_warning}")
-        print(f"! 此数据为模拟数据，不能用于实际交易决策！")
-        print(f"{'!'*60}\n")
         logger.warning(mock_warning)
         
         return {
@@ -253,10 +288,6 @@ class BiyingClient:
         
         # 同时输出到控制台和控制日志，防止因日志未及时查看而忽略警告
         mock_warning = f"[警告] 使用模拟指数数据: {index_code} = {price}，请检查必盈API连接！"
-        print(f"\n{'!'*60}")
-        print(f"! {mock_warning}")
-        print(f"! 此数据为模拟数据，不能用于实际交易决策！")
-        print(f"{'!'*60}\n")
         logger.warning(mock_warning)
         
         return {

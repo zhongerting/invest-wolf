@@ -120,6 +120,49 @@ class ChatAssistant:
             logger.error(f"获取知识库内容失败: {e}")
             return f"【知识库提示】获取知识失败: {str(e)}"
     
+    def get_full_knowledge_base(self):
+        """
+        获取全量知识库内容（所有狼大发言）
+        
+        :return: 格式化的知识库内容字符串
+        """
+        try:
+            # 获取所有帖子
+            posts = self.knowledge_base.get_all_posts()
+            
+            if not posts:
+                return "【知识库提示】暂无狼大发言记录"
+            
+            # 格式化输出
+            kb_content = "【狼大全量发言记录 - 背景世界书】\n"
+            kb_content += "=" * 60 + "\n"
+            kb_content += f"总计 {len(posts)} 条发言\n"
+            kb_content += "=" * 60 + "\n\n"
+            
+            for i, post in enumerate(posts, 1):
+                post_date = post.get("date", "")
+                post_summary = post.get("summary", "")
+                post_tags = ", ".join(post.get("tags", []))
+                post_category = post.get("category", "")
+                post_sectors = ", ".join(post.get("mentioned_sectors", []))
+                
+                kb_content += f"【发言 {i} - {post_date}】\n"
+                kb_content += f"分类: {post_category}\n"
+                if post_tags:
+                    kb_content += f"标签: {post_tags}\n"
+                if post_sectors:
+                    kb_content += f"提到板块: {post_sectors}\n"
+                kb_content += f"内容摘要: {post_summary}\n\n"
+            
+            kb_content += "=" * 60 + "\n"
+            kb_content += "请基于以上狼大的全量发言记录来回答用户的问题。\n"
+            
+            return kb_content
+            
+        except Exception as e:
+            logger.error(f"获取全量知识库内容失败: {e}")
+            return f"【知识库提示】获取知识失败: {str(e)}"
+    
     def parse_operations(self, user_input):
         """
         解析用户操作
@@ -134,38 +177,48 @@ class ChatAssistant:
         if rule_result['operations']:
             return rule_result
         
-        # 如果规则解析失败，尝试LLM解析
+        # 使用LLM解析（优先使用大模型）
         prompt = f"""你是一个专业的股票交易记录助手。请从以下操作描述中识别买卖操作，严格按照JSON格式输出，不要输出其他任何内容。
 
 用户描述：
 {user_input}
 
 请识别以下信息：
-1. 股票代码：必须是6位数字（如510210）
-2. 股票名称：中文名称（如上证指数ETF）
-3. 操作类型：买入或卖出
-4. 数量：整数，股数
-5. 金额：可选，浮点数
+1. 股票代码（stock_code）：必须是6位数字（如510210）
+2. 股票名称（stock_name）：中文名称（如上证指数ETF）
+3. 操作类型（operation_type）：买入或卖出
+4. 数量（quantity）：整数，股数
+5. 价格（price）：买入或卖出的价格，浮点数
+6. 操作时间（operation_time）：操作发生的时间，如果没有明确说明则为空字符串
 
 严格按照以下JSON格式输出，只输出JSON：
 {{
     "operations": [
         {{
-            "stock_code": "股票代码",
-            "stock_name": "股票名称",
+            "stock_code": "6位数字股票代码",
+            "stock_name": "股票中文名称",
             "operation_type": "买入",
             "quantity": 1000,
-            "amount": 10000.0
+            "price": 10.50,
+            "operation_time": "2024-01-15 10:30:00"
         }}
     ],
     "summary": "操作总结描述"
 }}
 
+注意事项：
+- 如果用户描述中没有提到某个字段（如价格、操作时间），请将该字段设置为空字符串或0
+- 股票代码必须是6位数字，其他格式请忽略
+- 数量单位默认为"股"，如果是"手"请转换为股数（1手=100股）
+- 操作时间格式：YYYY-MM-DD HH:MM:SS，如果没有时间则留空
+
 如果无法识别任何操作，operations数组为空。
 """
         
         try:
-            result = self.llm_client.chat([{"role": "user", "content": prompt}])
+            result, used_backup = self.llm_client.chat([{"role": "user", "content": prompt}])
+            if used_backup:
+                logger.info("持仓操作解析使用备用API")
             logger.debug(f"LLM返回结果: {result}")
             
             # 清理结果，移除可能的markdown标记
@@ -184,8 +237,19 @@ class ChatAssistant:
                     # 验证每条操作的必要字段
                     valid_ops = []
                     for op in parsed['operations']:
-                        if all(k in op for k in ['stock_code', 'stock_name', 'operation_type', 'quantity']):
-                            valid_ops.append(op)
+                        # 确保必要字段存在
+                        op.setdefault('stock_code', '')
+                        op.setdefault('stock_name', '')
+                        op.setdefault('operation_type', '')
+                        op.setdefault('quantity', 0)
+                        op.setdefault('price', 0.0)
+                        op.setdefault('operation_time', '')
+                        
+                        # 验证股票代码是6位数字
+                        if op['stock_code'] and len(op['stock_code']) != 6:
+                            continue
+                            
+                        valid_ops.append(op)
                     parsed['operations'] = valid_ops
                     return parsed
                 else:
@@ -341,7 +405,9 @@ class ChatAssistant:
                 'stock_name': op.get('stock_name', ''),
                 'operation_type': op.get('operation_type', ''),
                 'quantity': op.get('quantity', 0),
+                'price': op.get('price', 0.0),
                 'amount': op.get('amount', 0),
+                'operation_time': op.get('operation_time', ''),
                 'recorded_at': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
             })
         
@@ -355,13 +421,20 @@ class ChatAssistant:
                 quantity = op.get('quantity', 0)
                 op_type = op.get('operation_type', '')
                 stock_name = op.get('stock_name', '')
+                # 优先使用解析到的价格，如果没有则从数据源获取
+                parsed_price = op.get('price', 0.0)
                 
                 if not code or quantity <= 0:
                     continue
                 
-                # 获取当前股票价格
-                price_data = self.data_source.get_stock_price(code)
-                price = price_data.get('price', 0) if price_data else 0
+                # 获取股票价格（优先使用解析到的价格）
+                if parsed_price > 0:
+                    price = parsed_price
+                    logger.info(f"使用解析到的价格: {price}")
+                else:
+                    price_data = self.data_source.get_stock_price(code)
+                    price = price_data.get('price', 0) if price_data else 0
+                    logger.info(f"从数据源获取价格: {price}")
                 
                 if op_type == '买入':
                     self.position_data.buy_stock(code, quantity, price, stock_name)
@@ -396,9 +469,10 @@ class ChatAssistant:
         kb_content = ""
         
         if use_kb:
-            logger.info(f"用户问题涉及知识库，正在检索近30天的狼大发言...")
-            kb_content = self.get_recent_knowledge_base(days=30)
-            logger.info(f"知识库内容已准备")
+            # 优先使用全量知识库（包含所有2919条发言）
+            logger.info(f"用户问题涉及知识库，正在检索狼大全量发言记录（{len(self.knowledge_base.get_all_posts())}条）...")
+            kb_content = self.get_full_knowledge_base()
+            logger.info(f"全量知识库内容已准备")
         
         # 构建系统提示词
         system_prompt = """你是一个专业的投资助手，擅长分析市场数据、交易策略和投资建议。
@@ -423,7 +497,9 @@ class ChatAssistant:
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_content}
             ]
-            result = self.llm_client.chat(messages)
+            result, used_backup = self.llm_client.chat(messages)
+            if used_backup:
+                logger.info("智能对话使用备用API")
             return result
         except Exception as e:
             logger.error(f"回答问题失败: {e}")

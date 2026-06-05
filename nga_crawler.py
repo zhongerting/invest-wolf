@@ -27,7 +27,7 @@ class NGACrawler:
         """
         初始化NGA爬取客户端
         
-        :param ngapost2md_path: ngapost2md可执行文件路径
+        :param ngapost2md_path: ngapost2md可执行文件路径（可选）
         """
         if ngapost2md_path:
             self.ngapost2md_path = ngapost2md_path
@@ -37,10 +37,22 @@ class NGACrawler:
         
         self.output_base_path = Path('./')
         
-        logger.info(f"ngapost2md路径: {self.ngapost2md_path}")
+        if self.ngapost2md_path:
+            logger.info(f"ngapost2md路径: {self.ngapost2md_path}")
+        else:
+            logger.info("ngapost2md未找到，将使用已有数据文件")
     
     def _find_ngapost2md(self):
         """查找ngapost2md可执行文件"""
+        # 从配置中读取TOOL_DIR
+        try:
+            from config import Config
+            if os.path.exists(Config.TOOL_EXE):
+                return Config.TOOL_EXE
+        except:
+            pass
+        
+        # 其他查找路径
         search_paths = [
             './ngapost2md/ngapost2md.exe',
             '../ngapost2md/ngapost2md.exe',
@@ -56,57 +68,63 @@ class NGACrawler:
     
     def is_available(self):
         """检查ngapost2md是否可用"""
-        return self.ngapost2md_path is not None and os.path.exists(self.ngapost2md_path)
+        # 如果有nga_master_posts.md文件，也认为可用
+        has_ngapost2md = self.ngapost2md_path is not None and os.path.exists(self.ngapost2md_path)
+        has_master_file = os.path.exists('nga_master_posts.md')
+        
+        return has_ngapost2md or has_master_file
     
     def crawl_post(self, tid, uid=None):
         """
-        爬取NGA帖子
+        爬取NGA帖子（如果有ngapost2md工具则爬取，否则返回已有的master文件）
         
         :param tid: 帖子ID
         :param uid: 用户ID（可选，筛选特定用户发言）
-        :return: 爬取结果路径
+        :return: 爬取结果目录或master文件路径
         """
-        if not self.is_available():
-            logger.error("ngapost2md不可用")
-            return None
-        
-        try:
-            # 构建命令
-            cmd = [self.ngapost2md_path, str(tid)]
-            
-            if uid:
-                cmd.extend(['--authorid', str(uid)])
-            
-            logger.info(f"执行命令: {' '.join(cmd)}")
-            
-            # 切换到ngapost2md目录执行
-            cwd = os.path.dirname(self.ngapost2md_path)
-            
-            # 执行命令
-            result = subprocess.run(
-                cmd,
-                cwd=cwd,
-                capture_output=True,
-                text=True,
-                encoding='utf-8',
-                timeout=300
-            )
-            
-            if result.returncode == 0:
-                logger.info(f"爬取成功: {result.stdout}")
-                # 返回生成的文件路径
-                output_dir = Path(cwd) / f"{tid}({uid})" if uid else Path(cwd) / str(tid)
-                return str(output_dir)
-            else:
-                logger.error(f"爬取失败: {result.stderr}")
-                return None
+        # 首先尝试使用ngapost2md爬取
+        if self.ngapost2md_path and os.path.exists(self.ngapost2md_path):
+            try:
+                # 构建命令
+                cmd = [self.ngapost2md_path, str(tid)]
                 
-        except subprocess.TimeoutExpired:
-            logger.error("爬取超时")
-            return None
-        except Exception as e:
-            logger.error(f"爬取异常: {e}")
-            return None
+                if uid:
+                    cmd.extend(['--authorid', str(uid)])
+                
+                logger.info(f"执行命令: {' '.join(cmd)}")
+                
+                # 切换到ngapost2md目录执行
+                cwd = os.path.dirname(self.ngapost2md_path)
+                
+                # 执行命令
+                result = subprocess.run(
+                    cmd,
+                    cwd=cwd,
+                    capture_output=True,
+                    text=True,
+                    encoding='utf-8',
+                    timeout=300
+                )
+                
+                if result.returncode == 0:
+                    logger.info(f"爬取成功: {result.stdout}")
+                    # 返回生成的文件路径
+                    output_dir = Path(cwd) / f"{tid}({uid})" if uid else Path(cwd) / str(tid)
+                    return str(output_dir)
+                else:
+                    logger.error(f"爬取失败: {result.stderr}")
+            except subprocess.TimeoutExpired:
+                logger.error("爬取超时")
+            except Exception as e:
+                logger.error(f"爬取异常: {e}")
+        
+        # 如果爬取失败或没有工具，检查是否有已有的master文件
+        if os.path.exists('nga_master_posts.md'):
+            logger.info("使用已有的nga_master_posts.md文件")
+            return os.path.abspath('nga_master_posts.md')
+        
+        logger.error("ngapost2md不可用且未找到nga_master_posts.md")
+        return None
     
     def get_latest_post_time(self, post_dir):
         """

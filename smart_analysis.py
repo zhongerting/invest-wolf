@@ -70,23 +70,35 @@ class SmartAnalysisService:
         
         try:
             # 爬取帖子
-            result_dir = self.nga_crawler.crawl_post(tid, uid)
-            if not result_dir:
+            result_path = self.nga_crawler.crawl_post(tid, uid)
+            if not result_path:
                 return []
             
-            # 读取帖子文件
-            post_file = os.path.join(result_dir, 'post.md')
-            if not os.path.exists(post_file):
-                return []
+            # 判断返回的是目录还是文件
+            if os.path.isdir(result_path):
+                # 从目录读取
+                post_file = os.path.join(result_path, 'post.md')
+                if not os.path.exists(post_file):
+                    return []
+            else:
+                # 直接使用文件
+                post_file = result_path
             
             with open(post_file, 'r', encoding='utf-8') as f:
                 content = f.read()
             
             # 解析新发言
             new_posts = self._parse_new_posts(content)
-            logger.info(f"找到 {len(new_posts)} 条新发言")
+            logger.info(f"找到 {len(new_posts)} 条发言")
             
-            return new_posts
+            # 只返回上次爬取时间之后的新发言
+            truly_new = []
+            for post in new_posts:
+                if post['date'] > self.last_crawl_time:
+                    truly_new.append(post)
+            
+            logger.info(f"其中 {len(truly_new)} 条是新发言")
+            return truly_new
             
         except Exception as e:
             logger.error(f"获取新发言失败: {e}")

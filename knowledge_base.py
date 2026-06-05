@@ -373,6 +373,15 @@ class KnowledgeBase:
         
         return sorted(result, key=lambda x: x["date"])
     
+    def get_all_posts(self):
+        """
+        获取所有帖子（按时间倒序排列）
+        
+        :return: 所有帖子列表
+        """
+        # 按时间倒序排列，最新的在前
+        return sorted(self.posts_index, key=lambda x: x["date"], reverse=True)
+    
     def get_posts_by_tag(self, tag):
         """
         获取指定标签的帖子
@@ -415,6 +424,41 @@ class KnowledgeBase:
             category_counts[post["category"]] += 1
         
         return dict(category_counts)
+    
+    def get_full_posts_by_date_range(self, start_date, end_date):
+        """
+        获取指定日期范围内的完整帖子（包含内容）
+        
+        :param start_date: 开始日期（datetime对象）
+        :param end_date: 结束日期（datetime对象）
+        :return: 完整帖子列表
+        """
+        result = []
+        start_str = start_date.strftime("%Y-%m-%d %H:%M:%S")
+        end_str = end_date.strftime("%Y-%m-%d %H:%M:%S")
+        
+        for post in self.posts_index:
+            if start_str <= post["date"] <= end_str:
+                # 读取完整内容文件
+                post_date = datetime.strptime(post["date"], "%Y-%m-%d %H:%M:%S")
+                date_key = post_date.strftime("%Y%m")
+                month_dir = os.path.join(self.posts_dir, date_key)
+                post_file = os.path.join(month_dir, f"{post['post_num']}.json")
+                
+                if os.path.exists(post_file):
+                    try:
+                        with open(post_file, 'r', encoding='utf-8') as f:
+                            full_post = json.load(f)
+                            result.append(full_post)
+                    except Exception as e:
+                        logger.error(f"读取帖子 {post['post_num']} 内容失败: {e}")
+                        # 如果文件读取失败，只返回元数据
+                        result.append(post)
+                else:
+                    # 如果没有内容文件，只返回元数据
+                    result.append(post)
+        
+        return sorted(result, key=lambda x: x["date"])
 
 # 示例用法
 if __name__ == "__main__":
