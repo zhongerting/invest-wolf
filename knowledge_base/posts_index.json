@@ -37187,5 +37187,168 @@
       "半导体"
     ],
     "content_hash": 1586378901891484819
+  },
+  {
+    "post_num": 2961,
+    "date": "2026-06-05 10:02:07",
+    "tags": [
+      "technical",
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者通过观察分时图黄线，发现市场出现极端的恐慌性抛售（割肉盘）。尽管对此已有心理准备，但面对剧烈的盘面杀跌，依然表达了强烈的心理不适感。",
+    "mentioned_sectors": [],
+    "content_hash": 7085057186567953550
+  },
+  {
+    "post_num": 2962,
+    "date": "2026-06-05 10:20:41",
+    "tags": [
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者正在进行调仓操作，通过降低光伏板块仓位并增持半导体板块来实现行业轮动，同时小幅提升了整体持仓比例。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "content_hash": -1767480219166210891
+  },
+  {
+    "post_num": 2963,
+    "date": "2026-06-05 10:55:50",
+    "tags": [
+      "technical",
+      "sentiment",
+      "sector",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者观察到市场出现极端割肉盘后的拉升，认为这能激活流动性。建议投资者避开非科技类的短期轮动题材，转而布局核心科技板块，预期其最终涨幅将跑赢市场。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "content_hash": 1359400363857284196
+  },
+  {
+    "post_num": 2964,
+    "date": "2026-06-05 11:17:21",
+    "tags": [
+      "strategy",
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "作者明确其投资风格为长线，表示未来会同步个人买卖操作但拒绝解释投资逻辑，并强调不进行荐股，整体态度较为个人化且带有防御色彩。",
+    "mentioned_sectors": [],
+    "content_hash": -7317466496305539825
+  },
+  {
+    "post_num": 2965,
+    "date": "2026-06-05 11:23:54",
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该内容仅为用户表达强烈反对或排斥情绪的社交互动，不包含任何实质性的股票投资分析、市场观点或金融信息。",
+    "mentioned_sectors": [],
+    "content_hash": -1468418986512904558
+  },
+  {
+    "post_num": 2968,
+    "date": "2026-06-05 13:40:12",
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "作者针对市场中的抱怨情绪表达了不屑，强调其仅分享个人操作而非投资建议，并表现出对自身交易策略的高度自信，认为市场最终会验证其正确性。",
+    "mentioned_sectors": [],
+    "content_hash": 4834829918494544244
+  },
+  {
+    "post_num": 2971,
+    "date": "2026-06-05 13:48:42",
+    "tags": [
+      "sector",
+      "sentiment",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为今日市场资金的核心博弈点在航天板块。尽管机器人板块产生了一定扰动，但因其位置不够低，资金最终仍选择流入航天板块。",
+    "mentioned_sectors": [],
+    "content_hash": -6151380501039085027
+  },
+  {
+    "post_num": 2970,
+    "date": "2026-06-05 13:47:48",
+    "tags": [
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "trading_signal",
+    "summary": "作者描述了日内交易操作：早盘清仓后，依据分时技术指标（黄线穿白线）买回部分仓位，并因市场走势符合预期计划继续加仓。",
+    "mentioned_sectors": [],
+    "content_hash": 1632084500343889776
+  },
+  {
+    "post_num": 2972,
+    "date": "2026-06-05 13:52:51",
+    "tags": [
+      "sentiment",
+      "strategy"
+    ],
+    "category": "other",
+    "summary": "作者澄清其言论并非为了安抚他人情绪（心理按摩），而是对自己交易行为被质疑感到不解和好笑，展现出较强的个人主见和对自身策略的自信。",
+    "mentioned_sectors": [],
+    "content_hash": -9000912503175722355
+  },
+  {
+    "post_num": 2973,
+    "date": "2026-06-05 14:05:18",
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为光伏和半导体是当前市场的核心驱动力，若这两个板块不走强，大盘整体难以维持涨势，其他板块的上涨也无法带动市场企稳。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "content_hash": 6799204150914080755
+  },
+  {
+    "post_num": 2974,
+    "date": "2026-06-05 14:25:31",
+    "tags": [
+      "sector",
+      "market",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者强调科技板块在当前市场中的核心地位，认为科技股是市场的风向标和领头羊，若科技板块走弱，其他板块也难以维持热度或独立走强。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "content_hash": 484480569769114930
+  },
+  {
+    "post_num": 2975,
+    "date": "2026-06-05 14:58:02",
+    "tags": [
+      "market",
+      "strategy",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场处于震荡筑底阶段，强调亏损主因是高位追涨或在非科技板块频繁调仓，暗示科技板块相对稳健。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "content_hash": 2763900501054350634
   }
 ]

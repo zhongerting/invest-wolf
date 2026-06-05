@@ -50,11 +50,16 @@ split_posts.py
 
 # 用户数据和配置
 investment.db
-knowledge_base/
 daily_reports/
 intraday_alerts/
 nga_master_posts.md
 daily_operations.json
+
+# 知识库 - 只上传索引，不上传原始发言内容
+knowledge_base/
+!knowledge_base/
+knowledge_base/posts/
+!knowledge_base/*.json
 
 # 用户配置文件（首次运行会生成）
 app_config.json
