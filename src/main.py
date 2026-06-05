@@ -38,6 +38,7 @@ from .smart_analysis import SmartAnalysisService
 from .task_scheduler import TaskScheduler
 from .daily_review import DailyReview
 from .chat_assistant import ChatAssistant
+from .notes import NotesManager
 
 # 配置日志
 logging.basicConfig(
@@ -1344,6 +1345,7 @@ class MainWindow(QMainWindow):
         self.smart_analysis = SmartAnalysisService()  # 智能分析服务
         self.daily_review = DailyReview()  # 复盘报告生成器
         self.chat_assistant = ChatAssistant(self.position_data, self.data_source, self.knowledge_base)  # 对话助手（传入持仓数据、行情客户端和知识库）
+        self.notes_manager = NotesManager()  # 笔记管理器
     
     def init_scheduler(self):
         """初始化定时任务调度器"""
@@ -1407,6 +1409,10 @@ class MainWindow(QMainWindow):
         self.chat_panel = ChatPanel(self.chat_assistant)
         self.tabs.addTab(self.chat_panel, "对话")
         
+        # 笔记面板
+        self.notes_panel = NotesPanel(self.notes_manager)
+        self.tabs.addTab(self.notes_panel, "笔记")
+        
         # 配置面板
         self.config_panel = ConfigPanel(self.llm_client, self.data_source)
         self.tabs.addTab(self.config_panel, "配置")
@@ -1437,6 +1443,286 @@ class MainWindow(QMainWindow):
         self.status_bar.showMessage(" | ".join(status_messages))
         
         logger.info("连接测试完成")
+
+
+class NotesPanel(QWidget):
+    """笔记面板 - 管理交易纪律、狼大策略和短期安排"""
+    def __init__(self, notes_manager):
+        super().__init__()
+        self.notes_manager = notes_manager
+        self.init_ui()
+        self.load_notes()
+    
+    def init_ui(self):
+        layout = QVBoxLayout()
+        
+        # 标签选择器
+        tab_layout = QHBoxLayout()
+        self.tab_selector = QTabWidget()
+        self.tab_selector.setTabPosition(QTabWidget.TabPosition.West)
+        
+        # 交易纪律
+        self.discipline_tab = QWidget()
+        self.tab_selector.addTab(self.discipline_tab, "交易纪律")
+        
+        # 狼大策略
+        self.strategy_tab = QWidget()
+        self.tab_selector.addTab(self.strategy_tab, "狼大策略")
+        
+        # 短期安排
+        self.short_term_tab = QWidget()
+        self.tab_selector.addTab(self.short_term_tab, "短期安排")
+        
+        tab_layout.addWidget(self.tab_selector)
+        layout.addLayout(tab_layout)
+        
+        # 初始化每个标签页的内容
+        self.init_discipline_tab()
+        self.init_strategy_tab()
+        self.init_short_term_tab()
+        
+        self.setLayout(layout)
+    
+    def init_discipline_tab(self):
+        """初始化交易纪律标签页"""
+        layout = QVBoxLayout()
+        
+        # 标题和输入
+        input_group = QGroupBox("添加交易纪律")
+        input_layout = QVBoxLayout()
+        
+        title_layout = QHBoxLayout()
+        title_layout.addWidget(QLabel("标题:"))
+        self.discipline_title = QLineEdit()
+        self.discipline_title.setPlaceholderText("输入标题...")
+        title_layout.addWidget(self.discipline_title)
+        input_layout.addLayout(title_layout)
+        
+        self.discipline_content = QTextEdit()
+        self.discipline_content.setPlaceholderText("输入交易纪律内容...")
+        self.discipline_content.setMaximumHeight(100)
+        input_layout.addWidget(self.discipline_content)
+        
+        btn_layout = QHBoxLayout()
+        add_btn = QPushButton("添加")
+        add_btn.clicked.connect(lambda: self.add_note("discipline"))
+        clear_btn = QPushButton("清空输入")
+        clear_btn.clicked.connect(self.clear_discipline_input)
+        btn_layout.addWidget(add_btn)
+        btn_layout.addWidget(clear_btn)
+        btn_layout.addStretch()
+        input_layout.addLayout(btn_layout)
+        
+        input_group.setLayout(input_layout)
+        layout.addWidget(input_group)
+        
+        # 笔记列表
+        list_group = QGroupBox("我的交易纪律")
+        list_layout = QVBoxLayout()
+        
+        self.discipline_list = QTextEdit()
+        self.discipline_list.setReadOnly(True)
+        list_layout.addWidget(self.discipline_list)
+        
+        list_group.setLayout(list_layout)
+        layout.addWidget(list_group)
+        
+        self.discipline_tab.setLayout(layout)
+    
+    def init_strategy_tab(self):
+        """初始化狼大策略标签页"""
+        layout = QVBoxLayout()
+        
+        # 标题和输入
+        input_group = QGroupBox("添加狼大策略")
+        input_layout = QVBoxLayout()
+        
+        title_layout = QHBoxLayout()
+        title_layout.addWidget(QLabel("标题:"))
+        self.strategy_title = QLineEdit()
+        self.strategy_title.setPlaceholderText("输入标题...")
+        title_layout.addWidget(self.strategy_title)
+        input_layout.addLayout(title_layout)
+        
+        self.strategy_content = QTextEdit()
+        self.strategy_content.setPlaceholderText("输入狼大策略内容...")
+        self.strategy_content.setMaximumHeight(100)
+        input_layout.addWidget(self.strategy_content)
+        
+        btn_layout = QHBoxLayout()
+        add_btn = QPushButton("添加")
+        add_btn.clicked.connect(lambda: self.add_note("strategy"))
+        clear_btn = QPushButton("清空输入")
+        clear_btn.clicked.connect(self.clear_strategy_input)
+        btn_layout.addWidget(add_btn)
+        btn_layout.addWidget(clear_btn)
+        btn_layout.addStretch()
+        input_layout.addLayout(btn_layout)
+        
+        input_group.setLayout(input_layout)
+        layout.addWidget(input_group)
+        
+        # 笔记列表
+        list_group = QGroupBox("我的狼大策略")
+        list_layout = QVBoxLayout()
+        
+        self.strategy_list = QTextEdit()
+        self.strategy_list.setReadOnly(True)
+        list_layout.addWidget(self.strategy_list)
+        
+        list_group.setLayout(list_layout)
+        layout.addWidget(list_group)
+        
+        self.strategy_tab.setLayout(layout)
+    
+    def init_short_term_tab(self):
+        """初始化短期安排标签页"""
+        layout = QVBoxLayout()
+        
+        # 今日日期显示
+        today_label = QLabel(f"📅 今日安排 - {datetime.now().strftime('%Y年%m月%d日')}")
+        today_label.setStyleSheet("font-size: 14pt; font-weight: bold; color: #333;")
+        layout.addWidget(today_label)
+        
+        # 标题和输入
+        input_group = QGroupBox("添加短期安排")
+        input_layout = QVBoxLayout()
+        
+        title_layout = QHBoxLayout()
+        title_layout.addWidget(QLabel("标题:"))
+        self.short_term_title = QLineEdit()
+        self.short_term_title.setPlaceholderText("输入标题...")
+        title_layout.addWidget(self.short_term_title)
+        input_layout.addLayout(title_layout)
+        
+        self.short_term_content = QTextEdit()
+        self.short_term_content.setPlaceholderText("输入今日安排内容...")
+        self.short_term_content.setMaximumHeight(80)
+        input_layout.addWidget(self.short_term_content)
+        
+        btn_layout = QHBoxLayout()
+        add_btn = QPushButton("添加")
+        add_btn.clicked.connect(lambda: self.add_note("short_term"))
+        clear_btn = QPushButton("清空输入")
+        clear_btn.clicked.connect(self.clear_short_term_input)
+        clear_all_btn = QPushButton("清除今日安排")
+        clear_all_btn.clicked.connect(self.clear_today_notes)
+        btn_layout.addWidget(add_btn)
+        btn_layout.addWidget(clear_btn)
+        btn_layout.addWidget(clear_all_btn)
+        btn_layout.addStretch()
+        input_layout.addLayout(btn_layout)
+        
+        input_group.setLayout(input_layout)
+        layout.addWidget(input_group)
+        
+        # 笔记列表
+        list_group = QGroupBox("今日安排")
+        list_layout = QVBoxLayout()
+        
+        self.short_term_list = QTextEdit()
+        self.short_term_list.setReadOnly(True)
+        list_layout.addWidget(self.short_term_list)
+        
+        list_group.setLayout(list_layout)
+        layout.addWidget(list_group)
+        
+        self.short_term_tab.setLayout(layout)
+    
+    def load_notes(self):
+        """加载所有笔记"""
+        self.load_discipline_notes()
+        self.load_strategy_notes()
+        self.load_short_term_notes()
+    
+    def load_discipline_notes(self):
+        """加载交易纪律"""
+        notes = self.notes_manager.get_notes_by_type("discipline")
+        self.display_notes(self.discipline_list, notes)
+    
+    def load_strategy_notes(self):
+        """加载狼大策略"""
+        notes = self.notes_manager.get_notes_by_type("strategy")
+        self.display_notes(self.strategy_list, notes)
+    
+    def load_short_term_notes(self):
+        """加载短期安排"""
+        notes = self.notes_manager.get_today_notes()
+        self.display_notes(self.short_term_list, notes)
+    
+    def display_notes(self, text_edit, notes):
+        """显示笔记列表"""
+        if not notes:
+            text_edit.setText("暂无笔记")
+            return
+        
+        output = []
+        for note in notes:
+            output.append(f"=== {note['title']} ===")
+            output.append(f"创建: {note['created_at']}")
+            output.append(f"更新: {note['updated_at']}")
+            output.append("")
+            output.append(note['content'])
+            output.append("")
+            output.append(f"[ID: {note['id']}] [删除]")
+            output.append("-" * 40)
+            output.append("")
+        
+        text_edit.setText('\n'.join(output))
+    
+    def add_note(self, note_type):
+        """添加笔记"""
+        if note_type == "discipline":
+            title = self.discipline_title.text().strip()
+            content = self.discipline_content.toPlainText().strip()
+            if not title or not content:
+                QMessageBox.warning(self, "警告", "请输入标题和内容")
+                return
+            self.notes_manager.add_note("discipline", title, content)
+            self.clear_discipline_input()
+            self.load_discipline_notes()
+        elif note_type == "strategy":
+            title = self.strategy_title.text().strip()
+            content = self.strategy_content.toPlainText().strip()
+            if not title or not content:
+                QMessageBox.warning(self, "警告", "请输入标题和内容")
+                return
+            self.notes_manager.add_note("strategy", title, content)
+            self.clear_strategy_input()
+            self.load_strategy_notes()
+        elif note_type == "short_term":
+            title = self.short_term_title.text().strip()
+            content = self.short_term_content.toPlainText().strip()
+            if not title or not content:
+                QMessageBox.warning(self, "警告", "请输入标题和内容")
+                return
+            self.notes_manager.add_note("short_term", title, content)
+            self.clear_short_term_input()
+            self.load_short_term_notes()
+    
+    def clear_discipline_input(self):
+        """清空交易纪律输入"""
+        self.discipline_title.clear()
+        self.discipline_content.clear()
+    
+    def clear_strategy_input(self):
+        """清空狼大策略输入"""
+        self.strategy_title.clear()
+        self.strategy_content.clear()
+    
+    def clear_short_term_input(self):
+        """清空短期安排输入"""
+        self.short_term_title.clear()
+        self.short_term_content.clear()
+    
+    def clear_today_notes(self):
+        """清除今日所有短期安排"""
+        reply = QMessageBox.question(self, "确认", "确定要清除今日所有短期安排吗？", 
+                                    QMessageBox.StandardButton.Yes | QMessageBox.StandardButton.No)
+        if reply == QMessageBox.StandardButton.Yes:
+            self.notes_manager.clear_today_notes()
+            self.load_short_term_notes()
+            QMessageBox.information(self, "成功", "已清除今日安排")
 
 
 class ConfigPanel(QWidget):

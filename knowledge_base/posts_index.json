@@ -37350,5 +37350,222 @@
       "科技"
     ],
     "content_hash": 2763900501054350634
+  },
+  {
+    "post_num": 2976,
+    "date": "2026-06-05 15:21:00",
+    "tags": [
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "trading_signal",
+    "summary": "作者认为今日存储板块的价位并不算高，买入行为不属于‘追高’，表达了对存储板块后续走势的乐观态度。",
+    "mentioned_sectors": [],
+    "content_hash": 1698955727488744866
+  },
+  {
+    "post_num": 2990,
+    "date": "2026-06-05 19:32:57",
+    "tags": [],
+    "category": "other",
+    "summary": "你这不是废话么 都2026年了  现在不适2024了",
+    "mentioned_sectors": [],
+    "content_hash": -6327638894461014127
+  },
+  {
+    "post_num": 2989,
+    "date": "2026-06-05 19:32:18",
+    "tags": [
+      "market",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者强调市场永远正确，预判和应对策略比完美预测更重要，通过实例说明幅度误差可接受，核心是提升策略成功率。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "content_hash": -2926986458851350803
+  },
+  {
+    "post_num": 2988,
+    "date": "2026-06-05 19:22:12",
+    "tags": [
+      "market",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出科创50及半导体板块表现弱于预期，主要是受大市值百元股筹码松动拖累。其核心观点认为当前市场接盘资金不足，散户及公私募机构短期内难以消化抛压。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "content_hash": 2680485132234042600
+  },
+  {
+    "post_num": 2987,
+    "date": "2026-06-05 19:19:42",
+    "tags": [
+      "market",
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出科技板块的上涨动力源于基金的“风格漂移”，即挂名消费等其他行业的基金违规跨行业配置科技股。这种现象导致基民在不知情中为科技板块提供了增量资金，且该行为与2021年的市场特征高度相似。",
+    "mentioned_sectors": [
+      "消费",
+      "科技"
+    ],
+    "content_hash": -4820976171370724841
+  },
+  {
+    "post_num": 2986,
+    "date": "2026-06-05 19:16:34",
+    "tags": [
+      "market",
+      "sentiment",
+      "sector"
+    ],
+    "category": "market_analysis",
+    "summary": "作者指出当前市场量能极度匮乏，资金正从传统板块流向科技板块或选择割肉离场。他反驳了‘越跌越买’的观点，认为长期下跌已导致投资者失去补仓勇气，市场缺乏实质性承接力。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "content_hash": 8155116254885588140
+  },
+  {
+    "post_num": 2985,
+    "date": "2026-06-05 19:08:24",
+    "tags": [
+      "market",
+      "technical",
+      "sector",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者通过分析今日成交量分布指出，尽管光伏和半导体板块处于调整状态，但资金仍高度集中在这些主线板块中。作者认为高成交量代表有大量买盘承接，反映出投资者虽口头谨慎但实际仍在进场。",
+    "mentioned_sectors": [
+      "半导体",
+      "科技"
+    ],
+    "content_hash": -4123165977155687462
+  },
+  {
+    "post_num": 2984,
+    "date": "2026-06-05 18:50:09",
+    "tags": [
+      "sentiment"
+    ],
+    "category": "other",
+    "summary": "该帖内容为作者对他人的理解能力表示强烈不满和吐槽，属于情绪化表达，未涉及具体的市场分析或投资建议。",
+    "mentioned_sectors": [],
+    "content_hash": 6536529071878425581
+  },
+  {
+    "post_num": 2983,
+    "date": "2026-06-05 18:35:14",
+    "tags": [
+      "sentiment",
+      "strategy",
+      "market"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前高价股缺乏赚钱效应和接盘力量，投资者追涨意愿低迷。他强调市场必须经历“先跌后反弹”的过程才能吸引资金入场，认为这是市场的必然规律。",
+    "mentioned_sectors": [],
+    "content_hash": -5685477381876613602
+  },
+  {
+    "post_num": 2982,
+    "date": "2026-06-05 18:33:12",
+    "tags": [
+      "technical",
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "technical_analysis",
+    "summary": "作者认为光伏和半导体板块不存在崩盘式下跌（A杀）风险，目前处于ABC三段式调整中。他批评投资者交易节奏错误，习惯在B浪反弹的高点入场，强调了买点选择的重要性。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "content_hash": -5453828486078083831
+  },
+  {
+    "post_num": 2981,
+    "date": "2026-06-05 18:30:08",
+    "tags": [
+      "market",
+      "sector",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为当前市场处于震荡筑底阶段，节奏较慢，在无黑天鹅事件下难有放量大跌。文中分析了航天与机器人板块的资金分流现象，并提示若科技与光伏板块同时走弱应采取空仓策略。",
+    "mentioned_sectors": [
+      "科技"
+    ],
+    "content_hash": 5882700886131046413
+  },
+  {
+    "post_num": 2980,
+    "date": "2026-06-05 18:21:39",
+    "tags": [
+      "market",
+      "technical",
+      "sector",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为市场短期难以再次放量大跌，建议聚焦光通信与半导体主线。操作上主张逢高减仓并等待半导体回调买入，警惕科技板块成交占比过高带来的出货风险，目前看机构尚未完成出货。",
+    "mentioned_sectors": [
+      "半导体",
+      "科技"
+    ],
+    "content_hash": 7279880357148054047
+  },
+  {
+    "post_num": 2979,
+    "date": "2026-06-05 18:10:12",
+    "tags": [
+      "market",
+      "sentiment",
+      "strategy"
+    ],
+    "category": "market_analysis",
+    "summary": "作者认为微盘股等已杀跌出清，恐慌情绪衰竭，目前处于寻底阶段。采取75%仓位滚动操作，计划在放量大阳线确认趋势后补齐剩余25%仓位，强调不追求买在绝对最低点的稳健心态。",
+    "mentioned_sectors": [],
+    "content_hash": -1229197823768422051
+  },
+  {
+    "post_num": 2978,
+    "date": "2026-06-05 18:01:21",
+    "tags": [
+      "sector",
+      "technical",
+      "strategy",
+      "sentiment"
+    ],
+    "category": "market_analysis",
+    "summary": "作者大幅减仓光通信板块（从45%降至18%）并低吸半导体，对市场回撤及他人操作逻辑感到困惑。技术上从关注代表微盘股的黄线转向关注代表权重的白线，反映出对当前市场风格切换的思考。",
+    "mentioned_sectors": [
+      "半导体"
+    ],
+    "content_hash": 8965742567693010354
+  },
+  {
+    "post_num": 2977,
+    "date": "2026-06-05 17:33:21",
+    "tags": [
+      "strategy",
+      "sentiment",
+      "technical"
+    ],
+    "category": "market_analysis",
+    "summary": "该帖子通过反讽的方式批评了普通投资者盲目补仓、忽视大盘及板块趋势、缺乏技术位判断和仓位管理的错误行为，指出投资者因心理上无法忍受持有现金而导致亏损。",
+    "mentioned_sectors": [],
+    "content_hash": 642772737928142390
   }
 ]
