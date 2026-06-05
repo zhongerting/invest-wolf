@@ -1792,7 +1792,7 @@ class ConfigPanel(QWidget):
             api_key = self.eastmoney_api_key.text()
             
             # 创建临时数据源测试
-            from data_source import DataSource
+            from .data_source import DataSource
             ds = DataSource()
             
             # 直接使用东方财富公开接口测试

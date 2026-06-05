@@ -6,7 +6,7 @@ logger = logging.getLogger(__name__)
 
 class Config:
     # 项目基础配置
-    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     LOG_FILE = os.path.join(BASE_DIR, "investment_analysis.log")
     CONFIG_FILE = os.path.join(BASE_DIR, "app_config.json")
     
