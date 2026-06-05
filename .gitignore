@@ -52,7 +52,7 @@ last_crawl_time.json
 nga_master_posts*.md
 LLM_API_CONFIG.md
 POSITION_OPTIMIZATION.md
-单次爬取.bat
+*.bat
 post.md
 
 # 临时文件
