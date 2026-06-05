@@ -53,6 +53,9 @@ class ChatAssistant:
         :param question: 用户问题
         :return: 是否需要知识库
         """
+        if not question:
+            return False
+        
         keywords = [
             # 直接关键词
             "狼大", "发言", "观点", "看法", "说过", "提过", 
@@ -65,7 +68,7 @@ class ChatAssistant:
             "半导体", "新能源", "券商", "创业板", "上证指数", "大盘"
         ]
         
-        question_lower = question.lower()
+        question_lower = str(question).lower()
         
         # 检查是否包含关键词
         for keyword in keywords:
@@ -98,9 +101,9 @@ class ChatAssistant:
             for i, post in enumerate(posts, 1):
                 post_date = post.get("date", "")
                 post_summary = post.get("summary", "")
-                post_tags = ", ".join(post.get("tags", []))
+                post_tags = ", ".join(post.get("tags") or [])
                 post_category = post.get("category", "")
-                post_sectors = ", ".join(post.get("mentioned_sectors", []))
+                post_sectors = ", ".join(post.get("mentioned_sectors") or [])
                 
                 kb_content += f"【发言 {i} - {post_date}】\n"
                 kb_content += f"分类: {post_category}\n"
@@ -142,9 +145,9 @@ class ChatAssistant:
             for i, post in enumerate(posts, 1):
                 post_date = post.get("date", "")
                 post_summary = post.get("summary", "")
-                post_tags = ", ".join(post.get("tags", []))
+                post_tags = ", ".join(post.get("tags") or [])
                 post_category = post.get("category", "")
-                post_sectors = ", ".join(post.get("mentioned_sectors", []))
+                post_sectors = ", ".join(post.get("mentioned_sectors") or [])
                 
                 kb_content += f"【发言 {i} - {post_date}】\n"
                 kb_content += f"分类: {post_category}\n"

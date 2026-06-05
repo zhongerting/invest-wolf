@@ -205,6 +205,15 @@ class KnowledgeBase:
         """
         logger.info("使用规则引擎作为后备方案")
         
+        if not content:
+            return {
+                "tags": [],
+                "category": "other",
+                "summary": "",
+                "mentioned_sectors": [],
+                "analysis_method": "rule_based"
+            }
+        
         tags = []
         category = "other"
         
@@ -268,6 +277,9 @@ class KnowledgeBase:
         2. [jump](#pidXXX) 链接
         3. 引用线 ---
         """
+        if not content:
+            return ""
+        
         lines = content.strip().split('\n')
         cleaned_lines = []
         
