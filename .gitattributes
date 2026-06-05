@@ -1,0 +1,41 @@
+# 自动处理换行符
+* text=auto
+
+# Python文件统一使用LF换行符
+*.py text eol=lf
+
+# 文本文件
+*.txt text
+*.md text
+*.json text
+*.ini text
+*.cfg text
+*.yml text
+*.yaml text
+
+# Windows批处理文件使用CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# Go源文件
+*.go text eol=lf
+
+# 二进制文件不处理换行符
+*.exe binary
+*.dll binary
+*.so binary
+*.dylib binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.gz binary
+*.tar binary
+*.db binary
+
+# SQLite数据库
+*.db binary
